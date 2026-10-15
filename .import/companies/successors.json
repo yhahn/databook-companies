@@ -1,0 +1,23 @@
+{
+ "about": "A member whose ticker the SEC's list now gives to a new filer (a holding company put over the old one), while its filings to that day are under the old filer's CIK: the company is the two filers' facts together, each filing from the CIK that filed it, keyed by the CIK the SEC lists today (K1), the old beside it (CIK before). Known moves only, each with the SEC's own evidence (K3: a table of known renames, never a guess); import.js lists a member with no readable history, so a move not here shows.",
+ "successors": [
+  {
+   "ticker": "BLK",
+   "cik": "0002012383",
+   "filer": "0001364742",
+   "why": "BlackRock, Inc. (CIK 0002012383, formerly BlackRock Funding, Inc.) became the parent of the old BlackRock in October 2024, when it bought Global Infrastructure Partners, and took the ticker BLK; the old BlackRock's filings, to its 10-Q of 2024-08-06, are under CIK 0001364742 (named BlackRock Finance, Inc. since; the SEC's submissions)."
+  },
+  {
+   "ticker": "FERG",
+   "cik": "0002011641",
+   "filer": "0001832433",
+   "why": "Ferguson Enterprises Inc. (CIK 0002011641) became the parent of Ferguson plc in 2024, moving its home from Jersey to Delaware, and took the ticker FERG; Ferguson plc's filings, its 10-Ks from 2022 to its 10-Q of 2024-06-05, are under CIK 0001832433 (named Ferguson (Jersey) Ltd since; the SEC's submissions)."
+  },
+  {
+   "ticker": "XOM",
+   "cik": "0002115436",
+   "filer": "0000034088",
+   "why": "ExxonMobil Holdings Corp (CIK 0002115436) became Exxon Mobil Corporation's parent in 2026 and took the ticker XOM (the SEC's list of tickers; SPY holds EXXONMOBIL HOLDINGS CORP). Exxon Mobil Corporation's filings, to its 10-Q of 2026-05-04, are under CIK 0000034088; the holding company's first 10-Q was filed 2026-08-03."
+  }
+ ]
+}

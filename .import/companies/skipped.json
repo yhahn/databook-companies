@@ -1,0 +1,44 @@
+[
+ {
+  "cik": "0001841666",
+  "name": "APA Corp",
+  "ticker": "APA",
+  "reason": "no fiscal year's revenue under the tags the importer reads, its revenue under them only for parts of a year, ending 2020-06-30 to 2021-06-30 (10-Q us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax)"
+ },
+ {
+  "cik": "0002082247",
+  "name": "FedEx Freight Holding Company, Inc.",
+  "ticker": "FDXF",
+  "reason": "revenue for whole years only (2024-05-31 to 2026-05-31), no 10-Q filed yet to give its quarters"
+ },
+ {
+  "cik": "0002089271",
+  "name": "Honeywell Aerospace Inc.",
+  "ticker": "HONA",
+  "reason": "no fiscal year's revenue filed yet (no 10-K), its revenue only for parts of a year, ending 2025-06-28 to 2026-06-27 (10-Q us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax)"
+ },
+ {
+  "cik": "0001281761",
+  "name": "REGIONS FINANCIAL CORP",
+  "ticker": "RF",
+  "reason": "revenue for whole years only (2016-12-31 to 2021-12-31, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax), its 10-Qs filing no total revenue under the tags the importer reads; a bank, it files net interest income and noninterest income instead"
+ },
+ {
+  "cik": "0001601712",
+  "name": "Synchrony Financial",
+  "ticker": "SYF",
+  "reason": "no revenue under the tags the importer reads (RevenueFromContractWithCustomerExcludingAssessedTax, RevenueFromContractWithCustomerIncludingAssessedTax, Revenues, RevenuesNetOfInterestExpense, SalesRevenueNet); a bank, it files net interest income and noninterest income instead"
+ },
+ {
+  "cik": "0000092230",
+  "name": "TRUIST FINANCIAL CORP",
+  "ticker": "TFC",
+  "reason": "no revenue under the tags the importer reads (RevenueFromContractWithCustomerExcludingAssessedTax, RevenueFromContractWithCustomerIncludingAssessedTax, Revenues, RevenuesNetOfInterestExpense, SalesRevenueNet); a bank, it files net interest income and noninterest income instead"
+ },
+ {
+  "cik": "0002128626",
+  "name": "Vylor Inc.",
+  "ticker": "VYLR",
+  "reason": "no 10-K or 10-Q filed yet: a new filer, its facts only ffd (its filing fees)"
+ }
+]

@@ -1,0 +1,291 @@
+{
+ "rule": "K1",
+ "about": "Exxon Mobil: the SEC's list gives XOM to ExxonMobil Holdings Corp (CIK 0002115436), whose first 10-Q (2026-08-03) files 2026's second quarter; the years before are Exxon Mobil Corporation's, under CIK 0000034088. The two filers' facts together, each filing from the CIK that filed it: FY2025's revenue 332,238 (10-K, 2026-02-18, CIK 0000034088) and FY2026 Q2's 116,017 (10-Q, 2026-08-03, CIK 0002115436). Keyed by the new CIK, the old beside it (CIK before) and a Change saying so.",
+ "input": {
+  "facts": {
+   "cik": "2115436",
+   "entityName": "ExxonMobil Holdings Corp",
+   "facts": {
+    "us-gaap": {
+     "Revenues": {
+      "units": {
+       "USD": [
+        {
+         "start": "2025-01-01",
+         "end": "2025-03-31",
+         "val": 83130000000,
+         "accn": "0000034088-25-000024",
+         "fy": 2025,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2025-05-05"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-03-31",
+         "val": 83130000000,
+         "accn": "0000034088-26-000067",
+         "fy": 2026,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2026-05-04"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-06-30",
+         "val": 164636000000,
+         "accn": "0000034088-25-000042",
+         "fy": 2025,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2025-08-04"
+        },
+        {
+         "start": "2025-04-01",
+         "end": "2025-06-30",
+         "val": 81506000000,
+         "accn": "0000034088-25-000042",
+         "fy": 2025,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2025-08-04"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-09-30",
+         "val": 249930000000,
+         "accn": "0000034088-25-000061",
+         "fy": 2025,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2025-11-03"
+        },
+        {
+         "start": "2025-07-01",
+         "end": "2025-09-30",
+         "val": 85294000000,
+         "accn": "0000034088-25-000061",
+         "fy": 2025,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2025-11-03"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-12-31",
+         "val": 332238000000,
+         "accn": "0000034088-26-000045",
+         "fy": 2025,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2026-02-18"
+        },
+        {
+         "start": "2026-01-01",
+         "end": "2026-03-31",
+         "val": 85138000000,
+         "accn": "0000034088-26-000067",
+         "fy": 2026,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2026-05-04"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-06-30",
+         "val": 164636000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        },
+        {
+         "start": "2025-04-01",
+         "end": "2025-06-30",
+         "val": 81506000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        },
+        {
+         "start": "2026-01-01",
+         "end": "2026-06-30",
+         "val": 201155000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        },
+        {
+         "start": "2026-04-01",
+         "end": "2026-06-30",
+         "val": 116017000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        }
+       ]
+      }
+     },
+     "NetIncomeLoss": {
+      "units": {
+       "USD": [
+        {
+         "start": "2025-01-01",
+         "end": "2025-03-31",
+         "val": 7713000000,
+         "accn": "0000034088-25-000024",
+         "fy": 2025,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2025-05-05"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-03-31",
+         "val": 7713000000,
+         "accn": "0000034088-26-000067",
+         "fy": 2026,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2026-05-04"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-06-30",
+         "val": 14795000000,
+         "accn": "0000034088-25-000042",
+         "fy": 2025,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2025-08-04"
+        },
+        {
+         "start": "2025-04-01",
+         "end": "2025-06-30",
+         "val": 7082000000,
+         "accn": "0000034088-25-000042",
+         "fy": 2025,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2025-08-04"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-09-30",
+         "val": 22343000000,
+         "accn": "0000034088-25-000061",
+         "fy": 2025,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2025-11-03"
+        },
+        {
+         "start": "2025-07-01",
+         "end": "2025-09-30",
+         "val": 7548000000,
+         "accn": "0000034088-25-000061",
+         "fy": 2025,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2025-11-03"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-12-31",
+         "val": 28844000000,
+         "accn": "0000034088-26-000045",
+         "fy": 2025,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2026-02-18"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-12-31",
+         "val": 28844000000,
+         "accn": "0001193125-26-147614",
+         "fy": null,
+         "fp": null,
+         "form": "DEF 14A",
+         "filed": "2026-04-08"
+        },
+        {
+         "start": "2026-01-01",
+         "end": "2026-03-31",
+         "val": 4183000000,
+         "accn": "0000034088-26-000067",
+         "fy": 2026,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2026-05-04"
+        },
+        {
+         "start": "2025-01-01",
+         "end": "2025-06-30",
+         "val": 14795000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        },
+        {
+         "start": "2025-04-01",
+         "end": "2025-06-30",
+         "val": 7082000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        },
+        {
+         "start": "2026-01-01",
+         "end": "2026-06-30",
+         "val": 18708000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        },
+        {
+         "start": "2026-04-01",
+         "end": "2026-06-30",
+         "val": 14525000000,
+         "accn": "0000034088-26-000093",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-08-03"
+        }
+       ]
+      }
+     }
+    }
+   }
+  },
+  "fsdsRows": [],
+  "exchange": "NYSE",
+  "ticker": "XOM",
+  "name": "ExxonMobil Holdings Corp",
+  "span": [
+   2025
+  ],
+  "before": {
+   "cik": "0000034088",
+   "why": "ExxonMobil Holdings Corp (CIK 0002115436) became Exxon Mobil Corporation's parent in 2026 and took the ticker XOM; Exxon Mobil Corporation's filings, to its 10-Q of 2026-05-04, are under CIK 0000034088.",
+   "since": "2026-08-03"
+  }
+ },
+ "output": {
+  "companies/NYSE/ExxonMobil Holdings Corp.md": "# Company: ExxonMobil Holdings Corp\n\n- CIK: 0002115436\n- Ticker: XOM\n- Exchange: NYSE\n- First year: FY2025\n- Last quarter: FY2026 Q2\n- Last quarter ended: 2026-06-30\n- CIK before: 0000034088\n\nExxonMobil Holdings Corp, as it files with the SEC (CIK 0002115436): its fiscal years and quarters from its XBRL filings, FY2025 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. The SEC's list gives XOM to CIK 0002115436; its filings before are under CIK 0000034088, and are taken from there, each filing from the CIK that filed it: ExxonMobil Holdings Corp (CIK 0002115436) became Exxon Mobil Corporation's parent in 2026 and took the ticker XOM; Exxon Mobil Corporation's filings, to its 10-Q of 2026-05-04, are under CIK 0000034088.\n\n## Annual\n\n> [!CARD:line] ExxonMobil Holdings Corp, by fiscal year, $ millions\n> | Line item | FY2025 |\n> | --- | --- |\n> | Revenue | 332238 |\n> | Gross profit |  |\n> | Operating income |  |\n> | Net income | 28844 |\n> | Operating cash flow |  |\n> | Capex |  |\n> | Buybacks |  |\n\n#### EPS by year\n\n| Fiscal year | Started | Ended | EPS diluted | EPS adjusted |\n| --- | --- | --- | --- | --- |\n| FY2025 | 2025-01-01 | 2025-12-31 |  |  |\n\n## Quarterly\n\n| Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 83130 |  |  | 7713 |  |  |  |  |  |\n| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 81506 |  |  | 7082 |  |  |  |  |  |\n| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 85294 |  |  | 7548 |  |  |  |  |  |\n| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 82308 |  |  | 6501 |  |  |  |  |  |\n| FY2026 Q1 | 2026 | 1 | 2026-03-31 | 85138 |  |  | 4183 |  |  |  |  |  |\n| FY2026 Q2 | 2026 | 2 | 2026-06-30 | 116017 |  |  | 14525 |  |  |  |  |  |\n\n## Segments\n\nExxonMobil Holdings Corp files no revenue by segment, product or geography in the Financial Statement Data Sets cached.\n\n## Tags\n\nThe us-gaap tag each line item was taken from, its years in runs: a line item moves between tags over the years, and each move is a change below.\n\n| Line item | From | To | Tag |\n| --- | --- | --- | --- |\n| Revenue | FY2025 | FY2026 | us-gaap:Revenues |\n| Net income | FY2025 | FY2026 | us-gaap:NetIncomeLoss |\n\n## Changes\n\n### Change: ExxonMobil Holdings Corp, CIK, 2026\n\n- CIK: 0002115436\n- What: CIK\n- Boundary: the filing of 2026-08-03\n- Was: 0000034088\n- Now: 0002115436\n- Crosswalk: the company record carries both (CIK, CIK before); every filing is read from the CIK that filed it\n- Source: SEC's list of tickers; SEC EDGAR submissions\n"
+ }
+}

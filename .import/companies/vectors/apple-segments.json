@@ -1,0 +1,450 @@
+{
+ "rule": "V2",
+ "about": "Apple's FY2025 Q1 and Q2 segments from FSDS (its 10-Qs filed 2025-01-31 and 2025-05-02: Product, the four hardware lines' sum, left out as a subtotal).",
+ "input": {
+  "facts": {
+   "cik": 320193,
+   "entityName": "Apple Inc.",
+   "facts": {
+    "us-gaap": {
+     "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "units": {
+       "USD": [
+        {
+         "start": "2023-10-01",
+         "end": "2024-09-28",
+         "val": 391035000000,
+         "accn": "0000320193-24-000123",
+         "fy": 2024,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2024-11-01"
+        },
+        {
+         "start": "2023-10-01",
+         "end": "2024-09-28",
+         "val": 391035000000,
+         "accn": "0000320193-25-000079",
+         "fy": 2025,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2025-10-31"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2024-12-28",
+         "val": 124300000000,
+         "accn": "0000320193-25-000008",
+         "fy": 2025,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2025-01-31"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2024-12-28",
+         "val": 124300000000,
+         "accn": "0000320193-26-000006",
+         "fy": 2026,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2026-01-30"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2025-03-29",
+         "val": 219659000000,
+         "accn": "0000320193-25-000057",
+         "fy": 2025,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2025-05-02"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2025-03-29",
+         "val": 219659000000,
+         "accn": "0000320193-26-000013",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-05-01"
+        },
+        {
+         "start": "2024-12-29",
+         "end": "2025-03-29",
+         "val": 95359000000,
+         "accn": "0000320193-25-000057",
+         "fy": 2025,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2025-05-02"
+        },
+        {
+         "start": "2024-12-29",
+         "end": "2025-03-29",
+         "val": 95359000000,
+         "accn": "0000320193-26-000013",
+         "fy": 2026,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2026-05-01"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2025-06-28",
+         "val": 313695000000,
+         "accn": "0000320193-25-000073",
+         "fy": 2025,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2025-08-01"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2025-06-28",
+         "val": 313695000000,
+         "accn": "0000320193-26-000020",
+         "fy": 2026,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2026-07-31"
+        },
+        {
+         "start": "2025-03-30",
+         "end": "2025-06-28",
+         "val": 94036000000,
+         "accn": "0000320193-25-000073",
+         "fy": 2025,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2025-08-01"
+        },
+        {
+         "start": "2025-03-30",
+         "end": "2025-06-28",
+         "val": 94036000000,
+         "accn": "0000320193-26-000020",
+         "fy": 2026,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2026-07-31"
+        },
+        {
+         "start": "2024-09-29",
+         "end": "2025-09-27",
+         "val": 416161000000,
+         "accn": "0000320193-25-000079",
+         "fy": 2025,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2025-10-31"
+        }
+       ]
+      }
+     },
+     "StockholdersEquityNoteStockSplitConversionRatio1": {
+      "units": {
+       "pure": [
+        {
+         "end": "2014-06-06",
+         "val": 7,
+         "accn": "0001193125-14-277160",
+         "fy": 2014,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2014-07-23"
+        },
+        {
+         "end": "2014-06-06",
+         "val": 7,
+         "accn": "0001193125-14-383437",
+         "fy": 2014,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2014-10-27"
+        },
+        {
+         "end": "2014-06-06",
+         "val": 7,
+         "accn": "0001193125-15-023732",
+         "fy": null,
+         "fp": null,
+         "form": "8-K",
+         "filed": "2015-01-28"
+        },
+        {
+         "end": "2020-08-28",
+         "val": 4,
+         "accn": "0000320193-20-000096",
+         "fy": 2020,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2020-10-30"
+        },
+        {
+         "end": "2020-08-28",
+         "val": 4,
+         "accn": "0000320193-21-000010",
+         "fy": 2021,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2021-01-28"
+        },
+        {
+         "end": "2020-08-28",
+         "val": 4,
+         "accn": "0000320193-21-000056",
+         "fy": 2021,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2021-04-29"
+        },
+        {
+         "end": "2020-08-28",
+         "val": 4,
+         "accn": "0000320193-21-000065",
+         "fy": 2021,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2021-07-28"
+        }
+       ]
+      }
+     }
+    }
+   }
+  },
+  "fsdsRows": [
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=RestOfAsiaPacificSegment;",
+    "value": 10291000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=WearablesHomeandAccessories;",
+    "value": 11747000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=Service;",
+    "value": 26340000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=Product;",
+    "value": 97960000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=JapanSegment;",
+    "value": 8987000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=Mac;",
+    "value": 8987000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=IPhone;",
+    "value": 69138000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=EuropeSegment;",
+    "value": 33861000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=IPad;",
+    "value": 8088000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=GreaterChinaSegment;",
+    "value": 18513000000
+   },
+   {
+    "adsh": "0000320193-25-000008",
+    "form": "10-Q",
+    "filed": "20250131",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2024-12-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=AmericasSegment;",
+    "value": 52648000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=EuropeSegment;",
+    "value": 24454000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=RestOfAsiaPacificSegment;",
+    "value": 7290000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=Mac;",
+    "value": 7949000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=Product;",
+    "value": 68714000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=Service;",
+    "value": 26645000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=AmericasSegment;",
+    "value": 40315000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=JapanSegment;",
+    "value": 7298000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=IPad;",
+    "value": 6402000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=WearablesHomeandAccessories;",
+    "value": 7522000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "BusinessSegments=GreaterChinaSegment;",
+    "value": 16002000000
+   },
+   {
+    "adsh": "0000320193-25-000057",
+    "form": "10-Q",
+    "filed": "20250502",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "ddate": "2025-03-31",
+    "qtrs": 1,
+    "segments": "ProductOrService=IPhone;",
+    "value": 46841000000
+   }
+  ],
+  "exchange": "Nasdaq",
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "span": [
+   2025
+  ]
+ },
+ "output": {
+  "companies/Nasdaq/Apple Inc.md": "# Company: Apple Inc.\n\n- CIK: 0000320193\n- Ticker: AAPL\n- Exchange: Nasdaq\n- First year: FY2024\n- Last quarter: FY2025 Q4\n- Last quarter ended: 2025-09-27\n- CIK before: \n\nApple Inc., as it files with the SEC (CIK 0000320193): its fiscal years and quarters from its XBRL filings, FY2024 to FY2025. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.\n\n## Annual\n\n> [!CARD:line] Apple Inc., by fiscal year, $ millions\n> | Line item | FY2025 |\n> | --- | --- |\n> | Revenue | 416161 |\n> | Gross profit |  |\n> | Operating income |  |\n> | Net income |  |\n> | Operating cash flow |  |\n> | Capex |  |\n> | Buybacks |  |\n\n#### EPS by year\n\n| Fiscal year | Started | Ended | EPS diluted | EPS adjusted |\n| --- | --- | --- | --- | --- |\n| FY2024 | 2023-10-01 | 2024-09-28 |  |  |\n| FY2025 | 2024-09-29 | 2025-09-27 |  |  |\n\n## Quarterly\n\n| Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| FY2025 Q1 | 2025 | 1 | 2024-12-28 | 124300 |  |  |  |  |  |  |  |  |\n| FY2025 Q2 | 2025 | 2 | 2025-03-29 | 95359 |  |  |  |  |  |  |  |  |\n| FY2025 Q3 | 2025 | 3 | 2025-06-28 | 94036 |  |  |  |  |  |  |  |  |\n| FY2025 Q4 | 2025 | 4 | 2025-09-27 | 102466 |  |  |  |  |  |  |  |  |\n\n## Segments\n\nRevenue by business segment, product and geography, as Apple Inc. files them in the SEC's Financial Statement Data Sets (2025q1, 2025q2, 2025q3, 2025q4, 2026q1), in millions. Each filing gives its quarter and the year before. Members are the company's own names. A member that is the sum of others is left out: Product (WearablesHomeandAccessories + Mac + IPhone + IPad).\n\n| Quarter | Axis | Member | Revenue |\n| --- | --- | --- | --- |\n| FY2025 Q1 | Product | IPhone | 69138 |\n| FY2025 Q1 | Product | Service | 26340 |\n| FY2025 Q1 | Product | WearablesHomeandAccessories | 11747 |\n| FY2025 Q1 | Product | Mac | 8987 |\n| FY2025 Q1 | Product | IPad | 8088 |\n| FY2025 Q2 | Product | IPhone | 46841 |\n| FY2025 Q2 | Product | Service | 26645 |\n| FY2025 Q2 | Product | Mac | 7949 |\n| FY2025 Q2 | Product | WearablesHomeandAccessories | 7522 |\n| FY2025 Q2 | Product | IPad | 6402 |\n| FY2025 Q1 | Segment | AmericasSegment | 52648 |\n| FY2025 Q1 | Segment | EuropeSegment | 33861 |\n| FY2025 Q1 | Segment | GreaterChinaSegment | 18513 |\n| FY2025 Q1 | Segment | RestOfAsiaPacificSegment | 10291 |\n| FY2025 Q1 | Segment | JapanSegment | 8987 |\n| FY2025 Q2 | Segment | AmericasSegment | 40315 |\n| FY2025 Q2 | Segment | EuropeSegment | 24454 |\n| FY2025 Q2 | Segment | GreaterChinaSegment | 16002 |\n| FY2025 Q2 | Segment | JapanSegment | 7298 |\n| FY2025 Q2 | Segment | RestOfAsiaPacificSegment | 7290 |\n\n## Tags\n\nThe us-gaap tag each line item was taken from, its years in runs: a line item moves between tags over the years, and each move is a change below.\n\n| Line item | From | To | Tag |\n| --- | --- | --- | --- |\n| Revenue | FY2024 | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |\n"
+ }
+}

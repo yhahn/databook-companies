@@ -1,0 +1,6027 @@
+{
+ "about": "The S&P 500's members, as SPDR's S&P 500 ETF Trust (SPY) held them, matched to their SEC filers by the SEC's list of tickers. Written by .import/members.js; not by hand.",
+ "source": "https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx",
+ "as_of": "2026-10-14",
+ "tickers_list": "https://www.sec.gov/files/company_tickers_exchange.json",
+ "stocks_held": 503,
+ "not_members": [
+  {
+   "name": "US DOLLAR",
+   "ticker": "-"
+  },
+  {
+   "name": "TPG INC",
+   "ticker": "2602335D"
+  }
+ ],
+ "unmatched": [],
+ "companies": 500,
+ "members": [
+  {
+   "cik": "0001090872",
+   "ticker": "A",
+   "tickers": [
+    "A"
+   ],
+   "name": "AGILENT TECHNOLOGIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "AGILENT TECHNOLOGIES INC (A)"
+   ]
+  },
+  {
+   "cik": "0000320193",
+   "ticker": "AAPL",
+   "tickers": [
+    "AAPL"
+   ],
+   "name": "Apple Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "APPLE INC (AAPL)"
+   ]
+  },
+  {
+   "cik": "0001551152",
+   "ticker": "ABBV",
+   "tickers": [
+    "ABBV"
+   ],
+   "name": "AbbVie Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "ABBVIE INC (ABBV)"
+   ]
+  },
+  {
+   "cik": "0001559720",
+   "ticker": "ABNB",
+   "tickers": [
+    "ABNB"
+   ],
+   "name": "Airbnb, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "AIRBNB INC CLASS A (ABNB)"
+   ]
+  },
+  {
+   "cik": "0000001800",
+   "ticker": "ABT",
+   "tickers": [
+    "ABT"
+   ],
+   "name": "ABBOTT LABORATORIES",
+   "exchange": "NYSE",
+   "held": [
+    "ABBOTT LABORATORIES (ABT)"
+   ]
+  },
+  {
+   "cik": "0000947484",
+   "ticker": "ACGL",
+   "tickers": [
+    "ACGL"
+   ],
+   "name": "ARCH CAPITAL GROUP LTD.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ARCH CAPITAL GROUP LTD (ACGL)"
+   ]
+  },
+  {
+   "cik": "0001467373",
+   "ticker": "ACN",
+   "tickers": [
+    "ACN"
+   ],
+   "name": "Accenture plc",
+   "exchange": "NYSE",
+   "held": [
+    "ACCENTURE PLC CL A (ACN)"
+   ]
+  },
+  {
+   "cik": "0000796343",
+   "ticker": "ADBE",
+   "tickers": [
+    "ADBE"
+   ],
+   "name": "ADOBE INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ADOBE INC (ADBE)"
+   ]
+  },
+  {
+   "cik": "0000006281",
+   "ticker": "ADI",
+   "tickers": [
+    "ADI"
+   ],
+   "name": "ANALOG DEVICES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "ANALOG DEVICES INC (ADI)"
+   ]
+  },
+  {
+   "cik": "0000007084",
+   "ticker": "ADM",
+   "tickers": [
+    "ADM"
+   ],
+   "name": "Archer-Daniels-Midland Co",
+   "exchange": "NYSE",
+   "held": [
+    "ARCHER DANIELS MIDLAND CO (ADM)"
+   ]
+  },
+  {
+   "cik": "0000008670",
+   "ticker": "ADP",
+   "tickers": [
+    "ADP"
+   ],
+   "name": "AUTOMATIC DATA PROCESSING INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "AUTOMATIC DATA PROCESSING (ADP)"
+   ]
+  },
+  {
+   "cik": "0000769397",
+   "ticker": "ADSK",
+   "tickers": [
+    "ADSK"
+   ],
+   "name": "Autodesk, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "AUTODESK INC (ADSK)"
+   ]
+  },
+  {
+   "cik": "0001002910",
+   "ticker": "AEE",
+   "tickers": [
+    "AEE"
+   ],
+   "name": "AMEREN CORP",
+   "exchange": "NYSE",
+   "held": [
+    "AMEREN CORPORATION (AEE)"
+   ]
+  },
+  {
+   "cik": "0000004904",
+   "ticker": "AEP",
+   "tickers": [
+    "AEP"
+   ],
+   "name": "AMERICAN ELECTRIC POWER CO INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "AMERICAN ELECTRIC POWER (AEP)"
+   ]
+  },
+  {
+   "cik": "0000874761",
+   "ticker": "AES",
+   "tickers": [
+    "AES"
+   ],
+   "name": "AES CORP",
+   "exchange": "NYSE",
+   "held": [
+    "AES CORP (AES)"
+   ]
+  },
+  {
+   "cik": "0000004977",
+   "ticker": "AFL",
+   "tickers": [
+    "AFL"
+   ],
+   "name": "AFLAC INC",
+   "exchange": "NYSE",
+   "held": [
+    "AFLAC INC (AFL)"
+   ]
+  },
+  {
+   "cik": "0000005272",
+   "ticker": "AIG",
+   "tickers": [
+    "AIG"
+   ],
+   "name": "AMERICAN INTERNATIONAL GROUP, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "AMERICAN INTERNATIONAL GROUP (AIG)"
+   ]
+  },
+  {
+   "cik": "0001267238",
+   "ticker": "AIZ",
+   "tickers": [
+    "AIZ"
+   ],
+   "name": "ASSURANT, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "ASSURANT INC (AIZ)"
+   ]
+  },
+  {
+   "cik": "0000354190",
+   "ticker": "AJG",
+   "tickers": [
+    "AJG"
+   ],
+   "name": "Arthur J. Gallagher & Co.",
+   "exchange": "NYSE",
+   "held": [
+    "ARTHUR J GALLAGHER + CO (AJG)"
+   ]
+  },
+  {
+   "cik": "0001086222",
+   "ticker": "AKAM",
+   "tickers": [
+    "AKAM"
+   ],
+   "name": "AKAMAI TECHNOLOGIES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "AKAMAI TECHNOLOGIES INC (AKAM)"
+   ]
+  },
+  {
+   "cik": "0000915913",
+   "ticker": "ALB",
+   "tickers": [
+    "ALB"
+   ],
+   "name": "ALBEMARLE CORP",
+   "exchange": "NYSE",
+   "held": [
+    "ALBEMARLE CORP (ALB)"
+   ]
+  },
+  {
+   "cik": "0001097149",
+   "ticker": "ALGN",
+   "tickers": [
+    "ALGN"
+   ],
+   "name": "ALIGN TECHNOLOGY INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "ALIGN TECHNOLOGY INC (ALGN)"
+   ]
+  },
+  {
+   "cik": "0000899051",
+   "ticker": "ALL",
+   "tickers": [
+    "ALL"
+   ],
+   "name": "ALLSTATE CORP",
+   "exchange": "NYSE",
+   "held": [
+    "ALLSTATE CORP (ALL)"
+   ]
+  },
+  {
+   "cik": "0001579241",
+   "ticker": "ALLE",
+   "tickers": [
+    "ALLE"
+   ],
+   "name": "Allegion plc",
+   "exchange": "NYSE",
+   "held": [
+    "ALLEGION PLC (ALLE)"
+   ]
+  },
+  {
+   "cik": "0000006951",
+   "ticker": "AMAT",
+   "tickers": [
+    "AMAT"
+   ],
+   "name": "APPLIED MATERIALS INC /DE",
+   "exchange": "Nasdaq",
+   "held": [
+    "APPLIED MATERIALS INC (AMAT)"
+   ]
+  },
+  {
+   "cik": "0001748790",
+   "ticker": "AMCR",
+   "tickers": [
+    "AMCR"
+   ],
+   "name": "Amcor plc",
+   "exchange": "NYSE",
+   "held": [
+    "AMCOR PLC (AMCR)"
+   ]
+  },
+  {
+   "cik": "0000002488",
+   "ticker": "AMD",
+   "tickers": [
+    "AMD"
+   ],
+   "name": "ADVANCED MICRO DEVICES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "ADVANCED MICRO DEVICES (AMD)"
+   ]
+  },
+  {
+   "cik": "0001037868",
+   "ticker": "AME",
+   "tickers": [
+    "AME"
+   ],
+   "name": "AMETEK INC/",
+   "exchange": "NYSE",
+   "held": [
+    "AMETEK INC (AME)"
+   ]
+  },
+  {
+   "cik": "0000318154",
+   "ticker": "AMGN",
+   "tickers": [
+    "AMGN"
+   ],
+   "name": "AMGEN INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "AMGEN INC (AMGN)"
+   ]
+  },
+  {
+   "cik": "0000820027",
+   "ticker": "AMP",
+   "tickers": [
+    "AMP"
+   ],
+   "name": "AMERIPRISE FINANCIAL INC",
+   "exchange": "NYSE",
+   "held": [
+    "AMERIPRISE FINANCIAL INC (AMP)"
+   ]
+  },
+  {
+   "cik": "0001053507",
+   "ticker": "AMT",
+   "tickers": [
+    "AMT"
+   ],
+   "name": "AMERICAN TOWER CORP /MA/",
+   "exchange": "NYSE",
+   "held": [
+    "AMERICAN TOWER CORP (AMT)"
+   ]
+  },
+  {
+   "cik": "0001018724",
+   "ticker": "AMZN",
+   "tickers": [
+    "AMZN"
+   ],
+   "name": "AMAZON COM INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "AMAZON.COM INC (AMZN)"
+   ]
+  },
+  {
+   "cik": "0001596532",
+   "ticker": "ANET",
+   "tickers": [
+    "ANET"
+   ],
+   "name": "Arista Networks, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "ARISTA NETWORKS INC (ANET)"
+   ]
+  },
+  {
+   "cik": "0000315293",
+   "ticker": "AON",
+   "tickers": [
+    "AON"
+   ],
+   "name": "Aon plc",
+   "exchange": "NYSE",
+   "held": [
+    "AON PLC CLASS A (AON)"
+   ]
+  },
+  {
+   "cik": "0000091142",
+   "ticker": "AOS",
+   "tickers": [
+    "AOS"
+   ],
+   "name": "SMITH A O CORP",
+   "exchange": "NYSE",
+   "held": [
+    "SMITH (A.O.) CORP (AOS)"
+   ]
+  },
+  {
+   "cik": "0001841666",
+   "ticker": "APA",
+   "tickers": [
+    "APA"
+   ],
+   "name": "APA Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "APA CORP (APA)"
+   ]
+  },
+  {
+   "cik": "0000002969",
+   "ticker": "APD",
+   "tickers": [
+    "APD"
+   ],
+   "name": "Air Products & Chemicals, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "AIR PRODUCTS + CHEMICALS INC (APD)"
+   ]
+  },
+  {
+   "cik": "0000820313",
+   "ticker": "APH",
+   "tickers": [
+    "APH"
+   ],
+   "name": "AMPHENOL CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "AMPHENOL CORP CL A (APH)"
+   ]
+  },
+  {
+   "cik": "0001858681",
+   "ticker": "APO",
+   "tickers": [
+    "APO"
+   ],
+   "name": "Apollo Global Management, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "APOLLO GLOBAL MANAGEMENT INC (APO)"
+   ]
+  },
+  {
+   "cik": "0001751008",
+   "ticker": "APP",
+   "tickers": [
+    "APP"
+   ],
+   "name": "AppLovin Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "APPLOVIN CORP CLASS A (APP)"
+   ]
+  },
+  {
+   "cik": "0001521332",
+   "ticker": "APTV",
+   "tickers": [
+    "APTV"
+   ],
+   "name": "Aptiv PLC",
+   "exchange": "NYSE",
+   "held": [
+    "APTIV PLC (APTV)"
+   ]
+  },
+  {
+   "cik": "0001035443",
+   "ticker": "ARE",
+   "tickers": [
+    "ARE"
+   ],
+   "name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "ALEXANDRIA REAL ESTATE EQUIT (ARE)"
+   ]
+  },
+  {
+   "cik": "0001176948",
+   "ticker": "ARES",
+   "tickers": [
+    "ARES"
+   ],
+   "name": "Ares Management Corp",
+   "exchange": "NYSE",
+   "held": [
+    "ARES MANAGEMENT CORP A (ARES)"
+   ]
+  },
+  {
+   "cik": "0000731802",
+   "ticker": "ATO",
+   "tickers": [
+    "ATO"
+   ],
+   "name": "ATMOS ENERGY CORP",
+   "exchange": "NYSE",
+   "held": [
+    "ATMOS ENERGY CORP (ATO)"
+   ]
+  },
+  {
+   "cik": "0001730168",
+   "ticker": "AVGO",
+   "tickers": [
+    "AVGO"
+   ],
+   "name": "Broadcom Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "BROADCOM INC (AVGO)"
+   ]
+  },
+  {
+   "cik": "0000008818",
+   "ticker": "AVY",
+   "tickers": [
+    "AVY"
+   ],
+   "name": "Avery Dennison Corp",
+   "exchange": "NYSE",
+   "held": [
+    "AVERY DENNISON CORP (AVY)"
+   ]
+  },
+  {
+   "cik": "0001410636",
+   "ticker": "AWK",
+   "tickers": [
+    "AWK"
+   ],
+   "name": "American Water Works Company, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "AMERICAN WATER WORKS CO INC (AWK)"
+   ]
+  },
+  {
+   "cik": "0001069183",
+   "ticker": "AXON",
+   "tickers": [
+    "AXON"
+   ],
+   "name": "AXON ENTERPRISE, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "AXON ENTERPRISE INC (AXON)"
+   ]
+  },
+  {
+   "cik": "0000004962",
+   "ticker": "AXP",
+   "tickers": [
+    "AXP"
+   ],
+   "name": "AMERICAN EXPRESS CO",
+   "exchange": "NYSE",
+   "held": [
+    "AMERICAN EXPRESS CO (AXP)"
+   ]
+  },
+  {
+   "cik": "0000866787",
+   "ticker": "AZO",
+   "tickers": [
+    "AZO"
+   ],
+   "name": "AUTOZONE INC",
+   "exchange": "NYSE",
+   "held": [
+    "AUTOZONE INC (AZO)"
+   ]
+  },
+  {
+   "cik": "0000012927",
+   "ticker": "BA",
+   "tickers": [
+    "BA"
+   ],
+   "name": "BOEING CO",
+   "exchange": "NYSE",
+   "held": [
+    "BOEING CO/THE (BA)"
+   ]
+  },
+  {
+   "cik": "0000070858",
+   "ticker": "BAC",
+   "tickers": [
+    "BAC"
+   ],
+   "name": "BANK OF AMERICA CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "BANK OF AMERICA CORP (BAC)"
+   ]
+  },
+  {
+   "cik": "0000009389",
+   "ticker": "BALL",
+   "tickers": [
+    "BALL"
+   ],
+   "name": "BALL Corp",
+   "exchange": "NYSE",
+   "held": [
+    "BALL CORP (BALL)"
+   ]
+  },
+  {
+   "cik": "0000010456",
+   "ticker": "BAX",
+   "tickers": [
+    "BAX"
+   ],
+   "name": "BAXTER INTERNATIONAL INC",
+   "exchange": "NYSE",
+   "held": [
+    "BAXTER INTERNATIONAL INC (BAX)"
+   ]
+  },
+  {
+   "cik": "0000764478",
+   "ticker": "BBY",
+   "tickers": [
+    "BBY"
+   ],
+   "name": "BEST BUY CO INC",
+   "exchange": "NYSE",
+   "held": [
+    "BEST BUY CO INC (BBY)"
+   ]
+  },
+  {
+   "cik": "0000010795",
+   "ticker": "BDX",
+   "tickers": [
+    "BDX"
+   ],
+   "name": "BECTON DICKINSON & CO",
+   "exchange": "NYSE",
+   "held": [
+    "BECTON DICKINSON AND CO (BDX)"
+   ]
+  },
+  {
+   "cik": "0001664703",
+   "ticker": "BE",
+   "tickers": [
+    "BE"
+   ],
+   "name": "Bloom Energy Corp",
+   "exchange": "NYSE",
+   "held": [
+    "BLOOM ENERGY CORP A (BE)"
+   ]
+  },
+  {
+   "cik": "0000038777",
+   "ticker": "BEN",
+   "tickers": [
+    "BEN"
+   ],
+   "name": "FRANKLIN TEMPLETON INC",
+   "exchange": "NYSE",
+   "held": [
+    "FRANKLIN TEMPLETON INC (BEN)"
+   ]
+  },
+  {
+   "cik": "0000014693",
+   "ticker": "BF-B",
+   "tickers": [
+    "BF-B"
+   ],
+   "name": "BROWN FORMAN CORP",
+   "exchange": "NYSE",
+   "held": [
+    "BROWN FORMAN CORP CLASS B (BF.B)"
+   ]
+  },
+  {
+   "cik": "0001996862",
+   "ticker": "BG",
+   "tickers": [
+    "BG"
+   ],
+   "name": "Bunge Global SA",
+   "exchange": "NYSE",
+   "held": [
+    "BUNGE GLOBAL SA (BG)"
+   ]
+  },
+  {
+   "cik": "0000875045",
+   "ticker": "BIIB",
+   "tickers": [
+    "BIIB"
+   ],
+   "name": "BIOGEN INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "BIOGEN INC (BIIB)"
+   ]
+  },
+  {
+   "cik": "0001075531",
+   "ticker": "BKNG",
+   "tickers": [
+    "BKNG"
+   ],
+   "name": "Booking Holdings Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "BOOKING HOLDINGS INC (BKNG)"
+   ]
+  },
+  {
+   "cik": "0001701605",
+   "ticker": "BKR",
+   "tickers": [
+    "BKR"
+   ],
+   "name": "Baker Hughes Co",
+   "exchange": "Nasdaq",
+   "held": [
+    "BAKER HUGHES CO (BKR)"
+   ]
+  },
+  {
+   "cik": "0002012383",
+   "ticker": "BLK",
+   "tickers": [
+    "BLK"
+   ],
+   "name": "BlackRock, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "BLACKROCK INC (BLK)"
+   ]
+  },
+  {
+   "cik": "0000014272",
+   "ticker": "BMY",
+   "tickers": [
+    "BMY"
+   ],
+   "name": "BRISTOL MYERS SQUIBB CO",
+   "exchange": "NYSE",
+   "held": [
+    "BRISTOL MYERS SQUIBB CO (BMY)"
+   ]
+  },
+  {
+   "cik": "0001390777",
+   "ticker": "BNY",
+   "tickers": [
+    "BNY"
+   ],
+   "name": "Bank of New York Mellon Corp",
+   "exchange": "NYSE",
+   "held": [
+    "BANK OF NEW YORK MELLON CORP (BNY)"
+   ]
+  },
+  {
+   "cik": "0001383312",
+   "ticker": "BR",
+   "tickers": [
+    "BR"
+   ],
+   "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "BROADRIDGE FINANCIAL SOLUTIO (BR)"
+   ]
+  },
+  {
+   "cik": "0001067983",
+   "ticker": "BRK-B",
+   "tickers": [
+    "BRK-B"
+   ],
+   "name": "BERKSHIRE HATHAWAY INC",
+   "exchange": "NYSE",
+   "held": [
+    "BERKSHIRE HATHAWAY INC CL B (BRK.B)"
+   ]
+  },
+  {
+   "cik": "0000079282",
+   "ticker": "BRO",
+   "tickers": [
+    "BRO"
+   ],
+   "name": "BROWN & BROWN, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "BROWN + BROWN INC (BRO)"
+   ]
+  },
+  {
+   "cik": "0000885725",
+   "ticker": "BSX",
+   "tickers": [
+    "BSX"
+   ],
+   "name": "BOSTON SCIENTIFIC CORP",
+   "exchange": "NYSE",
+   "held": [
+    "BOSTON SCIENTIFIC CORP (BSX)"
+   ]
+  },
+  {
+   "cik": "0001393818",
+   "ticker": "BX",
+   "tickers": [
+    "BX"
+   ],
+   "name": "Blackstone Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "BLACKSTONE INC (BX)"
+   ]
+  },
+  {
+   "cik": "0001037540",
+   "ticker": "BXP",
+   "tickers": [
+    "BXP"
+   ],
+   "name": "BXP, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "BXP INC (BXP)"
+   ]
+  },
+  {
+   "cik": "0000831001",
+   "ticker": "C",
+   "tickers": [
+    "C"
+   ],
+   "name": "CITIGROUP INC",
+   "exchange": "NYSE",
+   "held": [
+    "CITIGROUP INC (C)"
+   ]
+  },
+  {
+   "cik": "0000721371",
+   "ticker": "CAH",
+   "tickers": [
+    "CAH"
+   ],
+   "name": "CARDINAL HEALTH INC",
+   "exchange": "NYSE",
+   "held": [
+    "CARDINAL HEALTH INC (CAH)"
+   ]
+  },
+  {
+   "cik": "0001783180",
+   "ticker": "CARR",
+   "tickers": [
+    "CARR"
+   ],
+   "name": "CARRIER GLOBAL Corp",
+   "exchange": "NYSE",
+   "held": [
+    "CARRIER GLOBAL CORP (CARR)"
+   ]
+  },
+  {
+   "cik": "0000726958",
+   "ticker": "CASY",
+   "tickers": [
+    "CASY"
+   ],
+   "name": "CASEYS GENERAL STORES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "CASEY S GENERAL STORES INC (CASY)"
+   ]
+  },
+  {
+   "cik": "0000018230",
+   "ticker": "CAT",
+   "tickers": [
+    "CAT"
+   ],
+   "name": "CATERPILLAR INC",
+   "exchange": "NYSE",
+   "held": [
+    "CATERPILLAR INC (CAT)"
+   ]
+  },
+  {
+   "cik": "0000896159",
+   "ticker": "CB",
+   "tickers": [
+    "CB"
+   ],
+   "name": "Chubb Ltd",
+   "exchange": "NYSE",
+   "held": [
+    "CHUBB LTD (CB)"
+   ]
+  },
+  {
+   "cik": "0001374310",
+   "ticker": "CBOE",
+   "tickers": [
+    "CBOE"
+   ],
+   "name": "Cboe Global Markets, Inc.",
+   "exchange": "CBOE",
+   "held": [
+    "CBOE GLOBAL MARKETS INC (CBOE)"
+   ]
+  },
+  {
+   "cik": "0001138118",
+   "ticker": "CBRE",
+   "tickers": [
+    "CBRE"
+   ],
+   "name": "CBRE GROUP, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "CBRE GROUP INC A (CBRE)"
+   ]
+  },
+  {
+   "cik": "0001051470",
+   "ticker": "CCI",
+   "tickers": [
+    "CCI"
+   ],
+   "name": "CROWN CASTLE INC.",
+   "exchange": "NYSE",
+   "held": [
+    "CROWN CASTLE INC (CCI)"
+   ]
+  },
+  {
+   "cik": "0000815097",
+   "ticker": "CCL",
+   "tickers": [
+    "CCL"
+   ],
+   "name": "Carnival Corp Ltd.",
+   "exchange": "NYSE",
+   "held": [
+    "CARNIVAL CORP LTD (CCL)"
+   ]
+  },
+  {
+   "cik": "0000813672",
+   "ticker": "CDNS",
+   "tickers": [
+    "CDNS"
+   ],
+   "name": "CADENCE DESIGN SYSTEMS INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "CADENCE DESIGN SYS INC (CDNS)"
+   ]
+  },
+  {
+   "cik": "0001402057",
+   "ticker": "CDW",
+   "tickers": [
+    "CDW"
+   ],
+   "name": "CDW Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "CDW CORP/DE (CDW)"
+   ]
+  },
+  {
+   "cik": "0001868275",
+   "ticker": "CEG",
+   "tickers": [
+    "CEG"
+   ],
+   "name": "Constellation Energy Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "CONSTELLATION ENERGY (CEG)"
+   ]
+  },
+  {
+   "cik": "0001324404",
+   "ticker": "CF",
+   "tickers": [
+    "CF"
+   ],
+   "name": "CF Industries Holdings, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "CF INDUSTRIES HOLDINGS INC (CF)"
+   ]
+  },
+  {
+   "cik": "0000759944",
+   "ticker": "CFG",
+   "tickers": [
+    "CFG"
+   ],
+   "name": "CITIZENS FINANCIAL GROUP INC/RI",
+   "exchange": "NYSE",
+   "held": [
+    "CITIZENS FINANCIAL GROUP (CFG)"
+   ]
+  },
+  {
+   "cik": "0000313927",
+   "ticker": "CHD",
+   "tickers": [
+    "CHD"
+   ],
+   "name": "CHURCH & DWIGHT CO INC /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "CHURCH + DWIGHT CO INC (CHD)"
+   ]
+  },
+  {
+   "cik": "0001043277",
+   "ticker": "CHRW",
+   "tickers": [
+    "CHRW"
+   ],
+   "name": "C. H. ROBINSON WORLDWIDE, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "C.H. ROBINSON WORLDWIDE INC (CHRW)"
+   ]
+  },
+  {
+   "cik": "0001091667",
+   "ticker": "CHTR",
+   "tickers": [
+    "CHTR"
+   ],
+   "name": "CHARTER COMMUNICATIONS, INC. /MO/",
+   "exchange": "Nasdaq",
+   "held": [
+    "CHARTER COMMUNICATIONS INC A (CHTR)"
+   ]
+  },
+  {
+   "cik": "0001739940",
+   "ticker": "CI",
+   "tickers": [
+    "CI"
+   ],
+   "name": "Cigna Group",
+   "exchange": "NYSE",
+   "held": [
+    "THE CIGNA GROUP (CI)"
+   ]
+  },
+  {
+   "cik": "0000936395",
+   "ticker": "CIEN",
+   "tickers": [
+    "CIEN"
+   ],
+   "name": "CIENA CORP",
+   "exchange": "NYSE",
+   "held": [
+    "CIENA CORP (CIEN)"
+   ]
+  },
+  {
+   "cik": "0000020286",
+   "ticker": "CINF",
+   "tickers": [
+    "CINF"
+   ],
+   "name": "CINCINNATI FINANCIAL CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "CINCINNATI FINANCIAL CORP (CINF)"
+   ]
+  },
+  {
+   "cik": "0000021665",
+   "ticker": "CL",
+   "tickers": [
+    "CL"
+   ],
+   "name": "COLGATE PALMOLIVE CO",
+   "exchange": "NYSE",
+   "held": [
+    "COLGATE PALMOLIVE CO (CL)"
+   ]
+  },
+  {
+   "cik": "0000021076",
+   "ticker": "CLX",
+   "tickers": [
+    "CLX"
+   ],
+   "name": "CLOROX CO /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "CLOROX COMPANY (CLX)"
+   ]
+  },
+  {
+   "cik": "0001166691",
+   "ticker": "CMCSA",
+   "tickers": [
+    "CMCSA"
+   ],
+   "name": "COMCAST CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "COMCAST CORP CLASS A (CMCSA)"
+   ]
+  },
+  {
+   "cik": "0001156375",
+   "ticker": "CME",
+   "tickers": [
+    "CME"
+   ],
+   "name": "CME GROUP INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "CME GROUP INC (CME)"
+   ]
+  },
+  {
+   "cik": "0001058090",
+   "ticker": "CMG",
+   "tickers": [
+    "CMG"
+   ],
+   "name": "CHIPOTLE MEXICAN GRILL INC",
+   "exchange": "NYSE",
+   "held": [
+    "CHIPOTLE MEXICAN GRILL INC (CMG)"
+   ]
+  },
+  {
+   "cik": "0000026172",
+   "ticker": "CMI",
+   "tickers": [
+    "CMI"
+   ],
+   "name": "CUMMINS INC",
+   "exchange": "NYSE",
+   "held": [
+    "CUMMINS INC (CMI)"
+   ]
+  },
+  {
+   "cik": "0000811156",
+   "ticker": "CMS",
+   "tickers": [
+    "CMS"
+   ],
+   "name": "CMS ENERGY CORP",
+   "exchange": "NYSE",
+   "held": [
+    "CMS ENERGY CORP (CMS)"
+   ]
+  },
+  {
+   "cik": "0001071739",
+   "ticker": "CNC",
+   "tickers": [
+    "CNC"
+   ],
+   "name": "CENTENE CORP",
+   "exchange": "NYSE",
+   "held": [
+    "CENTENE CORP (CNC)"
+   ]
+  },
+  {
+   "cik": "0001130310",
+   "ticker": "CNP",
+   "tickers": [
+    "CNP"
+   ],
+   "name": "CENTERPOINT ENERGY INC",
+   "exchange": "NYSE",
+   "held": [
+    "CENTERPOINT ENERGY INC (CNP)"
+   ]
+  },
+  {
+   "cik": "0000927628",
+   "ticker": "COF",
+   "tickers": [
+    "COF"
+   ],
+   "name": "CAPITAL ONE FINANCIAL CORP",
+   "exchange": "NYSE",
+   "held": [
+    "CAPITAL ONE FINANCIAL CORP (COF)"
+   ]
+  },
+  {
+   "cik": "0000820318",
+   "ticker": "COHR",
+   "tickers": [
+    "COHR"
+   ],
+   "name": "COHERENT CORP.",
+   "exchange": "NYSE",
+   "held": [
+    "COHERENT CORP (COHR)"
+   ]
+  },
+  {
+   "cik": "0001679788",
+   "ticker": "COIN",
+   "tickers": [
+    "COIN"
+   ],
+   "name": "Coinbase Global, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "COINBASE GLOBAL INC CLASS A (COIN)"
+   ]
+  },
+  {
+   "cik": "0000711404",
+   "ticker": "COO",
+   "tickers": [
+    "COO"
+   ],
+   "name": "COOPER COMPANIES, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "COOPER COS INC/THE (COO)"
+   ]
+  },
+  {
+   "cik": "0001163165",
+   "ticker": "COP",
+   "tickers": [
+    "COP"
+   ],
+   "name": "CONOCOPHILLIPS",
+   "exchange": "NYSE",
+   "held": [
+    "CONOCOPHILLIPS (COP)"
+   ]
+  },
+  {
+   "cik": "0001140859",
+   "ticker": "COR",
+   "tickers": [
+    "COR"
+   ],
+   "name": "Cencora, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "CENCORA INC (COR)"
+   ]
+  },
+  {
+   "cik": "0000909832",
+   "ticker": "COST",
+   "tickers": [
+    "COST"
+   ],
+   "name": "COSTCO WHOLESALE CORP /NEW",
+   "exchange": "Nasdaq",
+   "held": [
+    "COSTCO WHOLESALE CORP (COST)"
+   ]
+  },
+  {
+   "cik": "0001175454",
+   "ticker": "CPAY",
+   "tickers": [
+    "CPAY"
+   ],
+   "name": "CORPAY, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "CORPAY INC (CPAY)"
+   ]
+  },
+  {
+   "cik": "0000900075",
+   "ticker": "CPRT",
+   "tickers": [
+    "CPRT"
+   ],
+   "name": "COPART INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "COPART INC (CPRT)"
+   ]
+  },
+  {
+   "cik": "0000906345",
+   "ticker": "CPT",
+   "tickers": [
+    "CPT"
+   ],
+   "name": "CAMDEN PROPERTY TRUST",
+   "exchange": "NYSE",
+   "held": [
+    "CAMDEN PROPERTY TRUST (CPT)"
+   ]
+  },
+  {
+   "cik": "0000849395",
+   "ticker": "CRH",
+   "tickers": [
+    "CRH"
+   ],
+   "name": "CRH PUBLIC LTD CO",
+   "exchange": "NYSE",
+   "held": [
+    "CRH PLC (CRH)"
+   ]
+  },
+  {
+   "cik": "0001100682",
+   "ticker": "CRL",
+   "tickers": [
+    "CRL"
+   ],
+   "name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "CHARLES RIVER LABORATORIES (CRL)"
+   ]
+  },
+  {
+   "cik": "0001108524",
+   "ticker": "CRM",
+   "tickers": [
+    "CRM"
+   ],
+   "name": "Salesforce, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "SALESFORCE INC (CRM)"
+   ]
+  },
+  {
+   "cik": "0001535527",
+   "ticker": "CRWD",
+   "tickers": [
+    "CRWD"
+   ],
+   "name": "CrowdStrike Holdings, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "CROWDSTRIKE HOLDINGS INC A (CRWD)"
+   ]
+  },
+  {
+   "cik": "0000858877",
+   "ticker": "CSCO",
+   "tickers": [
+    "CSCO"
+   ],
+   "name": "CISCO SYSTEMS, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "CISCO SYSTEMS INC (CSCO)"
+   ]
+  },
+  {
+   "cik": "0001057352",
+   "ticker": "CSGP",
+   "tickers": [
+    "CSGP"
+   ],
+   "name": "COSTAR GROUP, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "COSTAR GROUP INC (CSGP)"
+   ]
+  },
+  {
+   "cik": "0000277948",
+   "ticker": "CSX",
+   "tickers": [
+    "CSX"
+   ],
+   "name": "CSX CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "CSX CORP (CSX)"
+   ]
+  },
+  {
+   "cik": "0000723254",
+   "ticker": "CTAS",
+   "tickers": [
+    "CTAS"
+   ],
+   "name": "CINTAS CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "CINTAS CORP (CTAS)"
+   ]
+  },
+  {
+   "cik": "0001058290",
+   "ticker": "CTSH",
+   "tickers": [
+    "CTSH"
+   ],
+   "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "COGNIZANT TECH SOLUTIONS A (CTSH)"
+   ]
+  },
+  {
+   "cik": "0001690820",
+   "ticker": "CVNA",
+   "tickers": [
+    "CVNA"
+   ],
+   "name": "CARVANA CO.",
+   "exchange": "NYSE",
+   "held": [
+    "CARVANA CO (CVNA)"
+   ]
+  },
+  {
+   "cik": "0000064803",
+   "ticker": "CVS",
+   "tickers": [
+    "CVS"
+   ],
+   "name": "CVS HEALTH Corp",
+   "exchange": "NYSE",
+   "held": [
+    "CVS HEALTH CORP (CVS)"
+   ]
+  },
+  {
+   "cik": "0000093410",
+   "ticker": "CVX",
+   "tickers": [
+    "CVX"
+   ],
+   "name": "CHEVRON CORP",
+   "exchange": "NYSE",
+   "held": [
+    "CHEVRON CORP (CVX)"
+   ]
+  },
+  {
+   "cik": "0000715957",
+   "ticker": "D",
+   "tickers": [
+    "D"
+   ],
+   "name": "DOMINION ENERGY, INC",
+   "exchange": "NYSE",
+   "held": [
+    "DOMINION ENERGY INC (D)"
+   ]
+  },
+  {
+   "cik": "0000027904",
+   "ticker": "DAL",
+   "tickers": [
+    "DAL"
+   ],
+   "name": "DELTA AIR LINES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "DELTA AIR LINES INC (DAL)"
+   ]
+  },
+  {
+   "cik": "0001792789",
+   "ticker": "DASH",
+   "tickers": [
+    "DASH"
+   ],
+   "name": "DoorDash, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "DOORDASH INC A (DASH)"
+   ]
+  },
+  {
+   "cik": "0001666700",
+   "ticker": "DD",
+   "tickers": [
+    "DD"
+   ],
+   "name": "DuPont de Nemours, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "DUPONT DE NEMOURS INC (DD)"
+   ]
+  },
+  {
+   "cik": "0001561550",
+   "ticker": "DDOG",
+   "tickers": [
+    "DDOG"
+   ],
+   "name": "Datadog, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "DATADOG INC CLASS A (DDOG)"
+   ]
+  },
+  {
+   "cik": "0000315189",
+   "ticker": "DE",
+   "tickers": [
+    "DE"
+   ],
+   "name": "DEERE & CO",
+   "exchange": "NYSE",
+   "held": [
+    "DEERE + CO (DE)"
+   ]
+  },
+  {
+   "cik": "0000910521",
+   "ticker": "DECK",
+   "tickers": [
+    "DECK"
+   ],
+   "name": "DECKERS OUTDOOR CORP",
+   "exchange": "NYSE",
+   "held": [
+    "DECKERS OUTDOOR CORP (DECK)"
+   ]
+  },
+  {
+   "cik": "0001571996",
+   "ticker": "DELL",
+   "tickers": [
+    "DELL"
+   ],
+   "name": "Dell Technologies Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "DELL TECHNOLOGIES C (DELL)"
+   ]
+  },
+  {
+   "cik": "0000029534",
+   "ticker": "DG",
+   "tickers": [
+    "DG"
+   ],
+   "name": "DOLLAR GENERAL CORP",
+   "exchange": "NYSE",
+   "held": [
+    "DOLLAR GENERAL CORP (DG)"
+   ]
+  },
+  {
+   "cik": "0001022079",
+   "ticker": "DGX",
+   "tickers": [
+    "DGX"
+   ],
+   "name": "QUEST DIAGNOSTICS INC",
+   "exchange": "NYSE",
+   "held": [
+    "QUEST DIAGNOSTICS INC (DGX)"
+   ]
+  },
+  {
+   "cik": "0000882184",
+   "ticker": "DHI",
+   "tickers": [
+    "DHI"
+   ],
+   "name": "HORTON D R INC /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "DR HORTON INC (DHI)"
+   ]
+  },
+  {
+   "cik": "0000313616",
+   "ticker": "DHR",
+   "tickers": [
+    "DHR"
+   ],
+   "name": "DANAHER CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "DANAHER CORP (DHR)"
+   ]
+  },
+  {
+   "cik": "0001744489",
+   "ticker": "DIS",
+   "tickers": [
+    "DIS"
+   ],
+   "name": "Walt Disney Co",
+   "exchange": "NYSE",
+   "held": [
+    "WALT DISNEY CO/THE (DIS)"
+   ]
+  },
+  {
+   "cik": "0001297996",
+   "ticker": "DLR",
+   "tickers": [
+    "DLR"
+   ],
+   "name": "DIGITAL REALTY TRUST, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "DIGITAL REALTY TRUST INC (DLR)"
+   ]
+  },
+  {
+   "cik": "0000935703",
+   "ticker": "DLTR",
+   "tickers": [
+    "DLTR"
+   ],
+   "name": "DOLLAR TREE, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "DOLLAR TREE INC (DLTR)"
+   ]
+  },
+  {
+   "cik": "0000765880",
+   "ticker": "DOC",
+   "tickers": [
+    "DOC"
+   ],
+   "name": "HEALTHPEAK PROPERTIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "HEALTHPEAK PROPERTIES INC (DOC)"
+   ]
+  },
+  {
+   "cik": "0000029905",
+   "ticker": "DOV",
+   "tickers": [
+    "DOV"
+   ],
+   "name": "DOVER Corp",
+   "exchange": "NYSE",
+   "held": [
+    "DOVER CORP (DOV)"
+   ]
+  },
+  {
+   "cik": "0001751788",
+   "ticker": "DOW",
+   "tickers": [
+    "DOW"
+   ],
+   "name": "DOW INC.",
+   "exchange": "NYSE",
+   "held": [
+    "DOW INC (DOW)"
+   ]
+  },
+  {
+   "cik": "0001286681",
+   "ticker": "DPZ",
+   "tickers": [
+    "DPZ"
+   ],
+   "name": "DOMINOS PIZZA INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "DOMINO S PIZZA INC (DPZ)"
+   ]
+  },
+  {
+   "cik": "0000940944",
+   "ticker": "DRI",
+   "tickers": [
+    "DRI"
+   ],
+   "name": "DARDEN RESTAURANTS INC",
+   "exchange": "NYSE",
+   "held": [
+    "DARDEN RESTAURANTS INC (DRI)"
+   ]
+  },
+  {
+   "cik": "0000936340",
+   "ticker": "DTE",
+   "tickers": [
+    "DTE"
+   ],
+   "name": "DTE ENERGY CO",
+   "exchange": "NYSE",
+   "held": [
+    "DTE ENERGY COMPANY (DTE)"
+   ]
+  },
+  {
+   "cik": "0001326160",
+   "ticker": "DUK",
+   "tickers": [
+    "DUK"
+   ],
+   "name": "Duke Energy CORP",
+   "exchange": "NYSE",
+   "held": [
+    "DUKE ENERGY CORP (DUK)"
+   ]
+  },
+  {
+   "cik": "0000927066",
+   "ticker": "DVA",
+   "tickers": [
+    "DVA"
+   ],
+   "name": "DAVITA INC.",
+   "exchange": "NYSE",
+   "held": [
+    "DAVITA INC (DVA)"
+   ]
+  },
+  {
+   "cik": "0001090012",
+   "ticker": "DVN",
+   "tickers": [
+    "DVN"
+   ],
+   "name": "DEVON ENERGY CORP/DE",
+   "exchange": "NYSE",
+   "held": [
+    "DEVON ENERGY CORP (DVN)"
+   ]
+  },
+  {
+   "cik": "0001093557",
+   "ticker": "DXCM",
+   "tickers": [
+    "DXCM"
+   ],
+   "name": "DEXCOM INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "DEXCOM INC (DXCM)"
+   ]
+  },
+  {
+   "cik": "0001065088",
+   "ticker": "EBAY",
+   "tickers": [
+    "EBAY"
+   ],
+   "name": "EBAY INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "EBAY INC (EBAY)"
+   ]
+  },
+  {
+   "cik": "0001415404",
+   "ticker": "ECHO",
+   "tickers": [
+    "ECHO"
+   ],
+   "name": "EchoStar CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "ECHOSTAR CORP A (ECHO)"
+   ]
+  },
+  {
+   "cik": "0000031462",
+   "ticker": "ECL",
+   "tickers": [
+    "ECL"
+   ],
+   "name": "ECOLAB INC.",
+   "exchange": "NYSE",
+   "held": [
+    "ECOLAB INC (ECL)"
+   ]
+  },
+  {
+   "cik": "0001047862",
+   "ticker": "ED",
+   "tickers": [
+    "ED"
+   ],
+   "name": "CONSOLIDATED EDISON INC",
+   "exchange": "NYSE",
+   "held": [
+    "CONSOLIDATED EDISON INC (ED)"
+   ]
+  },
+  {
+   "cik": "0000033185",
+   "ticker": "EFX",
+   "tickers": [
+    "EFX"
+   ],
+   "name": "EQUIFAX INC",
+   "exchange": "NYSE",
+   "held": [
+    "EQUIFAX INC (EFX)"
+   ]
+  },
+  {
+   "cik": "0001095073",
+   "ticker": "EG",
+   "tickers": [
+    "EG"
+   ],
+   "name": "EVEREST GROUP, LTD.",
+   "exchange": "NYSE",
+   "held": [
+    "EVEREST GROUP LTD (EG)"
+   ]
+  },
+  {
+   "cik": "0000827052",
+   "ticker": "EIX",
+   "tickers": [
+    "EIX"
+   ],
+   "name": "EDISON INTERNATIONAL",
+   "exchange": "NYSE",
+   "held": [
+    "EDISON INTERNATIONAL (EIX)"
+   ]
+  },
+  {
+   "cik": "0001001250",
+   "ticker": "EL",
+   "tickers": [
+    "EL"
+   ],
+   "name": "ESTEE LAUDER COMPANIES INC",
+   "exchange": "NYSE",
+   "held": [
+    "ESTEE LAUDER COMPANIES CL A (EL)"
+   ]
+  },
+  {
+   "cik": "0001156039",
+   "ticker": "ELV",
+   "tickers": [
+    "ELV"
+   ],
+   "name": "Elevance Health, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "ELEVANCE HEALTH INC (ELV)"
+   ]
+  },
+  {
+   "cik": "0000105634",
+   "ticker": "EME",
+   "tickers": [
+    "EME"
+   ],
+   "name": "EMCOR Group, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "EMCOR GROUP INC (EME)"
+   ]
+  },
+  {
+   "cik": "0000032604",
+   "ticker": "EMR",
+   "tickers": [
+    "EMR"
+   ],
+   "name": "EMERSON ELECTRIC CO",
+   "exchange": "NYSE",
+   "held": [
+    "EMERSON ELECTRIC CO (EMR)"
+   ]
+  },
+  {
+   "cik": "0000821189",
+   "ticker": "EOG",
+   "tickers": [
+    "EOG"
+   ],
+   "name": "EOG RESOURCES INC",
+   "exchange": "NYSE",
+   "held": [
+    "EOG RESOURCES INC (EOG)"
+   ]
+  },
+  {
+   "cik": "0001101239",
+   "ticker": "EQIX",
+   "tickers": [
+    "EQIX"
+   ],
+   "name": "EQUINIX INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "EQUINIX INC (EQIX)"
+   ]
+  },
+  {
+   "cik": "0000033213",
+   "ticker": "EQT",
+   "tickers": [
+    "EQT"
+   ],
+   "name": "EQT Corp",
+   "exchange": "NYSE",
+   "held": [
+    "EQT CORP (EQT)"
+   ]
+  },
+  {
+   "cik": "0000922621",
+   "ticker": "ERIE",
+   "tickers": [
+    "ERIE"
+   ],
+   "name": "ERIE INDEMNITY CO",
+   "exchange": "Nasdaq",
+   "held": [
+    "ERIE INDEMNITY COMPANY CL A (ERIE)"
+   ]
+  },
+  {
+   "cik": "0000072741",
+   "ticker": "ES",
+   "tickers": [
+    "ES"
+   ],
+   "name": "EVERSOURCE ENERGY",
+   "exchange": "NYSE",
+   "held": [
+    "EVERSOURCE ENERGY (ES)"
+   ]
+  },
+  {
+   "cik": "0000920522",
+   "ticker": "ESS",
+   "tickers": [
+    "ESS"
+   ],
+   "name": "ESSEX PROPERTY TRUST, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "ESSEX PROPERTY TRUST INC (ESS)"
+   ]
+  },
+  {
+   "cik": "0001551182",
+   "ticker": "ETN",
+   "tickers": [
+    "ETN"
+   ],
+   "name": "Eaton Corp plc",
+   "exchange": "NYSE",
+   "held": [
+    "EATON CORP PLC (ETN)"
+   ]
+  },
+  {
+   "cik": "0000065984",
+   "ticker": "ETR",
+   "tickers": [
+    "ETR"
+   ],
+   "name": "ENTERGY CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "ENTERGY CORP (ETR)"
+   ]
+  },
+  {
+   "cik": "0001711269",
+   "ticker": "EVRG",
+   "tickers": [
+    "EVRG"
+   ],
+   "name": "Evergy, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "EVERGY INC (EVRG)"
+   ]
+  },
+  {
+   "cik": "0001099800",
+   "ticker": "EW",
+   "tickers": [
+    "EW"
+   ],
+   "name": "Edwards Lifesciences Corp",
+   "exchange": "NYSE",
+   "held": [
+    "EDWARDS LIFESCIENCES CORP (EW)"
+   ]
+  },
+  {
+   "cik": "0001109357",
+   "ticker": "EXC",
+   "tickers": [
+    "EXC"
+   ],
+   "name": "EXELON CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "EXELON CORP (EXC)"
+   ]
+  },
+  {
+   "cik": "0000895126",
+   "ticker": "EXE",
+   "tickers": [
+    "EXE"
+   ],
+   "name": "EXPAND ENERGY Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "EXPAND ENERGY CORP (EXE)"
+   ]
+  },
+  {
+   "cik": "0000746515",
+   "ticker": "EXPD",
+   "tickers": [
+    "EXPD"
+   ],
+   "name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+   "exchange": "NYSE",
+   "held": [
+    "EXPEDITORS INTL WASH INC (EXPD)"
+   ]
+  },
+  {
+   "cik": "0001324424",
+   "ticker": "EXPE",
+   "tickers": [
+    "EXPE"
+   ],
+   "name": "Expedia Group, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "EXPEDIA GROUP INC (EXPE)"
+   ]
+  },
+  {
+   "cik": "0001289490",
+   "ticker": "EXR",
+   "tickers": [
+    "EXR"
+   ],
+   "name": "Extra Space Storage Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "EXTRA SPACE STORAGE INC (EXR)"
+   ]
+  },
+  {
+   "cik": "0000037996",
+   "ticker": "F",
+   "tickers": [
+    "F"
+   ],
+   "name": "FORD MOTOR CO",
+   "exchange": "NYSE",
+   "held": [
+    "FORD MOTOR CO (F)"
+   ]
+  },
+  {
+   "cik": "0001539838",
+   "ticker": "FANG",
+   "tickers": [
+    "FANG"
+   ],
+   "name": "Diamondback Energy, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "DIAMONDBACK ENERGY INC (FANG)"
+   ]
+  },
+  {
+   "cik": "0000815556",
+   "ticker": "FAST",
+   "tickers": [
+    "FAST"
+   ],
+   "name": "FASTENAL CO",
+   "exchange": "Nasdaq",
+   "held": [
+    "FASTENAL CO (FAST)"
+   ]
+  },
+  {
+   "cik": "0000831259",
+   "ticker": "FCX",
+   "tickers": [
+    "FCX"
+   ],
+   "name": "FREEPORT-MCMORAN INC",
+   "exchange": "NYSE",
+   "held": [
+    "FREEPORT MCMORAN INC (FCX)"
+   ]
+  },
+  {
+   "cik": "0001013237",
+   "ticker": "FDS",
+   "tickers": [
+    "FDS"
+   ],
+   "name": "FACTSET RESEARCH SYSTEMS INC",
+   "exchange": "NYSE",
+   "held": [
+    "FACTSET RESEARCH SYSTEMS INC (FDS)"
+   ]
+  },
+  {
+   "cik": "0001048911",
+   "ticker": "FDX",
+   "tickers": [
+    "FDX"
+   ],
+   "name": "FEDEX CORP",
+   "exchange": "NYSE",
+   "held": [
+    "FEDEX CORP (FDX)"
+   ]
+  },
+  {
+   "cik": "0002082247",
+   "ticker": "FDXF",
+   "tickers": [
+    "FDXF"
+   ],
+   "name": "FedEx Freight Holding Company, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "FEDEX FREIGHT HOLDING CO (FDXF)"
+   ]
+  },
+  {
+   "cik": "0001031296",
+   "ticker": "FE",
+   "tickers": [
+    "FE"
+   ],
+   "name": "FIRSTENERGY CORP",
+   "exchange": "NYSE",
+   "held": [
+    "FIRSTENERGY CORP (FE)"
+   ]
+  },
+  {
+   "cik": "0002011641",
+   "ticker": "FERG",
+   "tickers": [
+    "FERG"
+   ],
+   "name": "Ferguson Enterprises Inc. /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "FERGUSON ENTERPRISES INC (FERG)"
+   ]
+  },
+  {
+   "cik": "0001048695",
+   "ticker": "FFIV",
+   "tickers": [
+    "FFIV"
+   ],
+   "name": "F5, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "F5 INC (FFIV)"
+   ]
+  },
+  {
+   "cik": "0000814547",
+   "ticker": "FICO",
+   "tickers": [
+    "FICO"
+   ],
+   "name": "FAIR ISAAC CORP",
+   "exchange": "NYSE",
+   "held": [
+    "FAIR ISAAC CORP (FICO)"
+   ]
+  },
+  {
+   "cik": "0001136893",
+   "ticker": "FIS",
+   "tickers": [
+    "FIS"
+   ],
+   "name": "Fidelity National Information Services, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "FIDELITY NATIONAL INFO SERV (FIS)"
+   ]
+  },
+  {
+   "cik": "0000798354",
+   "ticker": "FISV",
+   "tickers": [
+    "FISV"
+   ],
+   "name": "FISERV INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "FISERV INC (FISV)"
+   ]
+  },
+  {
+   "cik": "0000035527",
+   "ticker": "FITB",
+   "tickers": [
+    "FITB"
+   ],
+   "name": "FIFTH THIRD BANCORP",
+   "exchange": "NYSE",
+   "held": [
+    "FIFTH THIRD BANCORP (FITB)"
+   ]
+  },
+  {
+   "cik": "0001035983",
+   "ticker": "FIX",
+   "tickers": [
+    "FIX"
+   ],
+   "name": "COMFORT SYSTEMS USA INC",
+   "exchange": "NYSE",
+   "held": [
+    "COMFORT SYSTEMS USA INC (FIX)"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "ticker": "FLEX",
+   "tickers": [
+    "FLEX"
+   ],
+   "name": "FLEX LTD.",
+   "exchange": "Nasdaq",
+   "held": [
+    "FLEX LTD (FLEX)"
+   ]
+  },
+  {
+   "cik": "0001754301",
+   "ticker": "FOXA",
+   "tickers": [
+    "FOXA",
+    "FOX"
+   ],
+   "name": "Fox Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "FOX CORP CLASS A (FOXA)",
+    "FOX CORP CLASS B (FOX)"
+   ]
+  },
+  {
+   "cik": "0000034903",
+   "ticker": "FRT",
+   "tickers": [
+    "FRT"
+   ],
+   "name": "FEDERAL REALTY INVESTMENT TRUST",
+   "exchange": "NYSE",
+   "held": [
+    "FEDERAL REALTY INVS TRUST (FRT)"
+   ]
+  },
+  {
+   "cik": "0001274494",
+   "ticker": "FSLR",
+   "tickers": [
+    "FSLR"
+   ],
+   "name": "FIRST SOLAR, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "FIRST SOLAR INC (FSLR)"
+   ]
+  },
+  {
+   "cik": "0001262039",
+   "ticker": "FTNT",
+   "tickers": [
+    "FTNT"
+   ],
+   "name": "Fortinet, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "FORTINET INC (FTNT)"
+   ]
+  },
+  {
+   "cik": "0001659166",
+   "ticker": "FTV",
+   "tickers": [
+    "FTV"
+   ],
+   "name": "Fortive Corp",
+   "exchange": "NYSE",
+   "held": [
+    "FORTIVE CORP (FTV)"
+   ]
+  },
+  {
+   "cik": "0000040533",
+   "ticker": "GD",
+   "tickers": [
+    "GD"
+   ],
+   "name": "GENERAL DYNAMICS CORP",
+   "exchange": "NYSE",
+   "held": [
+    "GENERAL DYNAMICS CORP (GD)"
+   ]
+  },
+  {
+   "cik": "0001609711",
+   "ticker": "GDDY",
+   "tickers": [
+    "GDDY"
+   ],
+   "name": "GoDaddy Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "GODADDY INC CLASS A (GDDY)"
+   ]
+  },
+  {
+   "cik": "0000040545",
+   "ticker": "GE",
+   "tickers": [
+    "GE"
+   ],
+   "name": "GENERAL ELECTRIC CO",
+   "exchange": "NYSE",
+   "held": [
+    "GENERAL ELECTRIC (GE)"
+   ]
+  },
+  {
+   "cik": "0001932393",
+   "ticker": "GEHC",
+   "tickers": [
+    "GEHC"
+   ],
+   "name": "GE HealthCare Technologies Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "GE HEALTHCARE TECHNOLOGY (GEHC)"
+   ]
+  },
+  {
+   "cik": "0000849399",
+   "ticker": "GEN",
+   "tickers": [
+    "GEN"
+   ],
+   "name": "Gen Digital Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "GEN DIGITAL INC (GEN)"
+   ]
+  },
+  {
+   "cik": "0001996810",
+   "ticker": "GEV",
+   "tickers": [
+    "GEV"
+   ],
+   "name": "GE Vernova Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "GE VERNOVA INC (GEV)"
+   ]
+  },
+  {
+   "cik": "0000882095",
+   "ticker": "GILD",
+   "tickers": [
+    "GILD"
+   ],
+   "name": "GILEAD SCIENCES, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "GILEAD SCIENCES INC (GILD)"
+   ]
+  },
+  {
+   "cik": "0000040704",
+   "ticker": "GIS",
+   "tickers": [
+    "GIS"
+   ],
+   "name": "GENERAL MILLS INC",
+   "exchange": "NYSE",
+   "held": [
+    "GENERAL MILLS INC (GIS)"
+   ]
+  },
+  {
+   "cik": "0000320335",
+   "ticker": "GL",
+   "tickers": [
+    "GL"
+   ],
+   "name": "GLOBE LIFE INC.",
+   "exchange": "NYSE",
+   "held": [
+    "GLOBE LIFE INC (GL)"
+   ]
+  },
+  {
+   "cik": "0000024741",
+   "ticker": "GLW",
+   "tickers": [
+    "GLW"
+   ],
+   "name": "CORNING INC /NY",
+   "exchange": "NYSE",
+   "held": [
+    "CORNING INC (GLW)"
+   ]
+  },
+  {
+   "cik": "0001467858",
+   "ticker": "GM",
+   "tickers": [
+    "GM"
+   ],
+   "name": "General Motors Co",
+   "exchange": "NYSE",
+   "held": [
+    "GENERAL MOTORS CO (GM)"
+   ]
+  },
+  {
+   "cik": "0001474735",
+   "ticker": "GNRC",
+   "tickers": [
+    "GNRC"
+   ],
+   "name": "GENERAC HOLDINGS INC.",
+   "exchange": "NYSE",
+   "held": [
+    "GENERAC HOLDINGS INC (GNRC)"
+   ]
+  },
+  {
+   "cik": "0001652044",
+   "ticker": "GOOGL",
+   "tickers": [
+    "GOOGL",
+    "GOOG"
+   ],
+   "name": "Alphabet Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ALPHABET INC CL A (GOOGL)",
+    "ALPHABET INC CL C (GOOG)"
+   ]
+  },
+  {
+   "cik": "0000040987",
+   "ticker": "GPC",
+   "tickers": [
+    "GPC"
+   ],
+   "name": "GENUINE PARTS CO",
+   "exchange": "NYSE",
+   "held": [
+    "GENUINE PARTS CO (GPC)"
+   ]
+  },
+  {
+   "cik": "0001123360",
+   "ticker": "GPN",
+   "tickers": [
+    "GPN"
+   ],
+   "name": "GLOBAL PAYMENTS INC",
+   "exchange": "NYSE",
+   "held": [
+    "GLOBAL PAYMENTS INC (GPN)"
+   ]
+  },
+  {
+   "cik": "0001121788",
+   "ticker": "GRMN",
+   "tickers": [
+    "GRMN"
+   ],
+   "name": "GARMIN LTD",
+   "exchange": "NYSE",
+   "held": [
+    "GARMIN LTD (GRMN)"
+   ]
+  },
+  {
+   "cik": "0000886982",
+   "ticker": "GS",
+   "tickers": [
+    "GS"
+   ],
+   "name": "GOLDMAN SACHS GROUP INC",
+   "exchange": "NYSE",
+   "held": [
+    "GOLDMAN SACHS GROUP INC (GS)"
+   ]
+  },
+  {
+   "cik": "0000277135",
+   "ticker": "GWW",
+   "tickers": [
+    "GWW"
+   ],
+   "name": "W.W. GRAINGER, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "WW GRAINGER INC (GWW)"
+   ]
+  },
+  {
+   "cik": "0000045012",
+   "ticker": "HAL",
+   "tickers": [
+    "HAL"
+   ],
+   "name": "HALLIBURTON CO",
+   "exchange": "NYSE",
+   "held": [
+    "HALLIBURTON CO (HAL)"
+   ]
+  },
+  {
+   "cik": "0000046080",
+   "ticker": "HAS",
+   "tickers": [
+    "HAS"
+   ],
+   "name": "HASBRO, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "HASBRO INC (HAS)"
+   ]
+  },
+  {
+   "cik": "0000049196",
+   "ticker": "HBAN",
+   "tickers": [
+    "HBAN"
+   ],
+   "name": "HUNTINGTON BANCSHARES INC /MD/",
+   "exchange": "Nasdaq",
+   "held": [
+    "HUNTINGTON BANCSHARES INC (HBAN)"
+   ]
+  },
+  {
+   "cik": "0000860730",
+   "ticker": "HCA",
+   "tickers": [
+    "HCA"
+   ],
+   "name": "HCA Healthcare, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "HCA HEALTHCARE INC (HCA)"
+   ]
+  },
+  {
+   "cik": "0000354950",
+   "ticker": "HD",
+   "tickers": [
+    "HD"
+   ],
+   "name": "HOME DEPOT, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "HOME DEPOT INC (HD)"
+   ]
+  },
+  {
+   "cik": "0000874766",
+   "ticker": "HIG",
+   "tickers": [
+    "HIG"
+   ],
+   "name": "HARTFORD INSURANCE GROUP, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "HARTFORD INSURANCE GROUP INC (HIG)"
+   ]
+  },
+  {
+   "cik": "0001501585",
+   "ticker": "HII",
+   "tickers": [
+    "HII"
+   ],
+   "name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "HUNTINGTON INGALLS INDUSTRIE (HII)"
+   ]
+  },
+  {
+   "cik": "0001585689",
+   "ticker": "HLT",
+   "tickers": [
+    "HLT"
+   ],
+   "name": "Hilton Worldwide Holdings Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "HILTON WORLDWIDE HOLDINGS IN (HLT)"
+   ]
+  },
+  {
+   "cik": "0000773840",
+   "ticker": "HON",
+   "tickers": [
+    "HON"
+   ],
+   "name": "HONEYWELL INTERNATIONAL INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "HONEYWELL INTERNATIONAL INC (HON)"
+   ]
+  },
+  {
+   "cik": "0002089271",
+   "ticker": "HONA",
+   "tickers": [
+    "HONA"
+   ],
+   "name": "Honeywell Aerospace Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "HONEYWELL AEROSPACE INC (HONA)"
+   ]
+  },
+  {
+   "cik": "0001783879",
+   "ticker": "HOOD",
+   "tickers": [
+    "HOOD"
+   ],
+   "name": "Robinhood Markets, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ROBINHOOD MARKETS INC A (HOOD)"
+   ]
+  },
+  {
+   "cik": "0001645590",
+   "ticker": "HPE",
+   "tickers": [
+    "HPE"
+   ],
+   "name": "Hewlett Packard Enterprise Co",
+   "exchange": "NYSE",
+   "held": [
+    "HEWLETT PACKARD ENTERPRISE (HPE)"
+   ]
+  },
+  {
+   "cik": "0000047217",
+   "ticker": "HPQ",
+   "tickers": [
+    "HPQ"
+   ],
+   "name": "HP INC",
+   "exchange": "NYSE",
+   "held": [
+    "HP INC (HPQ)"
+   ]
+  },
+  {
+   "cik": "0000048465",
+   "ticker": "HRL",
+   "tickers": [
+    "HRL"
+   ],
+   "name": "HORMEL FOODS CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "HORMEL FOODS CORP (HRL)"
+   ]
+  },
+  {
+   "cik": "0001000228",
+   "ticker": "HSIC",
+   "tickers": [
+    "HSIC"
+   ],
+   "name": "HENRY SCHEIN INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "HENRY SCHEIN INC (HSIC)"
+   ]
+  },
+  {
+   "cik": "0001070750",
+   "ticker": "HST",
+   "tickers": [
+    "HST"
+   ],
+   "name": "HOST HOTELS & RESORTS, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "HOST HOTELS + RESORTS INC (HST)"
+   ]
+  },
+  {
+   "cik": "0000047111",
+   "ticker": "HSY",
+   "tickers": [
+    "HSY"
+   ],
+   "name": "HERSHEY CO",
+   "exchange": "NYSE",
+   "held": [
+    "HERSHEY CO/THE (HSY)"
+   ]
+  },
+  {
+   "cik": "0000048898",
+   "ticker": "HUBB",
+   "tickers": [
+    "HUBB"
+   ],
+   "name": "HUBBELL INC",
+   "exchange": "NYSE",
+   "held": [
+    "HUBBELL INC (HUBB)"
+   ]
+  },
+  {
+   "cik": "0000049071",
+   "ticker": "HUM",
+   "tickers": [
+    "HUM"
+   ],
+   "name": "HUMANA INC",
+   "exchange": "NYSE",
+   "held": [
+    "HUMANA INC (HUM)"
+   ]
+  },
+  {
+   "cik": "0000004281",
+   "ticker": "HWM",
+   "tickers": [
+    "HWM"
+   ],
+   "name": "Howmet Aerospace Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "HOWMET AEROSPACE INC (HWM)"
+   ]
+  },
+  {
+   "cik": "0001381197",
+   "ticker": "IBKR",
+   "tickers": [
+    "IBKR"
+   ],
+   "name": "Interactive Brokers Group, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "INTERACTIVE BROKERS GRO CL A (IBKR)"
+   ]
+  },
+  {
+   "cik": "0000051143",
+   "ticker": "IBM",
+   "tickers": [
+    "IBM"
+   ],
+   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+   "exchange": "NYSE",
+   "held": [
+    "INTL BUSINESS MACHINES CORP (IBM)"
+   ]
+  },
+  {
+   "cik": "0001571949",
+   "ticker": "ICE",
+   "tickers": [
+    "ICE"
+   ],
+   "name": "Intercontinental Exchange, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "INTERCONTINENTAL EXCHANGE IN (ICE)"
+   ]
+  },
+  {
+   "cik": "0000874716",
+   "ticker": "IDXX",
+   "tickers": [
+    "IDXX"
+   ],
+   "name": "IDEXX LABORATORIES INC /DE",
+   "exchange": "Nasdaq",
+   "held": [
+    "IDEXX LABORATORIES INC (IDXX)"
+   ]
+  },
+  {
+   "cik": "0000832101",
+   "ticker": "IEX",
+   "tickers": [
+    "IEX"
+   ],
+   "name": "IDEX CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "IDEX CORP (IEX)"
+   ]
+  },
+  {
+   "cik": "0000051253",
+   "ticker": "IFF",
+   "tickers": [
+    "IFF"
+   ],
+   "name": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
+   "exchange": "NYSE",
+   "held": [
+    "INTL FLAVORS + FRAGRANCES (IFF)"
+   ]
+  },
+  {
+   "cik": "0001110803",
+   "ticker": "ILMN",
+   "tickers": [
+    "ILMN"
+   ],
+   "name": "ILLUMINA, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ILLUMINA INC (ILMN)"
+   ]
+  },
+  {
+   "cik": "0000879169",
+   "ticker": "INCY",
+   "tickers": [
+    "INCY"
+   ],
+   "name": "INCYTE CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "INCYTE CORP (INCY)"
+   ]
+  },
+  {
+   "cik": "0000050863",
+   "ticker": "INTC",
+   "tickers": [
+    "INTC"
+   ],
+   "name": "INTEL CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "INTEL CORP (INTC)"
+   ]
+  },
+  {
+   "cik": "0000896878",
+   "ticker": "INTU",
+   "tickers": [
+    "INTU"
+   ],
+   "name": "INTUIT INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "INTUIT INC (INTU)"
+   ]
+  },
+  {
+   "cik": "0001687229",
+   "ticker": "INVH",
+   "tickers": [
+    "INVH"
+   ],
+   "name": "Invitation Homes Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "INVITATION HOMES INC (INVH)"
+   ]
+  },
+  {
+   "cik": "0000051434",
+   "ticker": "IP",
+   "tickers": [
+    "IP"
+   ],
+   "name": "INTERNATIONAL PAPER CO /NEW/",
+   "exchange": "NYSE",
+   "held": [
+    "INTERNATIONAL PAPER CO (IP)"
+   ]
+  },
+  {
+   "cik": "0001478242",
+   "ticker": "IQV",
+   "tickers": [
+    "IQV"
+   ],
+   "name": "IQVIA HOLDINGS INC.",
+   "exchange": "NYSE",
+   "held": [
+    "IQVIA HOLDINGS INC (IQV)"
+   ]
+  },
+  {
+   "cik": "0001699150",
+   "ticker": "IR",
+   "tickers": [
+    "IR"
+   ],
+   "name": "Ingersoll Rand Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "INGERSOLL RAND INC (IR)"
+   ]
+  },
+  {
+   "cik": "0001020569",
+   "ticker": "IRM",
+   "tickers": [
+    "IRM"
+   ],
+   "name": "IRON MOUNTAIN INC",
+   "exchange": "NYSE",
+   "held": [
+    "IRON MOUNTAIN INC (IRM)"
+   ]
+  },
+  {
+   "cik": "0001035267",
+   "ticker": "ISRG",
+   "tickers": [
+    "ISRG"
+   ],
+   "name": "INTUITIVE SURGICAL INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "INTUITIVE SURGICAL INC (ISRG)"
+   ]
+  },
+  {
+   "cik": "0000749251",
+   "ticker": "IT",
+   "tickers": [
+    "IT"
+   ],
+   "name": "GARTNER INC",
+   "exchange": "NYSE",
+   "held": [
+    "GARTNER INC (IT)"
+   ]
+  },
+  {
+   "cik": "0000049826",
+   "ticker": "ITW",
+   "tickers": [
+    "ITW"
+   ],
+   "name": "ILLINOIS TOOL WORKS INC",
+   "exchange": "NYSE",
+   "held": [
+    "ILLINOIS TOOL WORKS (ITW)"
+   ]
+  },
+  {
+   "cik": "0000914208",
+   "ticker": "IVZ",
+   "tickers": [
+    "IVZ"
+   ],
+   "name": "Invesco Ltd.",
+   "exchange": "NYSE",
+   "held": [
+    "INVESCO LTD (IVZ)"
+   ]
+  },
+  {
+   "cik": "0000052988",
+   "ticker": "J",
+   "tickers": [
+    "J"
+   ],
+   "name": "JACOBS SOLUTIONS INC.",
+   "exchange": "NYSE",
+   "held": [
+    "JACOBS SOLUTIONS INC (J)"
+   ]
+  },
+  {
+   "cik": "0000728535",
+   "ticker": "JBHT",
+   "tickers": [
+    "JBHT"
+   ],
+   "name": "HUNT J B TRANSPORT SERVICES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "HUNT (JB) TRANSPRT SVCS INC (JBHT)"
+   ]
+  },
+  {
+   "cik": "0000898293",
+   "ticker": "JBL",
+   "tickers": [
+    "JBL"
+   ],
+   "name": "JABIL INC",
+   "exchange": "NYSE",
+   "held": [
+    "JABIL INC (JBL)"
+   ]
+  },
+  {
+   "cik": "0000833444",
+   "ticker": "JCI",
+   "tickers": [
+    "JCI"
+   ],
+   "name": "Johnson Controls International plc",
+   "exchange": "NYSE",
+   "held": [
+    "JOHNSON CONTROLS INTERNATION (JCI)"
+   ]
+  },
+  {
+   "cik": "0000779152",
+   "ticker": "JKHY",
+   "tickers": [
+    "JKHY"
+   ],
+   "name": "JACK HENRY & ASSOCIATES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "JACK HENRY + ASSOCIATES INC (JKHY)"
+   ]
+  },
+  {
+   "cik": "0000200406",
+   "ticker": "JNJ",
+   "tickers": [
+    "JNJ"
+   ],
+   "name": "JOHNSON & JOHNSON",
+   "exchange": "NYSE",
+   "held": [
+    "JOHNSON + JOHNSON (JNJ)"
+   ]
+  },
+  {
+   "cik": "0000019617",
+   "ticker": "JPM",
+   "tickers": [
+    "JPM"
+   ],
+   "name": "JPMORGAN CHASE & CO",
+   "exchange": "NYSE",
+   "held": [
+    "JPMORGAN CHASE + CO (JPM)"
+   ]
+  },
+  {
+   "cik": "0001418135",
+   "ticker": "KDP",
+   "tickers": [
+    "KDP"
+   ],
+   "name": "Keurig Dr Pepper Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "KEURIG DR PEPPER INC (KDP)"
+   ]
+  },
+  {
+   "cik": "0000091576",
+   "ticker": "KEY",
+   "tickers": [
+    "KEY"
+   ],
+   "name": "KEYCORP /NEW/",
+   "exchange": "NYSE",
+   "held": [
+    "KEYCORP (KEY)"
+   ]
+  },
+  {
+   "cik": "0001601046",
+   "ticker": "KEYS",
+   "tickers": [
+    "KEYS"
+   ],
+   "name": "Keysight Technologies, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "KEYSIGHT TECHNOLOGIES IN (KEYS)"
+   ]
+  },
+  {
+   "cik": "0001637459",
+   "ticker": "KHC",
+   "tickers": [
+    "KHC"
+   ],
+   "name": "Kraft Heinz Co",
+   "exchange": "NYSE",
+   "held": [
+    "KRAFT HEINZ CO/THE (KHC)"
+   ]
+  },
+  {
+   "cik": "0000879101",
+   "ticker": "KIM",
+   "tickers": [
+    "KIM"
+   ],
+   "name": "KIMCO REALTY CORP",
+   "exchange": "NYSE",
+   "held": [
+    "KIMCO REALTY CORP (KIM)"
+   ]
+  },
+  {
+   "cik": "0001404912",
+   "ticker": "KKR",
+   "tickers": [
+    "KKR"
+   ],
+   "name": "KKR & Co. Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "KKR + CO INC (KKR)"
+   ]
+  },
+  {
+   "cik": "0000319201",
+   "ticker": "KLAC",
+   "tickers": [
+    "KLAC"
+   ],
+   "name": "KLA CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "KLA CORP (KLAC)"
+   ]
+  },
+  {
+   "cik": "0000055785",
+   "ticker": "KMB",
+   "tickers": [
+    "KMB"
+   ],
+   "name": "KIMBERLY CLARK CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "KIMBERLY CLARK CORP (KMB)"
+   ]
+  },
+  {
+   "cik": "0001506307",
+   "ticker": "KMI",
+   "tickers": [
+    "KMI"
+   ],
+   "name": "KINDER MORGAN, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "KINDER MORGAN INC (KMI)"
+   ]
+  },
+  {
+   "cik": "0000021344",
+   "ticker": "KO",
+   "tickers": [
+    "KO"
+   ],
+   "name": "COCA COLA CO",
+   "exchange": "NYSE",
+   "held": [
+    "COCA COLA CO/THE (KO)"
+   ]
+  },
+  {
+   "cik": "0000056873",
+   "ticker": "KR",
+   "tickers": [
+    "KR"
+   ],
+   "name": "KROGER CO",
+   "exchange": "NYSE",
+   "held": [
+    "KROGER CO (KR)"
+   ]
+  },
+  {
+   "cik": "0001944048",
+   "ticker": "KVUE",
+   "tickers": [
+    "KVUE"
+   ],
+   "name": "Kenvue Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "KENVUE INC (KVUE)"
+   ]
+  },
+  {
+   "cik": "0000060086",
+   "ticker": "L",
+   "tickers": [
+    "L"
+   ],
+   "name": "LOEWS CORP",
+   "exchange": "NYSE",
+   "held": [
+    "LOEWS CORP (L)"
+   ]
+  },
+  {
+   "cik": "0001336920",
+   "ticker": "LDOS",
+   "tickers": [
+    "LDOS"
+   ],
+   "name": "Leidos Holdings, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "LEIDOS HOLDINGS INC (LDOS)"
+   ]
+  },
+  {
+   "cik": "0000920760",
+   "ticker": "LEN",
+   "tickers": [
+    "LEN"
+   ],
+   "name": "LENNAR CORP /NEW/",
+   "exchange": "NYSE",
+   "held": [
+    "LENNAR CORP A (LEN)"
+   ]
+  },
+  {
+   "cik": "0000920148",
+   "ticker": "LH",
+   "tickers": [
+    "LH"
+   ],
+   "name": "LABCORP HOLDINGS INC.",
+   "exchange": "NYSE",
+   "held": [
+    "LABCORP HOLDINGS INC (LH)"
+   ]
+  },
+  {
+   "cik": "0000202058",
+   "ticker": "LHX",
+   "tickers": [
+    "LHX"
+   ],
+   "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "L3HARRIS TECHNOLOGIES INC (LHX)"
+   ]
+  },
+  {
+   "cik": "0001069202",
+   "ticker": "LII",
+   "tickers": [
+    "LII"
+   ],
+   "name": "LENNOX INTERNATIONAL INC",
+   "exchange": "NYSE",
+   "held": [
+    "LENNOX INTERNATIONAL INC (LII)"
+   ]
+  },
+  {
+   "cik": "0001707925",
+   "ticker": "LIN",
+   "tickers": [
+    "LIN"
+   ],
+   "name": "LINDE PLC",
+   "exchange": "Nasdaq",
+   "held": [
+    "LINDE PLC (LIN)"
+   ]
+  },
+  {
+   "cik": "0001633978",
+   "ticker": "LITE",
+   "tickers": [
+    "LITE"
+   ],
+   "name": "Lumentum Holdings Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "LUMENTUM HOLDINGS INC (LITE)"
+   ]
+  },
+  {
+   "cik": "0000059478",
+   "ticker": "LLY",
+   "tickers": [
+    "LLY"
+   ],
+   "name": "ELI LILLY & Co",
+   "exchange": "NYSE",
+   "held": [
+    "ELI LILLY + CO (LLY)"
+   ]
+  },
+  {
+   "cik": "0000936468",
+   "ticker": "LMT",
+   "tickers": [
+    "LMT"
+   ],
+   "name": "LOCKHEED MARTIN CORP",
+   "exchange": "NYSE",
+   "held": [
+    "LOCKHEED MARTIN CORP (LMT)"
+   ]
+  },
+  {
+   "cik": "0000352541",
+   "ticker": "LNT",
+   "tickers": [
+    "LNT"
+   ],
+   "name": "ALLIANT ENERGY CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "ALLIANT ENERGY CORP (LNT)"
+   ]
+  },
+  {
+   "cik": "0000060667",
+   "ticker": "LOW",
+   "tickers": [
+    "LOW"
+   ],
+   "name": "LOWES COMPANIES INC",
+   "exchange": "NYSE",
+   "held": [
+    "LOWE S COS INC (LOW)"
+   ]
+  },
+  {
+   "cik": "0000707549",
+   "ticker": "LRCX",
+   "tickers": [
+    "LRCX"
+   ],
+   "name": "LAM RESEARCH CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "LAM RESEARCH CORP (LRCX)"
+   ]
+  },
+  {
+   "cik": "0001397187",
+   "ticker": "LULU",
+   "tickers": [
+    "LULU"
+   ],
+   "name": "lululemon athletica inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "LULULEMON ATHLETICA INC (LULU)"
+   ]
+  },
+  {
+   "cik": "0000092380",
+   "ticker": "LUV",
+   "tickers": [
+    "LUV"
+   ],
+   "name": "SOUTHWEST AIRLINES CO",
+   "exchange": "NYSE",
+   "held": [
+    "SOUTHWEST AIRLINES CO (LUV)"
+   ]
+  },
+  {
+   "cik": "0001300514",
+   "ticker": "LVS",
+   "tickers": [
+    "LVS"
+   ],
+   "name": "LAS VEGAS SANDS CORP",
+   "exchange": "NYSE",
+   "held": [
+    "LAS VEGAS SANDS CORP (LVS)"
+   ]
+  },
+  {
+   "cik": "0001489393",
+   "ticker": "LYB",
+   "tickers": [
+    "LYB"
+   ],
+   "name": "LyondellBasell Industries N.V.",
+   "exchange": "NYSE",
+   "held": [
+    "LYONDELLBASELL INDU CL A (LYB)"
+   ]
+  },
+  {
+   "cik": "0001335258",
+   "ticker": "LYV",
+   "tickers": [
+    "LYV"
+   ],
+   "name": "Live Nation Entertainment, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "LIVE NATION ENTERTAINMENT IN (LYV)"
+   ]
+  },
+  {
+   "cik": "0001141391",
+   "ticker": "MA",
+   "tickers": [
+    "MA"
+   ],
+   "name": "Mastercard Inc",
+   "exchange": "NYSE",
+   "held": [
+    "MASTERCARD INC A (MA)"
+   ]
+  },
+  {
+   "cik": "0000912595",
+   "ticker": "MAA",
+   "tickers": [
+    "MAA"
+   ],
+   "name": "MID AMERICA APARTMENT COMMUNITIES INC.",
+   "exchange": "NYSE",
+   "held": [
+    "MID AMERICA APARTMENT COMM (MAA)"
+   ]
+  },
+  {
+   "cik": "0001048286",
+   "ticker": "MAR",
+   "tickers": [
+    "MAR"
+   ],
+   "name": "MARRIOTT INTERNATIONAL INC /MD/",
+   "exchange": "Nasdaq",
+   "held": [
+    "MARRIOTT INTERNATIONAL CL A (MAR)"
+   ]
+  },
+  {
+   "cik": "0000062996",
+   "ticker": "MAS",
+   "tickers": [
+    "MAS"
+   ],
+   "name": "MASCO CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "MASCO CORP (MAS)"
+   ]
+  },
+  {
+   "cik": "0000063908",
+   "ticker": "MCD",
+   "tickers": [
+    "MCD"
+   ],
+   "name": "MCDONALDS CORP",
+   "exchange": "NYSE",
+   "held": [
+    "MCDONALD S CORP (MCD)"
+   ]
+  },
+  {
+   "cik": "0000827054",
+   "ticker": "MCHP",
+   "tickers": [
+    "MCHP"
+   ],
+   "name": "MICROCHIP TECHNOLOGY INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "MICROCHIP TECHNOLOGY INC (MCHP)"
+   ]
+  },
+  {
+   "cik": "0000927653",
+   "ticker": "MCK",
+   "tickers": [
+    "MCK"
+   ],
+   "name": "MCKESSON CORP",
+   "exchange": "NYSE",
+   "held": [
+    "MCKESSON CORP (MCK)"
+   ]
+  },
+  {
+   "cik": "0001059556",
+   "ticker": "MCO",
+   "tickers": [
+    "MCO"
+   ],
+   "name": "MOODYS CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "MOODY S CORP (MCO)"
+   ]
+  },
+  {
+   "cik": "0001103982",
+   "ticker": "MDLZ",
+   "tickers": [
+    "MDLZ"
+   ],
+   "name": "Mondelez International, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "MONDELEZ INTERNATIONAL INC A (MDLZ)"
+   ]
+  },
+  {
+   "cik": "0001613103",
+   "ticker": "MDT",
+   "tickers": [
+    "MDT"
+   ],
+   "name": "Medtronic plc",
+   "exchange": "NYSE",
+   "held": [
+    "MEDTRONIC PLC (MDT)"
+   ]
+  },
+  {
+   "cik": "0001099219",
+   "ticker": "MET",
+   "tickers": [
+    "MET"
+   ],
+   "name": "METLIFE INC",
+   "exchange": "NYSE",
+   "held": [
+    "METLIFE INC (MET)"
+   ]
+  },
+  {
+   "cik": "0001326801",
+   "ticker": "META",
+   "tickers": [
+    "META"
+   ],
+   "name": "Meta Platforms, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "META PLATFORMS INC CLASS A (META)"
+   ]
+  },
+  {
+   "cik": "0000789570",
+   "ticker": "MGM",
+   "tickers": [
+    "MGM"
+   ],
+   "name": "MGM Resorts International",
+   "exchange": "NYSE",
+   "held": [
+    "MGM RESORTS INTERNATIONAL (MGM)"
+   ]
+  },
+  {
+   "cik": "0000063754",
+   "ticker": "MKC",
+   "tickers": [
+    "MKC"
+   ],
+   "name": "MCCORMICK & CO INC",
+   "exchange": "NYSE",
+   "held": [
+    "MCCORMICK + CO NON VTG SHRS (MKC)"
+   ]
+  },
+  {
+   "cik": "0000916076",
+   "ticker": "MLM",
+   "tickers": [
+    "MLM"
+   ],
+   "name": "MARTIN MARIETTA MATERIALS INC",
+   "exchange": "NYSE",
+   "held": [
+    "MARTIN MARIETTA MATERIALS (MLM)"
+   ]
+  },
+  {
+   "cik": "0000066740",
+   "ticker": "MMM",
+   "tickers": [
+    "MMM"
+   ],
+   "name": "3M CO",
+   "exchange": "NYSE",
+   "held": [
+    "3M CO (MMM)"
+   ]
+  },
+  {
+   "cik": "0000865752",
+   "ticker": "MNST",
+   "tickers": [
+    "MNST"
+   ],
+   "name": "Monster Beverage Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "MONSTER BEVERAGE CORP (MNST)"
+   ]
+  },
+  {
+   "cik": "0000764180",
+   "ticker": "MO",
+   "tickers": [
+    "MO"
+   ],
+   "name": "ALTRIA GROUP, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "ALTRIA GROUP INC (MO)"
+   ]
+  },
+  {
+   "cik": "0001285785",
+   "ticker": "MOS",
+   "tickers": [
+    "MOS"
+   ],
+   "name": "MOSAIC CO",
+   "exchange": "NYSE",
+   "held": [
+    "MOSAIC CO/THE (MOS)"
+   ]
+  },
+  {
+   "cik": "0001510295",
+   "ticker": "MPC",
+   "tickers": [
+    "MPC"
+   ],
+   "name": "Marathon Petroleum Corp",
+   "exchange": "NYSE",
+   "held": [
+    "MARATHON PETROLEUM CORP (MPC)"
+   ]
+  },
+  {
+   "cik": "0001280452",
+   "ticker": "MPWR",
+   "tickers": [
+    "MPWR"
+   ],
+   "name": "MONOLITHIC POWER SYSTEMS, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "MONOLITHIC POWER SYSTEMS INC (MPWR)"
+   ]
+  },
+  {
+   "cik": "0000310158",
+   "ticker": "MRK",
+   "tickers": [
+    "MRK"
+   ],
+   "name": "Merck & Co., Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "MERCK + CO. INC. (MRK)"
+   ]
+  },
+  {
+   "cik": "0001682852",
+   "ticker": "MRNA",
+   "tickers": [
+    "MRNA"
+   ],
+   "name": "Moderna, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "MODERNA INC (MRNA)"
+   ]
+  },
+  {
+   "cik": "0000062709",
+   "ticker": "MRSH",
+   "tickers": [
+    "MRSH"
+   ],
+   "name": "MARSH & MCLENNAN COMPANIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "MARSH + MCLENNAN COS (MRSH)"
+   ]
+  },
+  {
+   "cik": "0001835632",
+   "ticker": "MRVL",
+   "tickers": [
+    "MRVL"
+   ],
+   "name": "Marvell Technology, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "MARVELL TECHNOLOGY INC (MRVL)"
+   ]
+  },
+  {
+   "cik": "0000895421",
+   "ticker": "MS",
+   "tickers": [
+    "MS"
+   ],
+   "name": "MORGAN STANLEY",
+   "exchange": "NYSE",
+   "held": [
+    "MORGAN STANLEY (MS)"
+   ]
+  },
+  {
+   "cik": "0001408198",
+   "ticker": "MSCI",
+   "tickers": [
+    "MSCI"
+   ],
+   "name": "MSCI Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "MSCI INC (MSCI)"
+   ]
+  },
+  {
+   "cik": "0000789019",
+   "ticker": "MSFT",
+   "tickers": [
+    "MSFT"
+   ],
+   "name": "MICROSOFT CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "MICROSOFT CORP (MSFT)"
+   ]
+  },
+  {
+   "cik": "0000068505",
+   "ticker": "MSI",
+   "tickers": [
+    "MSI"
+   ],
+   "name": "Motorola Solutions, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "MOTOROLA SOLUTIONS INC (MSI)"
+   ]
+  },
+  {
+   "cik": "0000036270",
+   "ticker": "MTB",
+   "tickers": [
+    "MTB"
+   ],
+   "name": "M&T BANK CORP",
+   "exchange": "NYSE",
+   "held": [
+    "M + T BANK CORP (MTB)"
+   ]
+  },
+  {
+   "cik": "0001037646",
+   "ticker": "MTD",
+   "tickers": [
+    "MTD"
+   ],
+   "name": "METTLER TOLEDO INTERNATIONAL INC/",
+   "exchange": "NYSE",
+   "held": [
+    "METTLER TOLEDO INTERNATIONAL (MTD)"
+   ]
+  },
+  {
+   "cik": "0000723125",
+   "ticker": "MU",
+   "tickers": [
+    "MU"
+   ],
+   "name": "MICRON TECHNOLOGY INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "MICRON TECHNOLOGY INC (MU)"
+   ]
+  },
+  {
+   "cik": "0001513761",
+   "ticker": "NCLH",
+   "tickers": [
+    "NCLH"
+   ],
+   "name": "Norwegian Cruise Line Holdings Ltd.",
+   "exchange": "NYSE",
+   "held": [
+    "NORWEGIAN CRUISE LINE HOLDIN (NCLH)"
+   ]
+  },
+  {
+   "cik": "0001120193",
+   "ticker": "NDAQ",
+   "tickers": [
+    "NDAQ"
+   ],
+   "name": "NASDAQ, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "NASDAQ INC (NDAQ)"
+   ]
+  },
+  {
+   "cik": "0000072331",
+   "ticker": "NDSN",
+   "tickers": [
+    "NDSN"
+   ],
+   "name": "NORDSON CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "NORDSON CORP (NDSN)"
+   ]
+  },
+  {
+   "cik": "0000753308",
+   "ticker": "NEE",
+   "tickers": [
+    "NEE"
+   ],
+   "name": "NEXTERA ENERGY INC",
+   "exchange": "NYSE",
+   "held": [
+    "NEXTERA ENERGY INC (NEE)"
+   ]
+  },
+  {
+   "cik": "0001164727",
+   "ticker": "NEM",
+   "tickers": [
+    "NEM"
+   ],
+   "name": "NEWMONT Corp /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "NEWMONT CORP (NEM)"
+   ]
+  },
+  {
+   "cik": "0001065280",
+   "ticker": "NFLX",
+   "tickers": [
+    "NFLX"
+   ],
+   "name": "NETFLIX INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "NETFLIX INC (NFLX)"
+   ]
+  },
+  {
+   "cik": "0001111711",
+   "ticker": "NI",
+   "tickers": [
+    "NI"
+   ],
+   "name": "NISOURCE INC.",
+   "exchange": "NYSE",
+   "held": [
+    "NISOURCE INC (NI)"
+   ]
+  },
+  {
+   "cik": "0000320187",
+   "ticker": "NKE",
+   "tickers": [
+    "NKE"
+   ],
+   "name": "NIKE, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "NIKE INC CL B (NKE)"
+   ]
+  },
+  {
+   "cik": "0001133421",
+   "ticker": "NOC",
+   "tickers": [
+    "NOC"
+   ],
+   "name": "NORTHROP GRUMMAN CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "NORTHROP GRUMMAN CORP (NOC)"
+   ]
+  },
+  {
+   "cik": "0001373715",
+   "ticker": "NOW",
+   "tickers": [
+    "NOW"
+   ],
+   "name": "ServiceNow, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "SERVICENOW INC (NOW)"
+   ]
+  },
+  {
+   "cik": "0001013871",
+   "ticker": "NRG",
+   "tickers": [
+    "NRG"
+   ],
+   "name": "NRG ENERGY, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "NRG ENERGY INC (NRG)"
+   ]
+  },
+  {
+   "cik": "0000702165",
+   "ticker": "NSC",
+   "tickers": [
+    "NSC"
+   ],
+   "name": "NORFOLK SOUTHERN CORP",
+   "exchange": "NYSE",
+   "held": [
+    "NORFOLK SOUTHERN CORP (NSC)"
+   ]
+  },
+  {
+   "cik": "0001002047",
+   "ticker": "NTAP",
+   "tickers": [
+    "NTAP"
+   ],
+   "name": "NetApp, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "NETAPP INC (NTAP)"
+   ]
+  },
+  {
+   "cik": "0000073124",
+   "ticker": "NTRS",
+   "tickers": [
+    "NTRS"
+   ],
+   "name": "NORTHERN TRUST CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "NORTHERN TRUST CORP (NTRS)"
+   ]
+  },
+  {
+   "cik": "0000073309",
+   "ticker": "NUE",
+   "tickers": [
+    "NUE"
+   ],
+   "name": "NUCOR CORP",
+   "exchange": "NYSE",
+   "held": [
+    "NUCOR CORP (NUE)"
+   ]
+  },
+  {
+   "cik": "0001045810",
+   "ticker": "NVDA",
+   "tickers": [
+    "NVDA"
+   ],
+   "name": "NVIDIA CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "NVIDIA CORP (NVDA)"
+   ]
+  },
+  {
+   "cik": "0000906163",
+   "ticker": "NVR",
+   "tickers": [
+    "NVR"
+   ],
+   "name": "NVR INC",
+   "exchange": "NYSE",
+   "held": [
+    "NVR INC (NVR)"
+   ]
+  },
+  {
+   "cik": "0001564708",
+   "ticker": "NWSA",
+   "tickers": [
+    "NWSA",
+    "NWS"
+   ],
+   "name": "NEWS CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "NEWS CORP CLASS A (NWSA)",
+    "NEWS CORP CLASS B (NWS)"
+   ]
+  },
+  {
+   "cik": "0001413447",
+   "ticker": "NXPI",
+   "tickers": [
+    "NXPI"
+   ],
+   "name": "NXP Semiconductors N.V.",
+   "exchange": "Nasdaq",
+   "held": [
+    "NXP SEMICONDUCTORS NV (NXPI)"
+   ]
+  },
+  {
+   "cik": "0000726728",
+   "ticker": "O",
+   "tickers": [
+    "O"
+   ],
+   "name": "REALTY INCOME CORP",
+   "exchange": "NYSE",
+   "held": [
+    "REALTY INCOME CORP (O)"
+   ]
+  },
+  {
+   "cik": "0000878927",
+   "ticker": "ODFL",
+   "tickers": [
+    "ODFL"
+   ],
+   "name": "OLD DOMINION FREIGHT LINE, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "OLD DOMINION FREIGHT LINE (ODFL)"
+   ]
+  },
+  {
+   "cik": "0001039684",
+   "ticker": "OKE",
+   "tickers": [
+    "OKE"
+   ],
+   "name": "ONEOK INC /NEW/",
+   "exchange": "NYSE",
+   "held": [
+    "ONEOK INC (OKE)"
+   ]
+  },
+  {
+   "cik": "0000029989",
+   "ticker": "OMC",
+   "tickers": [
+    "OMC"
+   ],
+   "name": "OMNICOM GROUP INC.",
+   "exchange": "NYSE",
+   "held": [
+    "OMNICOM GROUP (OMC)"
+   ]
+  },
+  {
+   "cik": "0001097864",
+   "ticker": "ON",
+   "tickers": [
+    "ON"
+   ],
+   "name": "ON SEMICONDUCTOR CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "ON SEMICONDUCTOR (ON)"
+   ]
+  },
+  {
+   "cik": "0001341439",
+   "ticker": "ORCL",
+   "tickers": [
+    "ORCL"
+   ],
+   "name": "ORACLE CORP",
+   "exchange": "NYSE",
+   "held": [
+    "ORACLE CORP (ORCL)"
+   ]
+  },
+  {
+   "cik": "0000898173",
+   "ticker": "ORLY",
+   "tickers": [
+    "ORLY"
+   ],
+   "name": "O REILLY AUTOMOTIVE INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "O REILLY AUTOMOTIVE INC (ORLY)"
+   ]
+  },
+  {
+   "cik": "0001781335",
+   "ticker": "OTIS",
+   "tickers": [
+    "OTIS"
+   ],
+   "name": "Otis Worldwide Corp",
+   "exchange": "NYSE",
+   "held": [
+    "OTIS WORLDWIDE CORP (OTIS)"
+   ]
+  },
+  {
+   "cik": "0000797468",
+   "ticker": "OXY",
+   "tickers": [
+    "OXY"
+   ],
+   "name": "OCCIDENTAL PETROLEUM CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "OCCIDENTAL PETROLEUM CORP (OXY)"
+   ]
+  },
+  {
+   "cik": "0001474432",
+   "ticker": "P",
+   "tickers": [
+    "P"
+   ],
+   "name": "Everpure, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "EVERPURE INC A (P)"
+   ]
+  },
+  {
+   "cik": "0001327567",
+   "ticker": "PANW",
+   "tickers": [
+    "PANW"
+   ],
+   "name": "Palo Alto Networks Inc",
+   "exchange": "Nasdaq",
+   "held": [
+    "PALO ALTO NETWORKS INC (PANW)"
+   ]
+  },
+  {
+   "cik": "0000723531",
+   "ticker": "PAYX",
+   "tickers": [
+    "PAYX"
+   ],
+   "name": "PAYCHEX INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "PAYCHEX INC (PAYX)"
+   ]
+  },
+  {
+   "cik": "0000075362",
+   "ticker": "PCAR",
+   "tickers": [
+    "PCAR"
+   ],
+   "name": "PACCAR INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "PACCAR INC (PCAR)"
+   ]
+  },
+  {
+   "cik": "0001004980",
+   "ticker": "PCG",
+   "tickers": [
+    "PCG"
+   ],
+   "name": "PG&E Corp",
+   "exchange": "NYSE",
+   "held": [
+    "P G + E CORP (PCG)"
+   ]
+  },
+  {
+   "cik": "0000788784",
+   "ticker": "PEG",
+   "tickers": [
+    "PEG"
+   ],
+   "name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+   "exchange": "NYSE",
+   "held": [
+    "PUBLIC SERVICE ENTERPRISE GP (PEG)"
+   ]
+  },
+  {
+   "cik": "0000077476",
+   "ticker": "PEP",
+   "tickers": [
+    "PEP"
+   ],
+   "name": "PEPSICO INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "PEPSICO INC (PEP)"
+   ]
+  },
+  {
+   "cik": "0000078003",
+   "ticker": "PFE",
+   "tickers": [
+    "PFE"
+   ],
+   "name": "PFIZER INC",
+   "exchange": "NYSE",
+   "held": [
+    "PFIZER INC (PFE)"
+   ]
+  },
+  {
+   "cik": "0001126328",
+   "ticker": "PFG",
+   "tickers": [
+    "PFG"
+   ],
+   "name": "PRINCIPAL FINANCIAL GROUP INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "PRINCIPAL FINANCIAL GROUP (PFG)"
+   ]
+  },
+  {
+   "cik": "0000080424",
+   "ticker": "PG",
+   "tickers": [
+    "PG"
+   ],
+   "name": "PROCTER & GAMBLE Co",
+   "exchange": "NYSE",
+   "held": [
+    "PROCTER + GAMBLE CO/THE (PG)"
+   ]
+  },
+  {
+   "cik": "0000080661",
+   "ticker": "PGR",
+   "tickers": [
+    "PGR"
+   ],
+   "name": "PROGRESSIVE CORP/OH/",
+   "exchange": "NYSE",
+   "held": [
+    "PROGRESSIVE CORP (PGR)"
+   ]
+  },
+  {
+   "cik": "0000076334",
+   "ticker": "PH",
+   "tickers": [
+    "PH"
+   ],
+   "name": "Parker-Hannifin Corp",
+   "exchange": "NYSE",
+   "held": [
+    "PARKER HANNIFIN CORP (PH)"
+   ]
+  },
+  {
+   "cik": "0000822416",
+   "ticker": "PHM",
+   "tickers": [
+    "PHM"
+   ],
+   "name": "PULTEGROUP INC/MI/",
+   "exchange": "NYSE",
+   "held": [
+    "PULTEGROUP INC (PHM)"
+   ]
+  },
+  {
+   "cik": "0000075677",
+   "ticker": "PKG",
+   "tickers": [
+    "PKG"
+   ],
+   "name": "PACKAGING CORP OF AMERICA",
+   "exchange": "NYSE",
+   "held": [
+    "PACKAGING CORP OF AMERICA (PKG)"
+   ]
+  },
+  {
+   "cik": "0001045609",
+   "ticker": "PLD",
+   "tickers": [
+    "PLD"
+   ],
+   "name": "Prologis, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "PROLOGIS INC (PLD)"
+   ]
+  },
+  {
+   "cik": "0001321655",
+   "ticker": "PLTR",
+   "tickers": [
+    "PLTR"
+   ],
+   "name": "Palantir Technologies Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "PALANTIR TECHNOLOGIES INC A (PLTR)"
+   ]
+  },
+  {
+   "cik": "0001413329",
+   "ticker": "PM",
+   "tickers": [
+    "PM"
+   ],
+   "name": "Philip Morris International Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "PHILIP MORRIS INTERNATIONAL (PM)"
+   ]
+  },
+  {
+   "cik": "0000713676",
+   "ticker": "PNC",
+   "tickers": [
+    "PNC"
+   ],
+   "name": "PNC FINANCIAL SERVICES GROUP, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "PNC FINANCIAL SERVICES GROUP (PNC)"
+   ]
+  },
+  {
+   "cik": "0000077360",
+   "ticker": "PNR",
+   "tickers": [
+    "PNR"
+   ],
+   "name": "PENTAIR plc",
+   "exchange": "NYSE",
+   "held": [
+    "PENTAIR PLC (PNR)"
+   ]
+  },
+  {
+   "cik": "0000764622",
+   "ticker": "PNW",
+   "tickers": [
+    "PNW"
+   ],
+   "name": "PINNACLE WEST CAPITAL CORP",
+   "exchange": "NYSE",
+   "held": [
+    "PINNACLE WEST CAPITAL (PNW)"
+   ]
+  },
+  {
+   "cik": "0001145197",
+   "ticker": "PODD",
+   "tickers": [
+    "PODD"
+   ],
+   "name": "INSULET CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "INSULET CORP (PODD)"
+   ]
+  },
+  {
+   "cik": "0000079879",
+   "ticker": "PPG",
+   "tickers": [
+    "PPG"
+   ],
+   "name": "PPG INDUSTRIES INC",
+   "exchange": "NYSE",
+   "held": [
+    "PPG INDUSTRIES INC (PPG)"
+   ]
+  },
+  {
+   "cik": "0000922224",
+   "ticker": "PPL",
+   "tickers": [
+    "PPL"
+   ],
+   "name": "PPL Corp",
+   "exchange": "NYSE",
+   "held": [
+    "PPL CORP (PPL)"
+   ]
+  },
+  {
+   "cik": "0001137774",
+   "ticker": "PRU",
+   "tickers": [
+    "PRU"
+   ],
+   "name": "PRUDENTIAL FINANCIAL INC",
+   "exchange": "NYSE",
+   "held": [
+    "PRUDENTIAL FINANCIAL INC (PRU)"
+   ]
+  },
+  {
+   "cik": "0001393311",
+   "ticker": "PSA",
+   "tickers": [
+    "PSA"
+   ],
+   "name": "Public Storage",
+   "exchange": "NYSE",
+   "held": [
+    "PUBLIC STORAGE (PSA)"
+   ]
+  },
+  {
+   "cik": "0001534701",
+   "ticker": "PSX",
+   "tickers": [
+    "PSX"
+   ],
+   "name": "Phillips 66",
+   "exchange": "NYSE",
+   "held": [
+    "PHILLIPS 66 (PSX)"
+   ]
+  },
+  {
+   "cik": "0000857005",
+   "ticker": "PTC",
+   "tickers": [
+    "PTC"
+   ],
+   "name": "PTC INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "PTC INC (PTC)"
+   ]
+  },
+  {
+   "cik": "0001050915",
+   "ticker": "PWR",
+   "tickers": [
+    "PWR"
+   ],
+   "name": "QUANTA SERVICES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "QUANTA SERVICES INC (PWR)"
+   ]
+  },
+  {
+   "cik": "0001633917",
+   "ticker": "PYPL",
+   "tickers": [
+    "PYPL"
+   ],
+   "name": "PayPal Holdings, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "PAYPAL HOLDINGS INC (PYPL)"
+   ]
+  },
+  {
+   "cik": "0002058873",
+   "ticker": "Q",
+   "tickers": [
+    "Q"
+   ],
+   "name": "Qnity Electronics, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "QNITY ELECTRONICS INC (Q)"
+   ]
+  },
+  {
+   "cik": "0000804328",
+   "ticker": "QCOM",
+   "tickers": [
+    "QCOM"
+   ],
+   "name": "QUALCOMM INC/DE",
+   "exchange": "Nasdaq",
+   "held": [
+    "QUALCOMM INC (QCOM)"
+   ]
+  },
+  {
+   "cik": "0000884887",
+   "ticker": "RCL",
+   "tickers": [
+    "RCL"
+   ],
+   "name": "ROYAL CARIBBEAN CRUISES LTD",
+   "exchange": "NYSE",
+   "held": [
+    "ROYAL CARIBBEAN CRUISES LTD (RCL)"
+   ]
+  },
+  {
+   "cik": "0001713445",
+   "ticker": "RDDT",
+   "tickers": [
+    "RDDT"
+   ],
+   "name": "Reddit, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "REDDIT INC CL A (RDDT)"
+   ]
+  },
+  {
+   "cik": "0000910606",
+   "ticker": "REG",
+   "tickers": [
+    "REG"
+   ],
+   "name": "REGENCY CENTERS CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "REGENCY CENTERS CORP (REG)"
+   ]
+  },
+  {
+   "cik": "0000872589",
+   "ticker": "REGN",
+   "tickers": [
+    "REGN"
+   ],
+   "name": "REGENERON PHARMACEUTICALS, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "REGENERON PHARMACEUTICALS (REGN)"
+   ]
+  },
+  {
+   "cik": "0001281761",
+   "ticker": "RF",
+   "tickers": [
+    "RF"
+   ],
+   "name": "REGIONS FINANCIAL CORP",
+   "exchange": "NYSE",
+   "held": [
+    "REGIONS FINANCIAL CORP (RF)"
+   ]
+  },
+  {
+   "cik": "0000720005",
+   "ticker": "RJF",
+   "tickers": [
+    "RJF"
+   ],
+   "name": "RAYMOND JAMES FINANCIAL INC",
+   "exchange": "NYSE",
+   "held": [
+    "RAYMOND JAMES FINANCIAL INC (RJF)"
+   ]
+  },
+  {
+   "cik": "0001037038",
+   "ticker": "RL",
+   "tickers": [
+    "RL"
+   ],
+   "name": "RALPH LAUREN CORP",
+   "exchange": "NYSE",
+   "held": [
+    "RALPH LAUREN CORP (RL)"
+   ]
+  },
+  {
+   "cik": "0000943819",
+   "ticker": "RMD",
+   "tickers": [
+    "RMD"
+   ],
+   "name": "RESMED INC",
+   "exchange": "NYSE",
+   "held": [
+    "RESMED INC (RMD)"
+   ]
+  },
+  {
+   "cik": "0001024478",
+   "ticker": "ROK",
+   "tickers": [
+    "ROK"
+   ],
+   "name": "ROCKWELL AUTOMATION, INC",
+   "exchange": "NYSE",
+   "held": [
+    "ROCKWELL AUTOMATION INC (ROK)"
+   ]
+  },
+  {
+   "cik": "0000084839",
+   "ticker": "ROL",
+   "tickers": [
+    "ROL"
+   ],
+   "name": "ROLLINS INC",
+   "exchange": "NYSE",
+   "held": [
+    "ROLLINS INC (ROL)"
+   ]
+  },
+  {
+   "cik": "0000882835",
+   "ticker": "ROP",
+   "tickers": [
+    "ROP"
+   ],
+   "name": "ROPER TECHNOLOGIES INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "ROPER TECHNOLOGIES INC (ROP)"
+   ]
+  },
+  {
+   "cik": "0000745732",
+   "ticker": "ROST",
+   "tickers": [
+    "ROST"
+   ],
+   "name": "ROSS STORES, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ROSS STORES INC (ROST)"
+   ]
+  },
+  {
+   "cik": "0001060391",
+   "ticker": "RSG",
+   "tickers": [
+    "RSG"
+   ],
+   "name": "REPUBLIC SERVICES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "REPUBLIC SERVICES INC (RSG)"
+   ]
+  },
+  {
+   "cik": "0000101829",
+   "ticker": "RTX",
+   "tickers": [
+    "RTX"
+   ],
+   "name": "RTX Corp",
+   "exchange": "NYSE",
+   "held": [
+    "RTX CORP (RTX)"
+   ]
+  },
+  {
+   "cik": "0000031791",
+   "ticker": "RVTY",
+   "tickers": [
+    "RVTY"
+   ],
+   "name": "REVVITY, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "REVVITY INC (RVTY)"
+   ]
+  },
+  {
+   "cik": "0001034054",
+   "ticker": "SBAC",
+   "tickers": [
+    "SBAC"
+   ],
+   "name": "SBA COMMUNICATIONS CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "SBA COMMUNICATIONS CORP (SBAC)"
+   ]
+  },
+  {
+   "cik": "0000829224",
+   "ticker": "SBUX",
+   "tickers": [
+    "SBUX"
+   ],
+   "name": "STARBUCKS CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "STARBUCKS CORP (SBUX)"
+   ]
+  },
+  {
+   "cik": "0000316709",
+   "ticker": "SCHW",
+   "tickers": [
+    "SCHW"
+   ],
+   "name": "SCHWAB CHARLES CORP",
+   "exchange": "NYSE",
+   "held": [
+    "SCHWAB (CHARLES) CORP (SCHW)"
+   ]
+  },
+  {
+   "cik": "0000089800",
+   "ticker": "SHW",
+   "tickers": [
+    "SHW"
+   ],
+   "name": "SHERWIN WILLIAMS CO",
+   "exchange": "NYSE",
+   "held": [
+    "SHERWIN WILLIAMS CO/THE (SHW)"
+   ]
+  },
+  {
+   "cik": "0000091419",
+   "ticker": "SJM",
+   "tickers": [
+    "SJM"
+   ],
+   "name": "J M SMUCKER Co",
+   "exchange": "NYSE",
+   "held": [
+    "JM SMUCKER CO/THE (SJM)"
+   ]
+  },
+  {
+   "cik": "0002041610",
+   "ticker": "SKYD",
+   "tickers": [
+    "SKYD"
+   ],
+   "name": "Skydance Corp",
+   "exchange": "NYSE",
+   "held": [
+    "SKYDANCE CORP (SKYD)"
+   ]
+  },
+  {
+   "cik": "0000087347",
+   "ticker": "SLB",
+   "tickers": [
+    "SLB"
+   ],
+   "name": "SLB LIMITED/NV",
+   "exchange": "NYSE",
+   "held": [
+    "SLB LTD (SLB)"
+   ]
+  },
+  {
+   "cik": "0001375365",
+   "ticker": "SMCI",
+   "tickers": [
+    "SMCI"
+   ],
+   "name": "Super Micro Computer, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "SUPER MICRO COMPUTER INC (SMCI)"
+   ]
+  },
+  {
+   "cik": "0000091440",
+   "ticker": "SNA",
+   "tickers": [
+    "SNA"
+   ],
+   "name": "Snap-on Inc",
+   "exchange": "NYSE",
+   "held": [
+    "SNAP ON INC (SNA)"
+   ]
+  },
+  {
+   "cik": "0002023554",
+   "ticker": "SNDK",
+   "tickers": [
+    "SNDK"
+   ],
+   "name": "Sandisk Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "SANDISK CORP (SNDK)"
+   ]
+  },
+  {
+   "cik": "0000883241",
+   "ticker": "SNPS",
+   "tickers": [
+    "SNPS"
+   ],
+   "name": "SYNOPSYS INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "SYNOPSYS INC (SNPS)"
+   ]
+  },
+  {
+   "cik": "0000092122",
+   "ticker": "SO",
+   "tickers": [
+    "SO"
+   ],
+   "name": "SOUTHERN CO",
+   "exchange": "NYSE",
+   "held": [
+    "SOUTHERN CO/THE (SO)"
+   ]
+  },
+  {
+   "cik": "0001964738",
+   "ticker": "SOLV",
+   "tickers": [
+    "SOLV"
+   ],
+   "name": "Solventum Corp",
+   "exchange": "NYSE",
+   "held": [
+    "SOLVENTUM CORP (SOLV)"
+   ]
+  },
+  {
+   "cik": "0001063761",
+   "ticker": "SPG",
+   "tickers": [
+    "SPG"
+   ],
+   "name": "SIMON PROPERTY GROUP INC.",
+   "exchange": "NYSE",
+   "held": [
+    "SIMON PROPERTY GROUP INC (SPG)"
+   ]
+  },
+  {
+   "cik": "0000064040",
+   "ticker": "SPGI",
+   "tickers": [
+    "SPGI"
+   ],
+   "name": "S&P Global Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "S+P GLOBAL INC (SPGI)"
+   ]
+  },
+  {
+   "cik": "0001032208",
+   "ticker": "SRE",
+   "tickers": [
+    "SRE"
+   ],
+   "name": "SEMPRA",
+   "exchange": "NYSE",
+   "held": [
+    "SEMPRA (SRE)"
+   ]
+  },
+  {
+   "cik": "0001757898",
+   "ticker": "STE",
+   "tickers": [
+    "STE"
+   ],
+   "name": "STERIS plc",
+   "exchange": "NYSE",
+   "held": [
+    "STERIS PLC (STE)"
+   ]
+  },
+  {
+   "cik": "0001022671",
+   "ticker": "STLD",
+   "tickers": [
+    "STLD"
+   ],
+   "name": "STEEL DYNAMICS INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "STEEL DYNAMICS INC (STLD)"
+   ]
+  },
+  {
+   "cik": "0000093751",
+   "ticker": "STT",
+   "tickers": [
+    "STT"
+   ],
+   "name": "STATE STREET CORP",
+   "exchange": "NYSE",
+   "held": [
+    "STATE STREET CORP (STT)"
+   ]
+  },
+  {
+   "cik": "0001137789",
+   "ticker": "STX",
+   "tickers": [
+    "STX"
+   ],
+   "name": "Seagate Technology Holdings plc",
+   "exchange": "Nasdaq",
+   "held": [
+    "SEAGATE TECHNOLOGY HOLDINGS (STX)"
+   ]
+  },
+  {
+   "cik": "0000016918",
+   "ticker": "STZ",
+   "tickers": [
+    "STZ"
+   ],
+   "name": "CONSTELLATION BRANDS, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "CONSTELLATION BRANDS INC A (STZ)"
+   ]
+  },
+  {
+   "cik": "0002005951",
+   "ticker": "SW",
+   "tickers": [
+    "SW"
+   ],
+   "name": "Smurfit Westrock plc",
+   "exchange": "NYSE",
+   "held": [
+    "SMURFIT WESTROCK PLC (SW)"
+   ]
+  },
+  {
+   "cik": "0000093556",
+   "ticker": "SWK",
+   "tickers": [
+    "SWK"
+   ],
+   "name": "STANLEY BLACK & DECKER, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "STANLEY BLACK + DECKER INC (SWK)"
+   ]
+  },
+  {
+   "cik": "0000004127",
+   "ticker": "SWKS",
+   "tickers": [
+    "SWKS"
+   ],
+   "name": "SKYWORKS SOLUTIONS, INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "SKYWORKS SOLUTIONS INC (SWKS)"
+   ]
+  },
+  {
+   "cik": "0001601712",
+   "ticker": "SYF",
+   "tickers": [
+    "SYF"
+   ],
+   "name": "Synchrony Financial",
+   "exchange": "NYSE",
+   "held": [
+    "SYNCHRONY FINANCIAL (SYF)"
+   ]
+  },
+  {
+   "cik": "0000310764",
+   "ticker": "SYK",
+   "tickers": [
+    "SYK"
+   ],
+   "name": "STRYKER CORP",
+   "exchange": "NYSE",
+   "held": [
+    "STRYKER CORP (SYK)"
+   ]
+  },
+  {
+   "cik": "0000096021",
+   "ticker": "SYY",
+   "tickers": [
+    "SYY"
+   ],
+   "name": "SYSCO CORP",
+   "exchange": "NYSE",
+   "held": [
+    "SYSCO CORP (SYY)"
+   ]
+  },
+  {
+   "cik": "0000732717",
+   "ticker": "T",
+   "tickers": [
+    "T"
+   ],
+   "name": "AT&T INC.",
+   "exchange": "NYSE",
+   "held": [
+    "AT+T INC (T)"
+   ]
+  },
+  {
+   "cik": "0001260221",
+   "ticker": "TDG",
+   "tickers": [
+    "TDG"
+   ],
+   "name": "TransDigm Group INC",
+   "exchange": "NYSE",
+   "held": [
+    "TRANSDIGM GROUP INC (TDG)"
+   ]
+  },
+  {
+   "cik": "0001094285",
+   "ticker": "TDY",
+   "tickers": [
+    "TDY"
+   ],
+   "name": "TELEDYNE TECHNOLOGIES INC",
+   "exchange": "NYSE",
+   "held": [
+    "TELEDYNE TECHNOLOGIES INC (TDY)"
+   ]
+  },
+  {
+   "cik": "0000842023",
+   "ticker": "TECH",
+   "tickers": [
+    "TECH"
+   ],
+   "name": "BIO-TECHNE Corp",
+   "exchange": "Nasdaq",
+   "held": [
+    "BIO TECHNE CORP (TECH)"
+   ]
+  },
+  {
+   "cik": "0001385157",
+   "ticker": "TEL",
+   "tickers": [
+    "TEL"
+   ],
+   "name": "TE Connectivity plc",
+   "exchange": "NYSE",
+   "held": [
+    "TE CONNECTIVITY PLC (TEL)"
+   ]
+  },
+  {
+   "cik": "0000097210",
+   "ticker": "TER",
+   "tickers": [
+    "TER"
+   ],
+   "name": "TERADYNE, INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "TERADYNE INC (TER)"
+   ]
+  },
+  {
+   "cik": "0000092230",
+   "ticker": "TFC",
+   "tickers": [
+    "TFC"
+   ],
+   "name": "TRUIST FINANCIAL CORP",
+   "exchange": "NYSE",
+   "held": [
+    "TRUIST FINANCIAL CORP (TFC)"
+   ]
+  },
+  {
+   "cik": "0000027419",
+   "ticker": "TGT",
+   "tickers": [
+    "TGT"
+   ],
+   "name": "TARGET CORP",
+   "exchange": "NYSE",
+   "held": [
+    "TARGET CORP (TGT)"
+   ]
+  },
+  {
+   "cik": "0000109198",
+   "ticker": "TJX",
+   "tickers": [
+    "TJX"
+   ],
+   "name": "TJX COMPANIES INC /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "TJX COMPANIES INC (TJX)"
+   ]
+  },
+  {
+   "cik": "0001973266",
+   "ticker": "TKO",
+   "tickers": [
+    "TKO"
+   ],
+   "name": "TKO Group Holdings, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "TKO GROUP HOLDINGS INC (TKO)"
+   ]
+  },
+  {
+   "cik": "0000097745",
+   "ticker": "TMO",
+   "tickers": [
+    "TMO"
+   ],
+   "name": "THERMO FISHER SCIENTIFIC INC.",
+   "exchange": "NYSE",
+   "held": [
+    "THERMO FISHER SCIENTIFIC INC (TMO)"
+   ]
+  },
+  {
+   "cik": "0001283699",
+   "ticker": "TMUS",
+   "tickers": [
+    "TMUS"
+   ],
+   "name": "T-Mobile US, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "T MOBILE US INC (TMUS)"
+   ]
+  },
+  {
+   "cik": "0001811074",
+   "ticker": "TPL",
+   "tickers": [
+    "TPL"
+   ],
+   "name": "Texas Pacific Land Corp",
+   "exchange": "NYSE",
+   "held": [
+    "TEXAS PACIFIC LAND CORP (TPL)"
+   ]
+  },
+  {
+   "cik": "0001116132",
+   "ticker": "TPR",
+   "tickers": [
+    "TPR"
+   ],
+   "name": "TAPESTRY, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "TAPESTRY INC (TPR)"
+   ]
+  },
+  {
+   "cik": "0001389170",
+   "ticker": "TRGP",
+   "tickers": [
+    "TRGP"
+   ],
+   "name": "Targa Resources Corp.",
+   "exchange": "NYSE",
+   "held": [
+    "TARGA RESOURCES CORP (TRGP)"
+   ]
+  },
+  {
+   "cik": "0000864749",
+   "ticker": "TRMB",
+   "tickers": [
+    "TRMB"
+   ],
+   "name": "TRIMBLE INC.",
+   "exchange": "Nasdaq",
+   "held": [
+    "TRIMBLE INC (TRMB)"
+   ]
+  },
+  {
+   "cik": "0001113169",
+   "ticker": "TROW",
+   "tickers": [
+    "TROW"
+   ],
+   "name": "PRICE T ROWE GROUP INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "T ROWE PRICE GROUP INC (TROW)"
+   ]
+  },
+  {
+   "cik": "0000086312",
+   "ticker": "TRV",
+   "tickers": [
+    "TRV"
+   ],
+   "name": "TRAVELERS COMPANIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "TRAVELERS COS INC/THE (TRV)"
+   ]
+  },
+  {
+   "cik": "0000916365",
+   "ticker": "TSCO",
+   "tickers": [
+    "TSCO"
+   ],
+   "name": "TRACTOR SUPPLY CO /DE/",
+   "exchange": "Nasdaq",
+   "held": [
+    "TRACTOR SUPPLY COMPANY (TSCO)"
+   ]
+  },
+  {
+   "cik": "0001318605",
+   "ticker": "TSLA",
+   "tickers": [
+    "TSLA"
+   ],
+   "name": "Tesla, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "TESLA INC (TSLA)"
+   ]
+  },
+  {
+   "cik": "0000100493",
+   "ticker": "TSN",
+   "tickers": [
+    "TSN"
+   ],
+   "name": "TYSON FOODS, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "TYSON FOODS INC CL A (TSN)"
+   ]
+  },
+  {
+   "cik": "0001466258",
+   "ticker": "TT",
+   "tickers": [
+    "TT"
+   ],
+   "name": "Trane Technologies plc",
+   "exchange": "NYSE",
+   "held": [
+    "TRANE TECHNOLOGIES PLC (TT)"
+   ]
+  },
+  {
+   "cik": "0000946581",
+   "ticker": "TTWO",
+   "tickers": [
+    "TTWO"
+   ],
+   "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "TAKE TWO INTERACTIVE SOFTWRE (TTWO)"
+   ]
+  },
+  {
+   "cik": "0001447669",
+   "ticker": "TWLO",
+   "tickers": [
+    "TWLO"
+   ],
+   "name": "TWILIO INC",
+   "exchange": "NYSE",
+   "held": [
+    "TWILIO INC A (TWLO)"
+   ]
+  },
+  {
+   "cik": "0000097476",
+   "ticker": "TXN",
+   "tickers": [
+    "TXN"
+   ],
+   "name": "TEXAS INSTRUMENTS INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "TEXAS INSTRUMENTS INC (TXN)"
+   ]
+  },
+  {
+   "cik": "0000217346",
+   "ticker": "TXT",
+   "tickers": [
+    "TXT"
+   ],
+   "name": "TEXTRON INC",
+   "exchange": "NYSE",
+   "held": [
+    "TEXTRON INC (TXT)"
+   ]
+  },
+  {
+   "cik": "0000860731",
+   "ticker": "TYL",
+   "tickers": [
+    "TYL"
+   ],
+   "name": "TYLER TECHNOLOGIES INC",
+   "exchange": "NYSE",
+   "held": [
+    "TYLER TECHNOLOGIES INC (TYL)"
+   ]
+  },
+  {
+   "cik": "0000100517",
+   "ticker": "UAL",
+   "tickers": [
+    "UAL"
+   ],
+   "name": "United Airlines Holdings, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "UNITED AIRLINES HOLDINGS INC (UAL)"
+   ]
+  },
+  {
+   "cik": "0001543151",
+   "ticker": "UBER",
+   "tickers": [
+    "UBER"
+   ],
+   "name": "Uber Technologies, Inc",
+   "exchange": "NYSE",
+   "held": [
+    "UBER TECHNOLOGIES INC (UBER)"
+   ]
+  },
+  {
+   "cik": "0000074208",
+   "ticker": "UDR",
+   "tickers": [
+    "UDR"
+   ],
+   "name": "UDR, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "UDR INC (UDR)"
+   ]
+  },
+  {
+   "cik": "0000352915",
+   "ticker": "UHS",
+   "tickers": [
+    "UHS"
+   ],
+   "name": "UNIVERSAL HEALTH SERVICES INC",
+   "exchange": "NYSE",
+   "held": [
+    "UNIVERSAL HEALTH SERVICES B (UHS)"
+   ]
+  },
+  {
+   "cik": "0001403568",
+   "ticker": "ULTA",
+   "tickers": [
+    "ULTA"
+   ],
+   "name": "Ulta Beauty, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "ULTA BEAUTY INC (ULTA)"
+   ]
+  },
+  {
+   "cik": "0000731766",
+   "ticker": "UNH",
+   "tickers": [
+    "UNH"
+   ],
+   "name": "UNITEDHEALTH GROUP INC",
+   "exchange": "NYSE",
+   "held": [
+    "UNITEDHEALTH GROUP INC (UNH)"
+   ]
+  },
+  {
+   "cik": "0000100885",
+   "ticker": "UNP",
+   "tickers": [
+    "UNP"
+   ],
+   "name": "UNION PACIFIC CORP",
+   "exchange": "NYSE",
+   "held": [
+    "UNION PACIFIC CORP (UNP)"
+   ]
+  },
+  {
+   "cik": "0001090727",
+   "ticker": "UPS",
+   "tickers": [
+    "UPS"
+   ],
+   "name": "UNITED PARCEL SERVICE INC",
+   "exchange": "NYSE",
+   "held": [
+    "UNITED PARCEL SERVICE CL B (UPS)"
+   ]
+  },
+  {
+   "cik": "0001067701",
+   "ticker": "URI",
+   "tickers": [
+    "URI"
+   ],
+   "name": "UNITED RENTALS, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "UNITED RENTALS INC (URI)"
+   ]
+  },
+  {
+   "cik": "0000036104",
+   "ticker": "USB",
+   "tickers": [
+    "USB"
+   ],
+   "name": "US BANCORP DE",
+   "exchange": "NYSE",
+   "held": [
+    "US BANCORP (USB)"
+   ]
+  },
+  {
+   "cik": "0001403161",
+   "ticker": "V",
+   "tickers": [
+    "V"
+   ],
+   "name": "VISA INC.",
+   "exchange": "NYSE",
+   "held": [
+    "VISA INC CLASS A SHARES (V)"
+   ]
+  },
+  {
+   "cik": "0001393052",
+   "ticker": "VEEV",
+   "tickers": [
+    "VEEV"
+   ],
+   "name": "VEEVA SYSTEMS INC",
+   "exchange": "NYSE",
+   "held": [
+    "VEEVA SYSTEMS INC CLASS A (VEEV)"
+   ]
+  },
+  {
+   "cik": "0001705696",
+   "ticker": "VICI",
+   "tickers": [
+    "VICI"
+   ],
+   "name": "VICI PROPERTIES INC.",
+   "exchange": "NYSE",
+   "held": [
+    "VICI PROPERTIES INC (VICI)"
+   ]
+  },
+  {
+   "cik": "0001035002",
+   "ticker": "VLO",
+   "tickers": [
+    "VLO"
+   ],
+   "name": "VALERO ENERGY CORP/TX",
+   "exchange": "NYSE",
+   "held": [
+    "VALERO ENERGY CORP (VLO)"
+   ]
+  },
+  {
+   "cik": "0001967680",
+   "ticker": "VLTO",
+   "tickers": [
+    "VLTO"
+   ],
+   "name": "Veralto Corp",
+   "exchange": "NYSE",
+   "held": [
+    "VERALTO CORP (VLTO)"
+   ]
+  },
+  {
+   "cik": "0001396009",
+   "ticker": "VMC",
+   "tickers": [
+    "VMC"
+   ],
+   "name": "Vulcan Materials CO",
+   "exchange": "NYSE",
+   "held": [
+    "VULCAN MATERIALS CO (VMC)"
+   ]
+  },
+  {
+   "cik": "0000906107",
+   "ticker": "VMRK",
+   "tickers": [
+    "VMRK"
+   ],
+   "name": "VIVMARK RESIDENTIAL",
+   "exchange": "NYSE",
+   "held": [
+    "VIVMARK RESIDENTIAL (VMRK)"
+   ]
+  },
+  {
+   "cik": "0001442145",
+   "ticker": "VRSK",
+   "tickers": [
+    "VRSK"
+   ],
+   "name": "Verisk Analytics, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "VERISK ANALYTICS INC (VRSK)"
+   ]
+  },
+  {
+   "cik": "0001014473",
+   "ticker": "VRSN",
+   "tickers": [
+    "VRSN"
+   ],
+   "name": "VERISIGN INC/CA",
+   "exchange": "Nasdaq",
+   "held": [
+    "VERISIGN INC (VRSN)"
+   ]
+  },
+  {
+   "cik": "0001674101",
+   "ticker": "VRT",
+   "tickers": [
+    "VRT"
+   ],
+   "name": "Vertiv Holdings Co",
+   "exchange": "NYSE",
+   "held": [
+    "VERTIV HOLDINGS CO A (VRT)"
+   ]
+  },
+  {
+   "cik": "0000875320",
+   "ticker": "VRTX",
+   "tickers": [
+    "VRTX"
+   ],
+   "name": "VERTEX PHARMACEUTICALS INC / MA",
+   "exchange": "Nasdaq",
+   "held": [
+    "VERTEX PHARMACEUTICALS INC (VRTX)"
+   ]
+  },
+  {
+   "cik": "0001692819",
+   "ticker": "VST",
+   "tickers": [
+    "VST"
+   ],
+   "name": "Vistra Corp.",
+   "exchange": "NYSE",
+   "held": [
+    "VISTRA CORP (VST)"
+   ]
+  },
+  {
+   "cik": "0000740260",
+   "ticker": "VTR",
+   "tickers": [
+    "VTR"
+   ],
+   "name": "Ventas, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "VENTAS INC (VTR)"
+   ]
+  },
+  {
+   "cik": "0001792044",
+   "ticker": "VTRS",
+   "tickers": [
+    "VTRS"
+   ],
+   "name": "Viatris Inc",
+   "exchange": "Nasdaq",
+   "held": [
+    "VIATRIS INC (VTRS)"
+   ]
+  },
+  {
+   "cik": "0002128626",
+   "ticker": "VYLR",
+   "tickers": [
+    "VYLR"
+   ],
+   "name": "Vylor Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "VYLOR INC (VYLR)"
+   ]
+  },
+  {
+   "cik": "0000732712",
+   "ticker": "VZ",
+   "tickers": [
+    "VZ"
+   ],
+   "name": "VERIZON COMMUNICATIONS INC",
+   "exchange": "NYSE",
+   "held": [
+    "VERIZON COMMUNICATIONS INC (VZ)"
+   ]
+  },
+  {
+   "cik": "0000943452",
+   "ticker": "WAB",
+   "tickers": [
+    "WAB"
+   ],
+   "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "exchange": "NYSE",
+   "held": [
+    "WABTEC CORP (WAB)"
+   ]
+  },
+  {
+   "cik": "0001000697",
+   "ticker": "WAT",
+   "tickers": [
+    "WAT"
+   ],
+   "name": "WATERS CORP /DE/",
+   "exchange": "NYSE",
+   "held": [
+    "WATERS CORP (WAT)"
+   ]
+  },
+  {
+   "cik": "0001327811",
+   "ticker": "WDAY",
+   "tickers": [
+    "WDAY"
+   ],
+   "name": "Workday, Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "WORKDAY INC CLASS A (WDAY)"
+   ]
+  },
+  {
+   "cik": "0000106040",
+   "ticker": "WDC",
+   "tickers": [
+    "WDC"
+   ],
+   "name": "WESTERN DIGITAL CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "WESTERN DIGITAL CORP (WDC)"
+   ]
+  },
+  {
+   "cik": "0000783325",
+   "ticker": "WEC",
+   "tickers": [
+    "WEC"
+   ],
+   "name": "WEC ENERGY GROUP, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "WEC ENERGY GROUP INC (WEC)"
+   ]
+  },
+  {
+   "cik": "0000766704",
+   "ticker": "WELL",
+   "tickers": [
+    "WELL"
+   ],
+   "name": "WELLTOWER INC.",
+   "exchange": "NYSE",
+   "held": [
+    "WELLTOWER INC (WELL)"
+   ]
+  },
+  {
+   "cik": "0000072971",
+   "ticker": "WFC",
+   "tickers": [
+    "WFC"
+   ],
+   "name": "WELLS FARGO & COMPANY/MN",
+   "exchange": "NYSE",
+   "held": [
+    "WELLS FARGO + CO (WFC)"
+   ]
+  },
+  {
+   "cik": "0000823768",
+   "ticker": "WM",
+   "tickers": [
+    "WM"
+   ],
+   "name": "WASTE MANAGEMENT INC",
+   "exchange": "NYSE",
+   "held": [
+    "WASTE MANAGEMENT INC (WM)"
+   ]
+  },
+  {
+   "cik": "0000107263",
+   "ticker": "WMB",
+   "tickers": [
+    "WMB"
+   ],
+   "name": "WILLIAMS COMPANIES, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "WILLIAMS COS INC (WMB)"
+   ]
+  },
+  {
+   "cik": "0000104169",
+   "ticker": "WMT",
+   "tickers": [
+    "WMT"
+   ],
+   "name": "Walmart Inc.",
+   "exchange": "Nasdaq",
+   "held": [
+    "WALMART INC (WMT)"
+   ]
+  },
+  {
+   "cik": "0000011544",
+   "ticker": "WRB",
+   "tickers": [
+    "WRB"
+   ],
+   "name": "BERKLEY W R CORP",
+   "exchange": "NYSE",
+   "held": [
+    "WR BERKLEY CORP (WRB)"
+   ]
+  },
+  {
+   "cik": "0000719955",
+   "ticker": "WSM",
+   "tickers": [
+    "WSM"
+   ],
+   "name": "WILLIAMS SONOMA INC",
+   "exchange": "NYSE",
+   "held": [
+    "WILLIAMS SONOMA INC (WSM)"
+   ]
+  },
+  {
+   "cik": "0000105770",
+   "ticker": "WST",
+   "tickers": [
+    "WST"
+   ],
+   "name": "WEST PHARMACEUTICAL SERVICES INC",
+   "exchange": "NYSE",
+   "held": [
+    "WEST PHARMACEUTICAL SERVICES (WST)"
+   ]
+  },
+  {
+   "cik": "0001140536",
+   "ticker": "WTW",
+   "tickers": [
+    "WTW"
+   ],
+   "name": "WILLIS TOWERS WATSON PLC",
+   "exchange": "Nasdaq",
+   "held": [
+    "WILLIS TOWERS WATSON PLC (WTW)"
+   ]
+  },
+  {
+   "cik": "0000106535",
+   "ticker": "WY",
+   "tickers": [
+    "WY"
+   ],
+   "name": "WEYERHAEUSER CO",
+   "exchange": "NYSE",
+   "held": [
+    "WEYERHAEUSER CO (WY)"
+   ]
+  },
+  {
+   "cik": "0001174922",
+   "ticker": "WYNN",
+   "tickers": [
+    "WYNN"
+   ],
+   "name": "WYNN RESORTS LTD",
+   "exchange": "Nasdaq",
+   "held": [
+    "WYNN RESORTS LTD (WYNN)"
+   ]
+  },
+  {
+   "cik": "0000072903",
+   "ticker": "XEL",
+   "tickers": [
+    "XEL"
+   ],
+   "name": "XCEL ENERGY INC",
+   "exchange": "Nasdaq",
+   "held": [
+    "XCEL ENERGY INC (XEL)"
+   ]
+  },
+  {
+   "cik": "0002115436",
+   "ticker": "XOM",
+   "tickers": [
+    "XOM"
+   ],
+   "name": "ExxonMobil Holdings Corp",
+   "exchange": "NYSE",
+   "held": [
+    "EXXONMOBIL HOLDINGS CORP (XOM)"
+   ]
+  },
+  {
+   "cik": "0001524472",
+   "ticker": "XYL",
+   "tickers": [
+    "XYL"
+   ],
+   "name": "Xylem Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "XYLEM INC (XYL)"
+   ]
+  },
+  {
+   "cik": "0001512673",
+   "ticker": "XYZ",
+   "tickers": [
+    "XYZ"
+   ],
+   "name": "Block, Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "BLOCK INC (XYZ)"
+   ]
+  },
+  {
+   "cik": "0001041061",
+   "ticker": "YUM",
+   "tickers": [
+    "YUM"
+   ],
+   "name": "YUM BRANDS INC",
+   "exchange": "NYSE",
+   "held": [
+    "YUM BRANDS INC (YUM)"
+   ]
+  },
+  {
+   "cik": "0001136869",
+   "ticker": "ZBH",
+   "tickers": [
+    "ZBH"
+   ],
+   "name": "ZIMMER BIOMET HOLDINGS, INC.",
+   "exchange": "NYSE",
+   "held": [
+    "ZIMMER BIOMET HOLDINGS INC (ZBH)"
+   ]
+  },
+  {
+   "cik": "0000877212",
+   "ticker": "ZBRA",
+   "tickers": [
+    "ZBRA"
+   ],
+   "name": "ZEBRA TECHNOLOGIES CORP",
+   "exchange": "Nasdaq",
+   "held": [
+    "ZEBRA TECHNOLOGIES CORP CL A (ZBRA)"
+   ]
+  },
+  {
+   "cik": "0001555280",
+   "ticker": "ZTS",
+   "tickers": [
+    "ZTS"
+   ],
+   "name": "Zoetis Inc.",
+   "exchange": "NYSE",
+   "held": [
+    "ZOETIS INC (ZTS)"
+   ]
+  }
+ ]
+}

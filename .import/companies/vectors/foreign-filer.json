@@ -1,0 +1,23 @@
+{
+ "rule": "V2",
+ "about": "A company whose facts hold no us-gaap revenue (a foreign filer, its statements in IFRS) writes no page, and is listed as skipped.",
+ "input": {
+  "facts": {
+   "cik": 1,
+   "entityName": "A Foreign Filer",
+   "facts": {
+    "us-gaap": {}
+   }
+  },
+  "fsdsRows": [],
+  "exchange": "NYSE",
+  "ticker": "FF",
+  "name": "A Foreign Filer",
+  "span": [
+   2025
+  ]
+ },
+ "output": {
+  "skip": "no us-gaap revenue (a foreign filer files IFRS, or a tag the cascade lacks)"
+ }
+}
