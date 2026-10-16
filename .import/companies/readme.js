@@ -71,6 +71,13 @@ The book's data is all public domain, works of the US government:
 The members' list is read from SPY's daily holdings file, published by
 State Street (\`ssga.com\`): the index's members only, as above.
 
+## Licence
+
+This book, its pages and its importer, is given to the public domain
+under CC0 1.0 ([LICENSE](LICENSE)): copy it, change it and use it as you
+like, without asking. Its sources are free of copyright too, as above;
+citing them is still the courteous thing.
+
 ## Making it again
 
 \`\`\`sh
