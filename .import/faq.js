@@ -144,7 +144,20 @@ function annual(f, tags, fy) {
 }
 
 const REVENUE = ['RevenueFromContractWithCustomerExcludingAssessedTax', 'RevenueFromContractWithCustomerIncludingAssessedTax', 'Revenues', 'RevenuesNetOfInterestExpense', 'SalesRevenueNet'];
+const NET_INCOME = ['NetIncomeLoss', 'ProfitLoss'];
+const OPERATING_CASH = ['NetCashProvidedByUsedInOperatingActivities', 'NetCashProvidedByUsedInOperatingActivitiesContinuingOperations'];
 const mn = (v) => v / 1e6;
+// annual()'s reading with the years already named: a line item's value for a
+// fiscal year, $ millions, from the first tag of the cascade that files it
+function yearValue(f, fys, tags, fy) {
+  const ends = [...fys].filter(([, y]) => y === fy).map(([e]) => e);
+  if (ends.length !== 1) return null;
+  for (const tag of tags) {
+    const r = rows(f, tag).find((x) => isYear(x) && x.end === ends[0]);
+    if (r) return mn(r.val);
+  }
+  return null;
+}
 
 // The splits the filings show: a period's diluted EPS filed again in a
 // split's ratio. Each (company, ratio), dated by the first filing that
@@ -241,6 +254,9 @@ function summary(t) {
     const y25 = [...fys].filter(([, y]) => y === 2025);
     out.june2025 = y25.length === 1 && y25[0][0].slice(5, 7) === '06';
     out.revenue2024 = annual(f, REVENUE, 2024);
+    // each fiscal year's revenue and net income, $ millions (the reading questions)
+    out.years = {};
+    for (const y of new Set(fys.values())) out.years[y] = { rev: yearValue(f, fys, REVENUE, y), ni: yearValue(f, fys, NET_INCOME, y) };
   }
   summaries.set(t, out);
   return out;
@@ -420,6 +436,130 @@ const ANSWERS = {
   },
 };
 
+// --- the reading questions (SPEC R2) -----------------------------------------------
+// The front page, a sector and a company ask these first (.import/reading.md);
+// answered here from the SEC's files with faq.js's own readers, apart from the
+// importer's, and the pages held to them (drifted, below).
+
+// A company's industry: the SIC code of its latest 10-K or 10-Q in the FSDS
+// cached (sub.txt), and the SIC Manual's division of it (1987), written again
+// here as the manual gives it.
+const DIVISION = [[1, 9, 'Agriculture, Forestry, and Fishing'], [10, 14, 'Mining'], [15, 17, 'Construction'], [20, 39, 'Manufacturing'],
+  [40, 49, 'Transportation, Communications, Electric, Gas, and Sanitary Services'], [50, 51, 'Wholesale Trade'], [52, 59, 'Retail Trade'],
+  [60, 67, 'Finance, Insurance, and Real Estate'], [70, 89, 'Services'], [91, 97, 'Public Administration'], [99, 99, 'Nonclassifiable Establishments']];
+const sicOf = once(() => {
+  const best = new Map();
+  for (const q of fs.readdirSync(FSDS).filter((d) => /^\d{4}q[1-4]$/.test(d))) {
+    const lines = fs.readFileSync(path.join(FSDS, q, 'sub.txt'), 'utf8').split('\n');
+    const col = Object.fromEntries(lines[0].split('\t').map((h, i) => [h, i]));
+    for (const l of lines.slice(1)) {
+      const x = l.split('\t');
+      if (!/^10-[KQ]/.test(x[col.form] || '') || !x[col.sic]) continue;
+      const p = best.get(Number(x[col.cik]));
+      if (!p || x[col.filed] > p.filed) best.set(Number(x[col.cik]), { sic: Number(x[col.sic]), filed: x[col.filed] });
+    }
+  }
+  return best;
+});
+function sector(t) {
+  const cik = tickers().get(t).cik, s = moved().get(cik);
+  const code = (sicOf().get(cik) || (s && sicOf().get(Number(s.filer))))?.sic;
+  if (!code) return null;
+  const g = Math.floor(code / 100);
+  return DIVISION.find(([a, b]) => g >= a && g <= b)[2];
+}
+
+const r1 = (x) => Math.round(x * 10) / 10;
+const val = (t, y, k) => summary(t).years?.[y]?.[k] ?? null;
+// The year compared: the latest in which at least 95 of every 100 companies
+// with a revenue the year before have one
+const theYear = once(() => {
+  const cs = companies();
+  for (let y = 2030; y > 2000; y--) {
+    const before = cs.filter((t) => val(t, y - 1, 'rev') !== null);
+    if (before.length && before.filter((t) => val(t, y, 'rev') !== null).length >= 0.95 * before.length) return y;
+  }
+  throw new Error('no year nearly every company has closed');
+});
+const top = (cs, y, k) => cs.filter((t) => val(t, y, k) !== null).sort((a, b) => val(b, y, k) - val(a, y, k) || a.localeCompare(b));
+const rise = (a, b) => r1(100 * (b / a - 1));
+
+const READING = {
+  'co-reading-1': () => {
+    const Y = theYear(), cs = companies(), r = top(cs, Y, 'rev'), n = top(cs, Y, 'ni');
+    const ans = { year: Y, revenue_top: r[0], revenue_top_millions: val(r[0], Y, 'rev'), net_income_top: n[0], net_income_top_millions: val(n[0], Y, 'ni') };
+    return { answer: ans, text: `FY${Y}: revenue, ${r[0]} (${ans.revenue_top_millions}); net income, ${n[0]} (${ans.net_income_top_millions}) ($ millions)`,
+      note: `${cs.length} companies; FY${Y}, the latest year in which at least 95 of every 100 with a revenue the year before have one (${r.length} with a revenue for it). Revenue, the first of the revenue tags filed for the year; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.` };
+  },
+  'co-reading-2': () => {
+    const Y = theYear(), B = Y - 10, ys = Array.from({ length: 11 }, (_, i) => B + i);
+    const same = companies().filter((t) => ys.every((y) => val(t, y, 'rev') !== null && val(t, y, 'ni') !== null));
+    const tot = (y, k) => same.reduce((a, t) => a + val(t, y, k), 0);
+    const falls = ys.slice(1).map((y) => ({ y, r: tot(y, 'ni') / tot(y - 1, 'ni') }));
+    const worst = falls.reduce((a, f) => (f.r < a.r ? f : a));
+    const ans = { companies: same.length, revenue_rise_pct: rise(tot(B, 'rev'), tot(Y, 'rev')), net_income_rise_pct: rise(tot(B, 'ni'), tot(Y, 'ni')), worst_year: worst.y };
+    return { answer: ans, text: `${same.length} companies: revenue up ${ans.revenue_rise_pct}%, net income up ${ans.net_income_rise_pct}% from FY${B} to FY${Y}; their net income fell most in FY${worst.y}`,
+      note: `The companies with a revenue and a net income for every fiscal year FY${B} to FY${Y}, as faq.js reads them; each summed by year. The book's front page asks the same of its own figures, and its set differs: years its annual cards lack, years faq.js cannot name, and a year the book takes from four quarters (.import/reading.md, front-growth).` };
+  },
+  'co-reading-3': () => {
+    const Y = theYear(), S = 'Finance, Insurance, and Real Estate';
+    const cs = companies().filter((t) => sector(t) === S);
+    const both = cs.filter((t) => val(t, Y, 'rev') !== null && val(t, Y, 'ni') !== null);
+    const ans = { companies: both.length, revenue_millions: r1(both.reduce((a, t) => a + val(t, Y, 'rev'), 0)), net_income_millions: r1(both.reduce((a, t) => a + val(t, Y, 'ni'), 0)),
+      revenue_top: top(cs, Y, 'rev')[0], net_income_top: top(cs, Y, 'ni')[0] };
+    return { answer: ans, text: `${both.length} companies, revenue ${ans.revenue_millions}, net income ${ans.net_income_millions} ($ millions); the most revenue ${ans.revenue_top}, the most net income ${ans.net_income_top}`,
+      note: `The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major groups 60 to 67: ${cs.length}; with both a revenue and a net income for FY${Y}: ${both.length}.` };
+  },
+  'co-reading-4': () => {
+    const Y = theYear(), B = Y - 10, f = facts('AAPL'), fys = fiscalYears(f);
+    const r = top(companies(), Y, 'rev');
+    const from = Array.from({ length: 11 }, (_, i) => B + i).find((y) => (val('AAPL', y, 'rev') ?? 0) > 0);
+    const ten = Array.from({ length: 10 }, (_, i) => B + 1 + i);
+    const ocf = ten.map((y) => yearValue(f, fys, OPERATING_CASH, y)).filter((v) => v !== null);
+    const bb = ten.map((y) => yearValue(f, fys, ['PaymentsForRepurchaseOfCommonStock'], y) ?? 0);
+    const sum = (xs) => xs.reduce((a, x) => a + x, 0);
+    const ans = { revenue_millions: val('AAPL', Y, 'rev'), rank: r.indexOf('AAPL') + 1, rise_pct: rise(val('AAPL', from, 'rev'), val('AAPL', Y, 'rev')),
+      net_income_millions: val('AAPL', Y, 'ni'), margin_pct: r1(100 * val('AAPL', Y, 'ni') / val('AAPL', Y, 'rev')),
+      operating_cash_millions: r1(sum(ocf)), buybacks_pct: r1(100 * sum(bb) / sum(ocf)) };
+    return { answer: ans, text: `FY${Y}: revenue ${ans.revenue_millions}, the ${ans.rank}th most; up ${ans.rise_pct}% from FY${from}; net income ${ans.net_income_millions}, ${ans.margin_pct}% of revenue; FY${B + 1} to FY${Y}, operating cash flow ${ans.operating_cash_millions}, ${ans.buybacks_pct}% of it on buybacks ($ millions)`,
+      note: `companyfacts CIK0000320193: revenue (the first revenue tag filed), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the ${r.length} members with a revenue for FY${Y}.` };
+  },
+};
+Object.assign(ANSWERS, READING);
+
+// --- the pages against the source (SPEC R2) ---------------------------------------
+// Each reading question of .import/reading.md that names an FAQ question Holds
+// values the page was filled with (kept by the importer in .import/reading.json)
+// that must agree with that question's answer, worked out here from the source:
+// exactly, or within `~x` (x of its units) or `~x%` (x per cent of it). A page
+// that has drifted stops the build.
+function drifted(answers) {
+  const text = fs.readFileSync(path.join(__dirname, 'reading.md'), 'utf8');
+  const kept = JSON.parse(fs.readFileSync(path.join(__dirname, 'reading.json'), 'utf8')).pages;
+  const said = [];
+  let n = 0;
+  for (const b of text.split(/\n(?=### Question: )/).slice(1)) {
+    const id = /^### Question: (\S+)/.exec(b)[1];
+    const key = (k) => (new RegExp(`^- ${k}:[ \\t]*(.*)$`, 'm').exec(b) ?? [])[1]?.trim() ?? '';
+    const faq = key('FAQ'), page = key('FAQ page');
+    if (!faq) continue;
+    if (!answers[faq]) throw new Error(`reading.md ${id}: FAQ ${faq} is no question in faq.md`);
+    const values = kept[page]?.[id];
+    if (!values) throw new Error(`reading.md ${id}: nothing kept for ${page}`);
+    for (const pair of key('Holds').split(/,\s*/).filter(Boolean)) {
+      const m = /^(\w+)=(\w+)(?:~([\d.]+)(%?))?$/.exec(pair.trim());
+      if (!m) throw new Error(`reading.md ${id}: Holds ${pair}?`);
+      const [, mine, theirs, tol, rel] = m;
+      const a = values[mine], b = answers[faq].answer[theirs];
+      const room = tol === undefined ? 0 : rel ? Math.abs(b) * Number(tol) / 100 : Number(tol);
+      const same = typeof a === 'number' && typeof b === 'number' ? Math.abs(a - b) <= room : JSON.stringify(a) === JSON.stringify(b);
+      n++;
+      if (!same) said.push(`page-drifted: ${page}, ${id}: ${mine} is ${JSON.stringify(a)}, but ${faq}'s ${theirs} is ${JSON.stringify(b)}${room ? ` (within ${tol}${rel})` : ''}`);
+    }
+  }
+  return { said, n };
+}
+
 function compute(ids) {
   const out = {};
   for (const id of ids) {
@@ -480,7 +620,11 @@ function main() {
   const answers = compute(ids);
   fs.writeFileSync(path.join(REPO, 'FAQ.md'), page(questions, answers));
   console.log(`FAQ.md: ${questions.length} questions, ${questions.filter((q) => q.Type === 'none').length} the book does not answer`);
+  const d = drifted(answers);
+  for (const s of d.said) console.log(s);
+  if (d.said.length) { console.log(`${d.said.length} of ${d.n} values the pages hold differ from the source`); process.exit(1); }
+  console.log(`the pages hold to the source: ${d.n} values`);
 }
 
-module.exports = { parse, compute, record, words, NOT_SAID };
+module.exports = { parse, compute, record, words, drifted, NOT_SAID };
 if (require.main === module) main();

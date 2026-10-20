@@ -5,7 +5,8 @@
  "stocks_held": 503,
  "companies": 493,
  "skipped": 7,
- "exchanges": 3,
+ "sectors": 8,
+ "year": 2025,
  "annual": 7935,
  "quarters": 30163,
  "segments": 22773,
@@ -17,7 +18,7 @@
  "segment_changes": 111,
  "successors": 3,
  "span": "FY2006 to FY2026",
- "pages": 496,
+ "pages": 501,
  "fsds_quarters": "2025q1, 2025q2, 2025q3, 2025q4, 2026q1",
  "classes": "FOXA and FOX; GOOGL and GOOG; NWSA and NWS",
  "facts_fetched": "2026-10-15"

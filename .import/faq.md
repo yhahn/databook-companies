@@ -21,7 +21,7 @@ its filings were missing, a Lookup.
 - Tolerance: 0
 - Rules:
 - How: companyfacts, Apple (CIK 0000320193), the revenue tag filed for the year its 10-K calls 2024, latest filed
-- Look in: companies/Nasdaq/Apple Inc.md
+- Look in: companies/Manufacturing/Apple Inc.md
 
 ### Question: co-lookup-2
 - Tier: Lookup
@@ -30,7 +30,7 @@ its filings were missing, a Lookup.
 - Tolerance: 0
 - Rules: D8
 - How: companyfacts, Microsoft, PaymentsForRepurchaseOfCommonStock, the year ended 2023-06-30; the book writes it negative, as cash paid out
-- Look in: companies/Nasdaq/MICROSOFT CORP.md
+- Look in: companies/Services/MICROSOFT CORP.md
 
 ### Question: co-lookup-3
 - Tier: Gap
@@ -48,7 +48,7 @@ its filings were missing, a Lookup.
 - Tolerance: 0
 - Rules:
 - How: companyfacts, Amazon, NetIncomeLoss, 2022-01-01 to 2022-12-31
-- Look in: companies/Nasdaq/AMAZON COM INC.md
+- Look in: companies/Retail Trade/AMAZON COM INC.md
 
 ### Question: co-lookup-5
 - Tier: Lookup
@@ -57,7 +57,7 @@ its filings were missing, a Lookup.
 - Tolerance: 0
 - Rules:
 - How: companyfacts, Intel, EarningsPerShareDiluted, the year its 10-K calls 2024
-- Look in: companies/Nasdaq/INTEL CORP.md
+- Look in: companies/Manufacturing/INTEL CORP.md
 
 ### Question: co-page-1
 - Tier: Page
@@ -66,7 +66,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: B7
 - How: the SEC's list of tickers and exchanges, WMT
-- Look in: companies/Nasdaq.md; companies/Nasdaq/Walmart Inc.md
+- Look in: companies/Retail Trade/Walmart Inc.md
 
 ### Question: co-page-2
 - Tier: Gap
@@ -93,7 +93,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, every company's PaymentsForRepurchaseOfCommonStock, every year its 10-Ks name, the largest
-- Look in: companies/Nasdaq/Apple Inc.md
+- Look in: companies/Manufacturing/Apple Inc.md
 
 ### Question: co-across-2
 - Tier: Across
@@ -102,7 +102,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, the year each company's 10-K calls 2025, the month it ends
-- Look in: companies/NYSE/Amcor plc.md; companies/NYSE/BROADRIDGE FINANCIAL SOLUTIONS, INC.md; companies/NYSE/CARDINAL HEALTH INC.md; companies/NYSE/CLOROX CO.md; companies/NYSE/COHERENT CORP.md; companies/NYSE/ESTEE LAUDER COMPANIES INC.md; companies/Nasdaq/Fox Corp.md; companies/Nasdaq/JACK HENRY & ASSOCIATES INC.md; companies/Nasdaq/KLA CORP.md; companies/Nasdaq/Lumentum Holdings Inc.md; companies/Nasdaq/LAM RESEARCH CORP.md; companies/Nasdaq/MICROSOFT CORP.md; companies/Nasdaq/NEWS CORP.md; companies/NYSE/PROCTER & GAMBLE Co.md; companies/NYSE/Parker-Hannifin Corp.md; companies/NYSE/RESMED INC.md; companies/Nasdaq/Super Micro Computer, Inc.md; companies/Nasdaq/Sandisk Corp.md; companies/Nasdaq/Seagate Technology Holdings plc.md; companies/NYSE/SYSCO CORP.md; companies/Nasdaq/BIO-TECHNE Corp.md; companies/NYSE/TAPESTRY, INC.md; companies/Nasdaq/WESTERN DIGITAL CORP.md
+- Look in: companies/Manufacturing/Amcor plc.md; companies/Services/BROADRIDGE FINANCIAL SOLUTIONS, INC.md; companies/Wholesale Trade/CARDINAL HEALTH INC.md; companies/Manufacturing/CLOROX CO.md; companies/Manufacturing/COHERENT CORP.md; companies/Manufacturing/ESTEE LAUDER COMPANIES INC.md; companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Fox Corp.md; companies/Services/JACK HENRY & ASSOCIATES INC.md; companies/Manufacturing/KLA CORP.md; companies/Manufacturing/Lumentum Holdings Inc.md; companies/Manufacturing/LAM RESEARCH CORP.md; companies/Services/MICROSOFT CORP.md; companies/Manufacturing/NEWS CORP.md; companies/Manufacturing/PROCTER & GAMBLE Co.md; companies/Manufacturing/Parker-Hannifin Corp.md; companies/Manufacturing/RESMED INC.md; companies/Manufacturing/Super Micro Computer, Inc.md; companies/Manufacturing/Sandisk Corp.md; companies/Manufacturing/Seagate Technology Holdings plc.md; companies/Wholesale Trade/SYSCO CORP.md; companies/Manufacturing/BIO-TECHNE Corp.md; companies/Manufacturing/TAPESTRY, INC.md; companies/Manufacturing/WESTERN DIGITAL CORP.md
 
 ### Question: co-across-3
 - Tier: Gap
@@ -120,7 +120,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, each company's revenue for the year its 10-K calls 2024, the five largest
-- Look in: companies/Nasdaq/Walmart Inc.md; companies/Nasdaq/AMAZON COM INC.md; companies/NYSE/UNITEDHEALTH GROUP INC.md; companies/Nasdaq/Apple Inc.md; companies/NYSE/CVS HEALTH Corp.md
+- Look in: companies/Retail Trade/Walmart Inc.md; companies/Retail Trade/AMAZON COM INC.md; companies/Finance, Insurance, and Real Estate/UNITEDHEALTH GROUP INC.md; companies/Manufacturing/Apple Inc.md; companies/Retail Trade/CVS HEALTH Corp.md
 
 ### Question: co-join-1
 - Tier: Gap
@@ -147,7 +147,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: D2, D8
 - How: companyfacts, Apple, EarningsPerShareDiluted, the year ended 2019-09-28, first filed and latest filed
-- Look in: companies/Nasdaq/Apple Inc.md
+- Look in: companies/Manufacturing/Apple Inc.md
 
 ### Question: co-change-2
 - Tier: Change
@@ -156,7 +156,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: D2, D5
 - How: companyfacts, NVIDIA's diluted EPS for a period filed again in a split's ratio, dated by the first filing to restate
-- Look in: companies/Nasdaq/NVIDIA CORP.md
+- Look in: companies/Manufacturing/NVIDIA CORP.md
 
 ### Question: co-change-3
 - Tier: Change
@@ -165,7 +165,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: D5
 - How: companyfacts, the ends of the year-long spans Morgan Stanley's 10-Ks file
-- Look in: companies/NYSE/MORGAN STANLEY.md
+- Look in: companies/Finance, Insurance, and Real Estate/MORGAN STANLEY.md
 
 ### Question: co-change-4
 - Tier: Change
@@ -174,7 +174,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: D4, D5
 - How: companyfacts, Apple, NetCashProvidedByUsedInOperatingActivitiesContinuingOperations and NetCashProvidedByUsedInOperatingActivities, the year ended 2016-09-24
-- Look in: companies/Nasdaq/Apple Inc.md
+- Look in: companies/Manufacturing/Apple Inc.md
 
 ### Question: co-gap-1
 - Tier: Gap
@@ -192,7 +192,7 @@ its filings were missing, a Lookup.
 - Tolerance: 0
 - Rules: K1
 - How: companyfacts, Exxon Mobil Corporation (CIK 0000034088, whose filings these are; the SEC's list now gives XOM to its new parent, CIK 0002115436), the revenue tag filed for 2024, latest filed
-- Look in: companies/NYSE/ExxonMobil Holdings Corp.md
+- Look in: companies/Manufacturing/ExxonMobil Holdings Corp.md
 
 ### Question: co-gap-3
 - Tier: Gap
@@ -228,7 +228,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, the first year-long span Home Depot's 10-Ks name ending after 2024-12-25, and the year they call it
-- Look in: companies/NYSE/HOME DEPOT, INC.md
+- Look in: companies/Retail Trade/HOME DEPOT, INC.md
 
 ### Question: co-analysis-1
 - Tier: Analysis
@@ -237,7 +237,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, Intel's EarningsPerShareDiluted for every year its 10-Ks name, the best against FY2024
-- Look in: companies/Nasdaq/INTEL CORP.md
+- Look in: companies/Manufacturing/INTEL CORP.md
 
 ### Question: co-analysis-2
 - Tier: Analysis
@@ -246,7 +246,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, OperatingIncomeLoss over revenue for each year each company's 10-K calls 2021 to 2025, those rising every year
-- Look in: companies/NYSE/Arista Networks, Inc.md; companies/NYSE/Carnival Corp Ltd.md; companies/Nasdaq/CHARTER COMMUNICATIONS, INC.md; companies/Nasdaq/CME GROUP INC.md; companies/NYSE/CRH PUBLIC LTD CO.md; companies/Nasdaq/CINTAS CORP.md; companies/NYSE/Dell Technologies Inc.md; companies/Nasdaq/EXELON CORP.md; companies/NYSE/FAIR ISAAC CORP.md; companies/NYSE/COMFORT SYSTEMS USA INC.md; companies/Nasdaq/Fortinet, Inc.md; companies/NYSE/GoDaddy Inc.md; companies/NYSE/HUBBELL INC.md; companies/NYSE/Howmet Aerospace Inc.md; companies/NYSE/Norwegian Cruise Line Holdings Ltd.md; companies/NYSE/ServiceNow, Inc.md; companies/Nasdaq/Palo Alto Networks Inc.md; companies/Nasdaq/Palantir Technologies Inc.md; companies/NYSE/ROYAL CARIBBEAN CRUISES LTD.md; companies/NYSE/TransDigm Group INC.md; companies/NYSE/Trane Technologies plc.md; companies/NYSE/TWILIO INC.md; companies/NYSE/Uber Technologies, Inc.md; companies/NYSE/WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP.md
+- Look in: companies/Manufacturing/Arista Networks, Inc.md; companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Carnival Corp Ltd.md; companies/Transportation, Communications, Electric, Gas, and Sanitary Services/CHARTER COMMUNICATIONS, INC.md; companies/Finance, Insurance, and Real Estate/CME GROUP INC.md; companies/Manufacturing/CRH PUBLIC LTD CO.md; companies/Manufacturing/CINTAS CORP.md; companies/Manufacturing/Dell Technologies Inc.md; companies/Transportation, Communications, Electric, Gas, and Sanitary Services/EXELON CORP.md; companies/Services/FAIR ISAAC CORP.md; companies/Construction/COMFORT SYSTEMS USA INC.md; companies/Manufacturing/Fortinet, Inc.md; companies/Services/GoDaddy Inc.md; companies/Manufacturing/HUBBELL INC.md; companies/Manufacturing/Howmet Aerospace Inc.md; companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Norwegian Cruise Line Holdings Ltd.md; companies/Services/ServiceNow, Inc.md; companies/Manufacturing/Palo Alto Networks Inc.md; companies/Services/Palantir Technologies Inc.md; companies/Transportation, Communications, Electric, Gas, and Sanitary Services/ROYAL CARIBBEAN CRUISES LTD.md; companies/Manufacturing/TransDigm Group INC.md; companies/Manufacturing/Trane Technologies plc.md; companies/Services/TWILIO INC.md; companies/Services/Uber Technologies, Inc.md; companies/Manufacturing/WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP.md
 
 ### Question: co-analysis-3
 - Tier: Analysis
@@ -255,7 +255,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules:
 - How: companyfacts, Apple's PaymentsForRepurchaseOfCommonStock and NetIncomeLoss, FY2016 to FY2025, summed
-- Look in: companies/Nasdaq/Apple Inc.md
+- Look in: companies/Manufacturing/Apple Inc.md
 
 ### Question: co-change-5
 - Tier: Change
@@ -264,7 +264,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: D2, D5
 - How: companyfacts, AMD's weighted diluted shares, each period as first filed and as filed again: none in a split's ratio (its 2017 quarters' EPS, restated in 2018 for ASC 606, moved by 2 in cents alone). Added 2026-10-15, after the FAQ found the book's split detector wrong here.
-- Look in: companies/Nasdaq/ADVANCED MICRO DEVICES INC.md
+- Look in: companies/Manufacturing/ADVANCED MICRO DEVICES INC.md
 
 ### Question: co-page-4
 - Tier: Page
@@ -273,7 +273,7 @@ its filings were missing, a Lookup.
 - Tolerance:
 - Rules: K1
 - How: companyfacts, CIK 0000034088's 10-K for fiscal 2025; the SEC's list of tickers, XOM. Added 2026-10-15.
-- Look in: companies/NYSE/ExxonMobil Holdings Corp.md
+- Look in: companies/Manufacturing/ExxonMobil Holdings Corp.md
 
 ### Question: co-across-5
 - Tier: Across
@@ -291,4 +291,40 @@ its filings were missing, a Lookup.
 - Tolerance: 0.1
 - Rules:
 - How: the SEC's Financial Statement Data Sets (2025q1), Apple's 10-Q for the quarter ended 2024-12-28, revenue with ProductOrService=IPhone, over companyfacts' revenue for that quarter. Added 2026-10-15: the book's two Join questions were on prices, and so are Gaps now.
-- Look in: companies/Nasdaq/Apple Inc.md
+- Look in: companies/Manufacturing/Apple Inc.md
+
+### Question: co-reading-1
+- Tier: Across
+- Ask: Of the S&P 500's companies, in the latest fiscal year that nearly all of them have closed and filed (the latest in which at least 95 of every 100 with a revenue the year before have one), which had the greatest revenue and which the greatest net income, and how much was each, in millions of dollars?
+- Type: list
+- Tolerance: 0
+- Rules: R2
+- How: every member's revenue (the first revenue tag filed for the year) and net income (NetIncomeLoss, or ProfitLoss) for each fiscal year its 10-Ks name, latest filed; the year by the rule in the Ask; the greatest of each. Asked first by the front page (.import/reading.md, front-leaders)
+- Look in: README.md
+
+### Question: co-reading-2
+- Tier: Analysis
+- Ask: Taking the S&P 500's companies with a revenue and a net income in every one of the ten years to the latest fiscal year nearly all have closed (as co-reading-1), by what percent did their revenue summed, and their net income summed, rise over the ten years, and in which year did their summed net income fall the most from the year before?
+- Type: list
+- Tolerance: 1
+- Rules: R2, R3
+- How: as co-reading-1, each year from ten before to the latest; the companies with both in every year; each summed by year. Asked first by the front page (.import/reading.md, front-growth)
+- Look in: README.md
+
+### Question: co-reading-3
+- Tier: Across
+- Ask: Of the S&P 500's companies whose SEC industry code falls in division H of the Standard Industrial Classification (Finance, Insurance, and Real Estate, major groups 60 to 67), how many had both a revenue and a net income for the latest fiscal year nearly all have closed (as co-reading-1), what were those summed, in millions of dollars, and which company had the greatest revenue and which the greatest net income?
+- Type: list
+- Tolerance: 1
+- Rules: R2, R4
+- How: (the Tolerance in per cent of each sum) each member's SIC code from its latest 10-K or 10-Q in the SEC's Financial Statement Data Sets (sub.txt), its two-digit major group; revenue and net income as co-reading-1. Asked first by a sector's page (.import/reading.md, sector-size and sector-leaders)
+- Look in: companies/Finance, Insurance, and Real Estate.md
+
+### Question: co-reading-4
+- Tier: Analysis
+- Ask: For Apple, in the latest fiscal year nearly all the S&P 500's companies have closed (as co-reading-1): its revenue in millions of dollars and its rank by revenue among them; by what percent its revenue rose over the ten years before; its net income, and that as a percent of its revenue; and over the ten fiscal years to it, its operating cash flow summed and the percent of that it spent buying back its own shares?
+- Type: list
+- Tolerance: 0.1
+- Rules: R2
+- How: companyfacts, Apple (CIK 0000320193), its revenue, NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock for each fiscal year its 10-Ks name, latest filed; its rank as co-reading-1. Asked first by a company's page (.import/reading.md, company-size, company-earn and company-cash)
+- Look in: companies/Manufacturing/Apple Inc.md

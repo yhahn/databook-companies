@@ -337,3 +337,161 @@ filings alone, 7 listed with true reasons, no prices anywhere, the
 split detector mended (146 to 152, AMD and Keurig gone, Shopify,
 Monster and others found), Exxon, BlackRock and Ferguson read across
 their CIKs, every check held.
+
+# Notes: the R pass, a reader's way in (deputy, 10-20)
+
+## Asked
+
+SPEC R1-R6 for this book: pick the spine and say why; write
+`.import/reading.md` (the questions a stranger asks first of the front
+page and each level, and the findings, numbers left to the importer);
+have the importer write the README and the spine's pages to answer
+them, with pictures, every number filled at build; warn
+`finding-turned` on a rerun and have faq.js hold the pages
+(`page-drifted`), as HUD's do; add the questions to faq.md; rebuild with
+every test and target held; count words and pictures before and after.
+No prices; the data not changed.
+
+## Made
+
+Branch `r-pass`. New: `.import/reading.md`, `.import/reading.js` (HUD's
+reading.py in JavaScript), `.import/reading.json` (the values each page
+was filled with), `.import/companies/reckon.js` (the figures, from the
+book's own), `.import/companies/sic.js` (a company's SIC code, title and
+division). Changed: import.js (sector folders and pages, each company's
+opening, the reading kept and `finding-turned`), readme.js (the front
+page's findings, questions and three pictures), faq.js (co-reading-1 to
+4, its own SIC reader, `drifted`), faq.md (four questions; Look in
+paths moved), faq.test.js, import.test.js (four R tests), the vectors
+(the three new Company keys and their new folders, nothing else),
+cut.js, target.sql and target.js.
+
+| | Before | After |
+|---|---|---|
+| Pages | 496 (3 exchanges) | 501 (8 sectors) |
+| Companies | 493 | 493, each with its SIC code, the SEC's title and its sector |
+| FAQ questions | 31 | 35 (co-reading-1 to 4) |
+| Values the pages hold to the source | 0 | 17 |
+| Target checks | 32 (26, and 6 README queries) | 39 (31, and 8 queries), every one held |
+| Tests | 24 and 12 | 28 and 12, every one passed |
+
+A rerun writes the same README and reading.json, byte for byte; a
+finding changed in reading.json by hand warns on the next run
+(`finding-turned: README.md, front-leaders: ni_top was "AAPL", now
+"GOOGL"`), and was put back.
+
+Words (all, and prose: lines not a table) and pictures:
+
+| Page | Before | After |
+|---|---|---|
+| README.md (the front) | 2,297 words, 1,074 prose, 0 pictures | 3,883, 2,087, 3 |
+| A sector's page (was the exchange's, NYSE) | 4,778, 28, 0 | Finance, Insurance, and Real Estate: 5,387, 396, 2 |
+| Apple's page | 4,409, 620, 1 | 4,545, 756, 1 |
+| JPMorgan's page | 3,042, 264, 1 | 3,178, 400, 1 |
+
+## The spine, the questions, the findings
+
+The company, with its sector, the SIC division of the SEC's code, a
+level above (DECISIONS 24, 25). The front page: what they sell and
+keep; how sales and earnings grew over ten years; who sells and earns
+most; which sectors; what they do with their cash. A sector: its size,
+its growth against all, who leads it and who lost money, its companies
+in a grid. A company: how large, and grown; does it make money, and
+how much it keeps; where its cash goes.
+
+What the data points to (FY2025, 10-20): earnings outran sales (the
+same 351 companies, net income up 143.2% in ten years, revenue 73.5%,
+keeping 12.2% of each dollar against 8.7%); earnings are less steady
+(they fell in 2 of the ten years, revenue in 1; FY2020 by 27.5%); they
+gather at the top (the ten largest earners, 35.7% of all net income,
+Alphabet first); the companies spent less on buybacks ($910 billion)
+than on plant ($1.10 trillion); Services keeps the most of each dollar
+(21.5%), Wholesale Trade the least (1.3%).
+
+## The holes the pass found (for the seat: the data was not changed)
+
+The drift check found them on its first run. **The importer's annual
+cards lack a year the SEC's files give**, where a line's tag moved in
+that year's 10-K: the cascade takes the first tag that files any of the
+year, and the year is lost when that tag files only a quarter of it.
+Alphabet's FY2025: `RevenueFromContractWithCustomerExcludingAssessedTax`
+files only Q1 2025; its 10-K files the year, 402,836, under `Revenues`
+(filed 2026-02-05); its card's FY2025 is blank, and Q2 to Q4 too. Of the
+companies faq.js counts, 23 company-years in FY2015-FY2025 lack a
+revenue or a net income the files give: AMT 2021, CVS 2019, EXC 2019,
+F 2025 (net income: the 10-K's -8,162), FISV 2022, FIX 2021, GOOGL 2025,
+INVH 2017, IT 2015, IVZ 2025, KEYS 2018, MA 2022, MPWR 2016, MS 2015,
+OXY 2024, PCG 2019, PNC 2022, PODD 2023, PYPL 2020, TJX 2015, TXT 2020,
+TYL 2015, XOM 2022. Mending `cascadeYears` in edgar.js (a later tag that
+files the year whole wins it) is a change of data for the seat to take
+or leave; the reading's quarter rule (DECISIONS 27) covers some of it
+and says the rest.
+
+**faq.js has holes of its own**: it names no fiscal year for 25 the
+cards have (ADP, CIEN, CTAS, DE, DPZ, EL, EOG, FDS, GEN, GPN, GRMN,
+JKHY, KDP, LDOS, LHX, MO, MU, NI, NTAP, NXPI, PG, PPG, TEL, WSM, YUM),
+and reads some wrong: Charter's FY2025 revenue as 889 (a member's line,
+not the 54,774 total), Eaton's FY2015 as 0. Neither is mended here.
+
+**target.sql was stale against today's proper** (DECISIONS 29): main's
+pages failed three checks before this pass.
+
+## Learnings
+
+- For SPEC R: R2 asks each level's questions to be held to faq.js
+  exactly. Where a book has two readers of the same source (the
+  importer, faq.js), totals over hundreds of companies never agree to
+  the unit; a tolerance (`~1%`) holds sums, but a set that differs by
+  dozens cannot be held at all. The check's worth showed on its first
+  run: it found 23 holes in the cards and 25 in faq.js. R might say:
+  hold what both readers can name exactly (a leader, a year, one
+  thing's figure), sums within a stated tolerance, and say what is not
+  held and why.
+- For SPEC R1: "by entity, sectors a level above" rested on the book
+  holding a sector; it held none. A register's level above may have to
+  be made from a classification, and that choice (here the SIC
+  division, coarse: 201 of 493 in Manufacturing) shapes every finding
+  about it. R1 could ask the brief to name the grouping, or say the
+  source must give it.
+- For SPEC R: "the year" across entities whose years differ needs a
+  rule written once (here: the latest that 95 of 100 have closed), and
+  the companies left out of it named on the page. R3 might say so.
+- For cards.md: a grid cuts a label past 12 characters; "Manufacturing"
+  is 13, so the front page set its sectors in bars of parts and a table,
+  not a grid. A grid label that wraps, or a short label beside a long
+  name, would let a register's groups be a grid.
+- For proper: `proper check` reads two line cards with the same heads
+  under a README's sections as one table of the README's title, and
+  asks to mend every prose section beside them; heads made different
+  ("Rise, %", "$ billions") mended it. A README is a page of prose and
+  pictures; the warning there is noise.
+- For proper: a Tolerance of "1%" is no number, and warned of; the
+  per cent went into the How.
+
+## Unsure
+
+- Whether the seat wants the exchange folders gone (DECISIONS 24): every
+  page moved, and links from outside to the public repo break.
+- Whether the SIC division is the sector a reader wants: true and
+  public, but coarse; the SEC's title on every company is the finer
+  word.
+- Ford, Alphabet and six more are left out of FY2025's totals, said on
+  the front page by name; mending the cascade would bring them in.
+
+## Against the brief
+
+The brief's lean held (the company, sectors above), but the sector had
+to be made (an hour's thought, not a minute's), and the drift check
+turned up the importer's holes, which the brief's "do not change the
+data" kept me from mending: the pass works around them in the open.
+Taken about 50 minutes, the most of it the sector and the holes.
+
+## What the brief lacked
+
+Where the sectors come from (the book had none); and that faq.js and
+the importer are two readers whose sets differ, so "hold the pages'
+numbers" could not be exact for totals.
+
+One line: the book now opens on its findings and questions, a company
+the spine and its SIC division above, 17 values held to the source, and
+the drift check's first run found 23 years the importer's cards lack.

@@ -3,13 +3,13 @@
 -- K, D) and the source. Each check: a name, what it should give, and one
 -- query giving one value. Played by .import/target.js.
 
--- name: B5 the kinds
--- want: Change, Company, Exchange, Question
+-- name: B5 the kinds (proper's own table of footnotes, G17, aside)
+-- want: Change, Company, Question, Sector
 select string_agg(distinct table_name, ', ' order by table_name) from information_schema.columns
-where column_name = '_end_line';
+where column_name = '_end_line' and table_name <> 'footnotes';
 
 -- name: B3 the keys of Company
--- want: CIK, Ticker, Exchange, First year, Last quarter, Last quarter ended, CIK before
+-- want: CIK, Ticker, Exchange, SIC, Industry, Sector, First year, Last quarter, Last quarter ended, CIK before
 select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
 where table_name = 'Company' and column_name not in ('name', '_file', '_line', '_end_line');
 
@@ -36,9 +36,20 @@ select count(*) from Company;
 -- want: {companies}
 select count(distinct CIK) from Company;
 
--- name: Exchanges, their companies summed
--- want: {exchanges} {companies}
-select count(*) || ' ' || sum(Companies) from Exchange;
+-- name: Sectors, their companies summed
+-- want: {sectors} {companies}
+select count(*) || ' ' || sum(Companies) from Sector;
+
+-- name: B3 the keys of Sector
+-- want: Division, Major groups, Companies
+select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
+where table_name = 'Sector' and column_name not in ('name', '_file', '_line', '_end_line');
+
+-- name: Every company has its SEC code, its title and its sector, and is on its sector's page and in its folder
+-- want: 0 0 0
+select (select count(*) from Company where SIC is null or Industry is null or Sector is null) || ' ' ||
+  (select count(*) from Company c where not exists (select 1 from Sector s where s.name = c.Sector)) || ' ' ||
+  (select count(*) from Company c where not starts_with(c._file, 'companies/' || replace(c.Sector, '/', '-') || '/'));
 
 -- name: Fiscal years
 -- want: {annual}
@@ -58,7 +69,7 @@ select count(*) from Change;
 
 -- name: The source: Apple's FY2024 revenue, $ millions, its 10-K's
 -- want: 391035
-select "FY2024" from Company_Annual a join Company c using (_file) where c.Ticker = 'AAPL' and a."Line item" = 'Revenue';
+select cast("FY2024" as bigint) from Company_Annual a join Company c using (_file) where c.Ticker = 'AAPL' and a."Line item" = 'Revenue';
 
 -- name: Years whose four quarters do not sum to them (Revenue, Net income, Operating cash flow; within $3M or 0.05%), as the importer counted: restated years whose quarters were not all filed again
 -- want: {unreconciled}
@@ -126,9 +137,28 @@ select count(*) from Not_read where Why is null or trim(Why) = '';
 select count(*) from Change ch join Company c using (_file) where ch.CIK = c.CIK;
 
 -- name: K1 a company filing under a new CIK keeps the old beside it (Exxon Mobil: XOM, filed as 0000034088 to 2026-05)
--- want: {successors} 34088
+-- want: {successors} 0000034088
 select count(*) filter (where "CIK before" is not null) || ' ' || max("CIK before") filter (where Ticker = 'XOM') from Company;
 
 -- name: Names are the SEC's list's, not a co-registrant's (Bank of America, Deere), their state marks dropped
 -- want: BAC BANK OF AMERICA CORP; DE DEERE & CO
 select string_agg(Ticker || ' ' || name, '; ' order by Ticker) from Company where Ticker in ('BAC', 'DE');
+
+-- The reading pages (SPEC R2-R5: .import/reading.md, filled by the importer
+-- from the book's own figures; the values each page was filled with in
+-- .import/reading.json, read here as {front.<name>})
+
+-- name: R4 each sector's grid sets every one of its companies side by side, once
+-- want: {companies} {companies}
+select count(*) || ' ' || count(distinct _file || Ticker) from Sector_Compared;
+
+-- name: R2 the front page's greatest revenue is the book's: the company whose annual card has the greatest revenue in FY{front.Y}
+-- want: {front.rev_top} {front.rev_top_v}
+select c.Ticker || ' ' || cast(a."FY{front.Y}" as bigint) from Company_Annual a join Company c using (_file)
+where a."Line item" = 'Revenue' order by a."FY{front.Y}" desc nulls last limit 1;
+
+-- name: R2 the front page's companies with a revenue for FY{front.Y}, as Apple's page counts them, are the cards' and the quarters' (four summed where the card has none)
+-- want: {apple.n_all}
+with q as (select _file, sum(Revenue) r, count(Revenue) n from Company_Quarterly where "Fiscal year" = {front.Y} group by _file)
+select count(*) from Company c left join Company_Annual a on a._file = c._file and a."Line item" = 'Revenue' left join q on q._file = c._file
+where a."FY{front.Y}" is not null or q.n = 4;

@@ -15,7 +15,10 @@
   "name": "A Foreign Filer",
   "span": [
    2025
-  ]
+  ],
+  "sic": "",
+  "industry": "",
+  "sector": "Nonclassifiable Establishments"
  },
  "output": {
   "skip": "no us-gaap revenue (a foreign filer files IFRS, or a tag the cascade lacks)"

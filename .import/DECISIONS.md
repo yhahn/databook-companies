@@ -374,3 +374,125 @@ their terms, the SEC's, public domain, and SPY's file read for the
 members alone; how to make it again, three commands; no path of the
 maker's machine; the FAQ line. Its queries: NVIDIA's EPS across splits
 and the splits found took the place of price over earnings.
+
+# The R pass: a reader's way in (deputy, 10-20)
+
+SPEC R1-R6, read against the book whole. The questions and findings are
+in `.import/reading.md`; the importer fills them (`companies/reckon.js`,
+`reading.js`); faq.js holds the pages to the source.
+
+## 24. The spine: the company, with its sector above (R1)
+
+A reader comes to this book for a company: what Apple sold, what it
+kept, where its cash went. It is a register, and its spine is the
+entity: the S&P 500 on the front page, a sector on its page, a company
+on its own. Time is the second axis, drawn on each (a line of the years,
+a grid a year a column). The folders follow the spine (B7):
+`companies/<Sector>.md` and `companies/<Sector>/<Company>.md`.
+
+The exchange was the folder before, and it answers no question a
+reader asks first: NYSE's page listed 340 companies by name and set
+nothing side by side. It stays a key of the Company record and a
+column of each sector's listing; its three pages are gone (co-page-1,
+which asks Walmart's exchange, now looks in Walmart's page, whose record
+says it). Every page moved; faq.md's Look in paths were moved with them,
+by a script over faq.md (a Look in says where, not what is asked, as
+18). Undo: `dir` in `company` back to the exchange, and `exchangePage`
+from 36aa9a8.
+
+## 25. A sector is the SIC division of the SEC's code for the company
+
+The book held no sector. The lean was "sectors a level above"; what a
+sector is had to be chosen, from a public source and the filings:
+
+- **GICS** (S&P's and MSCI's), the sectors a reader of the index knows,
+  is in SPY's file (its Sector column): licensed, and 16 keeps of that
+  file only names and tickers. Not used.
+- **The SEC's code for each filer**, its Standard Industrial
+  Classification, is in the FSDS already cached (`sub.txt`, `sic`, each
+  filing): public domain, and the SEC's own. 496 of the 500 members have
+  one there; the four without are not in the book (three new filers, and
+  ExxonMobil Holdings, taken from Exxon Mobil's old filer, as 20). No
+  member's code moved within the five quarters.
+- Grouped how: by the SEC's own **offices** (the list's Office column), a
+  workload and not a trade (Caterpillar and Illinois Tool Works in
+  Technology, Stryker in Industrial Applications, four codes in "one
+  office or another"): no. By **major group**, the first two digits: 53
+  among the members, 27 of them unnamed in the SEC's list, and the SIC
+  Manual's names behind OSHA's site, which refuses a program (403): no.
+  By **division**, the manual's top level: ten, fixed, with names a
+  reader knows; eight among the members. Taken.
+
+The cost: Manufacturing holds 201 of the 493 (Apple, NVIDIA and Pfizer
+with Caterpillar, and Exxon, a refiner, 2911), Services 74 (Microsoft,
+Alphabet, Meta), Finance, Insurance, and Real Estate 92 (UnitedHealth
+too: 6324, hospital and medical service plans). Each company's record
+carries its code (`SIC`) and the SEC's title for it (`Industry`), and
+each sector's listing shows the title, so the finer trade is never
+lost. The ten divisions are written by hand in `sic.js` (B8 would have a
+script make them from a source; the manual's site refuses one); faq.js
+writes them again, apart. The SEC's list of codes is fetched by
+`node .import/companies/sic.js --fetch` into the cache, its shape
+checked (V1). Undo: `division` in sic.js (a major group a sector, or
+another source).
+
+## 26. "A year", and the year compared
+
+A year is each company's fiscal year as it names it (5): FY2025 is
+Apple's to September 2025, Microsoft's to June 2025, Walmart's to
+January 2025, Alphabet's the calendar year. The front page says so,
+with those four ends filled from the book. The year compared, Y, is
+the latest in which at least 95 of every 100 companies with a revenue
+the year before have one: FY2025 (485 of 487, 10-20); FY2026 is 61 of
+487. Ten years run from Y−10. Undo: `theYear` in reckon.js (and faq.js's).
+
+## 27. A company's year from its four quarters, where its card has none
+
+The reading's figures (never the cards) take a company's year from its
+annual card, or where the card has no figure for that year but all four
+quarters are filed, their sum (Q4 is the year less nine months, so the
+sum is the 10-K's year). Without it Apple was the greatest earner of
+FY2025; with it, Alphabet ($132.2 billion, its 10-K's own figure, as
+faq.js finds). The card is not mended: the data is not changed in this
+pass (NOTES.md, the holes). Eight companies still have no revenue or no
+net income for Y; the front page names each and leaves them out of its
+totals, and names no greatest loss (Ford lost $8.2 billion in FY2025 by
+its 10-K, which the book does not yet hold). Undo: `yearsOf` in import.js.
+
+## 28. What the pages are held to (R2, page-drifted)
+
+faq.js answers four new questions (co-reading-1 to 4) from the SEC's
+files with its own readers and holds 17 values the pages were filled
+with: the year, the greatest revenue and net income and their figures,
+the worst year for earnings, a sector's sums (within 1%) and leaders,
+and Apple's figures exactly. Not held: the front page's ten-year rises
+(73.5% and 143.2% in the book, 77% and 153.3% by faq.js) and a sector's
+count (92 and 93): the two readers' sets of companies differ by dozens
+(NOTES.md). A `Holds` pair may carry `~x` (x of its units) or `~x%`.
+Undo: a Holds line in reading.md.
+
+## 29. target.sql mended to today's proper
+
+Run on main's pages, today's proper fails three checks the book held on
+10-16: it gathers a CIK as written (`0000034088`, K2 mended, ASKS.md),
+a million as a decimal (391035.000000), and a table of footnotes of its
+own (G17). The checks now say so (`cast(… as bigint)`, `0000034088`, the
+footnotes table set aside). New checks: the Sector kind and its keys,
+every company in its sector's folder and grid, and the front page's
+greatest revenue and its count of companies against the cards.
+
+## 30. Pictures: what was drawn, and how
+
+- The front page: a line of the ten years' rise (revenue and net income,
+  the same companies), bars of parts for the sectors (revenue, net income,
+  companies), and a line of the cash (operating cash flow, capex,
+  buybacks). The sectors are not a grid on the front page: a grid cuts a
+  row's name past 12 characters, and "Manufacturing" is 13 (cards.md,
+  NOTES.md); the bars' key and a table beneath carry the full names.
+- A sector's page: a line of its rise against all the companies', and a
+  grid, a company a row by its ticker (never cut), the largest first, a
+  year a column, its net income over its revenue, `Top: 30` so a cell is
+  shaded alike on every sector's page, a loss in red (`Bad`), its revenue
+  and rise as gutters.
+- A company's page: its annual card was already a picture of every line;
+  its three questions open the page, and nothing new is drawn.

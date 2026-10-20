@@ -1,0 +1,241 @@
+# Company: FLEX LTD.
+
+- CIK: 0000866374
+- Ticker: FLEX
+- Exchange: Nasdaq
+- SIC: 3672
+- Industry: PRINTED CIRCUIT BOARDS
+- Sector: Manufacturing
+- First year: FY2008
+- Last quarter: FY2027 Q1
+- Last quarter ended: 2026-06-26
+- CIK before: 
+
+FLEX LTD., as it files with the SEC (CIK 0000866374): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
+
+**How large is FLEX LTD., and how has it grown?** It sold $25.8 billion in FY2025, the 136th most of the 487 companies with a revenue for the year, and the 63rd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 1.3% from FY2015 to FY2025, −0.1% a year.
+
+**Does FLEX LTD. make money, and how much of what it sells does it keep?** It earned $838 million in FY2025, 3.2% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 19 years in the book (FY2008, FY2009).
+
+**Where does FLEX LTD.'s cash go?** The book does not say: its filings give no value this needs.
+
+## Annual
+
+> [!CARD:line] FLEX LTD., by fiscal year, $ millions
+> | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue |  |  | 27558.135 | 30948.575 | 24110.733 | 28679.925 | 29343.029 | 23569.475 | 26108.607 | 26147.916 | 24418.885 | 23862.934 | 25441.131 | 26211 | 24210 | 24124 | 24633 | 28502 | 26415 | 25813 | 27914 |
+> | Gross profit |  |  | 1176.403 | 1280.43 | 1211.552 | 1583.345 | 1517.95 | 1166.248 | 1440.221 | 1545.34 | 1608.061 | 1520.945 | 1595.882 | 1518 | 1339 | 1687 | 1780 | 1976 | 1865 | 2159 | 2567 |
+> | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 415 | 795 | 890 | 1017 | 853 | 1169 | 1368 |
+> | Net income |  |  | -681.383 | -6135.518 | 18.594 | 596.219 | 488.765 | 277.051 | 365.594 | 596.529 | 437.366 | 311.072 | 420.961 | 93 | 88 | 613 | 936 | 793 | 872 | 838 | 880 |
+> | Operating cash flow |  |  | 1042.833 | 1316.779 | 798.916 | 857.344 | 804.268 | 1115.43 | 1216.46 | 794.034 | 1136.445 | -3822.108 | -3866.335 | -2971 | -1533 | 144 | 1024 | 950 | 1326 | 1505 | 1685 |
+> | Capex |  |  |  |  | -234.517 | -470.702 | -437.191 | -488.993 | -609.643 | -347.413 | -510.634 | -525.111 | -561.997 | -726 | -462 | -351 | -443 | -635 | -530 | -438 | -633 |
+> | Buybacks |  |  | 0 | -260.074 | 0 | -400.4 | -509.8 | -322.04 | -475.314 | -415.945 | -420.317 | -349.532 | -180.05 | -189 | -260 | -183 | -686 | -337 | -1298 | -1257 | -944 |
+
+#### EPS by year
+
+| Fiscal year | Started | Ended | EPS diluted | EPS adjusted |
+| --- | --- | --- | --- | --- |
+| FY2008 | 2007-04-01 | 2008-03-31 | -0.95 | -0.95 |
+| FY2009 | 2008-04-01 | 2009-03-31 | -7.47 | -7.47 |
+| FY2010 | 2009-04-01 | 2010-03-31 | 0.02 | 0.02 |
+| FY2011 | 2010-04-01 | 2011-03-31 | 0.75 | 0.75 |
+| FY2012 | 2011-04-01 | 2012-03-31 | 0.67 | 0.67 |
+| FY2013 | 2012-04-01 | 2013-03-31 | 0.41 | 0.41 |
+| FY2014 | 2013-04-01 | 2014-03-31 | 0.59 | 0.59 |
+| FY2015 | 2014-04-01 | 2015-03-31 | 1.02 | 1.02 |
+| FY2016 | 2015-04-01 | 2016-03-31 | 0.79 | 0.79 |
+| FY2017 | 2016-04-01 | 2017-03-31 | 0.59 | 0.59 |
+| FY2018 | 2017-04-01 | 2018-03-31 | 0.8 | 0.8 |
+| FY2019 | 2018-04-01 | 2019-03-31 | 0.18 | 0.18 |
+| FY2020 | 2019-04-01 | 2020-03-31 | 0.17 | 0.17 |
+| FY2021 | 2020-04-01 | 2021-03-31 | 1.21 | 1.21 |
+| FY2022 | 2021-04-01 | 2022-03-31 | 1.94 | 1.94 |
+| FY2023 | 2022-04-01 | 2023-03-31 | 1.72 | 1.72 |
+| FY2024 | 2023-04-01 | 2024-03-31 | 2.28 | 2.28 |
+| FY2025 | 2024-04-01 | 2025-03-31 | 2.11 | 2.11 |
+| FY2026 | 2025-04-01 | 2026-03-31 | 2.33 | 2.33 |
+
+## Quarterly
+
+| Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FY2009 Q1 | 2009 | 1 | 2008-06-27 | 8350.246 | 456.767 |  | 119.209 | 0.14 | -8.484 |  |  | 0.14 |
+| FY2009 Q2 | 2009 | 2 | 2008-09-26 | 8862.516 | 417.461 |  | 27.071 | 0.03 | 756.495 |  |  | 0.03 |
+| FY2009 Q3 | 2009 | 3 | 2008-12-31 | 8153.289 | 297.339 |  | -6032.549 | -7.45 | 283.224 |  | 0 | -7.45 |
+| FY2009 Q4 | 2009 | 4 | 2009-03-31 | 5582.524 | 108.863 |  | -249.249 | -0.33 | 285.544 |  | 0 | -0.33 |
+| FY2010 Q1 | 2010 | 1 | 2009-07-03 | 5782.679 | 223.995 |  | -154.043 | -0.19 | 106.866 |  |  | -0.19 |
+| FY2010 Q2 | 2010 | 2 | 2009-10-02 | 5831.761 | 299.58 |  | 19.659 | 0.02 | 311.538 |  |  | 0.02 |
+| FY2010 Q3 | 2010 | 3 | 2009-12-31 | 6556.137 | 373.052 |  | 92.87 | 0.11 | 331.304 |  | 0 | 0.11 |
+| FY2010 Q4 | 2010 | 4 | 2010-03-31 | 5940.156 | 320.915 |  | 60.108 | 0.07 | 49.208 |  | 0 | 0.07 |
+| FY2011 Q1 | 2011 | 1 | 2010-07-02 | 6565.88 | 370.181 |  | 118.178 | 0.14 | 88.764 | -119.045 | -104.875 | 0.14 |
+| FY2011 Q2 | 2011 | 2 | 2010-10-01 | 7422.338 | 401.427 |  | 144.416 | 0.18 | 508.755 | -154.127 | -195.068 | 0.18 |
+| FY2011 Q3 | 2011 | 3 | 2010-12-31 | 7832.856 | 434.88 |  | 198.29 | 0.26 | -14.689 | -127.75 | -68.026 | 0.26 |
+| FY2011 Q4 | 2011 | 4 | 2011-03-31 | 6858.851 | 379.481 |  | 135.335 | 0.17 | 274.514 | -69.78 | -32.431 | 0.17 |
+| FY2012 Q1 | 2012 | 1 | 2011-07-01 | 7495.288 | 400.776 |  | 131.975 | 0.17 | 136.411 | -123.254 | -199.999 | 0.17 |
+| FY2012 Q2 | 2012 | 2 | 2011-09-30 | 8008.428 | 372.518 |  | 129.88 | 0.18 | 300.469 | -137.449 | -106.058 | 0.18 |
+| FY2012 Q3 | 2012 | 3 | 2011-12-31 | 7469.347 | 385.747 |  | 102.177 | 0.14 | 228.704 | -114.974 | -89.547 | 0.14 |
+| FY2012 Q4 | 2012 | 4 | 2012-03-31 | 6369.966 | 358.909 |  | 124.733 | 0.18 | 138.684 | -61.514 | -114.196 | 0.18 |
+| FY2013 Q1 | 2013 | 1 | 2012-06-29 | 5975.995 | 357.357 |  | 128.472 | 0.19 | 45.598 | -117.395 | -134.014 | 0.19 |
+| FY2013 Q2 | 2013 | 2 | 2012-09-28 | 6174.841 | 366.772 |  | 150.547 | 0.22 | 482.247 | -147.076 | 0 | 0.22 |
+| FY2013 Q3 | 2013 | 3 | 2012-12-31 | 6123.321 | 246.462 |  | 47.348 | 0.07 | 478.212 | -113.43 | -74.194 | 0.07 |
+| FY2013 Q4 | 2013 | 4 | 2013-03-31 | 5295.318 | 195.657 |  | -49.316 | -0.08 | 109.373 | -111.092 | -113.832 | -0.08 |
+| FY2014 Q1 | 2014 | 1 | 2013-06-29 | 5791.125 | 311.035 |  | 59.257 | 0.09 | 198.576 | -144.737 | -215.21 | 0.09 |
+| FY2014 Q2 | 2014 | 2 | 2013-09-27 | 6410.106 | 368.423 |  | 118.205 | 0.19 | 155.182 | -176.712 | -109.384 | 0.19 |
+| FY2014 Q3 | 2014 | 3 | 2013-12-31 | 7183.442 | 398.619 |  | 145.157 | 0.23 | 764.549 | -204.577 | -38.099 | 0.23 |
+| FY2014 Q4 | 2014 | 4 | 2014-03-31 | 6723.934 | 362.144 |  | 42.975 | 0.07 | 98.153 | -83.617 | -112.621 | 0.07 |
+| FY2015 Q1 | 2015 | 1 | 2014-06-30 | 6642.745 | 380.785 |  | 173.887 | 0.29 | -81.169 | -87.101 | -105.568 | 0.29 |
+| FY2015 Q2 | 2015 | 2 | 2014-09-30 | 6528.517 | 377.081 |  | 138.903 | 0.23 | 387.414 | -80.103 | -101.203 | 0.23 |
+| FY2015 Q3 | 2015 | 3 | 2014-12-31 | 7025.054 | 408.657 |  | 152.899 | 0.26 | 363.179 | -87.766 | -83.981 | 0.26 |
+| FY2015 Q4 | 2015 | 4 | 2015-03-31 | 5951.6 | 378.817 |  | 135.112 | 0.23 | 124.61 | -92.443 | -125.193 | 0.23 |
+| FY2016 Q1 | 2016 | 1 | 2015-06-26 | 5566.248 | 352.341 |  | 110.85 | 0.19 | 362.276 | -138.348 | -99.995 | 0.19 |
+| FY2016 Q2 | 2016 | 2 | 2015-09-25 | 6316.762 | 396.916 |  | 122.977 | 0.22 | 299.719 | -158.053 | -141.983 | 0.22 |
+| FY2016 Q3 | 2016 | 3 | 2015-12-31 | 6763.177 | 452.467 |  | 148.91 | 0.27 | 277.777 | -122.16 | -89.712 | 0.27 |
+| FY2016 Q4 | 2016 | 4 | 2016-03-31 | 5772.698 | 406.337 |  | 61.344 | 0.11 | 196.673 | -92.073 | -88.627 | 0.11 |
+| FY2017 Q1 | 2017 | 1 | 2016-07-01 | 5876.813 | 405.995 |  | 105.729 | 0.19 | 263.932 | -159.103 | -94.715 | 0.19 |
+| FY2017 Q2 | 2017 | 2 | 2016-09-30 | 6008.525 | 313.691 |  | -2.508 | 0 | 279.62 | -146.833 | -89.983 | 0 |
+| FY2017 Q3 | 2017 | 3 | 2016-12-31 | 6114.999 | 416.455 |  | 129.469 | 0.24 | 469.636 | -107.66 | -74.96 | 0.24 |
+| FY2017 Q4 | 2017 | 4 | 2017-03-31 | 5862.597 | 384.804 |  | 86.874 | 0.16 | -4835.296 | -111.515 | -89.874 | 0.16 |
+| FY2018 Q1 | 2018 | 1 | 2017-06-30 | 6008.272 | 406.932 |  | 124.71 | 0.23 | -695.756 | -124.851 | -73.864 | 0.23 |
+| FY2018 Q2 | 2018 | 2 | 2017-09-29 | 6270.42 | 393.325 |  | 205.086 | 0.38 | -1476.221 | -139.179 | -71.141 | 0.38 |
+| FY2018 Q3 | 2018 | 3 | 2017-12-31 | 6751.552 | 446.328 |  | 118.333 | 0.22 | -935.609 | -168.867 | -35.045 | 0.22 |
+| FY2018 Q4 | 2018 | 4 | 2018-03-31 | 6410.887 | 349.297 |  | -19.595 | -0.04 | -758.749 | -129.1 | 0 | -0.04 |
+| FY2019 Q1 | 2019 | 1 | 2018-06-29 | 6398.956 | 377.854 |  | 116.035 | 0.22 | -943.265 | -172.247 | 0 | 0.22 |
+| FY2019 Q2 | 2019 | 2 | 2018-09-28 | 6662.604 | 402.301 |  | 86.885 | 0.16 | -764.331 | -191.126 | -59.98 | 0.16 |
+| FY2019 Q3 | 2019 | 3 | 2018-12-31 | 6922.827 | 357.325 |  | -45.169 | -0.09 | -621.009 | -228.719 | -63.999 | -0.09 |
+| FY2019 Q4 | 2019 | 4 | 2019-03-31 | 6226.124 | 380.295 |  | -64.352 | -0.12 | -642.395 | -133.908 | -65.021 | -0.12 |
+| FY2020 Q1 | 2020 | 1 | 2019-06-28 | 6175.939 | 352.759 |  | 44.872 | 0.09 | -656.866 | -162.115 | -51.999 | 0.09 |
+| FY2020 Q2 | 2020 | 2 | 2019-09-27 | 6088 | 189 |  | -117 | -0.23 | -991.134 | -109.885 | -60.001 | -0.23 |
+| FY2020 Q3 | 2020 | 3 | 2019-12-31 | 6461 | 430 |  | 111 | 0.22 | -51 | -104 | -61 | 0.22 |
+| FY2020 Q4 | 2020 | 4 | 2020-03-31 | 5484.49 | 365.627 |  | 48.259 | 0.1 | 166 | -86 | -87 | 0.1 |
+| FY2021 Q1 | 2021 | 1 | 2020-06-26 | 5153 | 304 |  |  | 0.1 | -629 | -110 | 0 | 0.1 |
+| FY2021 Q2 | 2021 | 2 | 2020-09-25 | 5985 | 395 | 175 |  | 0.22 | 264 | -75 | 0 | 0.22 |
+| FY2021 Q3 | 2021 | 3 | 2020-12-31 | 6720 | 479 | 240 |  | 0.41 | 348 | -76 | -38 | 0.41 |
+| FY2021 Q4 | 2021 | 4 | 2021-03-31 | 6266 | 509 | 282 | 240 | 0.47 | 161 | -90 | -145 | 0.47 |
+| FY2022 Q1 | 2022 | 1 | 2021-07-02 | 6342 | 471 | 255 | 206 | 0.41 | 334 | -118 | -162 | 0.41 |
+| FY2022 Q2 | 2022 | 2 | 2021-10-01 | 6229 | 465 | 237 | 336 | 0.69 | 180 | -92 | -328 | 0.69 |
+| FY2022 Q3 | 2022 | 3 | 2021-12-31 | 6619 | 491 | 251 | 227 | 0.48 | 150 | -123 | -90 | 0.48 |
+| FY2022 Q4 | 2022 | 4 | 2022-03-31 | 6851 | 505 | 228 | 168 | 0.36 | 360 | -110 | -106 | 0.36 |
+| FY2023 Q1 | 2023 | 1 | 2022-07-01 | 6961 | 487 | 253 | 189 | 0.4 | 38 | -107 | -181 | 0.4 |
+| FY2023 Q2 | 2023 | 2 | 2022-09-30 | 7303 | 525 | 282 | 232 | 0.5 | 103 | -189 | -72 | 0.5 |
+| FY2023 Q3 | 2023 | 3 | 2022-12-31 | 7254 | 499 | 259 | 230 | 0.5 | 359 | -159 | -40 | 0.5 |
+| FY2023 Q4 | 2023 | 4 | 2023-03-31 | 6984 | 465 | 223 | 142 | 0.31 | 450 | -180 | -44 | 0.31 |
+| FY2024 Q1 | 2024 | 1 | 2023-06-30 | 6892 | 476 | 215 | 186 | 0.41 | 6 | -167 | -197 | 0.41 |
+| FY2024 Q2 | 2024 | 2 | 2023-09-29 | 6933 | 519 | 281 | 228 | 0.51 | 357 | -152 | -309 | 0.51 |
+| FY2024 Q3 | 2024 | 3 | 2023-12-31 | 6421 | 433 | 198 | 197 | 0.45 | 284 | -130 | -275 | 0.45 |
+| FY2024 Q4 | 2024 | 4 | 2024-03-31 | 6169 | 437 | 159 | 395 | 0.93 | 679 | -81 | -517 | 0.93 |
+| FY2025 Q1 | 2025 | 1 | 2024-06-28 | 6314 | 471 | 233 | 139 | 0.34 | 340 | -111 | -457 | 0.34 |
+| FY2025 Q2 | 2025 | 2 | 2024-09-27 | 6545 | 531 | 297 | 214 | 0.54 | 319 | -103 | -300 | 0.54 |
+| FY2025 Q3 | 2025 | 3 | 2024-12-31 | 6556 | 594 | 334 | 263 | 0.67 | 413 | -112 | -201 | 0.67 |
+| FY2025 Q4 | 2025 | 4 | 2025-03-31 | 6398 | 563 | 305 | 222 | 0.57 | 433 | -112 | -299 | 0.57 |
+| FY2026 Q1 | 2026 | 1 | 2025-06-27 | 6575 | 572 | 311 | 192 | 0.5 | 399 | -133 | -247 | 0.5 |
+| FY2026 Q2 | 2026 | 2 | 2025-09-26 | 6804 | 614 | 296 | 199 | 0.52 | 453 | -150 | -297 | 0.52 |
+| FY2026 Q3 | 2026 | 3 | 2025-12-31 | 7058 | 679 | 389 | 239 | 0.64 | 420 | -148 | -200 | 0.64 |
+| FY2026 Q4 | 2026 | 4 | 2026-03-31 | 7477 | 702 | 372 | 250 | 0.67 | 413 | -202 | -200 | 0.67 |
+| FY2027 Q1 | 2027 | 1 | 2026-06-26 | 7928 | 747 | 392 | 285 | 0.76 | 276 | -236 | 0 | 0.76 |
+
+## Segments
+
+Revenue by business segment, product and geography, as FLEX LTD. files them in the SEC's Financial Statement Data Sets (2025q1, 2025q2, 2025q3, 2025q4, 2026q1), in millions. Each filing gives its quarter and the year before. Members are the company's own names.
+
+| Quarter | Axis | Member | Revenue |
+| --- | --- | --- | --- |
+| FY2024 Q3 | Segment | FlexAgilitySolutionsFAS | 3465 |
+| FY2024 Q3 | Segment | FlexReliabilitySolutionsFRS | 2956 |
+| FY2025 Q1 | Segment | FlexAgilitySolutionsFAS | 3365 |
+| FY2025 Q1 | Segment | FlexReliabilitySolutionsFRS | 2949 |
+| FY2025 Q2 | Segment | FlexAgilitySolutionsFAS | 3606 |
+| FY2025 Q2 | Segment | FlexReliabilitySolutionsFRS | 2939 |
+| FY2025 Q3 | Segment | FlexAgilitySolutionsFAS | 3599 |
+| FY2025 Q3 | Segment | FlexReliabilitySolutionsFRS | 2957 |
+| FY2025 Q4 | Segment | FlexAgilitySolutionsFAS | 3504 |
+| FY2025 Q4 | Segment | FlexReliabilitySolutionsFRS | 2894 |
+| FY2026 Q1 | Segment | FlexAgilitySolutionsFAS | 3691 |
+| FY2026 Q1 | Segment | FlexReliabilitySolutionsFRS | 2884 |
+| FY2026 Q2 | Segment | FlexAgilitySolutionsFAS | 3766 |
+| FY2026 Q2 | Segment | FlexReliabilitySolutionsFRS | 3038 |
+| FY2026 Q3 | Segment | FlexAgilitySolutionsFAS | 3818 |
+| FY2026 Q3 | Segment | FlexReliabilitySolutionsFRS | 3240 |
+
+## Tags
+
+The us-gaap tag each line item was taken from, its years in runs: a line item moves between tags over the years, and each move is a change below.
+
+| Line item | From | To | Tag |
+| --- | --- | --- | --- |
+| Revenue | FY2008 | FY2011 | us-gaap:Revenues |
+| Revenue | FY2012 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2018 | FY2027 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Gross profit | FY2008 | FY2027 | us-gaap:GrossProfit |
+| Operating income | FY2020 | FY2027 | us-gaap:OperatingIncomeLoss |
+| Net income | FY2008 | FY2010 | us-gaap:ProfitLoss |
+| Net income | FY2011 | FY2014 | us-gaap:NetIncomeLoss |
+| Net income | FY2015 | FY2020 | us-gaap:ProfitLoss |
+| Net income | FY2021 | FY2026 | us-gaap:NetIncomeLoss |
+| Net income | FY2027 | FY2027 | us-gaap:ProfitLoss |
+| EPS diluted | FY2008 | FY2027 | us-gaap:EarningsPerShareDiluted |
+| Operating cash flow | FY2008 | FY2027 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Capex | FY2010 | FY2027 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Buybacks | FY2008 | FY2027 | us-gaap:PaymentsForRepurchaseOfCommonStock |
+
+## Changes
+
+### Change: FLEX LTD., Revenue tag, FY2012
+
+- CIK: 0000866374
+- What: Revenue tag
+- Boundary: FY2012
+- Was: us-gaap:Revenues
+- Now: us-gaap:SalesRevenueNet
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: FLEX LTD., Revenue tag, FY2018
+
+- CIK: 0000866374
+- What: Revenue tag
+- Boundary: FY2018
+- Was: us-gaap:SalesRevenueNet
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 25441131000 and 25441131000
+- Source: SEC EDGAR companyfacts
+
+### Change: FLEX LTD., Net income tag, FY2011
+
+- CIK: 0000866374
+- What: Net income tag
+- Boundary: FY2011
+- Was: us-gaap:ProfitLoss
+- Now: us-gaap:NetIncomeLoss
+- Crosswalk: FY2011 under both: 596219000 and 596219000
+- Source: SEC EDGAR companyfacts
+
+### Change: FLEX LTD., Net income tag, FY2015
+
+- CIK: 0000866374
+- What: Net income tag
+- Boundary: FY2015
+- Was: us-gaap:NetIncomeLoss
+- Now: us-gaap:ProfitLoss
+- Crosswalk: FY2015 under both: 600801000 and 596529000
+- Source: SEC EDGAR companyfacts
+
+### Change: FLEX LTD., Net income tag, FY2021
+
+- CIK: 0000866374
+- What: Net income tag
+- Boundary: FY2021
+- Was: us-gaap:ProfitLoss
+- Now: us-gaap:NetIncomeLoss
+- Crosswalk: FY2021 under both: 613000000 and 613000000
+- Source: SEC EDGAR companyfacts
+
+### Change: FLEX LTD., Net income tag, FY2027
+
+- CIK: 0000866374
+- What: Net income tag
+- Boundary: FY2027
+- Was: us-gaap:NetIncomeLoss
+- Now: us-gaap:ProfitLoss
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts

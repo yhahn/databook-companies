@@ -10,6 +10,7 @@ const fs = require('fs');
 const path = require('path');
 const { company, merged } = require('../import');
 const { splits } = require('../edgar');
+const sic = require('../sic');
 
 const CACHE = path.join(process.env.HOME, '.cache/proper/earnings');
 const facts = (cik) => JSON.parse(fs.readFileSync(path.join(CACHE, 'edgar', `CIK${cik}.json`), 'utf8'));
@@ -41,7 +42,13 @@ function splitVector(file, rule, about, facts) {
   console.log(`splits/${file}`, v.output.splits.length, 'splits');
 }
 
+// each vector's company's SIC code, as the FSDS cached give it (sic.js), its
+// title and its sector (SIC division); the foreign filer, none
+const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911' };
+const titles = sic.titles();
 function vector(file, rule, about, input) {
+  const code = SIC[input.ticker];
+  Object.assign(input, { sic: code, industry: code ? titles.get(code) : '', sector: code ? sic.division(code).name : 'Nonclassifiable Establishments' });
   const built = company(input);
   const v = { rule, about, input, output: built.pages || { skip: built.skip } };
   fs.writeFileSync(path.join(__dirname, file), JSON.stringify(v, null, 1) + '\n');

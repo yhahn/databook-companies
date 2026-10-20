@@ -1,6 +1,6 @@
 # Questions and answers
 
-31 questions a careful reader of this book can answer, an investor's or a student's, from the plainest (one company, one line, one year) to the hardest (what changed, and why), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from the SEC's files at every release, not copied from the pages: where the two disagree, one is wrong.
+35 questions a careful reader of this book can answer, an investor's or a student's, from the plainest (one company, one line, one year) to the hardest (what changed, and why), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from the SEC's files at every release, not copied from the pages: where the two disagree, one is wrong.
 
 ### Question: co-lookup-1
 
@@ -9,7 +9,7 @@
 - Answer: 391035
 - Type: number
 - Tolerance: 0
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 companyfacts CIK0000320193, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, 2023-10-01 to 2024-09-28 (Apple's fiscal 2024), latest filed: 391035000000.
 
@@ -20,7 +20,7 @@ companyfacts CIK0000320193, us-gaap:RevenueFromContractWithCustomerExcludingAsse
 - Answer: 22245
 - Type: number
 - Tolerance: 0
-- Look in: [companies/Nasdaq/MICROSOFT CORP](./companies/Nasdaq/MICROSOFT%20CORP.md)
+- Look in: [companies/Services/MICROSOFT CORP](./companies/Services/MICROSOFT%20CORP.md)
 
 companyfacts CIK0000789019, us-gaap:PaymentsForRepurchaseOfCommonStock, 2022-07-01 to 2023-06-30: 22245000000, filed as paid out. The book writes cash paid out negative (-22245).
 
@@ -42,7 +42,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: -2722
 - Type: number
 - Tolerance: 0
-- Look in: [companies/Nasdaq/AMAZON COM INC](./companies/Nasdaq/AMAZON%20COM%20INC.md)
+- Look in: [companies/Retail Trade/AMAZON COM INC](./companies/Retail%20Trade/AMAZON%20COM%20INC.md)
 
 companyfacts CIK0001018724, us-gaap:NetIncomeLoss, 2022-01-01 to 2022-12-31: -2722000000, a loss.
 
@@ -53,7 +53,7 @@ companyfacts CIK0001018724, us-gaap:NetIncomeLoss, 2022-01-01 to 2022-12-31: -27
 - Answer: -4.38
 - Type: number
 - Tolerance: 0
-- Look in: [companies/Nasdaq/INTEL CORP](./companies/Nasdaq/INTEL%20CORP.md)
+- Look in: [companies/Manufacturing/INTEL CORP](./companies/Manufacturing/INTEL%20CORP.md)
 
 companyfacts CIK0000050863, us-gaap:EarningsPerShareDiluted, 2023-12-31 to 2024-12-28, latest filed.
 
@@ -64,7 +64,7 @@ companyfacts CIK0000050863, us-gaap:EarningsPerShareDiluted, 2023-12-31 to 2024-
 - Answer: Nasdaq
 - Type: set
 - Tolerance:
-- Look in: [companies/Nasdaq](./companies/Nasdaq.md), [companies/Nasdaq/Walmart Inc](./companies/Nasdaq/Walmart%20Inc.md)
+- Look in: [companies/Retail Trade/Walmart Inc](./companies/Retail%20Trade/Walmart%20Inc.md)
 
 company_tickers_exchange.json: CIK 104169, Walmart Inc., WMT, Nasdaq. (Walmart moved its listing from the NYSE to Nasdaq in December 2025.)
 
@@ -97,7 +97,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: AAPL, FY2024: 94949 ($ millions)
 - Type: set
 - Tolerance:
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 us-gaap:PaymentsForRepurchaseOfCommonStock, every fiscal year of every company, latest filed; the most: AAPL, 2023-10-01 to 2024-09-28, 94949000000.
 
@@ -108,7 +108,7 @@ us-gaap:PaymentsForRepurchaseOfCommonStock, every fiscal year of every company, 
 - Answer: AMCR, BR, CAH, CLX, COHR, EL, FOXA, JKHY, KLAC, LITE, LRCX, MSFT, NWSA, PG, PH, RMD, SMCI, SNDK, STX, SYY, TECH, TPR, WDC
 - Type: set
 - Tolerance:
-- Look in: [companies/NYSE/Amcor plc](./companies/NYSE/Amcor%20plc.md), [companies/NYSE/BROADRIDGE FINANCIAL SOLUTIONS, INC](./companies/NYSE/BROADRIDGE%20FINANCIAL%20SOLUTIONS,%20INC.md), [companies/NYSE/CARDINAL HEALTH INC](./companies/NYSE/CARDINAL%20HEALTH%20INC.md), [companies/NYSE/CLOROX CO](./companies/NYSE/CLOROX%20CO.md), [companies/NYSE/COHERENT CORP](./companies/NYSE/COHERENT%20CORP.md), [companies/NYSE/ESTEE LAUDER COMPANIES INC](./companies/NYSE/ESTEE%20LAUDER%20COMPANIES%20INC.md), [companies/Nasdaq/Fox Corp](./companies/Nasdaq/Fox%20Corp.md), [companies/Nasdaq/JACK HENRY & ASSOCIATES INC](./companies/Nasdaq/JACK%20HENRY%20%26%20ASSOCIATES%20INC.md), [companies/Nasdaq/KLA CORP](./companies/Nasdaq/KLA%20CORP.md), [companies/Nasdaq/Lumentum Holdings Inc](./companies/Nasdaq/Lumentum%20Holdings%20Inc.md), [companies/Nasdaq/LAM RESEARCH CORP](./companies/Nasdaq/LAM%20RESEARCH%20CORP.md), [companies/Nasdaq/MICROSOFT CORP](./companies/Nasdaq/MICROSOFT%20CORP.md), [companies/Nasdaq/NEWS CORP](./companies/Nasdaq/NEWS%20CORP.md), [companies/NYSE/PROCTER & GAMBLE Co](./companies/NYSE/PROCTER%20%26%20GAMBLE%20Co.md), [companies/NYSE/Parker-Hannifin Corp](./companies/NYSE/Parker-Hannifin%20Corp.md), [companies/NYSE/RESMED INC](./companies/NYSE/RESMED%20INC.md), [companies/Nasdaq/Super Micro Computer, Inc](./companies/Nasdaq/Super%20Micro%20Computer,%20Inc.md), [companies/Nasdaq/Sandisk Corp](./companies/Nasdaq/Sandisk%20Corp.md), [companies/Nasdaq/Seagate Technology Holdings plc](./companies/Nasdaq/Seagate%20Technology%20Holdings%20plc.md), [companies/NYSE/SYSCO CORP](./companies/NYSE/SYSCO%20CORP.md), [companies/Nasdaq/BIO-TECHNE Corp](./companies/Nasdaq/BIO-TECHNE%20Corp.md), [companies/NYSE/TAPESTRY, INC](./companies/NYSE/TAPESTRY,%20INC.md), [companies/Nasdaq/WESTERN DIGITAL CORP](./companies/Nasdaq/WESTERN%20DIGITAL%20CORP.md)
+- Look in: [companies/Manufacturing/Amcor plc](./companies/Manufacturing/Amcor%20plc.md), [companies/Services/BROADRIDGE FINANCIAL SOLUTIONS, INC](./companies/Services/BROADRIDGE%20FINANCIAL%20SOLUTIONS,%20INC.md), [companies/Wholesale Trade/CARDINAL HEALTH INC](./companies/Wholesale%20Trade/CARDINAL%20HEALTH%20INC.md), [companies/Manufacturing/CLOROX CO](./companies/Manufacturing/CLOROX%20CO.md), [companies/Manufacturing/COHERENT CORP](./companies/Manufacturing/COHERENT%20CORP.md), [companies/Manufacturing/ESTEE LAUDER COMPANIES INC](./companies/Manufacturing/ESTEE%20LAUDER%20COMPANIES%20INC.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Fox Corp](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/Fox%20Corp.md), [companies/Services/JACK HENRY & ASSOCIATES INC](./companies/Services/JACK%20HENRY%20%26%20ASSOCIATES%20INC.md), [companies/Manufacturing/KLA CORP](./companies/Manufacturing/KLA%20CORP.md), [companies/Manufacturing/Lumentum Holdings Inc](./companies/Manufacturing/Lumentum%20Holdings%20Inc.md), [companies/Manufacturing/LAM RESEARCH CORP](./companies/Manufacturing/LAM%20RESEARCH%20CORP.md), [companies/Services/MICROSOFT CORP](./companies/Services/MICROSOFT%20CORP.md), [companies/Manufacturing/NEWS CORP](./companies/Manufacturing/NEWS%20CORP.md), [companies/Manufacturing/PROCTER & GAMBLE Co](./companies/Manufacturing/PROCTER%20%26%20GAMBLE%20Co.md), [companies/Manufacturing/Parker-Hannifin Corp](./companies/Manufacturing/Parker-Hannifin%20Corp.md), [companies/Manufacturing/RESMED INC](./companies/Manufacturing/RESMED%20INC.md), [companies/Manufacturing/Super Micro Computer, Inc](./companies/Manufacturing/Super%20Micro%20Computer,%20Inc.md), [companies/Manufacturing/Sandisk Corp](./companies/Manufacturing/Sandisk%20Corp.md), [companies/Manufacturing/Seagate Technology Holdings plc](./companies/Manufacturing/Seagate%20Technology%20Holdings%20plc.md), [companies/Wholesale Trade/SYSCO CORP](./companies/Wholesale%20Trade/SYSCO%20CORP.md), [companies/Manufacturing/BIO-TECHNE Corp](./companies/Manufacturing/BIO-TECHNE%20Corp.md), [companies/Manufacturing/TAPESTRY, INC](./companies/Manufacturing/TAPESTRY,%20INC.md), [companies/Manufacturing/WESTERN DIGITAL CORP](./companies/Manufacturing/WESTERN%20DIGITAL%20CORP.md)
 
 The year each company names 2025, its end in June: 23 companies.
 
@@ -130,7 +130,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: WMT (642637), AMZN (637959), UNH (400278), AAPL (391035), CVS (372809)
 - Type: list
 - Tolerance:
-- Look in: [companies/Nasdaq/Walmart Inc](./companies/Nasdaq/Walmart%20Inc.md), [companies/Nasdaq/AMAZON COM INC](./companies/Nasdaq/AMAZON%20COM%20INC.md), [companies/NYSE/UNITEDHEALTH GROUP INC](./companies/NYSE/UNITEDHEALTH%20GROUP%20INC.md), [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md), [companies/NYSE/CVS HEALTH Corp](./companies/NYSE/CVS%20HEALTH%20Corp.md)
+- Look in: [companies/Retail Trade/Walmart Inc](./companies/Retail%20Trade/Walmart%20Inc.md), [companies/Retail Trade/AMAZON COM INC](./companies/Retail%20Trade/AMAZON%20COM%20INC.md), [companies/Finance, Insurance, and Real Estate/UNITEDHEALTH GROUP INC](./companies/Finance,%20Insurance,%20and%20Real%20Estate/UNITEDHEALTH%20GROUP%20INC.md), [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md), [companies/Retail Trade/CVS HEALTH Corp](./companies/Retail%20Trade/CVS%20HEALTH%20Corp.md)
 
 Revenue (the first of the revenue tags filed) for the year each company names 2024, latest filed: WMT 2023-02-01 to 2024-01-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; AMZN 2024-01-01 to 2024-12-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; UNH 2024-01-01 to 2024-12-31, us-gaap:Revenues; AAPL 2023-10-01 to 2024-09-28, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; CVS 2024-01-01 to 2024-12-31, us-gaap:Revenues.
 
@@ -163,7 +163,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: 11.89 as first filed (2019-10-31); 2.97 as filed since 2020-10-30, a share after the 4 for 1 split of August 2020
 - Type: judge
 - Tolerance:
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 us-gaap:EarningsPerShareDiluted, 2018-09-30 to 2019-09-28: first filed and latest filed.
 
@@ -174,7 +174,7 @@ us-gaap:EarningsPerShareDiluted, 2018-09-30 to 2019-09-28: first filed and lates
 - Answer: 4 for 1 (filings from 2021-08-20); 10 for 1 (filings from 2024-08-28)
 - Type: list
 - Tolerance:
-- Look in: [companies/Nasdaq/NVIDIA CORP](./companies/Nasdaq/NVIDIA%20CORP.md)
+- Look in: [companies/Manufacturing/NVIDIA CORP](./companies/Manufacturing/NVIDIA%20CORP.md)
 
 NVIDIA's diluted EPS, each period filed again in a split's ratio, dated by the first filing to restate.
 
@@ -185,7 +185,7 @@ NVIDIA's diluted EPS, each period filed again in a split's ratio, dated by the f
 - Answer: November (to 2008-11-30), then December (from 2008-12-31)
 - Type: list
 - Tolerance:
-- Look in: [companies/NYSE/MORGAN STANLEY](./companies/NYSE/MORGAN%20STANLEY.md)
+- Look in: [companies/Finance, Insurance, and Real Estate/MORGAN STANLEY](./companies/Finance,%20Insurance,%20and%20Real%20Estate/MORGAN%20STANLEY.md)
 
 The ends of the year-long spans Morgan Stanley's 10-Ks file, under any tag: 2006-11-30, 2007-11-30, 2008-11-30, 2008-12-31, 2009-12-31, 2010-12-31, 2011-12-31, 2012-12-31, 2013-12-31, 2014-12-31, 2015-12-31, 2016-12-31, 2017-12-31, 2018-12-31, 2019-12-31, 2020-12-31, 2021-12-31, 2022-12-31, 2023-12-31, 2024-12-31, 2025-12-31.
 
@@ -196,7 +196,7 @@ The ends of the year-long spans Morgan Stanley's 10-Ks file, under any tag: 2006
 - Answer: 65824 from continuing operations; 66231 in all (the book's line)
 - Type: judge
 - Tolerance:
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations and us-gaap:NetCashProvidedByUsedInOperatingActivities, 2015-09-27 to 2016-09-24.
 
@@ -218,7 +218,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: 349585
 - Type: number
 - Tolerance: 0
-- Look in: [companies/NYSE/ExxonMobil Holdings Corp](./companies/NYSE/ExxonMobil%20Holdings%20Corp.md)
+- Look in: [companies/Manufacturing/ExxonMobil Holdings Corp](./companies/Manufacturing/ExxonMobil%20Holdings%20Corp.md)
 
 The SEC's list gives XOM to CIK 2115436 (ExxonMobil Holdings Corp), a holding company over Exxon Mobil Corporation since 2026; Exxon Mobil's own 10-K for 2024 is under CIK 0000034088: us-gaap:Revenues, 2024-01-01 to 2024-12-31, 349585000000.
 
@@ -262,7 +262,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: FY2024 Q4, which ended 2025-02-02
 - Type: list
 - Tolerance:
-- Look in: [companies/NYSE/HOME DEPOT, INC](./companies/NYSE/HOME%20DEPOT,%20INC.md)
+- Look in: [companies/Retail Trade/HOME DEPOT, INC](./companies/Retail%20Trade/HOME%20DEPOT,%20INC.md)
 
 Home Depot's 10-K for 2024 names the year ended 2025-02-02 (its fiscal year ends on the Sunday nearest the end of January); 2024-12-25 falls in its last quarter.
 
@@ -273,7 +273,7 @@ Home Depot's 10-K for 2024 names the year ended 2025-02-02 (its fiscal year ends
 - Answer: FY2020, 4.94 a share; FY2024 was -4.38, 9.32 below it
 - Type: judge
 - Tolerance:
-- Look in: [companies/Nasdaq/INTEL CORP](./companies/Nasdaq/INTEL%20CORP.md)
+- Look in: [companies/Manufacturing/INTEL CORP](./companies/Manufacturing/INTEL%20CORP.md)
 
 us-gaap:EarningsPerShareDiluted, each fiscal year of Intel's, latest filed (Intel has not split since 2000, so as filed is as now): FY2007 1.18, FY2008 0.92, FY2009 0.77, FY2010 2.01, FY2011 2.39, FY2012 2.13, FY2013 1.89, FY2014 2.31, FY2015 2.33, FY2016 2.12, FY2017 1.99, FY2018 4.48, FY2019 4.71, FY2020 4.94, FY2021 4.86, FY2022 1.94, FY2023 0.4, FY2024 -4.38, FY2025 -0.06.
 
@@ -284,7 +284,7 @@ us-gaap:EarningsPerShareDiluted, each fiscal year of Intel's, latest filed (Inte
 - Answer: ANET, CCL, CHTR, CME, CRH, CTAS, DELL, EXC, FICO, FIX, FTNT, GDDY, HUBB, HWM, NCLH, NOW, PANW, PLTR, RCL, TDG, TT, TWLO, UBER, WAB
 - Type: set
 - Tolerance:
-- Look in: [companies/NYSE/Arista Networks, Inc](./companies/NYSE/Arista%20Networks,%20Inc.md), [companies/NYSE/Carnival Corp Ltd](./companies/NYSE/Carnival%20Corp%20Ltd.md), [companies/Nasdaq/CHARTER COMMUNICATIONS, INC](./companies/Nasdaq/CHARTER%20COMMUNICATIONS,%20INC.md), [companies/Nasdaq/CME GROUP INC](./companies/Nasdaq/CME%20GROUP%20INC.md), [companies/NYSE/CRH PUBLIC LTD CO](./companies/NYSE/CRH%20PUBLIC%20LTD%20CO.md), [companies/Nasdaq/CINTAS CORP](./companies/Nasdaq/CINTAS%20CORP.md), [companies/NYSE/Dell Technologies Inc](./companies/NYSE/Dell%20Technologies%20Inc.md), [companies/Nasdaq/EXELON CORP](./companies/Nasdaq/EXELON%20CORP.md), [companies/NYSE/FAIR ISAAC CORP](./companies/NYSE/FAIR%20ISAAC%20CORP.md), [companies/NYSE/COMFORT SYSTEMS USA INC](./companies/NYSE/COMFORT%20SYSTEMS%20USA%20INC.md), [companies/Nasdaq/Fortinet, Inc](./companies/Nasdaq/Fortinet,%20Inc.md), [companies/NYSE/GoDaddy Inc](./companies/NYSE/GoDaddy%20Inc.md), [companies/NYSE/HUBBELL INC](./companies/NYSE/HUBBELL%20INC.md), [companies/NYSE/Howmet Aerospace Inc](./companies/NYSE/Howmet%20Aerospace%20Inc.md), [companies/NYSE/Norwegian Cruise Line Holdings Ltd](./companies/NYSE/Norwegian%20Cruise%20Line%20Holdings%20Ltd.md), [companies/NYSE/ServiceNow, Inc](./companies/NYSE/ServiceNow,%20Inc.md), [companies/Nasdaq/Palo Alto Networks Inc](./companies/Nasdaq/Palo%20Alto%20Networks%20Inc.md), [companies/Nasdaq/Palantir Technologies Inc](./companies/Nasdaq/Palantir%20Technologies%20Inc.md), [companies/NYSE/ROYAL CARIBBEAN CRUISES LTD](./companies/NYSE/ROYAL%20CARIBBEAN%20CRUISES%20LTD.md), [companies/NYSE/TransDigm Group INC](./companies/NYSE/TransDigm%20Group%20INC.md), [companies/NYSE/Trane Technologies plc](./companies/NYSE/Trane%20Technologies%20plc.md), [companies/NYSE/TWILIO INC](./companies/NYSE/TWILIO%20INC.md), [companies/NYSE/Uber Technologies, Inc](./companies/NYSE/Uber%20Technologies,%20Inc.md), [companies/NYSE/WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP](./companies/NYSE/WESTINGHOUSE%20AIR%20BRAKE%20TECHNOLOGIES%20CORP.md)
+- Look in: [companies/Manufacturing/Arista Networks, Inc](./companies/Manufacturing/Arista%20Networks,%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Carnival Corp Ltd](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/Carnival%20Corp%20Ltd.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/CHARTER COMMUNICATIONS, INC](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/CHARTER%20COMMUNICATIONS,%20INC.md), [companies/Finance, Insurance, and Real Estate/CME GROUP INC](./companies/Finance,%20Insurance,%20and%20Real%20Estate/CME%20GROUP%20INC.md), [companies/Manufacturing/CRH PUBLIC LTD CO](./companies/Manufacturing/CRH%20PUBLIC%20LTD%20CO.md), [companies/Manufacturing/CINTAS CORP](./companies/Manufacturing/CINTAS%20CORP.md), [companies/Manufacturing/Dell Technologies Inc](./companies/Manufacturing/Dell%20Technologies%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/EXELON CORP](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/EXELON%20CORP.md), [companies/Services/FAIR ISAAC CORP](./companies/Services/FAIR%20ISAAC%20CORP.md), [companies/Construction/COMFORT SYSTEMS USA INC](./companies/Construction/COMFORT%20SYSTEMS%20USA%20INC.md), [companies/Manufacturing/Fortinet, Inc](./companies/Manufacturing/Fortinet,%20Inc.md), [companies/Services/GoDaddy Inc](./companies/Services/GoDaddy%20Inc.md), [companies/Manufacturing/HUBBELL INC](./companies/Manufacturing/HUBBELL%20INC.md), [companies/Manufacturing/Howmet Aerospace Inc](./companies/Manufacturing/Howmet%20Aerospace%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Norwegian Cruise Line Holdings Ltd](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/Norwegian%20Cruise%20Line%20Holdings%20Ltd.md), [companies/Services/ServiceNow, Inc](./companies/Services/ServiceNow,%20Inc.md), [companies/Manufacturing/Palo Alto Networks Inc](./companies/Manufacturing/Palo%20Alto%20Networks%20Inc.md), [companies/Services/Palantir Technologies Inc](./companies/Services/Palantir%20Technologies%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/ROYAL CARIBBEAN CRUISES LTD](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/ROYAL%20CARIBBEAN%20CRUISES%20LTD.md), [companies/Manufacturing/TransDigm Group INC](./companies/Manufacturing/TransDigm%20Group%20INC.md), [companies/Manufacturing/Trane Technologies plc](./companies/Manufacturing/Trane%20Technologies%20plc.md), [companies/Services/TWILIO INC](./companies/Services/TWILIO%20INC.md), [companies/Services/Uber Technologies, Inc](./companies/Services/Uber%20Technologies,%20Inc.md), [companies/Manufacturing/WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP](./companies/Manufacturing/WESTINGHOUSE%20AIR%20BRAKE%20TECHNOLOGIES%20CORP.md)
 
 Operating income (us-gaap:OperatingIncomeLoss) over revenue (the first of the revenue tags filed), each year FY2021 to FY2025 as each company names it; of 357 companies with all five, 24 rose every year.
 
@@ -295,7 +295,7 @@ Operating income (us-gaap:OperatingIncomeLoss) over revenue (the first of the re
 - Answer: 713198 on buybacks against 763460 earned: 93.4% ($ millions)
 - Type: judge
 - Tolerance:
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 us-gaap:PaymentsForRepurchaseOfCommonStock and us-gaap:NetIncomeLoss, Apple's FY2016 to FY2025, summed.
 
@@ -306,7 +306,7 @@ us-gaap:PaymentsForRepurchaseOfCommonStock and us-gaap:NetIncomeLoss, Apple's FY
 - Answer: None: AMD has not split its shares since 2010
 - Type: list
 - Tolerance:
-- Look in: [companies/Nasdaq/ADVANCED MICRO DEVICES INC](./companies/Nasdaq/ADVANCED%20MICRO%20DEVICES%20INC.md)
+- Look in: [companies/Manufacturing/ADVANCED MICRO DEVICES INC](./companies/Manufacturing/ADVANCED%20MICRO%20DEVICES%20INC.md)
 
 AMD's weighted diluted shares, each period as filed and filed again: none refiled in a split's ratio. (Its 2017 quarters were restated in 2018 for ASC 606, the EPS of one, -0.08 then -0.04, in a ratio of 2 by chance.)
 
@@ -317,7 +317,7 @@ AMD's weighted diluted shares, each period as filed and filed again: none refile
 - Answer: its 10-K for 2025 under 0000034088 (Exxon Mobil Corporation); XOM under 0002115436 (ExxonMobil Holdings Corp)
 - Type: set
 - Tolerance:
-- Look in: [companies/NYSE/ExxonMobil Holdings Corp](./companies/NYSE/ExxonMobil%20Holdings%20Corp.md)
+- Look in: [companies/Manufacturing/ExxonMobil Holdings Corp](./companies/Manufacturing/ExxonMobil%20Holdings%20Corp.md)
 
 companyfacts CIK0000034088: the 10-K filed 2026-02-18 (0000034088-26-000045); the SEC's list of tickers gives XOM to CIK 2115436.
 
@@ -339,6 +339,50 @@ SPY's holdings of 2026-10-14: 503 stocks, matched to 500 SEC filers by the SEC's
 - Answer: 55.6%: 69138 of 124300 ($ millions)
 - Type: number
 - Tolerance: 0.1
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 SEC Financial Statement Data Sets 2025q1, Apple's 10-Q 0000320193-25-000008: RevenueFromContractWithCustomerExcludingAssessedTax, ProductOrService=IPhone, the quarter to 2024-12-31 (FSDS's month end): 69138000000; over companyfacts' revenue for 2024-09-29 to 2024-12-28: 124300000000.
+
+### Question: co-reading-1
+
+- Tier: Across
+- Ask: Of the S&P 500's companies, in the latest fiscal year that nearly all of them have closed and filed (the latest in which at least 95 of every 100 with a revenue the year before have one), which had the greatest revenue and which the greatest net income, and how much was each, in millions of dollars?
+- Answer: FY2025: revenue, AMZN (716924); net income, GOOGL (132170) ($ millions)
+- Type: list
+- Tolerance: 0
+- Look in: [README](./README.md)
+
+495 companies; FY2025, the latest year in which at least 95 of every 100 with a revenue the year before have one (486 with a revenue for it). Revenue, the first of the revenue tags filed for the year; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.
+
+### Question: co-reading-2
+
+- Tier: Analysis
+- Ask: Taking the S&P 500's companies with a revenue and a net income in every one of the ten years to the latest fiscal year nearly all have closed (as co-reading-1), by what percent did their revenue summed, and their net income summed, rise over the ten years, and in which year did their summed net income fall the most from the year before?
+- Answer: 349 companies: revenue up 77%, net income up 153.3% from FY2015 to FY2025; their net income fell most in FY2020
+- Type: list
+- Tolerance: 1
+- Look in: [README](./README.md)
+
+The companies with a revenue and a net income for every fiscal year FY2015 to FY2025, as faq.js reads them; each summed by year. The book's front page asks the same of its own figures, and its set differs: years its annual cards lack, years faq.js cannot name, and a year the book takes from four quarters (.import/reading.md, front-growth).
+
+### Question: co-reading-3
+
+- Tier: Across
+- Ask: Of the S&P 500's companies whose SEC industry code falls in division H of the Standard Industrial Classification (Finance, Insurance, and Real Estate, major groups 60 to 67), how many had both a revenue and a net income for the latest fiscal year nearly all have closed (as co-reading-1), what were those summed, in millions of dollars, and which company had the greatest revenue and which the greatest net income?
+- Answer: 93 companies, revenue 2989233, net income 442023.2 ($ millions); the most revenue UNH, the most net income BRK-B
+- Type: list
+- Tolerance: 1
+- Look in: [companies/Finance, Insurance, and Real Estate](./companies/Finance,%20Insurance,%20and%20Real%20Estate.md)
+
+The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major groups 60 to 67: 95; with both a revenue and a net income for FY2025: 93.
+
+### Question: co-reading-4
+
+- Tier: Analysis
+- Ask: For Apple, in the latest fiscal year nearly all the S&P 500's companies have closed (as co-reading-1): its revenue in millions of dollars and its rank by revenue among them; by what percent its revenue rose over the ten years before; its net income, and that as a percent of its revenue; and over the ten fiscal years to it, its operating cash flow summed and the percent of that it spent buying back its own shares?
+- Answer: FY2025: revenue 416161, the 4th most; up 78.1% from FY2015; net income 112010, 26.9% of revenue; FY2016 to FY2025, operating cash flow 924423, 77.2% of it on buybacks ($ millions)
+- Type: list
+- Tolerance: 0.1
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
+
+companyfacts CIK0000320193: revenue (the first revenue tag filed), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the 486 members with a revenue for FY2025.

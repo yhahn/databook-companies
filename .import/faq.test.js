@@ -13,9 +13,9 @@ const q = (id) => questions.find((x) => x.id === id);
 const FIVE = ['co-lookup-1', 'co-page-1', 'co-across-4', 'co-gap-1', 'co-change-1'];
 const A = faq.compute(FIVE);
 
-test('faq.md: 31 questions, ids unique, every one with the same keys', () => {
-  assert.strictEqual(questions.length, 31);
-  assert.strictEqual(new Set(questions.map((x) => x.id)).size, 31);
+test('faq.md: 35 questions, ids unique, every one with the same keys', () => {
+  assert.strictEqual(questions.length, 35);
+  assert.strictEqual(new Set(questions.map((x) => x.id)).size, 35);
   for (const x of questions) assert.deepStrictEqual(Object.keys(x), ['id', 'Tier', 'Ask', 'Type', 'Tolerance', 'Rules', 'How', 'Look in']);
 });
 
@@ -45,7 +45,7 @@ const RECORDS = {
 - Answer: 391035
 - Type: number
 - Tolerance: 0
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 companyfacts CIK0000320193, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, 2023-10-01 to 2024-09-28 (Apple's fiscal 2024), latest filed: 391035000000.
 `,
@@ -56,7 +56,7 @@ companyfacts CIK0000320193, us-gaap:RevenueFromContractWithCustomerExcludingAsse
 - Answer: Nasdaq
 - Type: set
 - Tolerance:
-- Look in: [companies/Nasdaq](./companies/Nasdaq.md), [companies/Nasdaq/Walmart Inc](./companies/Nasdaq/Walmart%20Inc.md)
+- Look in: [companies/Retail Trade/Walmart Inc](./companies/Retail%20Trade/Walmart%20Inc.md)
 
 company_tickers_exchange.json: CIK 104169, Walmart Inc., WMT, Nasdaq. (Walmart moved its listing from the NYSE to Nasdaq in December 2025.)
 `,
@@ -67,7 +67,7 @@ company_tickers_exchange.json: CIK 104169, Walmart Inc., WMT, Nasdaq. (Walmart m
 - Answer: WMT (642637), AMZN (637959), UNH (400278), AAPL (391035), CVS (372809)
 - Type: list
 - Tolerance:
-- Look in: [companies/Nasdaq/Walmart Inc](./companies/Nasdaq/Walmart%20Inc.md), [companies/Nasdaq/AMAZON COM INC](./companies/Nasdaq/AMAZON%20COM%20INC.md), [companies/NYSE/UNITEDHEALTH GROUP INC](./companies/NYSE/UNITEDHEALTH%20GROUP%20INC.md), [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md), [companies/NYSE/CVS HEALTH Corp](./companies/NYSE/CVS%20HEALTH%20Corp.md)
+- Look in: [companies/Retail Trade/Walmart Inc](./companies/Retail%20Trade/Walmart%20Inc.md), [companies/Retail Trade/AMAZON COM INC](./companies/Retail%20Trade/AMAZON%20COM%20INC.md), [companies/Finance, Insurance, and Real Estate/UNITEDHEALTH GROUP INC](./companies/Finance,%20Insurance,%20and%20Real%20Estate/UNITEDHEALTH%20GROUP%20INC.md), [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md), [companies/Retail Trade/CVS HEALTH Corp](./companies/Retail%20Trade/CVS%20HEALTH%20Corp.md)
 
 Revenue (the first of the revenue tags filed) for the year each company names 2024, latest filed: WMT 2023-02-01 to 2024-01-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; AMZN 2024-01-01 to 2024-12-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; UNH 2024-01-01 to 2024-12-31, us-gaap:Revenues; AAPL 2023-10-01 to 2024-09-28, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; CVS 2024-01-01 to 2024-12-31, us-gaap:Revenues.
 `,
@@ -89,7 +89,7 @@ The book holds no prices: it is the SEC's filings alone (DECISIONS 15).
 - Answer: 11.89 as first filed (2019-10-31); 2.97 as filed since 2020-10-30, a share after the 4 for 1 split of August 2020
 - Type: judge
 - Tolerance:
-- Look in: [companies/Nasdaq/Apple Inc](./companies/Nasdaq/Apple%20Inc.md)
+- Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
 us-gaap:EarningsPerShareDiluted, 2018-09-30 to 2019-09-28: first filed and latest filed.
 `,
