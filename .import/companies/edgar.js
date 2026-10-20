@@ -171,18 +171,45 @@ function periodValues(facts, tag, label) {
 function round(v) { return Math.round(v * 10000) / 10000; }
 
 // A line item's years, over its cascade: Map(label -> {y, tag}), and every
-// tag's own years, for the crosswalk at a migration.
+// tag's own years, for the crosswalk at a migration. The first tag wins a
+// year, unless a later one makes its quarters derivable and the first
+// does not (v1's cascade); but where one tag files the year whole (a span
+// of about a year, as a 10-K gives it) and the other only part of it,
+// the whole year wins, whichever tag it is under. A tag that files a
+// year's first quarter and then stops (Alphabet's FY2025 revenue: ASC
+// 606's tag in Q1, `Revenues` for the year) holds that year only as a
+// year in progress, and loses it to the tag the 10-K files it under
+// (.import/DECISIONS.md 31). Where the year's tag gives none of its
+// quarters, they are the part's (Cummins' operating cash flow, FY2016:
+// the year under one tag, its first three quarters under another), so
+// the mend takes nothing away; a year's quarters are never two tags' at
+// once. A year less than its own part, in a line never negative, is
+// another line under a tag of the cascade, not the same moved, and v1's
+// cascade stands: Equinix's capex, FY2011 (28 million in the year under
+// one tag, 496 million in nine months under the other); Mastercard's
+// revenue, FY2022 (22,237 million, net, in the year; 25,896 million,
+// before rebates, in nine months, the tag its earlier years are read
+// from: NOTES.md).
 function cascadeYears(facts, tags, label) {
   const merged = new Map();
   const byTag = new Map();
+  const derivable = (y) => y.quarters.some((v) => v !== null);
+  const fits = (whole, part) => {
+    const vs = part.quarters.filter((v) => v !== null);
+    if (whole.fy < 0 || vs.some((v) => v < 0)) return true;
+    return vs.reduce((x, v) => x + v, 0) <= whole.fy * 1.05 + 3e6;
+  };
+  const take = (whole, part) => (derivable(whole) ? whole
+    : { ...whole, quarters: part.quarters, ends: part.ends.map((d, i) => (i === 3 && whole.end) || d), filed: part.filed });
   for (const tag of tags) {
     const years = periodValues(facts, tag, label);
     byTag.set(tag, years);
     for (const [year, y] of years) {
       const cur = merged.get(year);
-      const derivable = y.quarters.some((v) => v !== null);
-      const curDerivable = cur && cur.y.quarters.some((v) => v !== null);
-      if (!cur || (derivable && !curDerivable)) merged.set(year, { y, tag });
+      if (!cur) { merged.set(year, { y, tag }); continue; }
+      if (cur.y.fy === null && y.fy !== null && derivable(cur.y) && fits(y, cur.y)) merged.set(year, { y: take(y, cur.y), tag });
+      else if (cur.y.fy !== null && y.fy === null && derivable(y) && fits(cur.y, y)) merged.set(year, { y: take(cur.y, y), tag: cur.tag });
+      else if (derivable(y) && !derivable(cur.y)) merged.set(year, { y, tag });
     }
   }
   return { merged, byTag };

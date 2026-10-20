@@ -1,0 +1,512 @@
+{
+ "rule": "V2",
+ "about": "Equinix's capex, FY2011: `PaymentsToAcquirePropertyPlantAndEquipment` files 495,515 for its first nine months (refiled in the 10-Qs of 2012) and no year; `PaymentsToAcquireProductiveAssets` files the year, 28,066 (10-K of 2013-02-26), less than nine months of the other. Not one line moved but another line: the year is not taken from it, and FY2011's capex stays blank, its quarters the first tag's (175,115, 188,875, 131,525). (FY2010's -14,861 under the first tag is as filed, and as small: Equinix's capex tags are muddled, and the book says no more than they do.)",
+ "input": {
+  "facts": {
+   "cik": 1101239,
+   "entityName": "EQUINIX, INC.",
+   "facts": {
+    "us-gaap": {
+     "Revenues": {
+      "units": {
+       "USD": [
+        {
+         "start": "2010-01-01",
+         "end": "2010-03-31",
+         "val": 248649000,
+         "accn": "0001193125-11-118503",
+         "fy": 2011,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2011-04-29"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-06-30",
+         "val": 544743000,
+         "accn": "0001193125-10-176872",
+         "fy": 2010,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2010-08-04"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-06-30",
+         "val": 544743000,
+         "accn": "0001193125-11-202647",
+         "fy": 2011,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2011-07-29"
+        },
+        {
+         "start": "2010-04-01",
+         "end": "2010-06-30",
+         "val": 296094000,
+         "accn": "0001193125-10-176872",
+         "fy": 2010,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2010-08-04"
+        },
+        {
+         "start": "2010-04-01",
+         "end": "2010-06-30",
+         "val": 296094000,
+         "accn": "0001193125-11-202647",
+         "fy": 2011,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2011-07-29"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-09-30",
+         "val": 875090000,
+         "accn": "0001193125-10-241047",
+         "fy": 2010,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2010-10-29"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-09-30",
+         "val": 875090000,
+         "accn": "0001193125-11-286045",
+         "fy": 2011,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2011-10-28"
+        },
+        {
+         "start": "2010-07-01",
+         "end": "2010-09-30",
+         "val": 330347000,
+         "accn": "0001193125-10-241047",
+         "fy": 2010,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2010-10-29"
+        },
+        {
+         "start": "2010-07-01",
+         "end": "2010-09-30",
+         "val": 330347000,
+         "accn": "0001193125-11-286045",
+         "fy": 2011,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2011-10-28"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-12-31",
+         "val": 1220334000,
+         "accn": "0001193125-11-047157",
+         "fy": 2010,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2011-02-25"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-12-31",
+         "val": 1220334000,
+         "accn": "0001193125-12-077943",
+         "fy": 2011,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2012-02-24"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-12-31",
+         "val": 1196214000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 363029000,
+         "accn": "0001193125-11-118503",
+         "fy": 2011,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2011-04-29"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 363029000,
+         "accn": "0001193125-12-190764",
+         "fy": 2012,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2012-04-27"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-06-30",
+         "val": 757929000,
+         "accn": "0001193125-11-202647",
+         "fy": 2011,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2011-07-29"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-06-30",
+         "val": 757929000,
+         "accn": "0001193125-12-317379",
+         "fy": 2012,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2012-07-27"
+        },
+        {
+         "start": "2011-04-01",
+         "end": "2011-06-30",
+         "val": 394900000,
+         "accn": "0001193125-11-202647",
+         "fy": 2011,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2011-07-29"
+        },
+        {
+         "start": "2011-04-01",
+         "end": "2011-06-30",
+         "val": 394900000,
+         "accn": "0001193125-12-317379",
+         "fy": 2012,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2012-07-27"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-09-30",
+         "val": 1175530000,
+         "accn": "0001193125-11-286045",
+         "fy": 2011,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2011-10-28"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-09-30",
+         "val": 1147668000,
+         "accn": "0001193125-12-452681",
+         "fy": 2012,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2012-11-06"
+        },
+        {
+         "start": "2011-07-01",
+         "end": "2011-09-30",
+         "val": 417601000,
+         "accn": "0001193125-11-286045",
+         "fy": 2011,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2011-10-28"
+        },
+        {
+         "start": "2011-07-01",
+         "end": "2011-09-30",
+         "val": 408208000,
+         "accn": "0001193125-12-452681",
+         "fy": 2012,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2012-11-06"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-12-31",
+         "val": 1606842000,
+         "accn": "0001193125-12-077943",
+         "fy": 2011,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2012-02-24"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-12-31",
+         "val": 1569784000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-12-31",
+         "val": 1565625000,
+         "accn": "0001193125-14-076710",
+         "fy": 2013,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2014-02-28"
+        }
+       ]
+      }
+     },
+     "SalesRevenueNet": {
+      "units": {
+       "USD": [
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 363029000,
+         "accn": "0001193125-12-077943",
+         "fy": 2011,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2012-02-24"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 353949000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-04-01",
+         "end": "2011-06-30",
+         "val": 394900000,
+         "accn": "0001193125-12-077943",
+         "fy": 2011,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2012-02-24"
+        },
+        {
+         "start": "2011-04-01",
+         "end": "2011-06-30",
+         "val": 385511000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-07-01",
+         "end": "2011-09-30",
+         "val": 417601000,
+         "accn": "0001193125-12-077943",
+         "fy": 2011,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2012-02-24"
+        },
+        {
+         "start": "2011-07-01",
+         "end": "2011-09-30",
+         "val": 408208000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-10-01",
+         "end": "2011-12-31",
+         "val": 431312000,
+         "accn": "0001193125-12-077943",
+         "fy": 2011,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2012-02-24"
+        },
+        {
+         "start": "2011-10-01",
+         "end": "2011-12-31",
+         "val": 422116000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        }
+       ]
+      }
+     },
+     "PaymentsToAcquirePropertyPlantAndEquipment": {
+      "units": {
+       "USD": [
+        {
+         "start": "2010-01-01",
+         "end": "2010-06-30",
+         "val": 292105000,
+         "accn": "0001193125-10-176872",
+         "fy": 2010,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2010-08-04"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-09-30",
+         "val": 436046000,
+         "accn": "0001193125-10-241047",
+         "fy": 2010,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2010-10-29"
+        },
+        {
+         "start": "2010-01-01",
+         "end": "2010-12-31",
+         "val": 14861000,
+         "accn": "0001193125-11-047157",
+         "fy": 2010,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2011-02-25"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 14951000,
+         "accn": "0001193125-11-118503",
+         "fy": 2011,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2011-04-29"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 175115000,
+         "accn": "0001193125-12-190764",
+         "fy": 2012,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2012-04-27"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-06-30",
+         "val": 363990000,
+         "accn": "0001193125-12-317379",
+         "fy": 2012,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2012-07-27"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-09-30",
+         "val": 495515000,
+         "accn": "0001193125-12-452681",
+         "fy": 2012,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2012-11-06"
+        }
+       ]
+      }
+     },
+     "PaymentsToAcquireProductiveAssets": {
+      "units": {
+       "USD": [
+        {
+         "start": "2010-01-01",
+         "end": "2010-12-31",
+         "val": 14861000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-03-31",
+         "val": 14951000,
+         "accn": "0001193125-12-190764",
+         "fy": 2012,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2012-04-27"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-06-30",
+         "val": 23993000,
+         "accn": "0001193125-12-317379",
+         "fy": 2012,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2012-07-27"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-09-30",
+         "val": 23993000,
+         "accn": "0001193125-12-452681",
+         "fy": 2012,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2012-11-06"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-12-31",
+         "val": 28066000,
+         "accn": "0001193125-13-076572",
+         "fy": 2012,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-02-26"
+        },
+        {
+         "start": "2011-01-01",
+         "end": "2011-12-31",
+         "val": 28066000,
+         "accn": "0001193125-14-076710",
+         "fy": 2013,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2014-02-28"
+        }
+       ]
+      }
+     }
+    }
+   }
+  },
+  "fsdsRows": [],
+  "exchange": "Nasdaq",
+  "ticker": "EQIX",
+  "name": "EQUINIX INC",
+  "span": [
+   2010,
+   2011
+  ],
+  "sic": "6798",
+  "industry": "REAL ESTATE INVESTMENT TRUSTS",
+  "sector": "Finance, Insurance, and Real Estate"
+ },
+ "output": {
+  "companies/Finance, Insurance, and Real Estate/EQUINIX INC.md": "# Company: EQUINIX INC\n\n- CIK: 0001101239\n- Ticker: EQIX\n- Exchange: Nasdaq\n- SIC: 6798\n- Industry: REAL ESTATE INVESTMENT TRUSTS\n- Sector: Finance, Insurance, and Real Estate\n- First year: FY2010\n- Last quarter: FY2011 Q4\n- Last quarter ended: 2011-12-31\n- CIK before: \n\nEQUINIX INC, as it files with the SEC (CIK 0001101239): its fiscal years and quarters from its XBRL filings, FY2010 to FY2011. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.\n\n## Annual\n\n> [!CARD:line] EQUINIX INC, by fiscal year, $ millions\n> | Line item | FY2010 | FY2011 |\n> | --- | --- | --- |\n> | Revenue | 1196.214 | 1565.625 |\n> | Gross profit |  |  |\n> | Operating income |  |  |\n> | Net income |  |  |\n> | Operating cash flow |  |  |\n> | Capex | -14.861 |  |\n> | Buybacks |  |  |\n\n#### EPS by year\n\n| Fiscal year | Started | Ended | EPS diluted | EPS adjusted |\n| --- | --- | --- | --- | --- |\n| FY2010 | 2010-01-01 | 2010-12-31 |  |  |\n| FY2011 | 2011-01-01 | 2011-12-31 |  |  |\n\n## Quarterly\n\n| Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| FY2010 Q1 | 2010 | 1 | 2010-03-31 | 248.649 |  |  |  |  |  |  |  |  |\n| FY2010 Q2 | 2010 | 2 | 2010-06-30 | 296.094 |  |  |  |  |  |  |  |  |\n| FY2010 Q3 | 2010 | 3 | 2010-09-30 | 330.347 |  |  |  |  |  | -143.941 |  |  |\n| FY2010 Q4 | 2010 | 4 | 2010-12-31 | 321.124 |  |  |  |  |  | 421.185 |  |  |\n| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 363.029 |  |  |  |  |  | -175.115 |  |  |\n| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 394.9 |  |  |  |  |  | -188.875 |  |  |\n| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 408.208 |  |  |  |  |  | -131.525 |  |  |\n| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 417.957 |  |  |  |  |  |  |  |  |\n\n## Segments\n\nEQUINIX INC files no revenue by segment, product or geography in the Financial Statement Data Sets cached.\n\n## Tags\n\nThe us-gaap tag each line item was taken from, its years in runs: a line item moves between tags over the years, and each move is a change below.\n\n| Line item | From | To | Tag |\n| --- | --- | --- | --- |\n| Revenue | FY2010 | FY2011 | us-gaap:Revenues |\n| Capex | FY2010 | FY2011 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |\n"
+ }
+}

@@ -44,7 +44,7 @@ function splitVector(file, rule, about, facts) {
 
 // each vector's company's SIC code, as the FSDS cached give it (sic.js), its
 // title and its sector (SIC division); the foreign filer, none
-const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911' };
+const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911', GOOGL: '7370', F: '3711', EQIX: '6798' };
 const titles = sic.titles();
 function vector(file, rule, about, input) {
   const code = SIC[input.ticker];
@@ -94,6 +94,23 @@ vector('amazon-2011-refiled.json', 'V2',
 vector('foreign-filer.json', 'V2',
   'A company whose facts hold no us-gaap revenue (a foreign filer, its statements in IFRS) writes no page, and is listed as skipped.',
   { facts: { cik: 1, entityName: 'A Foreign Filer', facts: { 'us-gaap': {} } }, fsdsRows: [], exchange: 'NYSE', ticker: 'FF', name: 'A Foreign Filer', span: [2025] });
+
+// A line's tag changed partway through a year (10-20, DECISIONS 31): the
+// year is taken from the tag that files it whole.
+vector('alphabet-fy2025-revenue.json', 'V2',
+  "Alphabet's FY2025 revenue: its ASC 606 tag (RevenueFromContractWithCustomerExcludingAssessedTax) files FY2024 whole and FY2025's first quarter only (90,234, 10-Q of 2025-04-25), then stops; `Revenues` files FY2025's quarters and the year, 402,836 (10-K of 2026-02-05). The year and its four quarters are taken from `Revenues` (90,234, 96,428, 102,346, 113,829), and a Change says the move from FY2025. Checked against Alphabet's 10-K for 2025. Before the mend the year and its last three quarters were blank.",
+  { facts: trim(facts('0001652044'), ['RevenueFromContractWithCustomerExcludingAssessedTax', 'Revenues'], '2024-01-01', '2025-12-31'),
+    fsdsRows: [], exchange: 'Nasdaq', ticker: 'GOOGL', name: 'Alphabet Inc.', span: [2024, 2025] });
+
+vector('ford-fy2025-net-income.json', 'V2',
+  "Ford's FY2025 net income: `NetIncomeLoss` files FY2024 whole and FY2025's first two quarters (471 and -36, its 10-Qs), then stops; `ProfitLoss` files the year, -8,162 (10-K of 2026-02-11), and its running totals (444 for six months, 2,892 for nine), so its quarters are 473, -29, 2,448 and -11,054. The year and its quarters are taken from `ProfitLoss`. Checked against Ford's 10-K for 2025 (net income, including noncontrolling interests, -8,162). Before the mend the year was blank.",
+  { facts: trim(facts('0000037996'), ['RevenueFromContractWithCustomerExcludingAssessedTax', 'NetIncomeLoss', 'ProfitLoss'], '2024-01-01', '2025-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'F', name: 'FORD MOTOR CO', span: [2024, 2025] });
+
+vector('equinix-fy2011-capex.json', 'V2',
+  "Equinix's capex, FY2011: `PaymentsToAcquirePropertyPlantAndEquipment` files 495,515 for its first nine months (refiled in the 10-Qs of 2012) and no year; `PaymentsToAcquireProductiveAssets` files the year, 28,066 (10-K of 2013-02-26), less than nine months of the other. Not one line moved but another line: the year is not taken from it, and FY2011's capex stays blank, its quarters the first tag's (175,115, 188,875, 131,525). (FY2010's -14,861 under the first tag is as filed, and as small: Equinix's capex tags are muddled, and the book says no more than they do.)",
+  { facts: trim(facts('0001101239'), ['Revenues', 'SalesRevenueNet', 'PaymentsToAcquirePropertyPlantAndEquipment', 'PaymentsToAcquireProductiveAssets'], '2010-01-01', '2011-12-31'),
+    fsdsRows: [], exchange: 'Nasdaq', ticker: 'EQIX', name: 'EQUINIX INC', span: [2010, 2011] });
 
 // The splits, after the FAQ (10-15): one period restated is no split; a
 // split the EPS of one period and its shares agree on is one.
