@@ -495,3 +495,127 @@ numbers" could not be exact for totals.
 One line: the book now opens on its findings and questions, a company
 the spine and its SIC division above, 17 values held to the source, and
 the drift check's first run found 23 years the importer's cards lack.
+
+# Notes: the years a changed tag lost (deputy, 10-20)
+
+## Asked
+
+Mend `cascadeYears` so a year is taken from the tag that files it whole,
+with vectors (Alphabet FY2025 revenue, Ford FY2025 net income); mend
+faq.js's holes (25 companies with no fiscal year named; Charter's
+revenue read as 889); tighten page-drifted where the two readers agree;
+keep DECISIONS 27's quarter rule only if still wanted; rebuild with
+every check held; judge each finding that turned.
+
+## Made
+
+Branch `tags`. Changed: `companies/edgar.js` (cascadeYears), `faq.js`
+(fiscalYears, yearRow), `faq.test.js` (a note's words), `reading.md`
+(Holds), `companies/vectors/cut.js` and three new vectors
+(alphabet-fy2025-revenue, ford-fy2025-net-income, equinix-fy2011-capex;
+the old twelve cut again, unchanged), DECISIONS 31-33, and every page
+the importer writes, rebuilt.
+
+| | Before | After |
+|---|---|---|
+| Company-years with a line the card lacked, now filled | | 88 (all 23 of the R pass's but Mastercard FY2022; 65 more) |
+| Annual figures lost or moved | | 0 |
+| Quarters | | 117 come back, 63 move to the year's tag, 1 goes (Devon capex Q3 FY2020) |
+| Changes (D5) | 1,418 | 1,423 (tag moves 1,138 to 1,143) |
+| Fiscal years | 7,935 | 7,936 |
+| Years whose quarters do not sum | 481 | 485 (Exelon 2019, McKesson 2012, PPG 2014, Wells Fargo 2020: the filings' own) |
+| Companies left out of FY2025's totals | 8 | 5 (Ford, Alphabet, Invesco back) |
+| Values the pages hold to the source | 17 | 21 |
+| Tests | 28 and 12 | 31 and 12, all pass |
+| Target checks | 39 | 39, every one held; a second build turns no finding |
+
+## The findings that turned (against the last release's reading.json)
+
+485 in all, each the fix:
+- `companies/Services.md`, sector-leaders: rev_top MSFT to GOOGL.
+  Alphabet's FY2025 revenue, $402.8 billion, was blank; Microsoft's is
+  less. Expected.
+- `companies/Services/Alphabet Inc.md`, company-size: rank null to 5.
+  Expected: it had no FY2025 revenue to rank.
+- 483 company pages, company-size: rank one lower, every company below
+  Alphabet's $402.8 billion. Expected.
+The front page's findings (leaders, earnings outran, sectors kept) did
+not turn: Alphabet was already first in net income by the quarter
+rule. Their numbers moved (the same companies 351 to 374; revenue up
+73.5% to 76.7%, net income 143.2% to 152.9%; FY2020's fall 27.5% to
+29.5%; Services' margin 21.5% to 23.8%).
+
+## Still missing, or wrong (for the seat; not mended)
+
+- **The cascade reads a part where a company files two lines.**
+  Found when the guard caught Mastercard: its revenue to FY2021 is read
+  from `RevenueFromContractWithCustomerExcludingAssessedTax`, gross
+  before rebates (FY2021 29,845), while its 10-K's net revenue is
+  `Revenues` (18,884). Mastercard's FY2022 stays blank on purpose: the
+  net figure beside gross years would show a false fall. Across the
+  members, 89 companies have a year FY2015 on whose revenue the cascade
+  reads from one tag while another of its tags files the same year
+  more than 10% apart: American Tower (936 against 10,645, FY2025),
+  Crown Castle (215 against 4,264), Berkshire (247,244 against
+  371,444), Capital One, Citizens, Extra Space among them. Mending it
+  is choosing what "Revenue" is (the 10-K's total line), a change to
+  many companies' history: the seat's to take. My lean: a later tag
+  that files the same periods larger, every quarter, is the total.
+- **L3Harris's FY2025**: its 10-K tags the year's revenue, 21,865, with
+  a quarter's dates (2025-10-04 to 2026-01-02), and FY2024's likewise.
+  The importer takes it as Q4, and the quarter rule sums the year to
+  38,082, which the front page counts. faq.js names no year.
+- The quarter rule (DECISIONS 27) is still wanted: 18 lines of 7
+  companies' years come from it (L3Harris FY2025, DTE FY2018, Fifth
+  Third FY2024, Vivmark FY2020, Xcel FY2019, Clorox FY2026). Kept.
+- DTE, Xcel, Fifth Third, Huntington and Vivmark have years with a net
+  income and no revenue under the cascade's tags (utilities, banks):
+  their cards have no row for those years.
+- Where the year's tag is a different line of the cascade's (net income
+  with or without noncontrolling interests; operating cash flow, all or
+  continuing), the series changes line at that year, as it already did
+  at every tag move. Exxon's FY2022 revenue is `Revenues` (413,680,
+  with other income) between years of sales alone: 3.7% apart. Said in
+  its Change.
+
+## Learnings
+
+For the importer: a cascade is two rules, not one: which tag is the
+line, and which tag gives a year. v1 merged them (first tag wins), and
+each case of the R pass's 23 was a tag that stopped mid-year. The fix
+found the other case behind it, a cascade that holds two lines.
+Evidence: Mastercard, Equinix, the 89.
+
+For SPEC (R2): a second reader written to the same rule in other words
+("a line is what the company files every quarter") brought the two
+readers to exact agreement on a sector (93 companies, 2,989,233,
+442,048.2); the rest differ by four named companies. Holding "within a
+point" is worth having where they cannot agree exactly.
+
+For proper, cards.md: none.
+
+## Unsure
+
+- Whether the quarters kept from a tag that filed the year only in part
+  (DECISIONS 31, the first guard) should be shown beside a year from
+  another tag; the Tags table names the year's tag.
+- The guard's 5% (a year less than its part): one case each way.
+
+## Against the brief
+
+The brief's 23: 22 back, and Mastercard's held back for a reason the
+brief did not foresee. The mend took half an hour; its first form
+(the whole year always wins) would have put Equinix's 28 million and
+Mastercard's net beside gross, found by reading every year that came
+back against the quarters it replaced. Crew's queue held the first
+build some twenty minutes. In all, 10:42 to about 11:40.
+
+## The brief lacked
+
+That the cascade's tags are sometimes two lines at once, so "whichever
+tag that is" needed a guard; and that faq.test.js freezes a note's
+words.
+
+In short: 88 lost years back (22 of the 23), faq.js's holes mended, a
+sector held exactly and 21 values in all, and a larger fault found:
+the cascade reads a part for 89 companies' revenue.
