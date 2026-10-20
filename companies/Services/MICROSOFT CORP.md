@@ -13,9 +13,9 @@
 
 MICROSOFT CORP, as it files with the SEC (CIK 0000789019): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MICROSOFT CORP, and how has it grown?** It sold $281.7 billion in FY2025, the 9th most of the 487 companies with a revenue for the year, and the 1st of 74 in [Services](../Services.md). Its sales rose 201.1% from FY2015 to FY2025, 11.7% a year.
+**How large is MICROSOFT CORP, and how has it grown?** It sold $281.7 billion in FY2025, the 10th most of the 488 companies with a revenue for the year, and the 2nd of 75 in [Services](../Services.md). Its sales rose 201.1% from FY2015 to FY2025, 11.7% a year.
 
-**Does MICROSOFT CORP make money, and how much of what it sells does it keep?** It earned $101.8 billion in FY2025, 36.1% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does MICROSOFT CORP make money, and how much of what it sells does it keep?** It earned $101.8 billion in FY2025, 36.1% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does MICROSOFT CORP's cash go?** From FY2016 to FY2025 its operations brought in $737.6 billion; it spent 32.4% of that on plant and equipment, and 27% on buying back its own shares.
 
@@ -24,7 +24,7 @@ MICROSOFT CORP, as it files with the SEC (CIK 0000789019): its fiscal years and 
 > [!CARD:line] MICROSOFT CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 60420 | 58437 | 62484 |  | 73723 | 77849 | 86833 | 93580 | 85320 | 96571 | 110360 | 125843 | 143015 | 168088 | 198270 | 211915 | 245122 | 281724 | 331839 |
+> | Revenue |  |  | 60420 | 58437 | 62484 | 69943 | 73723 | 77849 | 86833 | 93580 | 85320 | 96571 | 110360 | 125843 | 143015 | 168088 | 198270 | 211915 | 245122 | 281724 | 331839 |
 > | Gross profit |  |  | 48822 | 46282 | 50089 | 54366 | 56193 | 57464 | 59755 | 60542 | 58374 | 62310 | 72007 | 82933 | 96937 | 115856 | 135620 | 146052 | 171008 | 193893 | 225465 |
 > | Operating income |  |  | 22271 | 20363 | 24098 | 27161 | 21763 | 26764 | 27759 | 18161 | 26078 | 29025 | 35058 | 42959 | 52959 | 69916 | 83383 | 88523 | 109433 | 128528 | 155237 |
 > | Net income |  |  | 17681 | 14569 | 18760 | 23150 | 16978 | 21863 | 22074 | 12193 | 20539 | 25489 | 16571 | 39240 | 44281 | 61271 | 72738 | 72361 | 88136 | 101832 | 133749 |
@@ -39,7 +39,7 @@ MICROSOFT CORP, as it files with the SEC (CIK 0000789019): its fiscal years and 
 | FY2008 | 2007-07-01 | 2008-06-30 | 1.87 | 1.87 |
 | FY2009 | 2008-07-01 | 2009-06-30 | 1.62 | 1.62 |
 | FY2010 | 2009-07-01 | 2010-06-30 | 2.1 | 2.1 |
-| FY2011 | 2010-07-01 |  | 2.69 | 2.69 |
+| FY2011 | 2010-07-01 | 2011-06-30 | 2.69 | 2.69 |
 | FY2012 | 2011-07-01 | 2012-06-30 | 2 | 2 |
 | FY2013 | 2012-07-01 | 2013-06-30 | 2.58 | 2.58 |
 | FY2014 | 2013-07-01 | 2014-06-30 | 2.63 | 2.63 |
@@ -74,8 +74,8 @@ MICROSOFT CORP, as it files with the SEC (CIK 0000789019): its fiscal years and 
 | FY2010 Q4 | 2010 | 4 | 2010-06-30 | 16039 | 12869 | 5930 | 4518 | 0.51 | 5604 | -758 | -3839 | 0.51 |
 | FY2011 Q1 | 2011 | 1 | 2010-09-30 | 16195 | 13056 | 7116 | 5410 | 0.62 | 8194 | -564 | -4399 | 0.62 |
 | FY2011 Q2 | 2011 | 2 | 2010-12-31 | 19953 | 15120 | 8165 | 6634 | 0.77 | 4186 | -491 | -5052 | 0.77 |
-| FY2011 Q3 | 2011 | 3 | 2011-03-31 |  | 12531 | 5709 | 5232 | 0.61 | 8672 | -658 | -848 | 0.61 |
-| FY2011 Q4 | 2011 | 4 | 2011-06-30 |  | 13659 | 6171 | 5874 | 0.69 | 5942 | -642 | -1256 | 0.69 |
+| FY2011 Q3 | 2011 | 3 | 2011-03-31 | 16428 | 12531 | 5709 | 5232 | 0.61 | 8672 | -658 | -848 | 0.61 |
+| FY2011 Q4 | 2011 | 4 | 2011-06-30 | 17367 | 13659 | 6171 | 5874 | 0.69 | 5942 | -642 | -1256 | 0.69 |
 | FY2012 Q1 | 2012 | 1 | 2011-09-30 | 17372 | 13595 | 7203 | 5738 | 0.68 | 8493 | -436 | -1934 | 0.68 |
 | FY2012 Q2 | 2012 | 2 | 2011-12-31 | 20885 | 15247 | 7994 | 6624 | 0.78 | 5862 | -498 | -1042 | 0.78 |
 | FY2012 Q3 | 2012 | 3 | 2012-03-31 | 17407 | 13455 | 6374 | 5108 | 0.6 | 9594 | -749 | -1023 | 0.6 |
@@ -286,8 +286,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2008 | FY2011 | us-gaap:Revenues |
-| Revenue | FY2012 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2008 | FY2010 | us-gaap:Revenues |
+| Revenue | FY2011 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2008 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -301,11 +301,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: MICROSOFT CORP, Revenue tag, FY2012
+### Change: MICROSOFT CORP, Revenue tag, FY2011
 
 - CIK: 0000789019
 - What: Revenue tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

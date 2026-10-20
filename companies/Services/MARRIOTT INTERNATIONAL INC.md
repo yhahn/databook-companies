@@ -13,11 +13,11 @@
 
 MARRIOTT INTERNATIONAL INC, as it files with the SEC (CIK 0001048286): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MARRIOTT INTERNATIONAL INC, and how has it grown?** It sold $26.2 billion in FY2025, the 135th most of the 487 companies with a revenue for the year, and the 13th of 74 in [Services](../Services.md). Its sales rose 80.8% from FY2015 to FY2025, 6.1% a year.
+**How large is MARRIOTT INTERNATIONAL INC, and how has it grown?** It sold $26.2 billion in FY2025, the 136th most of the 488 companies with a revenue for the year, and the 14th of 75 in [Services](../Services.md). Its sales rose 80.8% from FY2015 to FY2025, 6.1% a year.
 
-**Does MARRIOTT INTERNATIONAL INC make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 9.9% of what it sold; the median company of its sector kept 16.1%. It lost money in 2 of its 19 years in the book (FY2009, FY2020).
+**Does MARRIOTT INTERNATIONAL INC make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 9.9% of what it sold; the median company of its sector kept 16.3%. It lost money in 2 of its 19 years in the book (FY2009, FY2020).
 
-**Where does MARRIOTT INTERNATIONAL INC's cash go?** From FY2016 to FY2025 its operations brought in $22.2 billion; it spent 15.8% of that on plant and equipment, and 101% on buying back its own shares.
+**Where does MARRIOTT INTERNATIONAL INC's cash go?** From FY2016 to FY2025 its operations brought in $22.2 billion; it spent 18.5% of that on plant and equipment, and 101% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ MARRIOTT INTERNATIONAL INC, as it files with the SEC (CIK 0001048286): its fisca
 > | Operating income |  | 1183 | 765 | -152 | 695 | 526 | 940 | 988 | 1159 | 1350 | 1424 | 2504 | 2366 | 1800 | 84 | 1750 | 3462 | 3864 | 3767 | 4141 |  |
 > | Net income |  | 696 | 362 | -346 | 458 | 198 | 571 | 626 | 753 | 859 | 808 | 1459 | 1907 | 1273 | -267 | 1099 | 2358 | 3083 | 2375 | 2601 |  |
 > | Operating cash flow |  | 778 | 641 | 868 | 1151 | 1089 | 989 | 1140 | 1224 | 1515 | 1619 | 2227 | 2357 | 1685 | 1639 | 1177 | 2363 | 3170 | 2749 | 3212 |  |
-> | Capex |  | -671 | -357 | -147 | -307 | -183 | -437 | -296 | -411 | -305 | -199 | -240 | -556 | -653 | -135 | -183 | -332 | -452 | -750 |  |  |
+> | Capex |  | -671 | -357 | -147 | -307 | -183 | -437 | -296 | -411 | -305 | -199 | -240 | -556 | -653 | -135 | -183 | -332 | -452 | -750 | -604 |  |
 > | Buybacks |  | -1757 | -434 | 0 | -57 | -1425 | -1145 | -834 | -1510 | -1917 | -568 | -3013 | -2850 | -2260 | -150 | 0 | -2566 | -3953 | -3762 | -3300 |  |
 
 #### EPS by year
@@ -208,5 +208,18 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2007 | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2025 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
+
+## Changes
+
+### Change: MARRIOTT INTERNATIONAL INC, Capex tag, FY2025
+
+- CIK: 0001048286
+- What: Capex tag
+- Boundary: FY2025
+- Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
+- Now: us-gaap:PaymentsToAcquireProductiveAssets
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts

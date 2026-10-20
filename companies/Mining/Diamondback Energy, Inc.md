@@ -13,7 +13,7 @@
 
 Diamondback Energy, Inc., as it files with the SEC (CIK 0001539838): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Diamondback Energy, Inc., and how has it grown?** It sold $15.0 billion in FY2025, the 232nd most of the 487 companies with a revenue for the year, and the 8th of 12 in [Mining](../Mining.md). Its sales rose 2750.7% from FY2016 to FY2025, 45.1% a year.
+**How large is Diamondback Energy, Inc., and how has it grown?** It sold $15.0 billion in FY2025, the 233rd most of the 488 companies with a revenue for the year, and the 8th of 12 in [Mining](../Mining.md). Its sales rose 2750.7% from FY2016 to FY2025, 45.1% a year.
 
 **Does Diamondback Energy, Inc. make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 10.3% of what it sold; the median company of its sector kept 14.3%. It lost money in 2 of its 10 years in the book (FY2016, FY2020).
 
@@ -24,7 +24,7 @@ Diamondback Energy, Inc., as it files with the SEC (CIK 0001539838): its fiscal 
 > [!CARD:line] Diamondback Energy, Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 527.107 | 1205.111 | 2176.256 | 3887 | 2756 | 6747 | 9566 |  | 11066 | 15026 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 527.107 | 1205.111 | 2176.256 | 3887 | 2756 | 6747 | 9566 | 8412 | 11066 | 15026 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | -68.617 | 605 | 1011 | 695 | -5476 | 4001 | 6508 | 4570 | 4396 | 1266 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | -165.034 | 482 | 846 | 240 | -4517 | 2276 | 4562 | 3336 | 3701 | 1547 |  |
@@ -43,7 +43,7 @@ Diamondback Energy, Inc., as it files with the SEC (CIK 0001539838): its fiscal 
 | FY2020 | 2020-01-01 | 2020-12-31 | -28.61 | -28.61 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 12.24 | 12.24 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 24.61 | 24.61 |
-| FY2023 | 2023-01-01 |  | 17.34 | 17.34 |
+| FY2023 | 2023-01-01 | 2023-12-31 | 17.34 | 17.34 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 15.53 | 15.53 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 5.73 | 5.73 |
 
@@ -75,10 +75,10 @@ Diamondback Energy, Inc., as it files with the SEC (CIK 0001539838): its fiscal 
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 2752 |  | 1978 | 1416 | 7.93 | 1707 |  | -303 | 7.93 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 2417 |  | 1614 | 1184 | 6.72 | 1925 |  | -472 | 6.72 |
 | FY2022 Q4 | 2022 | 4 | 2022-12-31 | 2008 |  | 1256 | 1183 | 5.62 | 1441 |  | -316 | 5.62 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 1902 |  | 1025 | 712 | 3.88 | 1425 |  | -332 | 3.88 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 1896 |  | 1000 | 556 | 3.05 | 1513 |  | -321 | 3.05 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 |  |  | 1340 | 915 | 5.07 | 1358 |  | -56 | 5.07 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 |  |  | 1205 | 1153 | 5.33 | 1624 |  | -131 | 5.33 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 1925 |  | 1025 | 712 | 3.88 | 1425 |  | -332 | 3.88 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 1919 |  | 1000 | 556 | 3.05 | 1513 |  | -321 | 3.05 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 2340 |  | 1340 | 915 | 5.07 | 1358 |  | -56 | 5.07 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2228 |  | 1205 | 1153 | 5.33 | 1624 |  | -131 | 5.33 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 2227 |  | 1118 | 768 | 4.28 | 1334 |  | -42 | 4.28 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 2483 |  | 1156 | 837 | 4.66 | 1529 |  | 0 | 4.66 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 2645 |  | 710 | 659 | 3.19 | 1209 |  | -515 | 3.19 |
@@ -144,8 +144,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2016 | FY2018 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
-| Revenue | FY2019 | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2024 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2019 | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2023 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2010 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2010 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2013 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -165,11 +165,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: Diamondback Energy, Inc., Revenue tag, FY2024
+### Change: Diamondback Energy, Inc., Revenue tag, FY2023
 
 - CIK: 0001539838
 - What: Revenue tag
-- Boundary: FY2024
+- Boundary: FY2023
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

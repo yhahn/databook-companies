@@ -8,24 +8,24 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Finance, Insurance, and Real Estate among the S&P 500?** Its 92 companies with a revenue and a net income for FY2025 sold $2.98 trillion, 18.1% of the sales of all the 500's, and kept $442.2 billion as net income, 22.8% of theirs. It kept 14.8% of what it sold; all the companies together, 11.8%.
+**How large is Finance, Insurance, and Real Estate among the S&P 500?** Its 93 companies with a revenue and a net income for FY2025 sold $2.99 trillion, 17.5% of the sales of all the 500's, and kept $442.0 billion as net income, 21.4% of theirs. It kept 14.8% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Finance, Insurance, and Real Estate grown?** Its 67 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 65.8% more in FY2025 than in FY2015, 5.2% a year, and their net income went from $168.3 billion to $345.2 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Finance, Insurance, and Real Estate grown?** Its 72 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 66.1% more in FY2025 than in FY2015, 5.2% a year, and their net income went from $180.0 billion to $372.1 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
-The rise in revenue since FY2015, each year, in percent: the sector's 67 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
+The rise in revenue since FY2015, each year, in percent: the sector's 72 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Finance, Insurance, and Real Estate | 0 | 6.2 | 7.1 | -0.5 | 5.5 | 9.1 | 24 | 29.2 | 42.6 | 53.8 | 65.8 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | Finance, Insurance, and Real Estate | 0 | 6 | 7.3 | -0.2 | 5.7 | 9.7 | 25 | 29.6 | 42.5 | 53.8 | 66.1 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared
 
-**Who leads Finance, Insurance, and Real Estate, and who lost money?** [UNITEDHEALTH GROUP INC](./Finance,%20Insurance,%20and%20Real%20Estate/UNITEDHEALTH%20GROUP%20INC.md) sold the most in FY2025 ($447.6 billion) and [BERKSHIRE HATHAWAY INC](./Finance,%20Insurance,%20and%20Real%20Estate/BERKSHIRE%20HATHAWAY%20INC.md) earned the most ($67.0 billion); 2 of its 92 companies with a net income for the year lost money. Every company is a row of the grid below, the largest first.
+**Who leads Finance, Insurance, and Real Estate, and who lost money?** [UNITEDHEALTH GROUP INC](./Finance,%20Insurance,%20and%20Real%20Estate/UNITEDHEALTH%20GROUP%20INC.md) sold the most in FY2025 ($447.6 billion) and [BERKSHIRE HATHAWAY INC](./Finance,%20Insurance,%20and%20Real%20Estate/BERKSHIRE%20HATHAWAY%20INC.md) earned the most ($67.0 billion); 3 of its 93 companies with a net income for the year lost money. Every company is a row of the grid below, the largest first.
 
 Each company by its ticker, the largest by its revenue in FY2025 first: its net income over its revenue each year, in percent, a loss in red (blank where the book has not both); at the right its revenue in FY2025, in billions, and its revenue's rise since FY2015, in percent.
 
@@ -41,8 +41,8 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | BAC | 19.2 | 21.3 | 20.9 | 30.9 | 30.1 | 20.9 | 35.9 | 29 | 25.6 | 25.5 | 27 | 113.1 | 36.3 |
 > | PGR | 6.1 | 4.4 | 5.9 | 8.2 | 10.2 | 13.4 | 7 | 1.5 | 6.3 | 11.3 | 12.9 | 87.7 | 320.4 |
 > | C | 22.6 | 21.1 | -9.4 | 24.8 | 25.8 | 14.6 | 30.5 | 19.7 | 11.8 | 15.7 | 16.8 | 85.2 | 11.6 |
-> | WFC |  | 24.9 | 25.1 | 25.9 | 23.2 |  | 27.9 | 18.4 | 23.2 | 24 | 25.5 | 83.7 |  |
-> | MS |  | 17.3 | 16.1 | 21.8 | 21.8 | 22.6 | 25.2 | 20.6 | 16.8 | 21.7 | 23.9 | 70.6 |  |
+> | WFC |  | 24.9 | 25.1 | 25.9 | 23.2 | 4.5 | 27.9 | 18.4 | 23.2 | 24 | 25.5 | 83.7 |  |
+> | MS | 17.4 | 17.3 | 16.1 | 21.8 | 21.8 | 22.6 | 25.2 | 20.6 | 16.8 | 21.7 | 23.9 | 70.6 | 101 |
 > | ALL | 6.1 | 4.8 | 9 | 5.4 | 11.7 | 13.3 | 2.9 | -2.8 | -0.6 | 7.1 | 15 | 67.7 | 89.8 |
 > | PRU | 9.9 | 7.4 | 13.2 | 6.5 | 6.5 | -0.7 | 12.4 | -2.9 | 4.6 | 3.9 | 5.9 | 60.8 | 6.4 |
 > | CB | 14.9 | 13.1 | 12 | 12.1 | 13 | 9.8 | 20.9 | 12.2 | 18.2 | 16.6 | 17.4 | 59.4 | 212.9 |
@@ -56,7 +56,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | AIG | 3.8 | -1.6 | -12.3 | 0 | 6.7 | -13.6 | 19.9 | 34.1 | 13 | -5.2 | 11.6 | 26.8 | -54.1 |
 > | BLK |  | 25.8 | 36.4 | 30.3 | 30.8 | 30.4 | 30.5 | 29 | 30.8 | 31.2 | 22.9 | 24.2 |  |
 > | SCHW | 22.7 | 25.3 | 27.3 | 34.6 | 34.5 | 28.2 | 0 | 0 | 0 | 0 | 0 | 23.9 | 274.9 |
-> | PNC | 27.2 | 26.3 | 33 | 33 | 32.2 | 44.7 | 29.8 |  | 26.3 | 27.6 | 30.3 | 23.1 | 51.7 |
+> | PNC | 27.2 | 26.3 | 33 | 33 | 32.2 | 44.7 | 29.8 | 28.9 | 26.3 | 27.6 | 30.3 | 23.1 | 51.7 |
 > | BNY | 20.9 |  | 26.3 | 26 | 27 | 22.9 | 23.6 | 15.5 | 18.7 | 24.3 | 27.6 | 20.1 | 32.8 |
 > | ACGL | 13.7 | 15.5 | 11 | 13.9 | 23.6 | 16.5 | 23.3 | 15.4 | 32.6 | 24.7 | 22.1 | 19.9 | 406.3 |
 > | KKR |  | 28 | 66.1 | 61.4 | 112 | 99.8 | 29.2 | -9.1 | 25.7 | 14.1 | 12.2 | 19.5 |  |
@@ -84,7 +84,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | WY | 9.6 | 16.1 | 8.1 | 10 | -1.2 | 10.6 | 25.6 | 18.5 | 10.9 | 5.6 | 4.7 | 6.9 | 31.6 |
 > | IRM |  | 3.1 | 4.5 | 22.1 | 17 | 8.3 | 10.1 | 11 | 3.4 | 3 | 2.2 | 6.9 |  |
 > | CME | 37.5 | 42.7 | 111.5 | 45.5 | 43.5 | 43.1 | 56.2 | 53.6 | 57.8 | 57.5 | 62.5 | 6.5 | 96 |
-> | IVZ | 18.9 | 18 | 21.8 | 16.6 | 9.2 | 8.5 | 20.2 | 11.3 | -5.8 | 8.9 |  | 6.4 | 24.5 |
+> | IVZ | 18.9 | 18 | 21.8 | 16.6 | 9.2 | 8.5 | 20.2 | 11.3 | -5.8 | 8.9 | -2.7 | 6.4 | 24.5 |
 > | SPG | 40.6 | 39.3 | 40.6 | 50 | 42.1 | 27.7 | 50.2 | 46.3 | 46.2 | 45.8 | 84.3 | 6.4 | 20.9 |
 > | HST | 10.4 | 14 | 10.5 | 19.7 | 16.8 | -45.2 | -0.4 | 12.9 | 13.9 | 12.3 | 12.5 | 6.1 | 14.3 |
 > | DLR | 16.8 | 19.9 | 10.1 | 10.9 | 18.1 | 9.1 | 39.5 | 8.1 | 17.4 | 10.6 | 21.5 | 6.1 | 246.7 |
@@ -103,7 +103,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | BXP | 23.4 | 20.1 | 17.8 | 21.5 | 17.6 | 31.6 | 17.2 | 27.3 | 5.8 | 0.4 | 7.9 | 3.5 | 39.8 |
 > | L | 1.9 | 5 | 29.4 | 16.4 | 24.1 | -33 | 77.9 | 39.4 | 60.8 | 48.9 | 52.5 | 3.2 | -76.3 |
 > | ARE |  | -7.1 | 15 | 28.6 | 23.7 | 40.9 | 27 | 20.1 | 3.6 | 10.4 | -47.2 | 3 |  |
-> | INVH | -269.1 | -175.4 |  | -0.3 | 8.2 | 10.8 | 13.1 | 17.1 | 21.4 | 17.3 | 21.5 | 2.7 | 4484.4 |
+> | INVH | -269.1 | -175.4 | -10 | -0.3 | 8.2 | 10.8 | 13.1 | 17.1 | 21.4 | 17.3 | 21.5 | 2.7 | 4484.4 |
 > | IBKR | 33 | 47.4 | 41.2 | 121.6 | 128.6 | 91.6 | 104.3 | 122.3 | 180.6 | 172.3 | 178.6 | 2.4 | 94.3 |
 > | MET | 8.8 | 1.4 | 6.4 | 407.9 | 457.6 | 399.3 | 306.3 | 111.6 | 61.9 | 188.2 | 130.3 | 2.4 | -96 |
 > | MAA |  |  | 21.5 | 14.2 | 21.6 | 15.2 | 30 | 31.6 | 25.7 | 24.1 | 20.2 | 2.2 |  |
@@ -115,7 +115,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | REG |  |  | 18.2 | 22.2 | 21.1 | 4.4 | 31 | 39.4 | 27.6 | 27.5 | 34 | 1.6 |  |
 > | HIG | 10.5 | 5.5 | -18.2 | 127.4 | 148.5 | 127.7 | 151.1 | 127.8 | 181.2 | 213.4 | 254.7 | 1.5 | -90.6 |
 > | FRT | 28.3 | 31.2 | 33.8 | 26.4 | 37.8 | 15.8 | 27.5 | 35.9 | 20.9 | 24.6 | 32.1 | 1.3 | 71.9 |
-> | AMT | 14.4 | 16.5 | 18.6 | 251.7 | 358.1 | 341.1 |  | 201.8 | 182.9 | 294.4 | 280.9 | 0.9 | -80.4 |
+> | AMT | 14.4 | 16.5 | 18.6 | 251.7 | 358.1 | 341.1 | 358 | 201.8 | 182.9 | 294.4 | 280.9 | 0.9 | -80.4 |
 > | TPL |  |  |  | 69.9 | 65 | 58.2 | 59.9 | 66.9 | 64.2 | 64.3 | 60.3 | 0.8 |  |
 > | DOC | -28.8 | 29.5 | 22.4 | 735.8 | 31.5 | 94.7 | 107.3 | 101.1 | 58 | 42.8 | 11.8 | 0.6 | -68.9 |
 > | WRB | 7 | 7.9 | 7.1 | 239.1 | 217 | 148.1 | 227.2 | 289.3 | 292.7 | 347.2 | 320.1 | 0.6 | -92.3 |

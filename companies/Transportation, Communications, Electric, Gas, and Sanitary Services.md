@@ -8,19 +8,19 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Transportation, Communications, Electric, Gas, and Sanitary Services among the S&P 500?** Its 59 companies with a revenue and a net income for FY2025 sold $1.64 trillion, 10% of the sales of all the 500's, and kept $196.2 billion as net income, 10.1% of theirs. It kept 12% of what it sold; all the companies together, 11.8%.
+**How large is Transportation, Communications, Electric, Gas, and Sanitary Services among the S&P 500?** Its 59 companies with a revenue and a net income for FY2025 sold $1.64 trillion, 9.6% of the sales of all the 500's, and kept $196.2 billion as net income, 9.5% of theirs. It kept 12% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Transportation, Communications, Electric, Gas, and Sanitary Services grown?** Its 44 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 48.3% more in FY2025 than in FY2015, 4% a year, and their net income went from $84.1 billion to $158.5 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Transportation, Communications, Electric, Gas, and Sanitary Services grown?** Its 46 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 46.4% more in FY2025 than in FY2015, 3.9% a year, and their net income went from $87.2 billion to $164.0 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
-The rise in revenue since FY2015, each year, in percent: the sector's 44 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
+The rise in revenue since FY2015, each year, in percent: the sector's 46 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Transportation, Communications, Electric, Gas, and Sanitary Services | 0 | 4 | 9.4 | 16.3 | 20.3 | 6.5 | 25.3 | 40.7 | 38.6 | 41.8 | 48.3 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | Transportation, Communications, Electric, Gas, and Sanitary Services | 0 | 4.1 | 6 | 12.5 | 18 | 5 | 23.3 | 38.2 | 36.7 | 39.9 | 46.4 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared
@@ -50,9 +50,9 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | CCL | 11.2 | 17 | 14.9 | 16.7 | 14.4 | -182.9 | -498 | -50.1 | -0.3 | 7.7 | 10.4 | 26.6 | 69.4 |
 > | NEE |  |  |  | 43.1 | 21.5 | 17.2 | 19 | 18 | 29.5 | 29.6 | 26.5 | 25.8 |  |
 > | WM | 5.8 | 8.7 | 13.5 | 12.9 | 10.8 | 9.8 | 10.1 | 11.4 | 11.3 | 12.4 | 10.7 | 25.2 | 94.5 |
-> | PCG | 5.3 | 8 | 9.7 | -40.8 |  | -7.1 | 0 | 8.4 | 9.2 | 10.3 | 10.8 | 24.9 | 48.1 |
+> | PCG | 5.3 | 8 | 9.7 | -40.8 | -44.6 | -7.1 | 0 | 8.4 | 9.2 | 10.3 | 10.8 | 24.9 | 48.1 |
 > | UNP | 21.9 | 21.2 | 50.4 | 26.1 | 27.3 | 27.4 | 29.9 | 28.1 | 26.4 | 27.8 | 29.1 | 24.5 | 12.4 |
-> | EXC | 7.6 | 3.8 | 1869.1 |  |  | 11.7 | 10.2 | 11.4 | 10.7 | 10.7 | 11.4 | 24.3 | -17.6 |
+> | EXC | 7.6 | 3.8 | 1869.1 |  | 18.1 | 11.7 | 10.2 | 11.4 | 10.7 | 10.7 | 11.4 | 24.3 | -17.6 |
 > | CEG |  |  |  |  |  | 3.6 | -1.1 | -0.7 | 7.8 | 19.8 | 10.2 | 22.7 |  |
 > | AEP | 12.5 | 3.8 | 12.5 | 11.9 | 12.3 | 14.7 | 14.8 | 11.7 | 11.7 | 14.9 | 17 | 21.7 | 31.9 |
 > | EIX | 9.7 | 12 | 4.6 | -3.3 | 10.4 | 5.4 | 6.2 | 4.8 | 7.3 | 7.3 | 23.1 | 19.3 | 67.6 |
@@ -71,7 +71,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | EXPE | 11.5 | 3.2 | 3.8 | 3.6 | 4.7 | -50.2 | 0.2 | 2.9 | 5.4 | 8.9 | 8.8 | 14.7 | 120.8 |
 > | CSX | 16.7 | 15.5 | 48 | 27 | 27.9 | 26.1 | 30.2 | 27.7 | 25 | 23.9 | 20.5 | 14.1 | 19.3 |
 > | ES | 11.1 | 12.4 | 12.8 | 12.3 | 10.8 | 13.8 | 12.5 | 11.5 | -3.7 | 6.9 | 12.6 | 13.5 | 69.6 |
-> | ETR |  | -5.4 | 3.7 | 7.7 | 11.6 | 13.9 | 9.5 | 8 | 19.4 |  | 13.7 | 12.9 |  |
+> | ETR |  | -5.4 | 3.7 | 7.7 | 11.6 | 13.9 | 9.5 | 8 | 19.4 | 8.9 | 13.7 | 12.9 |  |
 > | SRE | 13.2 | 13.5 | 2.7 | 11.9 | 23.3 | 39.8 | 12.5 | 16.7 | 20.7 | 24.2 | 14.8 | 12.4 | 21.4 |
 > | AES | 2.7 | -11 | -11 | 11.2 | 3 | 0.5 | -3.7 | -4.3 | 2 | 13.7 | 7.4 | 12.2 | 8.6 |
 > | NSC | 14.8 | 16.9 | 51.2 | 23.3 | 24.1 | 20.6 | 27 | 25.7 | 15 | 21.6 | 23.6 | 12.2 | 15.9 |

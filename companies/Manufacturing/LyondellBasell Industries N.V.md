@@ -13,9 +13,9 @@
 
 LyondellBasell Industries N.V., as it files with the SEC (CIK 0001489393): its fiscal years and quarters from its XBRL filings, FY2011 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is LyondellBasell Industries N.V., and how has it grown?** It sold $30.2 billion in FY2025, the 119th most of the 487 companies with a revenue for the year, and the 56th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 7.9% from FY2015 to FY2025, −0.8% a year.
+**How large is LyondellBasell Industries N.V., and how has it grown?** It sold $30.2 billion in FY2025, the 120th most of the 488 companies with a revenue for the year, and the 56th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 7.9% from FY2015 to FY2025, −0.8% a year.
 
-**Does LyondellBasell Industries N.V. make money, and how much of what it sells does it keep?** It earned −$738 million in FY2025, −2.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 15 years in the book (FY2025).
+**Does LyondellBasell Industries N.V. make money, and how much of what it sells does it keep?** It earned −$738 million in FY2025, −2.4% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 15 years in the book (FY2025).
 
 **Where does LyondellBasell Industries N.V.'s cash go?** From FY2016 to FY2025 its operations brought in $49.5 billion; it spent 39.7% of that on plant and equipment, and 22% on buying back its own shares.
 

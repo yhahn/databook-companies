@@ -13,9 +13,9 @@
 
 FORD MOTOR CO, as it files with the SEC (CIK 0000037996): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FORD MOTOR CO, and how has it grown?** It sold $187.3 billion in FY2025, the 16th most of the 487 companies with a revenue for the year, and the 3rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 25.2% from FY2015 to FY2025, 2.3% a year.
+**How large is FORD MOTOR CO, and how has it grown?** It sold $187.3 billion in FY2025, the 17th most of the 488 companies with a revenue for the year, and the 3rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 25.2% from FY2015 to FY2025, 2.3% a year.
 
-**Does FORD MOTOR CO make money, and how much of what it sells does it keep?** The book does not hold both a revenue and a net income of its for FY2025; it lost money in 4 of its 18 years in the book (FY2007, FY2008, FY2020, FY2022).
+**Does FORD MOTOR CO make money, and how much of what it sells does it keep?** It earned −$8.2 billion in FY2025, −4.4% of what it sold; the median company of its sector kept 11.7%. It lost money in 5 of its 19 years in the book (FY2007, FY2008, FY2020 and 2 more).
 
 **Where does FORD MOTOR CO's cash go?** From FY2016 to FY2025 its operations brought in $169.1 billion; it spent 43.8% of that on plant and equipment, and 1.1% on buying back its own shares.
 
@@ -27,7 +27,7 @@ FORD MOTOR CO, as it files with the SEC (CIK 0000037996): its fiscal years and q
 > | Revenue |  | 168884 | 143584 | 116283 | 128954 | 135605 | 133559 | 146917 | 144077 | 149558 | 151800 | 156776 | 160338 | 155900 | 127144 | 136341 | 158057 | 176191 | 184992 | 187267 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  | 4881 | 3203 | 574 | -4408 | 4523 | 6276 | 5458 | 5219 | -9169 |  |
-> | Net income |  | -2795 | -14766 | 2717 | 6561 | 20213 | 5613 | 11953 | 1231 | 7373 | 4600 | 7757 | 3695 | 84 | -1276 | 17910 | -1981 | 4347 | 5879 |  |  |
+> | Net income |  | -2795 | -14766 | 2717 | 6561 | 20213 | 5613 | 11953 | 1231 | 7373 | 4600 | 7757 | 3695 | 84 | -1276 | 17910 | -1981 | 4347 | 5879 | -8162 |  |
 > | Operating cash flow |  | 16600 | -263 | 15477 | 11477 | 9784 | 9045 | 10444 | 14507 | 16226 | 19850 | 18096 | 15022 | 17639 | 24269 | 15787 | 6853 | 14918 | 15423 | 21282 |  |
 > | Capex |  | -5717 | -6492 | -4059 | -4092 | -4293 | -5488 | -6597 | -7463 | -7196 | -6992 | -7049 | -7785 | -7632 | -5742 | -6227 | -6866 | -8236 | -8684 | -8815 |  |
 > | Buybacks |  | -31 |  |  | 0 | 0 | -125 | -213 | -1964 | -129 | -145 | -131 | -164 | -237 | 0 | 0 | -484 | -335 | -426 | 0 |  |
@@ -127,10 +127,10 @@ FORD MOTOR CO, as it files with the SEC (CIK 0000037996): its fiscal years and q
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 47808 |  | 1883 | 1831 | 0.46 | 5508 | -2100 | -244 | 0.46 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 46196 |  | 880 | 892 | 0.22 | 5502 | -1992 | -32 | 0.22 |
 | FY2024 Q4 | 2024 | 4 | 2024-12-31 | 48211 |  | 1231 | 1824 | 0.45 | 3028 | -2498 | -150 | 0.45 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 40659 |  | 319 | 471 | 0.12 | 3679 | -1818 | 0 | 0.12 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 50184 |  | 511 | -36 | -0.01 | 6317 | -2088 | 0 | -0.01 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 50534 |  | 1558 |  | 0.6 | 7402 | -2125 | 0 | 0.6 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 45890 |  | -11557 |  | -2.78 | 3884 | -2784 | 0 | -2.78 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 40659 |  | 319 | 473 | 0.12 | 3679 | -1818 | 0 | 0.12 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 50184 |  | 511 | -29 | -0.01 | 6317 | -2088 | 0 | -0.01 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 50534 |  | 1558 | 2448 | 0.6 | 7402 | -2125 | 0 | 0.6 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 45890 |  | -11557 | -11054 | -2.78 | 3884 | -2784 | 0 | -2.78 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 43253 |  | 2329 | 2551 | 0.63 | 1316 | -2376 | -311 | 0.63 |
 
 ## Segments
@@ -237,8 +237,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating income | FY2017 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2015 | us-gaap:NetIncomeLoss |
 | Net income | FY2016 | FY2021 | us-gaap:ProfitLoss |
-| Net income | FY2022 | FY2025 | us-gaap:NetIncomeLoss |
-| Net income | FY2026 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2022 | FY2024 | us-gaap:NetIncomeLoss |
+| Net income | FY2025 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -278,11 +278,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2022 under both: -2152000000 and -1981000000
 - Source: SEC EDGAR companyfacts
 
-### Change: FORD MOTOR CO, Net income tag, FY2026
+### Change: FORD MOTOR CO, Net income tag, FY2025
 
 - CIK: 0000037996
 - What: Net income tag
-- Boundary: FY2026
+- Boundary: FY2025
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

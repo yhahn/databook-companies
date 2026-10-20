@@ -13,9 +13,9 @@
 
 Edwards Lifesciences Corp, as it files with the SEC (CIK 0001099800): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2016-02-19 and 2020-07-27, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Edwards Lifesciences Corp, and how has it grown?** It sold $6.1 billion in FY2025, the 366th most of the 487 companies with a revenue for the year, and the 156th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 143.3% from FY2015 to FY2025, 9.3% a year.
+**How large is Edwards Lifesciences Corp, and how has it grown?** It sold $6.1 billion in FY2025, the 367th most of the 488 companies with a revenue for the year, and the 156th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 143.3% from FY2015 to FY2025, 9.3% a year.
 
-**Does Edwards Lifesciences Corp make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 17.7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 8 years in the book.
+**Does Edwards Lifesciences Corp make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 17.7% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 8 years in the book.
 
 **Where does Edwards Lifesciences Corp's cash go?** From FY2016 to FY2025 its operations brought in $10.9 billion; it spent 23.8% of that on plant and equipment, and 76.3% on buying back its own shares.
 

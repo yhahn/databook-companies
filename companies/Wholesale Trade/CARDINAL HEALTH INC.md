@@ -13,7 +13,7 @@
 
 CARDINAL HEALTH INC, as it files with the SEC (CIK 0000721371): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CARDINAL HEALTH INC, and how has it grown?** It sold $222.6 billion in FY2025, the 13th most of the 487 companies with a revenue for the year, and the 3rd of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 117.1% from FY2015 to FY2025, 8.1% a year.
+**How large is CARDINAL HEALTH INC, and how has it grown?** It sold $222.6 billion in FY2025, the 14th most of the 488 companies with a revenue for the year, and the 3rd of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 117.1% from FY2015 to FY2025, 8.1% a year.
 
 **Does CARDINAL HEALTH INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 0.7% of what it sold; the median company of its sector kept 2.7%. It lost money in 2 of its 19 years in the book (FY2020, FY2022).
 

@@ -13,9 +13,9 @@
 
 Uber Technologies, Inc, as it files with the SEC (CIK 0001543151): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Uber Technologies, Inc, and how has it grown?** It sold $52.0 billion in FY2025, the 73rd most of the 487 companies with a revenue for the year, and the 7th of 74 in [Services](../Services.md). Its sales rose 555.8% from FY2017 to FY2025, 26.5% a year.
+**How large is Uber Technologies, Inc, and how has it grown?** It sold $52.0 billion in FY2025, the 74th most of the 488 companies with a revenue for the year, and the 8th of 75 in [Services](../Services.md). Its sales rose 555.8% from FY2017 to FY2025, 26.5% a year.
 
-**Does Uber Technologies, Inc make money, and how much of what it sells does it keep?** It earned $10.1 billion in FY2025, 19.3% of what it sold; the median company of its sector kept 16.1%. It lost money in 5 of its 9 years in the book (FY2017, FY2019, FY2020 and 2 more).
+**Does Uber Technologies, Inc make money, and how much of what it sells does it keep?** It earned $10.1 billion in FY2025, 19.3% of what it sold; the median company of its sector kept 16.3%. It lost money in 5 of its 9 years in the book (FY2017, FY2019, FY2020 and 2 more).
 
 **Where does Uber Technologies, Inc's cash go?** From FY2017 to FY2025 its operations brought in $11.0 billion; it spent 35.8% of that on plant and equipment, and 70.7% on buying back its own shares.
 

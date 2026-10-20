@@ -13,9 +13,9 @@
 
 TERADYNE, INC, as it files with the SEC (CIK 0000097210): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TERADYNE, INC, and how has it grown?** It sold $3.2 billion in FY2025, the 439th most of the 487 companies with a revenue for the year, and the 189th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 94.6% from FY2015 to FY2025, 6.9% a year.
+**How large is TERADYNE, INC, and how has it grown?** It sold $3.2 billion in FY2025, the 440th most of the 488 companies with a revenue for the year, and the 189th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 94.6% from FY2015 to FY2025, 6.9% a year.
 
-**Does TERADYNE, INC make money, and how much of what it sells does it keep?** It earned $554 million in FY2025, 17.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 18 years in the book (FY2008, FY2009, FY2016).
+**Does TERADYNE, INC make money, and how much of what it sells does it keep?** It earned $554 million in FY2025, 17.4% of what it sold; the median company of its sector kept 11.7%. It lost money in 3 of its 18 years in the book (FY2008, FY2009, FY2016).
 
 **Where does TERADYNE, INC's cash go?** From FY2016 to FY2025 its operations brought in $6.6 billion; it spent 22.7% of that on plant and equipment, and 66.7% on buying back its own shares.
 
@@ -24,7 +24,7 @@ TERADYNE, INC, as it files with the SEC (CIK 0000097210): its fiscal years and q
 > [!CARD:line] TERADYNE, INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 1107.042 | 777.425 | 1566.162 | 1429.061 | 1656.75 | 1427.933 | 1647.824 | 1639.578 | 1753.25 | 2136.606 | 2100.802 |  | 3121.469 | 3702.881 | 3155.045 | 2676.298 | 2819.88 | 3190.024 |  |
+> | Revenue |  |  | 1107.042 | 777.425 | 1566.162 | 1429.061 | 1656.75 | 1427.933 | 1647.824 | 1639.578 | 1753.25 | 2136.606 | 2100.802 | 2294.965 | 3121.469 | 3702.881 | 3155.045 | 2676.298 | 2819.88 | 3190.024 |  |
 > | Gross profit |  |  | 498.192 | 299.446 | 857.583 | 711.823 | 886.037 | 808.801 | 878.808 | 915.643 | 958.608 | 1221.453 | 1220.394 | 1339.829 | 1785.741 | 2206.656 | 1867.151 | 1536.748 | 1648.927 | 1857.345 |  |
 > | Operating income |  |  | -380.74 | -124.854 | 414.937 | 231.498 | 287.368 | 190.659 | 96.423 | 242.969 | -62.97 | 525.343 | 473.797 | 553.654 | 928.407 | 1200.72 | 831.939 | 501.068 | 593.788 | 650.051 |  |
 > | Net income |  |  | -394.227 | -133.837 | 384.82 | 369.873 | 217.049 | 164.947 | 81.272 | 206.477 | -43.421 | 257.692 | 451.779 | 467.468 | 784.147 | 1014.589 | 715.501 | 448.752 | 542.372 | 554.047 |  |
@@ -47,7 +47,7 @@ TERADYNE, INC, as it files with the SEC (CIK 0000097210): its fiscal years and q
 | FY2016 | 2016-01-01 | 2016-12-31 | -0.21 | -0.21 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 1.28 | 1.28 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 2.35 | 2.35 |
-| FY2019 | 2019-01-01 |  | 2.6 | 2.6 |
+| FY2019 | 2019-01-01 | 2019-12-31 | 2.6 | 2.6 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 4.28 | 4.28 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 5.53 | 5.53 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 4.22 | 4.22 |
@@ -100,7 +100,7 @@ TERADYNE, INC, as it files with the SEC (CIK 0000097210): its fiscal years and q
 | FY2018 Q4 | 2018 | 4 | 2018-12-31 | 519.558 | 309.535 | 112.273 | 143.79 | 0.79 | 186.376 | -26.11 | -261.215 | 0.79 |
 | FY2019 Q1 | 2019 | 1 | 2019-03-31 | 494.099 | 287.635 | 93.085 | 109.138 | 0.62 | 18.016 | -25.711 | -156.468 | 0.62 |
 | FY2019 Q2 | 2019 | 2 | 2019-06-30 | 564.178 | 323.918 | 133.994 | 97.397 | 0.55 | 145.258 | -33.245 | -90.754 | 0.55 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 582.038 | 345.038 | 154.921 | 135.86 | 0.75 | 199.148 | -37.092 | -121.56 | 0.75 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-29 | 582.038 | 345.038 | 154.921 | 135.86 | 0.75 | 199.148 | -37.092 | -121.56 | 0.75 |
 | FY2019 Q4 | 2019 | 4 | 2019-12-31 | 654.65 | 383.238 | 171.656 | 125.075 | 0.69 | 216.328 | -38.594 | -131.218 | 0.69 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-29 | 704.355 | 405.55 | 206.718 | 176.191 | 0.97 | 43.102 | -36.7 | -79.039 | 0.97 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-28 | 838.661 | 471.473 | 217.949 | 188.908 | 1.05 | 222.897 | -47.314 | -9.426 | 1.05 |
@@ -207,8 +207,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2008 | FY2016 | us-gaap:Revenues |
-| Revenue | FY2017 | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2020 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2017 | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2019 | FY2026 | us-gaap:Revenues |
 | Gross profit | FY2008 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
@@ -233,11 +233,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 2136606000 and 2136606000
 - Source: SEC EDGAR companyfacts
 
-### Change: TERADYNE, INC, Revenue tag, FY2020
+### Change: TERADYNE, INC, Revenue tag, FY2019
 
 - CIK: 0000097210
 - What: Revenue tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

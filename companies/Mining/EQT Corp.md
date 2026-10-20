@@ -13,7 +13,7 @@
 
 EQT Corp, as it files with the SEC (CIK 0000033213): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is EQT Corp, and how has it grown?** It sold $8.6 billion in FY2025, the 313th most of the 487 companies with a revenue for the year, and the 10th of 12 in [Mining](../Mining.md). Its sales rose 523.2% from FY2016 to FY2025, 22.5% a year.
+**How large is EQT Corp, and how has it grown?** It sold $8.6 billion in FY2025, the 314th most of the 488 companies with a revenue for the year, and the 10th of 12 in [Mining](../Mining.md). Its sales rose 523.2% from FY2016 to FY2025, 22.5% a year.
 
 **Does EQT Corp make money, and how much of what it sells does it keep?** It earned $2.0 billion in FY2025, 23.6% of what it sold; the median company of its sector kept 14.3%. It lost money in 5 of its 10 years in the book (FY2016, FY2018, FY2019 and 2 more).
 
@@ -24,7 +24,7 @@ EQT Corp, as it files with the SEC (CIK 0000033213): its fiscal years and quarte
 > [!CARD:line] EQT Corp, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 1387.054 | 3091.02 | 4709.384 | 3791.414 | 2650.299 | 6804.02 | 12114.168 | 5044.768 |  | 8644.211 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 1387.054 | 3091.02 | 4709.384 | 3791.414 | 2650.299 | 6804.02 | 12114.168 | 5044.768 | 5273.309 | 8644.211 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | -755.028 | 382.212 | -2783.124 | -1152.11 | -877.666 | -1360.975 | 2717.997 | 2314.411 | 685.296 | 3249.619 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | -452.983 | 1508.529 | -2244.568 | -1221.695 | -958.799 | -1142.747 | 1770.965 | 1735.232 | 230.577 | 2039.247 |  |
@@ -44,7 +44,7 @@ EQT Corp, as it files with the SEC (CIK 0000033213): its fiscal years and quarte
 | FY2021 | 2021-01-01 | 2021-12-31 | -3.54 | -3.54 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 4.38 | 4.38 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 4.22 | 4.22 |
-| FY2024 | 2024-01-01 |  | 0.45 | 0.45 |
+| FY2024 | 2024-01-01 | 2024-12-31 | 0.45 | 0.45 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.31 | 3.31 |
 
 ## Quarterly
@@ -79,10 +79,10 @@ EQT Corp, as it files with the SEC (CIK 0000033213): its fiscal years and quarte
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 848.325 |  | -34.993 | -66.626 | -0.18 | 437.113 | -487.011 | 0 | -0.18 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 1001.883 |  | 15.807 | 81.255 | 0.2 | 454.583 | -504.103 | 0 | 0.2 |
 | FY2023 Q4 | 2023 | 4 | 2023-12-31 | 1364.202 |  | 722.717 | 502.055 | 1.14 | 624.386 | -533.139 | 0 | 1.14 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1303.905 |  | 182.72 | 103.488 | 0.23 | 1155.663 | -534.468 | 0 | 0.23 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 889.517 |  | 2.971 | 9.517 | 0.02 | 322.045 | -558.165 | 0 | 0.02 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 |  |  | -281.84 | -300.823 | -0.54 | 592.989 | -569.479 | 0 | -0.54 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 |  |  | 781.445 | 418.395 | 0.84 | 756.276 | -591.597 | 0 | 0.84 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1412.268 |  | 182.72 | 103.488 | 0.23 | 1155.663 | -534.468 | 0 | 0.23 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 952.512 |  | 2.971 | 9.517 | 0.02 | 322.045 | -558.165 | 0 | 0.02 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1283.802 |  | -281.84 | -300.823 | -0.54 | 592.989 | -569.479 | 0 | -0.54 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1624.727 |  | 781.445 | 418.395 | 0.84 | 756.276 | -591.597 | 0 | 0.84 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1739.85 |  | 496.25 | 242.139 | 0.4 | 1741.167 | -499.649 |  | 0.4 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 2557.719 |  | 1134.038 | 784.147 | 1.3 | 1241.699 | -549.64 |  | 1.3 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1958.571 |  | 603.21 | 335.862 | 0.53 | 1017.699 | -626.402 |  | 0.53 |
@@ -143,8 +143,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2016 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2025 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2024 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2013 | us-gaap:ProfitLoss |
 | Net income | FY2014 | FY2026 | us-gaap:NetIncomeLoss |
@@ -167,11 +167,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 4557868000 and 4709384000
 - Source: SEC EDGAR companyfacts
 
-### Change: EQT Corp, Revenue tag, FY2025
+### Change: EQT Corp, Revenue tag, FY2024
 
 - CIK: 0000033213
 - What: Revenue tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

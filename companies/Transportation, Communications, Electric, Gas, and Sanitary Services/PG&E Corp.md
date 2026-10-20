@@ -13,7 +13,7 @@
 
 PG&E Corp, as it files with the SEC (CIK 0001004980): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PG&E Corp, and how has it grown?** It sold $24.9 billion in FY2025, the 145th most of the 487 companies with a revenue for the year, and the 19th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 48.1% from FY2015 to FY2025, 4% a year.
+**How large is PG&E Corp, and how has it grown?** It sold $24.9 billion in FY2025, the 146th most of the 488 companies with a revenue for the year, and the 19th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 48.1% from FY2015 to FY2025, 4% a year.
 
 **Does PG&E Corp make money, and how much of what it sells does it keep?** It earned $2.7 billion in FY2025, 10.8% of what it sold; the median company of its sector kept 12.9%. It lost money in 4 of its 19 years in the book (FY2018, FY2019, FY2020, FY2021).
 
@@ -24,7 +24,7 @@ PG&E Corp, as it files with the SEC (CIK 0001004980): its fiscal years and quart
 > [!CARD:line] PG&E Corp, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 13237 | 14628 | 13399 | 13841 | 14956 | 15040 | 15598 | 17090 | 16833 | 17666 | 17135 | 16759 |  | 18469 | 20642 | 21680 | 24428 | 24419 | 24935 |  |
+> | Revenue |  | 13237 | 14628 | 13399 | 13841 | 14956 | 15040 | 15598 | 17090 | 16833 | 17666 | 17135 | 16759 | 17129 | 18469 | 20642 | 21680 | 24428 | 24419 | 24935 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 2114 | 2261 | 2299 | 2308 | 1942 | 1693 | 1762 | 2450 | 1508 | 2080 | 2905 | -9700 | -10094 | 1755 | 1883 | 1837 | 2671 | 4459 | 4749 |  |
 > | Net income |  | 1006 | 1352 | 1220 | 1113 | 858 | 830 | 828 | 1450 | 888 | 1407 | 1660 | -6837 | -7642 | -1304 | -0.000102 | 1814 | 2256 | 2512 | 2703 |  |
@@ -48,7 +48,7 @@ PG&E Corp, as it files with the SEC (CIK 0001004980): its fiscal years and quart
 | FY2016 | 2016-01-01 | 2016-12-31 | 2.78 | 2.78 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 3.21 | 3.21 |
 | FY2018 | 2018-01-01 | 2018-12-31 | -13.25 | -13.25 |
-| FY2019 | 2019-01-01 |  | -14.5 | -14.5 |
+| FY2019 | 2019-01-01 | 2019-12-31 | -14.5 | -14.5 |
 | FY2020 | 2020-01-01 | 2020-12-31 | -1.05 | -1.05 |
 | FY2021 | 2021-01-01 | 2021-12-31 | -0.05 | -0.05 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 0.84 | 0.84 |
@@ -164,8 +164,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2007 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2020 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2019 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2007 | us-gaap:NetIncomeLoss |
 | Net income | FY2008 | FY2008 | us-gaap:ProfitLoss |
@@ -190,11 +190,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 16759000000 and 16759000000
 - Source: SEC EDGAR companyfacts
 
-### Change: PG&E Corp, Revenue tag, FY2020
+### Change: PG&E Corp, Revenue tag, FY2019
 
 - CIK: 0001004980
 - What: Revenue tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

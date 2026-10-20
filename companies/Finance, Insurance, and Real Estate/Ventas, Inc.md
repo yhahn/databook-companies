@@ -13,9 +13,9 @@
 
 Ventas, Inc., as it files with the SEC (CIK 0000740260): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Ventas, Inc., and how has it grown?** It sold $5.8 billion in FY2025, the 371st most of the 487 companies with a revenue for the year, and the 59th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 77.5% from FY2015 to FY2025, 5.9% a year.
+**How large is Ventas, Inc., and how has it grown?** It sold $5.8 billion in FY2025, the 372nd most of the 488 companies with a revenue for the year, and the 59th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 77.5% from FY2015 to FY2025, 5.9% a year.
 
-**Does Ventas, Inc. make money, and how much of what it sells does it keep?** It earned $262 million in FY2025, 4.5% of what it sold; the median company of its sector kept 21.5%. It lost money in 2 of its 18 years in the book (FY2022, FY2023).
+**Does Ventas, Inc. make money, and how much of what it sells does it keep?** It earned $262 million in FY2025, 4.5% of what it sold; the median company of its sector kept 21.5%. It lost money in 2 of its 19 years in the book (FY2022, FY2023).
 
 **Where does Ventas, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $13.3 billion; it spent 74.9% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -27,7 +27,7 @@ Ventas, Inc., as it files with the SEC (CIK 0000740260): its fiscal years and qu
 > | Revenue |  | 742.147 | 919.145 | 923.465 | 1000.634 | 1731.704 | 2469.615 | 2516.617 | 2776.813 | 3286.398 | 3443.522 | 3574.149 | 3745.81 | 3872.75 | 3795.357 | 3828.007 | 4129.193 | 4497.827 | 4924.266 | 5833.98 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Net income |  | 273.681 | 222.603 | 266.495 | 246.167 |  | 361.775 | 454.669 | 477.001 | 419.222 | 651.49 | 1361.112 | 415.981 | 439.297 | 441.185 | 56.559 | -40.931 | -30.297 | 88.351 | 261.518 |  |
+> | Net income |  | 273.681 | 222.603 | 266.495 | 246.167 | 363.261 | 361.775 | 454.669 | 477.001 | 419.222 | 651.49 | 1361.112 | 415.981 | 439.297 | 441.185 | 56.559 | -40.931 | -30.297 | 88.351 | 261.518 |  |
 > | Operating cash flow |  | 404.6 | 379.907 | 422.101 | 447.622 | 773.197 | 992.816 | 1194.755 | 1254.845 | 1398.831 | 1354.702 | 1428.752 | 1381.467 | 1437.783 | 1450.176 | 1026.116 | 1120.163 | 1119.873 | 1329.625 | 1646.726 |  |
 > | Capex |  | -8.188 | -16.359 | -11.066 | -18.193 | -50.473 | -69.43 | -81.614 | -87.454 | -107.487 | -117.456 | -132.558 | -131.858 | -156.724 | -607.296 | -1802.021 | -900.696 | -649.471 | -2529.803 | -2928.069 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -71,10 +71,10 @@ Ventas, Inc., as it files with the SEC (CIK 0000740260): its fiscal years and qu
 | FY2010 Q2 | 2010 | 2 | 2010-06-30 | 241.291 |  |  | 58.067 | 0.37 | 92.156 | -2.783 |  | 0.37 |
 | FY2010 Q3 | 2010 | 3 | 2010-09-30 | 262.636 |  |  | 57.898 | 0.37 | 138.402 | -4.516 |  | 0.37 |
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 265.965 |  |  | 77.583 | 0.49 | 101.503 | -6.599 |  | 0.49 |
-| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 266.396 |  |  | 48.984 | 0.3 | 130.769 | -7.832 |  | 0.3 |
-| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 359.421 |  |  | 19.676 | 0.11 | 55.531 | -5.717 |  | 0.11 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 562.528 |  |  | 102.885 | 0.35 | 257.601 | -15.109 |  | 0.35 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 563.145 |  |  |  | 0.66 | 329.296 | -21.815 |  | 0.66 |
+| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 266.396 |  |  | 49.046 | 0.3 | 130.769 | -7.832 |  | 0.3 |
+| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 359.421 |  |  | 19.734 | 0.11 | 55.531 | -5.717 |  | 0.11 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 562.528 |  |  | 101.984 | 0.35 | 257.601 | -15.109 |  | 0.35 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 563.145 |  |  | 192.497 | 0.66 | 329.296 | -21.815 |  | 0.66 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 564.597 |  |  | 90.092 | 0.31 | 244.961 | -10.019 |  | 0.31 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 610.188 |  |  | 73.736 | 0.25 | 215.847 | -13.793 |  | 0.25 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 637.218 |  |  | 111.821 | 0.38 | 248.511 | -18.458 |  | 0.38 |
@@ -190,8 +190,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2007 | FY2026 | us-gaap:Revenues |
-| Net income | FY2007 | FY2011 | us-gaap:NetIncomeLoss |
-| Net income | FY2012 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2007 | FY2010 | us-gaap:NetIncomeLoss |
+| Net income | FY2011 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
@@ -199,11 +199,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Ventas, Inc., Net income tag, FY2012
+### Change: Ventas, Inc., Net income tag, FY2011
 
 - CIK: 0000740260
 - What: Net income tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

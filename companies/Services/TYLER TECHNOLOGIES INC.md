@@ -13,9 +13,9 @@
 
 TYLER TECHNOLOGIES INC, as it files with the SEC (CIK 0000860731): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TYLER TECHNOLOGIES INC, and how has it grown?** It sold $2.3 billion in FY2025, the 459th most of the 487 companies with a revenue for the year, and the 70th of 74 in [Services](../Services.md). Its sales rose 208.5% from FY2016 to FY2025, 13.3% a year.
+**How large is TYLER TECHNOLOGIES INC, and how has it grown?** It sold $2.3 billion in FY2025, the 460th most of the 488 companies with a revenue for the year, and the 71st of 75 in [Services](../Services.md). Its sales rose 294.6% from FY2015 to FY2025, 14.7% a year.
 
-**Does TYLER TECHNOLOGIES INC make money, and how much of what it sells does it keep?** It earned $316 million in FY2025, 13.5% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 17 years in the book.
+**Does TYLER TECHNOLOGIES INC make money, and how much of what it sells does it keep?** It earned $316 million in FY2025, 13.5% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 17 years in the book.
 
 **Where does TYLER TECHNOLOGIES INC's cash go?** From FY2016 to FY2025 its operations brought in $3.7 billion; it spent 7.7% of that on plant and equipment, and 13.3% on buying back its own shares.
 
@@ -24,7 +24,7 @@ TYLER TECHNOLOGIES INC, as it files with the SEC (CIK 0000860731): its fiscal ye
 > [!CARD:line] TYLER TECHNOLOGIES INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 290.286 | 288.628 | 309.391 | 363.304 | 416.643 | 493.101 |  | 756.043 | 840.899 | 935.282 | 1086.427 | 1116.663 | 1592.287 | 1850.204 | 1951.751 | 2137.803 | 2332.34 |  |
+> | Revenue |  |  |  | 290.286 | 288.628 | 309.391 | 363.304 | 416.643 | 493.101 | 591.022 | 756.043 | 840.899 | 935.282 | 1086.427 | 1116.663 | 1592.287 | 1850.204 | 1951.751 | 2137.803 | 2332.34 |  |
 > | Gross profit |  |  |  | 128.763 | 128.317 | 141.912 | 167.702 | 193.203 | 233.371 | 277.187 | 359.188 | 399.377 | 439.578 | 516.9 | 542.512 | 709.644 | 783.863 | 861.099 | 935.761 | 1083.7 |  |
 > | Operating income |  |  |  | 44.784 | 41.641 | 46.517 | 56.577 | 67.128 | 94.822 | 108.043 | 137.656 | 162.758 | 152.492 | 156.367 | 172.926 | 180.735 | 214.249 | 218.537 | 299.526 | 357.676 |  |
 > | Net income |  |  |  | 27.01 | 25.054 | 27.557 | 32.994 | 39.101 | 58.94 | 64.869 | 113.701 | 169.571 | 147.462 | 146.527 | 194.82 | 161.458 | 164.24 | 165.919 | 263.026 | 315.603 |  |
@@ -42,7 +42,7 @@ TYLER TECHNOLOGIES INC, as it files with the SEC (CIK 0000860731): its fiscal ye
 | FY2012 | 2012-01-01 | 2012-12-31 | 1 | 1 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 1.13 | 1.13 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 1.66 | 1.66 |
-| FY2015 | 2015-01-01 |  | 1.77 | 1.77 |
+| FY2015 | 2015-01-01 | 2015-12-31 | 1.77 | 1.77 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 2.92 | 2.92 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 4.32 | 4.32 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 3.68 | 3.68 |
@@ -79,9 +79,9 @@ TYLER TECHNOLOGIES INC, as it files with the SEC (CIK 0000860731): its fiscal ye
 | FY2014 Q3 | 2014 | 3 | 2014-09-30 | 128.664 | 61.792 | 26.745 | 17 | 0.48 | 66.303 | -1.56 | -0.002 | 0.48 |
 | FY2014 Q4 | 2014 | 4 | 2014-12-31 | 127.44 | 60.491 | 24.593 | 15.317 | 0.43 | 47.708 | -1.306 | 0 | 0.43 |
 | FY2015 Q1 | 2015 | 1 | 2015-03-31 | 134.966 | 63.879 | 27.178 | 17.273 | 0.48 | -2.095 | -1.909 |  | 0.48 |
-| FY2015 Q2 | 2015 | 2 | 2015-06-30 |  | 68.253 | 29.596 | 18.836 | 0.52 | 16.908 | -4.217 |  | 0.52 |
-| FY2015 Q3 | 2015 | 3 | 2015-09-30 |  | 71.833 | 31.489 | 20.142 | 0.55 | 55.1 | -2.399 | 0 | 0.55 |
-| FY2015 Q4 | 2015 | 4 | 2015-12-31 |  | 73.222 | 19.78 | 8.618 | 0.23 | 64.414 | -3.976 | 0 | 0.23 |
+| FY2015 Q2 | 2015 | 2 | 2015-06-30 | 146.295 | 68.253 | 29.596 | 18.836 | 0.52 | 16.908 | -4.217 |  | 0.52 |
+| FY2015 Q3 | 2015 | 3 | 2015-09-30 | 150.845 | 71.833 | 31.489 | 20.142 | 0.55 | 55.1 | -2.399 | 0 | 0.55 |
+| FY2015 Q4 | 2015 | 4 | 2015-12-31 | 158.916 | 73.222 | 19.78 | 8.618 | 0.23 | 64.414 | -3.976 | 0 | 0.23 |
 | FY2016 Q1 | 2016 | 1 | 2016-03-31 | 179.293 | 82.118 | 28.041 | 18.224 | 0.47 | 41.321 | -16.722 | -93.93 | 0.47 |
 | FY2016 Q2 | 2016 | 2 | 2016-06-30 | 188.972 | 86.936 | 30.915 | 25.007 | 0.65 | 19.52 | -5.237 | -0.567 | 0.65 |
 | FY2016 Q3 | 2016 | 3 | 2016-09-30 | 194.497 | 93.48 | 36.945 | 35.43 | 0.91 | 79.213 | -7.57 | -0.002 | 0.91 |
@@ -194,8 +194,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2009 | FY2015 | us-gaap:Revenues |
-| Revenue | FY2016 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2009 | FY2014 | us-gaap:Revenues |
+| Revenue | FY2015 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -209,11 +209,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: TYLER TECHNOLOGIES INC, Revenue tag, FY2016
+### Change: TYLER TECHNOLOGIES INC, Revenue tag, FY2015
 
 - CIK: 0000860731
 - What: Revenue tag
-- Boundary: FY2016
+- Boundary: FY2015
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

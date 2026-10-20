@@ -13,9 +13,9 @@
 
 RALPH LAUREN CORP, as it files with the SEC (CIK 0001037038): its fiscal years and quarters from its XBRL filings, FY2010 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is RALPH LAUREN CORP, and how has it grown?** It sold $7.1 billion in FY2025, the 343rd most of the 487 companies with a revenue for the year, and the 147th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 7.1% from FY2015 to FY2025, −0.7% a year.
+**How large is RALPH LAUREN CORP, and how has it grown?** It sold $7.1 billion in FY2025, the 344th most of the 488 companies with a revenue for the year, and the 147th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 7.1% from FY2015 to FY2025, −0.7% a year.
 
-**Does RALPH LAUREN CORP make money, and how much of what it sells does it keep?** It earned $743 million in FY2025, 10.5% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 17 years in the book (FY2017, FY2021).
+**Does RALPH LAUREN CORP make money, and how much of what it sells does it keep?** It earned $743 million in FY2025, 10.5% of what it sold; the median company of its sector kept 11.7%. It lost money in 2 of its 17 years in the book (FY2017, FY2021).
 
 **Where does RALPH LAUREN CORP's cash go?** From FY2016 to FY2025 its operations brought in $8.3 billion; it spent 26.6% of that on plant and equipment, and 46.8% on buying back its own shares.
 

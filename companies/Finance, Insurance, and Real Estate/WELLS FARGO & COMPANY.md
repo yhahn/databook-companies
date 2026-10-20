@@ -13,7 +13,7 @@
 
 WELLS FARGO & COMPANY, as it files with the SEC (CIK 0000072971): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WELLS FARGO & COMPANY, and how has it grown?** It sold $83.7 billion in FY2025, the 46th most of the 487 companies with a revenue for the year, and the 10th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 5.2% from FY2016 to FY2025, −0.6% a year.
+**How large is WELLS FARGO & COMPANY, and how has it grown?** It sold $83.7 billion in FY2025, the 47th most of the 488 companies with a revenue for the year, and the 10th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 5.2% from FY2016 to FY2025, −0.6% a year.
 
 **Does WELLS FARGO & COMPANY make money, and how much of what it sells does it keep?** It earned $21.3 billion in FY2025, 25.5% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 10 years in the book.
 
@@ -24,7 +24,7 @@ WELLS FARGO & COMPANY, as it files with the SEC (CIK 0000072971): its fiscal yea
 > [!CARD:line] WELLS FARGO & COMPANY, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 88267 | 88389 | 86408 | 85063 |  | 79166 | 74368 | 82597 | 82296 | 83699 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 88267 | 88389 | 86408 | 85063 | 74264 | 79166 | 74368 | 82597 | 82296 | 83699 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 21938 | 22183 | 22393 | 19715 | 3377 | 22109 | 13677 | 19142 | 19722 | 21338 |  |
@@ -40,7 +40,7 @@ WELLS FARGO & COMPANY, as it files with the SEC (CIK 0000072971): its fiscal yea
 | FY2017 | 2017-01-01 | 2017-12-31 | 4.1 | 4.1 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 4.28 | 4.28 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 4.09 | 4.09 |
-| FY2020 | 2020-01-01 |  | 0.43 | 0.43 |
+| FY2020 | 2020-01-01 | 2020-12-31 | 0.43 | 0.43 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 5.08 | 5.08 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 3.27 | 3.27 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 4.83 | 4.83 |
@@ -64,9 +64,9 @@ WELLS FARGO & COMPANY, as it files with the SEC (CIK 0000072971): its fiscal yea
 | FY2019 Q3 | 2019 | 3 | 2019-09-30 | 22010 |  |  | 4610 | 0.92 | -12975 |  | -7448 | 0.92 |
 | FY2019 Q4 | 2019 | 4 | 2019-12-31 | 19860 |  |  | 3039 | 0.66 | 12423 |  | -7367 | 0.66 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 17717 |  |  | 653 | 0.01 | 17273 |  | -3407 | 0.01 |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 17836 |  |  | -3846 | -1.01 | 16119 |  | -2 | -1.01 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 18862 |  |  | 3216 | 0.7 | -8576 |  | -3 | 0.7 |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 |  |  |  | 3091 | 0.66 | -22765 |  | -3 | 0.66 |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 18286 |  |  | -3846 | -1.01 | 16119 |  | -2 | -1.01 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 19316 |  |  | 3216 | 0.7 | -8576 |  | -3 | 0.7 |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 18489 |  |  | 3091 | 0.66 | -22765 |  | -3 | 0.66 |
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 18532 |  |  | 4636 | 1.02 | -3470 |  | -596 | 1.02 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 20270 |  |  | 6040 | 1.38 | -8062 |  | -1565 | 1.38 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 18834 |  |  | 5122 | 1.17 | -4810 |  | -5291 | 1.17 |
@@ -182,8 +182,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2016 | FY2020 | us-gaap:Revenues |
-| Revenue | FY2021 | FY2026 | us-gaap:RevenuesNetOfInterestExpense |
+| Revenue | FY2016 | FY2019 | us-gaap:Revenues |
+| Revenue | FY2020 | FY2026 | us-gaap:RevenuesNetOfInterestExpense |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -193,11 +193,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: WELLS FARGO & COMPANY, Revenue tag, FY2021
+### Change: WELLS FARGO & COMPANY, Revenue tag, FY2020
 
 - CIK: 0000072971
 - What: Revenue tag
-- Boundary: FY2021
+- Boundary: FY2020
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenuesNetOfInterestExpense
 - Crosswalk: none

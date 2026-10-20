@@ -13,7 +13,7 @@
 
 CSX CORP, as it files with the SEC (CIK 0000277948): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-07-21 and 2021-07-22, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CSX CORP, and how has it grown?** It sold $14.1 billion in FY2025, the 243rd most of the 487 companies with a revenue for the year, and the 38th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 19.3% from FY2015 to FY2025, 1.8% a year.
+**How large is CSX CORP, and how has it grown?** It sold $14.1 billion in FY2025, the 244th most of the 488 companies with a revenue for the year, and the 38th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 19.3% from FY2015 to FY2025, 1.8% a year.
 
 **Does CSX CORP make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 20.5% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ CSX CORP, as it files with the SEC (CIK 0000277948): its fiscal years and quarte
 > [!CARD:line] CSX CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 10030 | 11255 | 9041 | 10636 |  | 11763 | 12026 | 12669 | 11811 | 11069 | 11408 | 12250 | 11937 | 10583 | 12522 | 14853 | 14657 | 14540 | 14092 |  |
+> | Revenue |  | 10030 | 11255 | 9041 | 10636 | 11795 | 11763 | 12026 | 12669 | 11811 | 11069 | 11408 | 12250 | 11937 | 10583 | 12522 | 14853 | 14657 | 14540 | 14092 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 2260 | 2751 | 2270 | 3071 | 3470 | 3464 | 3473 | 3613 | 3584 | 3413 | 3720 | 4869 | 4965 | 4362 | 5594 | 5954 | 5499 | 5245 | 4521 |  |
 > | Net income |  | 1336 | 1355 | 1143 | 1563 | 1854 | 1863 | 1864 | 1927 | 1968 | 1714 | 5471 | 3309 | 3331 | 2765 | 3781 | 4114 | 3668 | 3470 | 2889 |  |
@@ -40,7 +40,7 @@ CSX CORP, as it files with the SEC (CIK 0000277948): its fiscal years and quarte
 | FY2008 | 2007-12-29 | 2008-12-26 | 3.32 | 0.3689 |
 | FY2009 | 2008-12-27 | 2009-12-25 | 0.96 | 0.32 |
 | FY2010 | 2009-12-26 | 2010-12-31 | 1.35 | 0.45 |
-| FY2011 | 2011-01-01 |  | 1.7 | 0.5667 |
+| FY2011 | 2011-01-01 | 2011-12-30 | 1.7 | 0.5667 |
 | FY2012 | 2011-12-31 | 2012-12-28 | 1.79 | 0.5967 |
 | FY2013 | 2012-12-29 | 2013-12-27 | 1.83 | 0.61 |
 | FY2014 | 2013-12-28 | 2014-12-26 | 1.92 | 0.64 |
@@ -72,10 +72,10 @@ CSX CORP, as it files with the SEC (CIK 0000277948): its fiscal years and quarte
 | FY2010 Q2 | 2010 | 2 | 2010-06-25 | 2663 |  | 768 | 414 | 0.36 | 678 | -359 |  | 0.12 |
 | FY2010 Q3 | 2010 | 3 | 2010-09-24 | 2666 |  | 825 | 414 | 0.36 | 855 | -416 |  | 0.12 |
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 2816 |  | 846 | 430 | 0.38 | 984 | -737 |  | 0.1267 |
-| FY2011 Q1 | 2011 | 1 | 2011-04-01 | 2810 |  | 790 | 406 | 0.36 | 495 | -379 |  | 0.12 |
-| FY2011 Q2 | 2011 | 2 | 2011-07-01 |  |  | 920 | 502 | 0.45 | 1090 | -566 |  | 0.15 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-30 |  |  | 877 | 463 | 0.43 | 1000 | -491 |  | 0.1433 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-30 |  |  | 883 | 483 | 0.46 | 906 | -861 |  | 0.1533 |
+| FY2011 Q1 | 2011 | 1 | 2011-04-01 | 2827 |  | 790 | 406 | 0.36 | 495 | -379 |  | 0.12 |
+| FY2011 Q2 | 2011 | 2 | 2011-07-01 | 3013 |  | 920 | 502 | 0.45 | 1090 | -566 |  | 0.15 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 2962 |  | 877 | 463 | 0.43 | 1000 | -491 |  | 0.1433 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-30 | 2993 |  | 883 | 483 | 0.46 | 906 | -861 |  | 0.1533 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-30 | 3018 |  | 908 | 481 | 0.46 | 444 | -469 |  | 0.1533 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-29 | 2986 |  | 917 | 496 | 0.48 | 847 | -754 |  | 0.16 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-28 | 2864 |  | 824 | 437 | 0.42 | 1013 | -607 |  | 0.14 |
@@ -260,8 +260,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2011 | us-gaap:Revenues |
-| Revenue | FY2012 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2010 | us-gaap:Revenues |
+| Revenue | FY2011 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
@@ -272,11 +272,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: CSX CORP, Revenue tag, FY2012
+### Change: CSX CORP, Revenue tag, FY2011
 
 - CIK: 0000277948
 - What: Revenue tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

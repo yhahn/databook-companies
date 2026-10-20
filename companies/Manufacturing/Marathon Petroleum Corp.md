@@ -13,9 +13,9 @@
 
 Marathon Petroleum Corp, as it files with the SEC (CIK 0001510295): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-08-03, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Marathon Petroleum Corp, and how has it grown?** It sold $132.7 billion in FY2025, the 24th most of the 487 companies with a revenue for the year, and the 6th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 84.2% from FY2015 to FY2025, 6.3% a year.
+**How large is Marathon Petroleum Corp, and how has it grown?** It sold $132.7 billion in FY2025, the 25th most of the 488 companies with a revenue for the year, and the 6th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 84.2% from FY2015 to FY2025, 6.3% a year.
 
-**Does Marathon Petroleum Corp make money, and how much of what it sells does it keep?** It earned $4.0 billion in FY2025, 3% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 17 years in the book (FY2020).
+**Does Marathon Petroleum Corp make money, and how much of what it sells does it keep?** It earned $4.0 billion in FY2025, 3% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 17 years in the book (FY2020).
 
 **Where does Marathon Petroleum Corp's cash go?** From FY2016 to FY2025 its operations brought in $80.4 billion; it spent 35.1% of that on plant and equipment, and 60.5% on buying back its own shares.
 
@@ -24,7 +24,7 @@ Marathon Petroleum Corp, as it files with the SEC (CIK 0001510295): its fiscal y
 > [!CARD:line] Marathon Petroleum Corp, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 45530 | 62487 | 78638 |  | 100160 | 97817 | 72051 | 63277 | 74733 | 86086 | 111148 | 69779 | 119983 | 177453 | 148379 | 138864 | 132699 |  |
+> | Revenue |  |  |  | 45530 | 62487 | 78638 | 82243 | 100160 | 97817 | 72051 | 63277 | 74733 | 86086 | 111148 | 69779 | 119983 | 177453 | 148379 | 138864 | 132699 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  | 836 | 1011 | 3745 | 5347 | 3425 | 4051 | 4692 | 2386 | 4018 | 4690 | 4462 | -12247 | 4300 | 21469 | 14514 | 6796 | 8291 |  |
 > | Net income |  |  |  | 449 | 623 | 2389 | 3389 | 2112 | 2524 | 2852 | 1174 | 3432 | 2780 | 2637 | -9826 | 9738 | 14516 | 9681 | 3445 | 4047 |  |
@@ -39,7 +39,7 @@ Marathon Petroleum Corp, as it files with the SEC (CIK 0001510295): its fiscal y
 | FY2009 | 2009-01-01 | 2009-12-31 | 1.25 | 0.625 |
 | FY2010 | 2010-01-01 | 2010-12-31 | 1.74 | 0.87 |
 | FY2011 | 2011-01-01 | 2011-12-31 | 6.67 | 3.335 |
-| FY2012 | 2012-01-01 |  | 9.89 | 4.945 |
+| FY2012 | 2012-01-01 | 2012-12-31 | 9.89 | 4.945 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 3.32 | 3.32 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 4.39 | 4.39 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 5.26 | 5.26 |
@@ -162,8 +162,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2009 | FY2012 | us-gaap:Revenues |
-| Revenue | FY2013 | FY2015 | us-gaap:SalesRevenueNet |
+| Revenue | FY2009 | FY2011 | us-gaap:Revenues |
+| Revenue | FY2012 | FY2015 | us-gaap:SalesRevenueNet |
 | Revenue | FY2016 | FY2017 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -175,11 +175,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Marathon Petroleum Corp, Revenue tag, FY2013
+### Change: Marathon Petroleum Corp, Revenue tag, FY2012
 
 - CIK: 0001510295
 - What: Revenue tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

@@ -13,9 +13,9 @@
 
 HONEYWELL INTERNATIONAL INC, as it files with the SEC (CIK 0000773840): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2026-07-23, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HONEYWELL INTERNATIONAL INC, and how has it grown?** It sold $37.4 billion in FY2025, the 98th most of the 487 companies with a revenue for the year, and the 46th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 3% from FY2015 to FY2025, −0.3% a year.
+**How large is HONEYWELL INTERNATIONAL INC, and how has it grown?** It sold $37.4 billion in FY2025, the 99th most of the 488 companies with a revenue for the year, and the 46th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 3% from FY2015 to FY2025, −0.3% a year.
 
-**Does HONEYWELL INTERNATIONAL INC make money, and how much of what it sells does it keep?** It earned $4.7 billion in FY2025, 12.6% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does HONEYWELL INTERNATIONAL INC make money, and how much of what it sells does it keep?** It earned $4.7 billion in FY2025, 12.6% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does HONEYWELL INTERNATIONAL INC's cash go?** From FY2016 to FY2025 its operations brought in $60.2 billion; it spent 14.9% of that on plant and equipment, and 56.2% on buying back its own shares.
 
@@ -24,7 +24,7 @@ HONEYWELL INTERNATIONAL INC, as it files with the SEC (CIK 0000773840): its fisc
 > [!CARD:line] HONEYWELL INTERNATIONAL INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 34589 | 36556 | 29951 | 32350 | 36529 |  | 39055 | 40306 | 38581 | 39302 | 40534 | 41802 | 36709 | 32637 | 34392 | 35466 | 33009 | 34717 | 37442 |  |
+> | Revenue |  | 34589 | 36556 | 29951 | 32350 | 36529 | 37665 | 39055 | 40306 | 38581 | 39302 | 40534 | 41802 | 36709 | 32637 | 34392 | 35466 | 33009 | 34717 | 37442 |  |
 > | Gross profit |  |  |  | 6896 | 7629 | 7973 | 9374 | 10691 | 11349 | 11834 | 12152 | 12390 | 12756 | 12370 | 10468 |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8022 | 7563 | 7667 | 8127 |  |
 > | Net income |  | 2444 | 806 | 1548 | 2022 | 2067 | 2926 | 3924 | 4239 | 4768 | 4812 | 1545 | 6765 | 6143 | 4779 | 5542 | 4966 | 5658 | 5705 | 4729 |  |
@@ -41,7 +41,7 @@ HONEYWELL INTERNATIONAL INC, as it files with the SEC (CIK 0000773840): its fisc
 | FY2009 | 2009-01-01 | 2009-12-31 | 2.05 | 4.1 |
 | FY2010 | 2010-01-01 | 2010-12-31 | 2.59 | 5.18 |
 | FY2011 | 2011-01-01 | 2011-12-31 | 2.61 | 5.22 |
-| FY2012 | 2012-01-01 |  | 3.69 | 7.38 |
+| FY2012 | 2012-01-01 | 2012-12-31 | 3.69 | 7.38 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 4.92 | 9.84 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 5.33 | 10.66 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 6.04 | 12.08 |
@@ -77,8 +77,8 @@ HONEYWELL INTERNATIONAL INC, as it files with the SEC (CIK 0000773840): its fisc
 | FY2011 Q4 | 2011 | 4 | 2011-12-31 | 9473 | 1038 |  | -310 | -0.4 | 1477 | -324 | -76 | -0.8 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 9307 | 2427 |  | 823 | 1.04 | 196 |  | 0 | 2.08 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 9435 | 2513 |  | 902 | 1.14 | 973 |  | 0 | 2.28 |
-| FY2012 Q3 | 2012 | 3 | 2012-09-30 |  | 2534 |  | 950 | 1.2 | 999 |  | 0 | 2.4 |
-| FY2012 Q4 | 2012 | 4 | 2012-12-31 |  | 1900 |  | 251 | 0.32 | 1349 | -298 | -317 | 0.64 |
+| FY2012 Q3 | 2012 | 3 | 2012-09-30 | 9342 | 2534 |  | 950 | 1.2 | 999 |  | 0 | 2.4 |
+| FY2012 Q4 | 2012 | 4 | 2012-12-31 | 9581 | 1900 |  | 251 | 0.32 | 1349 | -298 | -317 | 0.64 |
 | FY2013 Q1 | 2013 | 1 | 2013-03-31 | 9328 | 2545 |  | 966 | 1.21 | 341 | -148 | -139 | 2.42 |
 | FY2013 Q2 | 2013 | 2 | 2013-06-30 | 9693 | 2666 |  | 1021 | 1.28 | 1256 | -196 | -463 | 2.56 |
 | FY2013 Q3 | 2013 | 3 | 2013-09-30 | 9647 | 2705 |  | 990 | 1.24 | 1070 | -203 | -167 | 2.48 |
@@ -195,8 +195,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2012 | us-gaap:Revenues |
-| Revenue | FY2013 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2011 | us-gaap:Revenues |
+| Revenue | FY2012 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2020 | us-gaap:GrossProfit |
 | Operating income | FY2022 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -210,11 +210,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: HONEYWELL INTERNATIONAL INC, Revenue tag, FY2013
+### Change: HONEYWELL INTERNATIONAL INC, Revenue tag, FY2012
 
 - CIK: 0000773840
 - What: Revenue tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

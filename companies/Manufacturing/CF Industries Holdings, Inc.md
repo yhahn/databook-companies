@@ -13,9 +13,9 @@
 
 CF Industries Holdings, Inc., as it files with the SEC (CIK 0001324404): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-08-06, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CF Industries Holdings, Inc., and how has it grown?** It sold $7.1 billion in FY2025, the 342nd most of the 487 companies with a revenue for the year, and the 146th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 64.4% from FY2015 to FY2025, 5.1% a year.
+**How large is CF Industries Holdings, Inc., and how has it grown?** It sold $7.1 billion in FY2025, the 343rd most of the 488 companies with a revenue for the year, and the 146th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 64.4% from FY2015 to FY2025, 5.1% a year.
 
-**Does CF Industries Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 25.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 18 years in the book (FY2016).
+**Does CF Industries Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 25.4% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 19 years in the book (FY2016).
 
 **Where does CF Industries Holdings, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $21.0 billion; it spent 32.2% of that on plant and equipment, and 29.9% on buying back its own shares.
 
@@ -27,7 +27,7 @@ CF Industries Holdings, Inc., as it files with the SEC (CIK 0001324404): its fis
 > | Revenue |  | 2756.7 | 3921.1 | 2608.4 | 3965 | 6097.9 | 6104 | 5474.7 | 4743 | 4308 | 3685 | 4130 | 4429 | 4590 | 4124 | 6538 | 11186 | 6631 | 5936 | 7084 |  |
 > | Gross profit |  | 670 | 1222.7 | 839.4 | 1179.5 | 2895.6 | 3113.3 | 2520.2 | 1778 | 1547 | 843 | 434 | 917 | 1174 | 801 | 2387 | 5861 | 2545 | 2056 | 2724 |  |
 > | Operating income |  | 601.6 | 1150.2 | 679.8 | 895.7 | 2790.5 | 2959.4 | 2411.7 | 2366 | 1193 | 138 | 234 | 766 | 1003 | 623 | 1729 | 5397 | 2230 | 1746 | 2300 |  |
-> | Net income |  | 372.7 | 684.6 | 365.6 | 349.2 | 1539.2 |  | 1532.8 | 1437 | 734 | -158 | 450 | 428 | 646 | 432 | 1260 | 3937 | 1838 | 1477 | 1798 |  |
+> | Net income |  | 372.7 | 684.6 | 365.6 | 349.2 | 1539.2 | 1923.4 | 1532.8 | 1437 | 734 | -158 | 450 | 428 | 646 | 432 | 1260 | 3937 | 1838 | 1477 | 1798 |  |
 > | Operating cash flow |  | 690.1 | 638.6 | 681.8 | 1194.4 | 2078.9 | 2375.6 | 1466.8 | 1421 | 1207 | 617 | 1631 | 1497 | 1505 | 1231 | 2873 | 3855 | 2757 | 2271 | 2752 |  |
 > | Capex |  | -105.1 | -141.8 | -235.7 | -258.1 | -247.2 | -523.5 | -823.8 | -1809 | -2469 | -2211 | -473 | -422 | -404 | -309 | -514 | -453 | -499 | -518 | -950 |  |
 > | Buybacks |  |  | -500.2 |  |  | -1000.2 | -500 | -1409.1 | -1935 | -556 | 0 | 0 | -467 | -370 | -100 | -539 | -1347 | -580 | -1509 | -1365 |  |
@@ -75,10 +75,10 @@ CF Industries Holdings, Inc., as it files with the SEC (CIK 0001324404): its fis
 | FY2011 Q2 | 2011 | 2 | 2011-06-30 | 1801.7 | 867.4 | 844.7 | 487.4 | 6.75 | 250.9 | -50.6 |  | 1.35 |
 | FY2011 Q3 | 2011 | 3 | 2011-09-30 | 1403.8 | 638 | 582.3 | 330.9 | 4.73 | 1033 | -63.7 |  | 0.946 |
 | FY2011 Q4 | 2011 | 4 | 2011-12-31 | 1718.4 | 865.2 | 829.1 | 438.9 | 6.66 | 123.8 | -78 | -198.3 | 1.332 |
-| FY2012 Q1 | 2012 | 1 | 2012-03-31 | 1527.6 | 711.8 | 671.2 | 368.4 | 5.54 | 603.2 | -64.3 |  | 1.108 |
-| FY2012 Q2 | 2012 | 2 | 2012-06-30 | 1735.6 | 1043.3 | 1005 |  | 9.31 | 445.5 | -93.5 |  | 1.862 |
-| FY2012 Q3 | 2012 | 3 | 2012-09-30 | 1359.4 | 702 | 667.1 |  | 6.35 | 905.6 | -103.6 | 0 | 1.27 |
-| FY2012 Q4 | 2012 | 4 | 2012-12-31 | 1481.4 | 656.2 | 616.1 |  | 7.4 | 421.3 | -262.1 | 0 | 1.48 |
+| FY2012 Q1 | 2012 | 1 | 2012-03-31 | 1527.6 | 711.8 | 671.2 | 431.7 | 5.54 | 603.2 | -64.3 |  | 1.108 |
+| FY2012 Q2 | 2012 | 2 | 2012-06-30 | 1735.6 | 1043.3 | 1005 | 678.3 | 9.31 | 445.5 | -93.5 |  | 1.862 |
+| FY2012 Q3 | 2012 | 3 | 2012-09-30 | 1359.4 | 702 | 667.1 | 458.1 | 6.35 | 905.6 | -103.6 | 0 | 1.27 |
+| FY2012 Q4 | 2012 | 4 | 2012-12-31 | 1481.4 | 656.2 | 616.1 | 355.3 | 7.4 | 421.3 | -262.1 | 0 | 1.48 |
 | FY2013 Q1 | 2013 | 1 | 2013-03-31 | 1336.5 | 675.1 | 627.8 | 429.4 | 6.47 | 678.7 | -152.8 | -500.1 | 6.47 |
 | FY2013 Q2 | 2013 | 2 | 2013-06-30 | 1714.9 | 865.2 | 833.7 | 518.1 | 8.38 | -110.4 | -249.7 | -415.5 | 8.38 |
 | FY2013 Q3 | 2013 | 3 | 2013-09-30 | 1097 | 386.1 | 385.4 | 243.9 | 4.07 | 861 | -230.4 | -195.9 | 4.07 |
@@ -215,8 +215,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2017 | FY2026 | us-gaap:Revenues |
 | Gross profit | FY2007 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2007 | FY2012 | us-gaap:NetIncomeLoss |
-| Net income | FY2013 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2007 | FY2011 | us-gaap:NetIncomeLoss |
+| Net income | FY2012 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2011 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
@@ -237,11 +237,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 4130000000 and 4130000000
 - Source: SEC EDGAR companyfacts
 
-### Change: CF Industries Holdings, Inc., Net income tag, FY2013
+### Change: CF Industries Holdings, Inc., Net income tag, FY2012
 
 - CIK: 0001324404
 - What: Net income tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

@@ -13,11 +13,11 @@
 
 CUMMINS INC, as it files with the SEC (CIK 0000026172): its fiscal years and quarters from its XBRL filings, FY2007 to FY2025. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CUMMINS INC, and how has it grown?** It sold $33.7 billion in FY2025, the 108th most of the 487 companies with a revenue for the year, and the 52nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 76.2% from FY2015 to FY2025, 5.8% a year.
+**How large is CUMMINS INC, and how has it grown?** It sold $33.7 billion in FY2025, the 109th most of the 488 companies with a revenue for the year, and the 52nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 76.2% from FY2015 to FY2025, 5.8% a year.
 
-**Does CUMMINS INC make money, and how much of what it sells does it keep?** It earned $3.0 billion in FY2025, 8.8% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
+**Does CUMMINS INC make money, and how much of what it sells does it keep?** It earned $3.0 billion in FY2025, 8.8% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
-**Where does CUMMINS INC's cash go?** From FY2017 to FY2025 its operations brought in $23.9 billion; it spent 32.5% of that on plant and equipment, and 22.1% on buying back its own shares.
+**Where does CUMMINS INC's cash go?** From FY2016 to FY2025 its operations brought in $25.8 billion; it spent 32.1% of that on plant and equipment, and 23.5% on buying back its own shares.
 
 ## Annual
 
@@ -27,8 +27,8 @@ CUMMINS INC, as it files with the SEC (CIK 0000026172): its fiscal years and qua
 > | Revenue |  | 13048 | 14342 | 10800 | 13226 | 18048 | 17334 | 17301 | 19221 | 19110 | 17509 | 20428 | 23771 | 23571 | 19811 | 24021 | 28074 | 34065 | 34102 | 33670 |  |
 > | Gross profit |  | 2556 | 2940 | 2169 | 3168 | 4589 | 4416 | 4280 | 4861 | 4947 | 4458 | 5100 | 5737 | 5980 | 4894 | 5695 | 6719 | 8249 | 8439 | 8516 |  |
 > | Operating income |  | 1158 | 1272 | 682 | 1602 | 2681 | 2254 | 2101 | 2365 | 2057 | 1880 | 2334 | 2786 | 2700 | 2269 | 2706 | 2929 | 1761 | 3750 | 4025 |  |
-> | Net income |  | 739 | 755 | 428 | 1040 |  | 1738 | 1588 | 1736 | 1470 | 1456 | 994 | 2187 | 2268 | 1811 | 2164 | 2183 | 840 | 4068 | 2957 |  |
-> | Operating cash flow |  | 810 | 987 | 1137 | 1006 | 2073 | 1532 | 2089 | 2266 | 2059 |  | 2277 | 2378 | 3181 | 2722 | 2256 | 1962 | 3966 | 1487 | 3621 |  |
+> | Net income |  | 739 | 755 | 428 | 1040 | 1946 | 1738 | 1588 | 1736 | 1470 | 1456 | 994 | 2187 | 2268 | 1811 | 2164 | 2183 | 840 | 4068 | 2957 |  |
+> | Operating cash flow |  | 810 | 987 | 1137 | 1006 | 2073 | 1532 | 2089 | 2266 | 2059 | 1939 | 2277 | 2378 | 3181 | 2722 | 2256 | 1962 | 3966 | 1487 | 3621 |  |
 > | Capex |  | -353 | -543 | -310 | -364 | -622 | -690 | -676 | -743 | -744 | -531 | -506 | -709 | -700 | -528 | -734 | -916 | -1213 | -1208 | -1235 |  |
 > | Buybacks |  | -335 | -128 | -20 | -241 | -629 | -256 | -381 | -670 | -900 | -778 | -451 | -1140 | -1271 | -641 | -1402 | -374 | 0 | 0 |  |  |
 
@@ -71,10 +71,10 @@ CUMMINS INC, as it files with the SEC (CIK 0000026172): its fiscal years and qua
 | FY2010 Q2 | 2010 | 2 | 2010-06-27 | 3208 | 753 | 396 | 246 | 1.25 | 301 | -44 | -123 | 1.25 |
 | FY2010 Q3 | 2010 | 3 | 2010-09-26 | 3401 | 830 | 435 | 283 | 1.44 | 192 | -79 | -79 | 1.44 |
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 4139 | 984 | 525 | 362 | 1.85 | 387 | -194 | 0 | 1.85 |
-| FY2011 Q1 | 2011 | 1 | 2011-03-27 | 3860 | 957 | 529 | 343 | 1.75 | 88 | -91 | -190 | 1.75 |
-| FY2011 Q2 | 2011 | 2 | 2011-06-26 | 4641 | 1203 | 768 | 505 | 2.6 | 656 | -124 | -183 | 2.6 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-25 | 4626 | 1188 | 639 |  | 2.35 | 624 | -162 | -173 | 2.35 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 4921 | 1241 | 745 |  | 2.86 | 705 | -245 | -83 | 2.86 |
+| FY2011 Q1 | 2011 | 1 | 2011-03-27 | 3860 | 957 | 529 | 365 | 1.75 | 88 | -91 | -190 | 1.75 |
+| FY2011 Q2 | 2011 | 2 | 2011-06-26 | 4641 | 1203 | 768 | 537 | 2.6 | 656 | -124 | -183 | 2.6 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-25 | 4626 | 1188 | 639 | 472 | 2.35 | 624 | -162 | -173 | 2.35 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 4921 | 1241 | 745 | 572 | 2.86 | 705 | -245 | -83 | 2.86 |
 | FY2012 Q1 | 2012 | 1 | 2012-04-01 | 4472 | 1198 | 648 | 475 | 2.38 | 21 | -126 | -8 | 2.38 |
 | FY2012 Q2 | 2012 | 2 | 2012-07-01 | 4452 | 1210 | 648 | 495 | 2.47 | 376 | -140 | -188 | 2.47 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 4118 | 1042 | 493 | 370 | 1.86 | 390 | -158 | -35 | 1.86 |
@@ -351,12 +351,12 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2017 | FY2025 | us-gaap:Revenues |
 | Gross profit | FY2007 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2007 | FY2011 | us-gaap:NetIncomeLoss |
-| Net income | FY2012 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2007 | FY2010 | us-gaap:NetIncomeLoss |
+| Net income | FY2011 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2011 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2011 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2007 | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -372,11 +372,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 20428000000 and 20428000000
 - Source: SEC EDGAR companyfacts
 
-### Change: CUMMINS INC, Net income tag, FY2012
+### Change: CUMMINS INC, Net income tag, FY2011
 
 - CIK: 0000026172
 - What: Net income tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none
@@ -392,11 +392,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: CUMMINS INC, Operating cash flow tag, FY2017
+### Change: CUMMINS INC, Operating cash flow tag, FY2016
 
 - CIK: 0000026172
 - What: Operating cash flow tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: none

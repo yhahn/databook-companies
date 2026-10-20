@@ -13,9 +13,9 @@
 
 INTUIT INC., as it files with the SEC (CIK 0000896878): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INTUIT INC., and how has it grown?** It sold $18.8 billion in FY2025, the 189th most of the 487 companies with a revenue for the year, and the 20th of 74 in [Services](../Services.md). Its sales rose 349.2% from FY2015 to FY2025, 16.2% a year.
+**How large is INTUIT INC., and how has it grown?** It sold $18.8 billion in FY2025, the 190th most of the 488 companies with a revenue for the year, and the 21st of 75 in [Services](../Services.md). Its sales rose 349.2% from FY2015 to FY2025, 16.2% a year.
 
-**Does INTUIT INC. make money, and how much of what it sells does it keep?** It earned $3.9 billion in FY2025, 20.5% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does INTUIT INC. make money, and how much of what it sells does it keep?** It earned $3.9 billion in FY2025, 20.5% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does INTUIT INC.'s cash go?** From FY2016 to FY2025 its operations brought in $33.2 billion; it spent 4.2% of that on plant and equipment, and 41.7% on buying back its own shares.
 

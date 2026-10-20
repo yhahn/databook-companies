@@ -13,11 +13,11 @@
 
 CITIZENS FINANCIAL GROUP INC, as it files with the SEC (CIK 0000759944): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CITIZENS FINANCIAL GROUP INC, and how has it grown?** It sold $1.6 billion in FY2025, the 472nd most of the 487 companies with a revenue for the year, and the 79th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 66.1% from FY2015 to FY2025, −10.3% a year.
+**How large is CITIZENS FINANCIAL GROUP INC, and how has it grown?** It sold $1.6 billion in FY2025, the 473rd most of the 488 companies with a revenue for the year, and the 79th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 66.1% from FY2015 to FY2025, −10.3% a year.
 
 **Does CITIZENS FINANCIAL GROUP INC make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 112% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 14 years in the book (FY2013).
 
-**Where does CITIZENS FINANCIAL GROUP INC's cash go?** From FY2016 to FY2025 its operations brought in $20.5 billion; it spent 3% of that on plant and equipment, and 33% on buying back its own shares.
+**Where does CITIZENS FINANCIAL GROUP INC's cash go?** From FY2016 to FY2025 its operations brought in $20.5 billion; it spent 3.7% of that on plant and equipment, and 33% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ CITIZENS FINANCIAL GROUP INC, as it files with the SEC (CIK 0000759944): its fis
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  | 643 | -3426 | 865 | 840 | 1045 | 1652 | 1721 | 1791 | 1057 | 2319 | 2073 | 1608 | 1509 | 1831 |  |
 > | Operating cash flow |  |  |  |  |  |  | 1714 | 2649 | 1390 | 1229 | 1490 | 1883 | 1767 | 1697 | 111 | 2275 | 4119 | 2961 | 2001 | 2211 |  |
-> | Capex |  |  |  |  |  |  | -178 | -160 | -141 | -121 | -138 | -253 | -232 |  |  |  |  |  |  |  |  |
+> | Capex |  |  |  |  |  |  | -178 | -160 | -141 | -121 | -138 | -253 | -232 | -126 |  |  |  |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  | 0 | 0 | -334 | -500 | -430 | -820 | -1025 | -1220 | -270 | -295 | -153 | -906 | -1050 | -600 |  |
 
 #### EPS by year
@@ -123,7 +123,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2012 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2012 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2012 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2012 | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2012 | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2019 | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2012 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -136,4 +137,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 6128000000 and 1119000000
+- Source: SEC EDGAR companyfacts
+
+### Change: CITIZENS FINANCIAL GROUP INC, Capex tag, FY2019
+
+- CIK: 0000759944
+- What: Capex tag
+- Boundary: FY2019
+- Was: us-gaap:PaymentsToAcquireProductiveAssets
+- Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts

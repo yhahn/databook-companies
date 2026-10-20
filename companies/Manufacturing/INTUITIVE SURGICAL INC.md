@@ -13,9 +13,9 @@
 
 INTUITIVE SURGICAL INC, as it files with the SEC (CIK 0001035267): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2017-10-20 and 2021-10-20, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INTUITIVE SURGICAL INC, and how has it grown?** It sold $10.1 billion in FY2025, the 292nd most of the 487 companies with a revenue for the year, and the 120th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 322.1% from FY2015 to FY2025, 15.5% a year.
+**How large is INTUITIVE SURGICAL INC, and how has it grown?** It sold $10.1 billion in FY2025, the 293rd most of the 488 companies with a revenue for the year, and the 120th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 322.1% from FY2015 to FY2025, 15.5% a year.
 
-**Does INTUITIVE SURGICAL INC make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 28.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does INTUITIVE SURGICAL INC make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 28.4% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does INTUITIVE SURGICAL INC's cash go?** From FY2016 to FY2025 its operations brought in $17.3 billion; it spent 27.6% of that on plant and equipment, and 46.4% on buying back its own shares.
 

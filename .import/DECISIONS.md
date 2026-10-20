@@ -496,3 +496,75 @@ greatest revenue and its count of companies against the cards.
   and rise as gutters.
 - A company's page: its annual card was already a picture of every line;
   its three questions open the page, and nothing new is drawn.
+
+## 31. A year from the tag that files it whole (the deputy, 10-20)
+
+When a line's tag changes partway through a fiscal year, the year is
+taken from the tag the 10-K files the whole year under, whichever tag
+of the cascade that is (`cascadeYears`, edgar.js). Before, the first tag
+to file any of the year won it, and where that tag filed only a quarter
+or three (Alphabet's revenue in FY2025: ASC 606's tag in Q1, `Revenues`
+for the year), the year was lost. The rest of v1's cascade stands: the
+first tag wins a year both file whole, and a later tag wins where it
+makes the quarters derivable and the first does not.
+
+Two guards, each a case found:
+- Where the year's tag files none of its quarters, the quarters are the
+  part's (Cummins' operating cash flow, FY2016: the year under one tag,
+  its first three quarters under another). A year's quarters are never
+  two tags' at once: where the year's tag files some, they are its own.
+- A year less than its own part, in a line never negative, is another
+  line, not the same moved: the year is not taken. Equinix's capex,
+  FY2011 (28 million in the year under `PaymentsToAcquireProductiveAssets`,
+  496 million in nine months under the other); Mastercard's revenue,
+  FY2022 (22,237 million, net, in the year; 25,896 million, before
+  rebates, in nine months, the tag its earlier years are read from:
+  NOTES.md).
+
+Against the old cascade, over the 493 companies: 88 company-years and
+lines come back (all 23 of the R pass's, but Mastercard's FY2022; 65
+more), none goes and no year moves; 117 quarters come back, 63 move to
+the year's tag, one goes (Devon's capex, Q3 FY2020: the year's tag
+files two quarters of it, the old tag three). Years whose four
+quarters do not sum to them, 481 to 485: Exelon's FY2019 (an 8-K of
+2022 refiled the year for continuing operations, 16,725, its quarters
+not), McKesson's FY2012, PPG's FY2014, Wells Fargo's FY2020, each the
+filings' own. Vectors: alphabet-fy2025-revenue, ford-fy2025-net-income,
+equinix-fy2011-capex. Undo: `cascadeYears` as it was (git log).
+
+## 32. faq.js: a fiscal year the span the 10-Ks file most; a line the tag filed every quarter
+
+faq.js named no fiscal year where two year-long spans took one name
+(ADP's years to June, and the calendar years its notes file; PPG's
+2024 to December 30 in one fact, December 31 in the rest): 25
+companies. A year is now the span the 10-Ks file most facts for. And
+it read a line from the first tag of the cascade that files the year,
+where that tag is a part filed only in the 10-K (Charter's
+`RevenueFromContractWithCustomerIncludingAssessedTax`, 889 million of
+its 54,774 in FY2025; Eaton's FY2015, 0): it now takes the first tag
+that files the year and a 10-Q within it, else the first that files the
+year. Its own rule, written apart from the importer's (a line is what
+the company files every quarter). The FAQ answers that moved: ADP
+among the years to June (23 to 24); Charter out of the margins that
+rose every year, NiSource in (24 still); co-reading-2 349 companies to
+373; co-reading-3's net income 442,023.2 to 442,048.2. Undo:
+`fiscalYears` and `yearRow` in faq.js.
+
+## 33. What the pages are held to, tightened (R2, after 31 and 32)
+
+The two readers now agree on a sector's companies and sums exactly:
+Finance's 93 companies, revenue 2,989,233, net income 442,048.2, held
+with no tolerance (was 1%), and its count held too. The front page's
+ten-year rise is held now, within a point (`~1`), and its companies
+within three: the importer's set is 374, faq.js's 373. They differ by
+L3Harris (its 10-K for FY2025 files the year's revenue, 21,865, under
+a quarter's dates, 2025-10-04 to 2026-01-02: faq.js names no year, and
+the importer's quarter rule, DECISIONS 27, sums it as Q4), NXP (its
+FY2015-16 named by faq.js from no 10-K of its own: it filed 20-Fs), and
+Mastercard (FY2022, DECISIONS 31); and in FY2015 by Johnson Controls'
+and Yum's revenue (a tag each reader picks apart). Rises: 76.7 and
+152.9 in the book, 76.2 and 153.8 by faq.js. 21 values held (was 17).
+DECISIONS 27's quarter rule stays: 18 lines of 7 companies' years still
+come from it (L3Harris FY2025, its five lines; DTE FY2018, Fifth Third
+FY2024, Vivmark Residential FY2020, Xcel FY2019, Clorox FY2026's net income).
+Undo: the Holds lines in reading.md.

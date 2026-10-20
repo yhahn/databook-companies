@@ -13,9 +13,9 @@
 
 HCA Healthcare, Inc., as it files with the SEC (CIK 0000860730): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HCA Healthcare, Inc., and how has it grown?** It sold $75.6 billion in FY2025, the 48th most of the 487 companies with a revenue for the year, and the 4th of 74 in [Services](../Services.md). Its sales rose 82.2% from FY2016 to FY2025, 6.9% a year.
+**How large is HCA Healthcare, Inc., and how has it grown?** It sold $75.6 billion in FY2025, the 49th most of the 488 companies with a revenue for the year, and the 5th of 75 in [Services](../Services.md). Its sales rose 82.2% from FY2016 to FY2025, 6.9% a year.
 
-**Does HCA Healthcare, Inc. make money, and how much of what it sells does it keep?** It earned $6.8 billion in FY2025, 9% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 10 years in the book.
+**Does HCA Healthcare, Inc. make money, and how much of what it sells does it keep?** It earned $6.8 billion in FY2025, 9% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 10 years in the book.
 
 **Where does HCA Healthcare, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $84.7 billion; it spent 45.9% of that on plant and equipment, and 50.7% on buying back its own shares.
 
@@ -24,7 +24,7 @@ HCA Healthcare, Inc., as it files with the SEC (CIK 0000860730): its fiscal year
 > [!CARD:line] HCA Healthcare, Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 41490 | 43614 | 46677 | 51336 | 51533 |  | 60233 | 64968 | 70603 | 75600 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 41490 | 43614 | 46677 | 51336 | 51533 | 58752 | 60233 | 64968 | 70603 | 75600 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 2890 | 2216 | 3787 | 3505 | 3754 | 6956 | 5643 | 5242 | 5760 | 6784 |  |
@@ -41,7 +41,7 @@ HCA Healthcare, Inc., as it files with the SEC (CIK 0000860730): its fiscal year
 | FY2018 | 2018-01-01 | 2018-12-31 | 10.66 | 10.66 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 10.07 | 10.07 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 10.93 | 10.93 |
-| FY2021 | 2021-01-01 |  | 21.16 | 21.16 |
+| FY2021 | 2021-01-01 | 2021-12-31 | 21.16 | 21.16 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 19.15 | 19.15 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 18.97 | 18.97 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 22 | 22 |
@@ -70,7 +70,7 @@ HCA Healthcare, Inc., as it files with the SEC (CIK 0000860730): its fiscal year
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 13977 |  |  | 1423 | 4.14 | 1988 | -654 | -1527 | 4.14 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 14435 |  |  | 1450 | 4.36 | 2251 | -842 | -2287 | 4.36 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 15276 |  |  | 2269 | 7 | 2277 | -889 | -2329 | 7 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 |  |  |  | 1814 | 5.73 | 2443 | -1192 | -2072 | 5.73 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 15064 |  |  | 1814 | 5.73 | 2443 | -1192 | -2072 | 5.73 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 14945 |  |  | 1273 | 4.14 | 1345 | -861 | -2101 | 4.14 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 14820 |  |  | 1155 | 3.9 | 1630 | -1080 | -2682 | 3.9 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 14971 |  |  | 1134 | 3.91 | 3020 | -1131 | -698 | 3.91 |
@@ -134,8 +134,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2016 | FY2021 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
-| Revenue | FY2022 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2016 | FY2020 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
+| Revenue | FY2021 | FY2026 | us-gaap:Revenues |
 | Net income | FY2009 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2009 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2009 | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -147,11 +147,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: HCA Healthcare, Inc., Revenue tag, FY2022
+### Change: HCA Healthcare, Inc., Revenue tag, FY2021
 
 - CIK: 0000860730
 - What: Revenue tag
-- Boundary: FY2022
+- Boundary: FY2021
 - Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

@@ -13,9 +13,9 @@
 
 NIKE, Inc., as it files with the SEC (CIK 0000320187): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2013-01-09 and 2016-01-06, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NIKE, Inc., and how has it grown?** It sold $46.3 billion in FY2025, the 78th most of the 487 companies with a revenue for the year, and the 33rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 51.3% from FY2015 to FY2025, 4.2% a year.
+**How large is NIKE, Inc., and how has it grown?** It sold $46.3 billion in FY2025, the 79th most of the 488 companies with a revenue for the year, and the 33rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 51.3% from FY2015 to FY2025, 4.2% a year.
 
-**Does NIKE, Inc. make money, and how much of what it sells does it keep?** It earned $3.2 billion in FY2025, 7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does NIKE, Inc. make money, and how much of what it sells does it keep?** It earned $3.2 billion in FY2025, 7% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does NIKE, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $49.4 billion; it spent 18.5% of that on plant and equipment, and 71.7% on buying back its own shares.
 

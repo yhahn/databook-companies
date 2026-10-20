@@ -13,9 +13,9 @@
 
 Block, Inc., as it files with the SEC (CIK 0001512673): its fiscal years and quarters from its XBRL filings, FY2014 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Block, Inc., and how has it grown?** It sold $24.2 billion in FY2025, the 151st most of the 487 companies with a revenue for the year, and the 15th of 74 in [Services](../Services.md). Its sales rose 1809.3% from FY2015 to FY2025, 34.3% a year.
+**How large is Block, Inc., and how has it grown?** It sold $24.2 billion in FY2025, the 152nd most of the 488 companies with a revenue for the year, and the 16th of 75 in [Services](../Services.md). Its sales rose 1809.3% from FY2015 to FY2025, 34.3% a year.
 
-**Does Block, Inc. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 5.4% of what it sold; the median company of its sector kept 16.1%. It lost money in 6 of its 12 years in the book (FY2014, FY2015, FY2016 and 3 more).
+**Does Block, Inc. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 5.4% of what it sold; the median company of its sector kept 16.3%. It lost money in 6 of its 12 years in the book (FY2014, FY2015, FY2016 and 3 more).
 
 **Where does Block, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $6.4 billion; it spent 17% of that on plant and equipment, and 57.5% on buying back its own shares.
 

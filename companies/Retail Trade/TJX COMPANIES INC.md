@@ -13,7 +13,7 @@
 
 TJX COMPANIES INC, as it files with the SEC (CIK 0000109198): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-03-27 and 2018-12-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TJX COMPANIES INC, and how has it grown?** It sold $60.4 billion in FY2025, the 62nd most of the 487 companies with a revenue for the year, and the 9th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 81.9% from FY2016 to FY2025, 6.9% a year.
+**How large is TJX COMPANIES INC, and how has it grown?** It sold $60.4 billion in FY2025, the 63rd most of the 488 companies with a revenue for the year, and the 9th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 95.1% from FY2015 to FY2025, 6.9% a year.
 
 **Does TJX COMPANIES INC make money, and how much of what it sells does it keep?** It earned $5.5 billion in FY2025, 9.1% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ TJX COMPANIES INC, as it files with the SEC (CIK 0000109198): its fiscal years a
 > [!CARD:line] TJX COMPANIES INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 18336.726 | 18999.505 | 20288.444 | 21942.193 | 23191.455 | 25878.372 | 27422.696 | 29078.407 |  | 33183.744 | 35864.664 | 38972.934 | 41716.977 | 32137 | 48550 | 49936 | 54217 | 56360 | 60372 |  |
+> | Revenue |  | 18336.726 | 18999.505 | 20288.444 | 21942.193 | 23191.455 | 25878.372 | 27422.696 | 29078.407 | 30944.938 | 33183.744 | 35864.664 | 38972.934 | 41716.977 | 32137 | 48550 | 49936 | 54217 | 56360 | 60372 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  | 10.297 | -16.605 | 3441.524 | 3680.05 | 3930.915 | 4100.343 | 4257.759 | 4403.208 | 4763.227 |  |  |  |  |  |  |  |  |
 > | Net income |  | 771.75 | 880.617 | 1213.572 | 1343.141 | 1496.09 | 1906.687 | 2137.396 | 2215.128 | 2277.658 | 2298.234 | 2607.948 | 3059.798 | 3272.193 | 90 | 3282.815 | 3498.349 | 4474 | 4863.688 | 5493.706 |  |
@@ -44,7 +44,7 @@ TJX COMPANIES INC, as it files with the SEC (CIK 0000109198): its fiscal years a
 | FY2012 | 2012-01-29 | 2013-02-02 | 2.55 | 1.275 |
 | FY2013 | 2013-02-03 | 2014-02-01 | 2.94 | 1.47 |
 | FY2014 | 2014-02-02 | 2015-01-31 | 3.15 | 1.575 |
-| FY2015 | 2015-02-01 |  | 3.33 | 1.665 |
+| FY2015 | 2015-02-01 | 2016-01-30 | 3.33 | 1.665 |
 | FY2016 | 2016-01-31 | 2017-01-28 | 1.73 | 1.73 |
 | FY2017 | 2017-01-29 | 2018-02-03 | 2.02 | 2.02 |
 | FY2018 | 2018-02-04 | 2019-02-02 | 2.43 | 2.43 |
@@ -89,8 +89,8 @@ TJX COMPANIES INC, as it files with the SEC (CIK 0000109198): its fiscal years a
 | FY2014 Q4 | 2014 | 4 | 2015-01-31 | 8303.953 |  | 1146.821 | 648.23 | 0.93 | 1182.828 | -205.623 | -436.495 | 0.465 |
 | FY2015 Q1 | 2015 | 1 | 2015-05-02 | 6865.637 |  | 845.129 | 474.601 | 0.69 | 447.539 | -201.234 | -419.905 | 0.345 |
 | FY2015 Q2 | 2015 | 2 | 2015-08-01 | 7363.731 |  | 998.236 | 549.335 | 0.8 | 481.041 | -203.641 | -431.176 | 0.4 |
-| FY2015 Q3 | 2015 | 3 | 2015-10-31 |  |  | 1041.335 | 587.256 | 0.86 | 727.984 | -245.792 | -445.023 | 0.43 |
-| FY2015 Q4 | 2015 | 4 | 2016-01-30 |  |  | 1215.643 | 666.466 | 0.99 | 1300.351 | -238.713 | -532.193 | 0.495 |
+| FY2015 Q3 | 2015 | 3 | 2015-10-31 | 7753.495 |  | 1041.335 | 587.256 | 0.86 | 727.984 | -245.792 | -445.023 | 0.43 |
+| FY2015 Q4 | 2015 | 4 | 2016-01-30 | 8962.075 |  | 1215.643 | 666.466 | 0.99 | 1300.351 | -238.713 | -532.193 | 0.495 |
 | FY2016 Q1 | 2016 | 1 | 2016-04-30 | 7542.356 |  | 918.886 | 508.346 | 0.76 | 445.233 | -266.236 | -341.251 | 0.38 |
 | FY2016 Q2 | 2016 | 2 | 2016-07-30 | 7882.053 |  | 1035.194 | 562.174 | 0.84 | 738.351 | -242.199 | -414.911 | 0.42 |
 | FY2016 Q3 | 2016 | 3 | 2016-10-29 | 8291.688 |  | 1083.143 | 549.786 | 0.83 | 928.675 | -258.762 | -418.838 | 0.415 |
@@ -179,8 +179,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2015 | us-gaap:Revenues |
-| Revenue | FY2016 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2014 | us-gaap:Revenues |
+| Revenue | FY2015 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Operating income | FY2010 | FY2018 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2012 | us-gaap:ProfitLoss |
@@ -194,11 +194,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: TJX COMPANIES INC, Revenue tag, FY2016
+### Change: TJX COMPANIES INC, Revenue tag, FY2015
 
 - CIK: 0000109198
 - What: Revenue tag
-- Boundary: FY2016
+- Boundary: FY2015
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

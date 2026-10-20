@@ -13,9 +13,9 @@
 
 Johnson Controls International plc, as it files with the SEC (CIK 0000833444): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Johnson Controls International plc, and how has it grown?** It sold $23.6 billion in FY2025, the 155th most of the 487 companies with a revenue for the year, and the 70th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.3% from FY2015 to FY2025, 9.1% a year.
+**How large is Johnson Controls International plc, and how has it grown?** It sold $23.6 billion in FY2025, the 156th most of the 488 companies with a revenue for the year, and the 70th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.3% from FY2015 to FY2025, 9.1% a year.
 
-**Does Johnson Controls International plc make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 13.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 19 years in the book (FY2007, FY2009, FY2016).
+**Does Johnson Controls International plc make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 13.9% of what it sold; the median company of its sector kept 11.7%. It lost money in 3 of its 19 years in the book (FY2007, FY2009, FY2016).
 
 **Where does Johnson Controls International plc's cash go?** From FY2016 to FY2025 its operations brought in $17.8 billion; it spent 34.3% of that on plant and equipment, and 113.8% on buying back its own shares.
 
@@ -24,7 +24,7 @@ Johnson Controls International plc, as it files with the SEC (CIK 0000833444): i
 > [!CARD:line] Johnson Controls International plc, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 18477 | 19733 | 16882 | 11020 | 10099 | 9892 | 10058 | 10332 | 9902 |  | 30172 | 23400 | 23968 | 22317 | 23668 | 20637 | 22331 | 22952 | 23596 |  |
+> | Revenue |  | 18477 | 19733 | 16882 | 11020 | 10099 | 9892 | 10058 | 10332 | 9902 | 20837 | 30172 | 23400 | 23968 | 22317 | 23668 | 20637 | 22331 | 22952 | 23596 |  |
 > | Gross profit |  |  |  |  |  |  |  |  | 4312 | 4531 | 5654 | 7530 | 7667 | 7693 | 7411 | 8059 | 7090 | 7804 | 8077 | 8592 |  |
 > | Operating income |  | -1732 | 1896 | -1506 | 615 | 887 | 578 | 712 | 700 | 884 |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | -1742 | 1553 | -1798 | 1130 | 1719 | 472 | 536 | 1215 | 1563 | -868 | 1611 | 2162 | 5674 | 631 | 1637 | 1532 | 1849 | 1705 | 3291 |  |
@@ -45,7 +45,7 @@ Johnson Controls International plc, as it files with the SEC (CIK 0000833444): i
 | FY2013 | 2012-09-29 | 2013-09-27 | 1.14 | 1.14 |
 | FY2014 | 2013-09-28 | 2014-09-26 | 1.8 | 1.8 |
 | FY2015 | 2014-09-27 | 2015-09-25 | 2.36 | 2.36 |
-| FY2016 | 2015-09-26 |  | -1.29 | -1.29 |
+| FY2016 | 2015-10-01 | 2016-09-30 | -1.29 | -1.29 |
 | FY2017 | 2016-10-01 | 2017-09-30 | 1.71 | 1.71 |
 | FY2018 | 2017-10-01 | 2018-09-30 | 2.32 | 2.32 |
 | FY2019 | 2018-10-01 | 2019-09-30 | 6.49 | 6.49 |
@@ -92,10 +92,10 @@ Johnson Controls International plc, as it files with the SEC (CIK 0000833444): i
 | FY2015 Q2 | 2015 | 2 | 2015-03-27 | 2430 |  | 221 | 167 | 0.39 | 167 | -57 | 0 | 0.39 |
 | FY2015 Q3 | 2015 | 3 | 2015-06-26 | 2489 |  | 253 | 156 | 0.37 | 249 | -60 | 0 | 0.37 |
 | FY2015 Q4 | 2015 | 4 | 2015-09-25 | 2505 |  | 211 | 1078 | 1.22 | 1089 | -952 | -945 | 1.22 |
-| FY2016 Q1 | 2016 | 1 | 2015-12-25 | 2376 | 1257 | 293 | 450 | 0.69 | -13 | -282 | 0 | 0.69 |
-| FY2016 Q2 | 2016 | 2 | 2016-03-25 | 2331 | 1287 | 225 | -530 | -0.81 | 634 | -261 | 0 | -0.81 |
-| FY2016 Q3 | 2016 | 3 | 2016-06-24 | 2449 | 1422 | 236 | 383 | 0.59 | 75 | -279 | -475 | 0.59 |
-| FY2016 Q4 | 2016 | 4 | 2016-09-30 |  | 1688 |  | -1171 | -1.76 | 1212 | -427 | -26 | -1.76 |
+| FY2016 Q1 | 2016 | 1 | 2015-12-31 | 4696 | 1257 | 293 | 450 | 0.69 | -13 | -282 | 0 | 0.69 |
+| FY2016 Q2 | 2016 | 2 | 2016-03-31 | 4733 | 1287 | 225 | -530 | -0.81 | 634 | -261 | 0 | -0.81 |
+| FY2016 Q3 | 2016 | 3 | 2016-06-30 | 5154 | 1422 | 236 | 383 | 0.59 | 75 | -279 | -475 | 0.59 |
+| FY2016 Q4 | 2016 | 4 | 2016-09-30 | 6254 | 1688 |  | -1171 | -1.76 | 1212 | -427 | -26 | -1.76 |
 | FY2017 Q1 | 2017 | 1 | 2016-12-31 | 7086 | 2114 |  | 329 | 0.35 | -1885 | -371 | 0 | 0.35 |
 | FY2017 Q2 | 2017 | 2 | 2017-03-31 | 7267 | 2281 |  | -148 | -0.16 | 366 | -263 | -119 | -0.16 |
 | FY2017 Q3 | 2017 | 3 | 2017-06-30 | 7683 | 2431 |  | 555 | 0.59 | 216 | -362 | -307 | 0.59 |
@@ -194,8 +194,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2016 | us-gaap:Revenues |
-| Revenue | FY2017 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2015 | us-gaap:Revenues |
+| Revenue | FY2016 | FY2017 | us-gaap:SalesRevenueNet |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2014 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2016 | us-gaap:OperatingIncomeLoss |
@@ -210,11 +210,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Johnson Controls International plc, Revenue tag, FY2017
+### Change: Johnson Controls International plc, Revenue tag, FY2016
 
 - CIK: 0000833444
 - What: Revenue tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

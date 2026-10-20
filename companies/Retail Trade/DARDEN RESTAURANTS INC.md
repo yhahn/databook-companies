@@ -13,7 +13,7 @@
 
 DARDEN RESTAURANTS INC, as it files with the SEC (CIK 0000940944): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DARDEN RESTAURANTS INC, and how has it grown?** It sold $12.1 billion in FY2025, the 269th most of the 487 companies with a revenue for the year, and the 24th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 78.5% from FY2015 to FY2025, 6% a year.
+**How large is DARDEN RESTAURANTS INC, and how has it grown?** It sold $12.1 billion in FY2025, the 270th most of the 488 companies with a revenue for the year, and the 24th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 78.5% from FY2015 to FY2025, 6% a year.
 
 **Does DARDEN RESTAURANTS INC make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 8.7% of what it sold; the median company of its sector kept 8.6%. It lost money in 1 of its 19 years in the book (FY2020).
 

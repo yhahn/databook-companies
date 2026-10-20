@@ -13,9 +13,9 @@
 
 FISERV INC, as it files with the SEC (CIK 0000798354): its fiscal years and quarters from its XBRL filings, FY2007 to FY2025. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2014-02-20 and 2018-05-02, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FISERV INC, and how has it grown?** It sold $21.2 billion in FY2025, the 172nd most of the 487 companies with a revenue for the year, and the 17th of 74 in [Services](../Services.md). Its sales rose 303.4% from FY2015 to FY2025, 15% a year.
+**How large is FISERV INC, and how has it grown?** It sold $21.2 billion in FY2025, the 173rd most of the 488 companies with a revenue for the year, and the 18th of 75 in [Services](../Services.md). Its sales rose 303.4% from FY2015 to FY2025, 15% a year.
 
-**Does FISERV INC make money, and how much of what it sells does it keep?** It earned $3.5 billion in FY2025, 16.4% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does FISERV INC make money, and how much of what it sells does it keep?** It earned $3.5 billion in FY2025, 16.4% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does FISERV INC's cash go?** From FY2016 to FY2025 its operations brought in $37.9 billion; it spent 26.2% of that on plant and equipment, and 11.6% on buying back its own shares.
 
@@ -24,7 +24,7 @@ FISERV INC, as it files with the SEC (CIK 0000798354): its fiscal years and quar
 > [!CARD:line] FISERV INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 3677 | 4587 | 4077 | 4133 | 4289 | 4436 | 4814 | 5066 | 5254 | 5505 | 5696 | 5823 | 10187 | 14852 | 16226 |  | 19093 | 20456 | 21193 |  |
+> | Revenue |  | 3677 | 4587 | 4077 | 4133 | 4289 | 4436 | 4814 | 5066 | 5254 | 5505 | 5696 | 5823 | 10187 | 14852 | 16226 | 17737 | 19093 | 20456 | 21193 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 736 | 908 | 946 | 1007 | 990 | 1048 | 1061 | 1210 | 1311 | 1445 | 1532 | 1753 | 1609 | 1852 | 2288 | 3740 | 5014 | 5879 | 5818 |  |
 > | Net income |  | 439 | 569 | 476 | 496 | 472 | 611 | 648 | 754 | 712 | 930 | 1246 | 1187 | 893 | 958 | 1334 | 2530 | 3068 | 3131 | 3480 |  |
@@ -51,7 +51,7 @@ FISERV INC, as it files with the SEC (CIK 0000798354): its fiscal years and quar
 | FY2019 | 2019-01-01 | 2019-12-31 | 1.71 | 1.71 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 1.4 | 1.4 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 1.99 | 1.99 |
-| FY2022 | 2022-01-01 |  | 3.91 | 3.91 |
+| FY2022 | 2022-01-01 | 2022-12-31 | 3.91 | 3.91 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 4.98 | 4.98 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 5.38 | 5.38 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 6.34 | 6.34 |
@@ -118,7 +118,7 @@ FISERV INC, as it files with the SEC (CIK 0000798354): its fiscal years and quar
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 4138 |  | 846 | 669 | 1.02 | 815 | -331 |  | 1.02 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 4450 |  | 860 | 598 | 0.92 | 990 | -387 |  | 0.92 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 4518 |  | 855 | 481 | 0.75 | 1180 | -430 |  | 0.75 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 |  |  | 1179 | 782 | 1.23 | 1633 | -331 |  | 1.23 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 4631 |  | 1179 | 782 | 1.23 | 1633 | -331 |  | 1.23 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 4547 |  | 934 | 563 | 0.89 | 1130 | -339 |  | 0.89 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 4756 |  | 1131 | 683 | 1.1 | 878 | -340 |  | 1.1 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 4873 |  | 1503 | 952 | 1.56 | 1559 | -355 |  | 1.56 |
@@ -176,8 +176,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2007 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2023 | FY2025 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2022 | FY2025 | us-gaap:Revenues |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -198,11 +198,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 5823000000 and 5823000000
 - Source: SEC EDGAR companyfacts
 
-### Change: FISERV INC, Revenue tag, FY2023
+### Change: FISERV INC, Revenue tag, FY2022
 
 - CIK: 0000798354
 - What: Revenue tag
-- Boundary: FY2023
+- Boundary: FY2022
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

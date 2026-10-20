@@ -13,7 +13,7 @@
 
 COPART INC, as it files with the SEC (CIK 0000900075): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-06-11 and 2017-05-25 and 2022-11-18 and 2023-09-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is COPART INC, and how has it grown?** It sold $4.6 billion in FY2025, the 408th most of the 487 companies with a revenue for the year, and the 29th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 305.5% from FY2015 to FY2025, 15% a year.
+**How large is COPART INC, and how has it grown?** It sold $4.6 billion in FY2025, the 409th most of the 488 companies with a revenue for the year, and the 29th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 305.5% from FY2015 to FY2025, 15% a year.
 
 **Does COPART INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 33.4% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 18 years in the book.
 

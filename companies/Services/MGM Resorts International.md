@@ -13,9 +13,9 @@
 
 MGM Resorts International, as it files with the SEC (CIK 0000789570): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MGM Resorts International, and how has it grown?** It sold $17.5 billion in FY2025, the 198th most of the 487 companies with a revenue for the year, and the 21st of 74 in [Services](../Services.md). Its sales rose 91.1% from FY2015 to FY2025, 6.7% a year.
+**How large is MGM Resorts International, and how has it grown?** It sold $17.5 billion in FY2025, the 199th most of the 488 companies with a revenue for the year, and the 22nd of 75 in [Services](../Services.md). Its sales rose 91.1% from FY2015 to FY2025, 6.7% a year.
 
-**Does MGM Resorts International make money, and how much of what it sells does it keep?** It earned $206 million in FY2025, 1.2% of what it sold; the median company of its sector kept 16.1%. It lost money in 8 of its 18 years in the book (FY2008, FY2009, FY2010 and 5 more).
+**Does MGM Resorts International make money, and how much of what it sells does it keep?** It earned $206 million in FY2025, 1.2% of what it sold; the median company of its sector kept 16.3%. It lost money in 8 of its 18 years in the book (FY2008, FY2009, FY2010 and 5 more).
 
 **Where does MGM Resorts International's cash go?** From FY2016 to FY2025 its operations brought in $16.5 billion; it spent 66.9% of that on plant and equipment, and 75.2% on buying back its own shares.
 
@@ -24,7 +24,7 @@ MGM Resorts International, as it files with the SEC (CIK 0000789570): its fiscal
 > [!CARD:line] MGM Resorts International, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 7208.767 | 6010.588 | 6056.001 | 7849.312 | 9160.844 | 9809.663 |  | 9179.59 | 9478.269 | 10797.479 | 11763.096 | 12899.672 | 5162.082 | 9680.14 | 13127.485 | 16164.249 | 17240.545 | 17537.683 |  |
+> | Revenue |  |  | 7208.767 | 6010.588 | 6056.001 | 7849.312 | 9160.844 | 9809.663 | 10081.984 | 9179.59 | 9478.269 | 10797.479 | 11763.096 | 12899.672 | 5162.082 | 9680.14 | 13127.485 | 16164.249 | 17240.545 | 17537.683 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  | -129.603 | -963.876 | -1158.931 | 4057.146 | 121.351 | 1137.281 | 1323.538 | -152.838 | 2078.199 | 1712.527 | 1469.486 | 3940.215 | -642.434 | 2278.699 | 1439.372 | 1891.497 | 1490.456 | 1001.78 |  |
 > | Net income |  |  | -855.286 | -1291.682 | -1437.397 | 3114.637 | -1767.691 | -171.734 | -149.873 | -445.515 | 1100.408 | 1952.052 | 466.772 | 2049.146 | -1032.724 | 1254.37 | 1473.093 | 1142.18 | 746.558 | 205.862 |  |
@@ -42,7 +42,7 @@ MGM Resorts International, as it files with the SEC (CIK 0000789570): its fiscal
 | FY2011 | 2011-01-01 | 2011-12-31 | 5.62 | 5.62 |
 | FY2012 | 2012-01-01 | 2012-12-31 | -3.62 | -3.62 |
 | FY2013 | 2013-01-01 | 2013-12-31 | -0.35 | -0.35 |
-| FY2014 | 2014-01-01 |  | -0.31 | -0.31 |
+| FY2014 | 2014-01-01 | 2014-12-31 | -0.31 | -0.31 |
 | FY2015 | 2015-01-01 | 2015-12-31 | -0.82 | -0.82 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 1.92 | 1.92 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 3.34 | 3.34 |
@@ -81,7 +81,7 @@ MGM Resorts International, as it files with the SEC (CIK 0000789570): its fiscal
 | FY2014 Q1 | 2014 | 1 | 2014-03-31 | 2630.398 |  | 416.472 | 102.652 | 0.2 | 290.795 | -192.751 |  | 0.2 |
 | FY2014 Q2 | 2014 | 2 | 2014-06-30 | 2581.033 |  | 354.464 | 110.008 | 0.22 | 512.829 | -177.497 |  | 0.22 |
 | FY2014 Q3 | 2014 | 3 | 2014-09-30 | 2485.007 |  | 286.489 | -20.27 | -0.04 | 219.19 | -247.211 |  | -0.04 |
-| FY2014 Q4 | 2014 | 4 | 2014-12-31 |  |  | 266.113 | -342.263 | -0.7 | 107.856 | -254.582 |  | -0.7 |
+| FY2014 Q4 | 2014 | 4 | 2014-12-31 | 2385.546 |  | 266.113 | -342.263 | -0.7 | 107.856 | -254.582 |  | -0.7 |
 | FY2015 Q1 | 2015 | 1 | 2015-03-31 | 2332.244 |  | 395.104 | 169.85 | 0.33 | 175.648 | -292.329 |  | 0.33 |
 | FY2015 Q2 | 2015 | 2 | 2015-06-30 | 2385.135 |  | 348.521 | 97.459 | 0.17 | 271.621 | -301.712 |  | 0.17 |
 | FY2015 Q3 | 2015 | 3 | 2015-09-30 | 2280.816 |  | 297.377 | 66.425 | 0.12 | 290.511 | -406.537 |  | 0.12 |
@@ -198,8 +198,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2008 | FY2014 | us-gaap:Revenues |
-| Revenue | FY2015 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2008 | FY2013 | us-gaap:Revenues |
+| Revenue | FY2014 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
@@ -213,11 +213,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: MGM Resorts International, Revenue tag, FY2015
+### Change: MGM Resorts International, Revenue tag, FY2014
 
 - CIK: 0000789570
 - What: Revenue tag
-- Boundary: FY2015
+- Boundary: FY2014
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

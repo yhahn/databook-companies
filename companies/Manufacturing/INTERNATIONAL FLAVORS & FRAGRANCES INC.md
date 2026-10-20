@@ -13,9 +13,9 @@
 
 INTERNATIONAL FLAVORS & FRAGRANCES INC, as it files with the SEC (CIK 0000051253): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INTERNATIONAL FLAVORS & FRAGRANCES INC, and how has it grown?** It sold $10.9 billion in FY2025, the 286th most of the 487 companies with a revenue for the year, and the 116th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 249.4% from FY2016 to FY2025, 14.9% a year.
+**How large is INTERNATIONAL FLAVORS & FRAGRANCES INC, and how has it grown?** It sold $10.9 billion in FY2025, the 287th most of the 488 companies with a revenue for the year, and the 116th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 249.4% from FY2016 to FY2025, 14.9% a year.
 
-**Does INTERNATIONAL FLAVORS & FRAGRANCES INC make money, and how much of what it sells does it keep?** It earned −$359 million in FY2025, −3.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 9 years in the book (FY2022, FY2023, FY2025).
+**Does INTERNATIONAL FLAVORS & FRAGRANCES INC make money, and how much of what it sells does it keep?** It earned −$359 million in FY2025, −3.3% of what it sold; the median company of its sector kept 11.7%. It lost money in 3 of its 10 years in the book (FY2022, FY2023, FY2025).
 
 **Where does INTERNATIONAL FLAVORS & FRAGRANCES INC's cash go?** From FY2016 to FY2025 its operations brought in $8.0 billion; it spent 41.4% of that on plant and equipment, and 3% on buying back its own shares.
 
@@ -27,7 +27,7 @@ INTERNATIONAL FLAVORS & FRAGRANCES INC, as it files with the SEC (CIK 0000051253
 > | Revenue |  |  |  |  |  |  |  |  |  |  | 3116.35 | 3398.719 | 3977.539 | 5140 | 5084 | 11656 | 12440 | 11479 | 11484 | 10890 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  | 1395.563 | 1472.463 | 1682.707 | 2113 | 2086 | 3735 | 4151 | 3681 | 4124 | 3938 |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 552.955 | 552.63 | 583.882 | 665 | 566 | 585 | -1326 | -2110 | 766 | -382 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  | 405.031 | 295.665 | 339.781 |  | 367 | 279 | -1864 | -2587 | 267 | -359 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  | 405.031 | 295.665 | 339.781 | 460 | 367 | 279 | -1864 | -2587 | 267 | -359 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 550.139 | 390.756 | 437.575 | 699 | 714 | 1437 | 397 | 1455 | 1070 | 850 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  | -126.412 | -128.973 | -170.094 | -236 | -192 | -393 | -504 | -503 | -463 | -594 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | -127.443 | -58.069 | -15.475 | 0 | 0 |  |  | 0 | 0 | -38 |  |
@@ -55,10 +55,10 @@ INTERNATIONAL FLAVORS & FRAGRANCES INC, as it files with the SEC (CIK 0000051253
 | FY2018 Q2 | 2018 | 2 | 2018-06-30 | 920.016 | 398.717 | 154.509 | 99.149 | 1.25 | 66.564 | -34.316 | -4.858 | 1.25 |
 | FY2018 Q3 | 2018 | 3 | 2018-09-30 | 907.548 | 400.666 | 159.268 | 95.716 | 1.17 | 146.789 | -35 | 0 | 1.17 |
 | FY2018 Q4 | 2018 | 4 | 2018-12-31 | 1219.047 | 477.515 | 95.249 | 15.5 | -0.25 | 235.617 | -67.673 | 0 | -0.25 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1297.402 | 531.259 | 163.87 | 108.829 | 0.96 | 47.232 | -57.609 | 0 | 0.96 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1291.568 | 546.239 | 199.937 | 136.377 | 1.2 | 137.684 | -61.485 | 0 | 1.2 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 1267.345 | 533.088 | 184.664 | 127.124 | 1.13 | 198.119 | -41.355 | 0 | 1.13 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1283.685 | 502.414 | 116.529 |  | 0.7 | 315.965 | -75.551 | 0 | 0.7 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1297.402 | 531.259 | 163.87 | 111.214 | 0.96 | 47.232 | -57.609 | 0 | 0.96 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1291.568 | 546.239 | 199.937 | 138.869 | 1.2 | 137.684 | -61.485 | 0 | 1.2 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 1267.345 | 533.088 | 184.664 | 129.807 | 1.13 | 198.119 | -41.355 | 0 | 1.13 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1283.685 | 502.414 | 116.529 | 80.11 | 0.7 | 315.965 | -75.551 | 0 | 0.7 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 1347 | 566 | 196 | 127 | 1.15 | 17 | -49 |  | 1.15 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 1199 | 482 | 120 | 88 | 0.74 | 191 | -31 |  | 0.74 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 1268 | 524 | 150 | 86 | 0.75 | 207 | -44 |  | 0.75 |
@@ -170,8 +170,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2012 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2008 | FY2019 | us-gaap:NetIncomeLoss |
-| Net income | FY2020 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2008 | FY2018 | us-gaap:NetIncomeLoss |
+| Net income | FY2019 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2008 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
@@ -181,11 +181,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: INTERNATIONAL FLAVORS & FRAGRANCES INC, Net income tag, FY2020
+### Change: INTERNATIONAL FLAVORS & FRAGRANCES INC, Net income tag, FY2019
 
 - CIK: 0000051253
 - What: Net income tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

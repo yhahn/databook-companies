@@ -13,11 +13,11 @@
 
 DOLLAR TREE, INC., as it files with the SEC (CIK 0000935703): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-08-16, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DOLLAR TREE, INC., and how has it grown?** It sold $19.4 billion in FY2025, the 185th most of the 487 companies with a revenue for the year, and the 18th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales fell 6.4% from FY2016 to FY2025, −0.7% a year.
+**How large is DOLLAR TREE, INC., and how has it grown?** It sold $19.4 billion in FY2025, the 186th most of the 488 companies with a revenue for the year, and the 18th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales fell 6.4% from FY2016 to FY2025, −0.7% a year.
 
 **Does DOLLAR TREE, INC. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 6.6% of what it sold; the median company of its sector kept 8.6%. It lost money in 3 of its 10 years in the book (FY2018, FY2023, FY2024).
 
-**Where does DOLLAR TREE, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $17.5 billion; it spent 39.5% of that on plant and equipment, and 24.3% on buying back its own shares.
+**Where does DOLLAR TREE, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $19.7 billion; it spent 47% of that on plant and equipment, and 23.6% on buying back its own shares.
 
 ## Annual
 
@@ -28,8 +28,8 @@ DOLLAR TREE, INC., as it files with the SEC (CIK 0000935703): its fiscal years a
 > | Gross profit |  |  |  |  |  |  |  |  |  |  | 6394.7 | 7021.9 | 6947.5 | 7040.7 | 7787.4 | 7725.9 | 5775.5 | 6008.9 | 6281.7 | 7050.7 |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 1704.8 | 1999.1 | -939.5 | 1262.2 | 1887.9 | 1811.4 | 2099.3 | 1774.5 | 1462 | 1653.1 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 896.2 | 1714.3 | -1590.8 | 827 | 1341.9 | 1327.9 | 1615.4 | -998.4 | -3030.1 | 1282.5 |  |
-> | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 1673.3 | 1510.2 | 1766 | 1869.8 | 2716.3 | 1431.5 | 1614.8 | 2684.5 |  | 2190.7 |  |
-> | Capex |  |  |  |  |  |  |  |  |  |  | -564.7 | -632.2 | -817.1 |  | -898.8 | -1021.2 | -639 | -1193.8 | -1300.5 | -1134 |  |
+> | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 1673.3 | 1510.2 | 1766 | 1869.8 | 2716.3 | 1431.5 | 1614.8 | 2684.5 | 2193.3 | 2190.7 |  |
+> | Capex |  |  |  |  |  |  |  |  |  |  | -564.7 | -632.2 | -817.1 | -1034.8 | -898.8 | -1021.2 | -639 | -1193.8 | -1300.5 | -1134 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | -200 | -400 | -950 | -647.5 | -500 | -400 | -1548 |  |
 
 #### EPS by year
@@ -60,9 +60,9 @@ DOLLAR TREE, INC., as it files with the SEC (CIK 0000935703): its fiscal years a
 | FY2018 Q3 | 2018 | 3 | 2018-11-03 | 5538.8 | 1671.9 | 387.8 | 281.8 | 1.18 | 282.1 | -228.4 | 0 | 1.18 |
 | FY2018 Q4 | 2018 | 4 | 2019-02-02 | 6205.2 | 1912.1 | -2147.4 | -2307 | -9.69 | 715.1 | -194.4 | 0 | -9.69 |
 | FY2019 Q1 | 2019 | 1 | 2019-05-04 | 5808.7 | 1727.2 | 385.5 | 267.9 | 1.12 | 614.1 | -209.2 | -100 | 1.12 |
-| FY2019 Q2 | 2019 | 2 | 2019-08-03 | 5740.6 | 1648.5 | 268.9 | 180.3 | 0.76 | 229.9 |  | -39.2 | 0.76 |
-| FY2019 Q3 | 2019 | 3 | 2019-11-02 | 5746.2 | 1704.5 | 358.4 | 255.8 | 1.08 | 170.5 |  | -60.8 | 1.08 |
-| FY2019 Q4 | 2019 | 4 | 2020-02-01 | 6315.3 | 1960.5 | 249.4 | 123 | 0.52 | 855.3 |  | 0 | 0.52 |
+| FY2019 Q2 | 2019 | 2 | 2019-08-03 | 5740.6 | 1648.5 | 268.9 | 180.3 | 0.76 | 229.9 | -293.3 | -39.2 | 0.76 |
+| FY2019 Q3 | 2019 | 3 | 2019-11-02 | 5746.2 | 1704.5 | 358.4 | 255.8 | 1.08 | 170.5 | -279.8 | -60.8 | 1.08 |
+| FY2019 Q4 | 2019 | 4 | 2020-02-01 | 6315.3 | 1960.5 | 249.4 | 123 | 0.52 | 855.3 | -252.5 | 0 | 0.52 |
 | FY2020 Q1 | 2020 | 1 | 2020-05-02 | 6286.8 | 1794.9 | 365.9 | 247.6 | 1.04 | 959 | -235.8 | 0 | 1.04 |
 | FY2020 Q2 | 2020 | 2 | 2020-08-01 | 6277.6 | 1916.2 | 374.9 | 261.5 | 1.1 | 478 | -232.5 | 0 | 1.1 |
 | FY2020 Q3 | 2020 | 3 | 2020-10-31 | 6176.7 | 1924.1 | 465.5 | 330 | 1.39 | 296.7 | -238.7 | -194.2 | 1.39 |
@@ -79,10 +79,10 @@ DOLLAR TREE, INC., as it files with the SEC (CIK 0000935703): its fiscal years a
 | FY2023 Q2 | 2023 | 2 | 2023-07-29 | 3873.4 | 1293.2 | 287.8 | 200.4 | 0.91 | 171.8 | -425.4 | -106.6 | 0.91 |
 | FY2023 Q3 | 2023 | 3 | 2023-10-28 | 4003.8 | 1393.8 | 301.7 | 212 | 0.97 | 505.8 | -541.4 | -250 | 0.97 |
 | FY2023 Q4 | 2023 | 4 | 2024-02-03 | 4961.4 | 1933.2 | 765.3 | -1709.8 | -7.83 | 1254.9 | 123.4 | 0 | -7.83 |
-| FY2024 Q1 | 2024 | 1 | 2024-05-04 | 4165.6 | 1476.5 | 381.9 | 300.1 | 1.38 | 695.7 | -316.5 | -272.2 | 1.38 |
-| FY2024 Q2 | 2024 | 2 | 2024-08-03 | 4065.5 | 1391.3 | 215.8 | 132.4 | 0.62 | 306.9 | -347.8 | -127.8 | 0.62 |
-| FY2024 Q3 | 2024 | 3 | 2024-11-02 | 4338 | 1534.1 | 330.7 | 233.3 | 1.08 | 785.6 | -341.4 | 0 | 1.08 |
-| FY2024 Q4 | 2024 | 4 | 2025-02-01 | 4996.7 | 1879.8 | 533.6 | -3695.9 | -17.17 |  | -294.8 | 0 | -17.17 |
+| FY2024 Q1 | 2024 | 1 | 2024-05-04 | 4165.6 | 1476.5 | 381.9 | 300.1 | 1.38 | 505.2 | -316.5 | -272.2 | 1.38 |
+| FY2024 Q2 | 2024 | 2 | 2024-08-03 | 4065.5 | 1391.3 | 215.8 | 132.4 | 0.62 | 232.5 | -347.8 | -127.8 | 0.62 |
+| FY2024 Q3 | 2024 | 3 | 2024-11-02 | 4338 | 1534.1 | 330.7 | 233.3 | 1.08 | 598.1 | -341.4 | 0 | 1.08 |
+| FY2024 Q4 | 2024 | 4 | 2025-02-01 | 4996.7 | 1879.8 | 533.6 | -3695.9 | -17.17 | 857.5 | -294.8 | 0 | -17.17 |
 | FY2025 Q1 | 2025 | 1 | 2025-05-03 | 4636.5 | 1649.5 | 384.1 | 343.4 | 1.61 | 378.5 | -248.8 | -427.7 | 1.61 |
 | FY2025 Q2 | 2025 | 2 | 2025-08-02 | 4566.8 | 1570.1 | 231 | 188.4 | 0.91 | 260.7 | -245.1 | -496.5 | 0.91 |
 | FY2025 Q3 | 2025 | 3 | 2025-11-01 | 4746.3 | 1700.5 | 343.3 | 244.6 | 1.2 | 319.3 | -376.4 | -387.8 | 1.2 |
@@ -105,30 +105,30 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
-| Operating cash flow | FY2008 | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2025 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Capex | FY2008 | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2020 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Operating cash flow | FY2008 | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2024 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Capex | FY2008 | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2019 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2008 | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 | Buybacks | FY2017 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
 
-### Change: DOLLAR TREE, INC., Operating cash flow tag, FY2025
+### Change: DOLLAR TREE, INC., Operating cash flow tag, FY2024
 
 - CIK: 0000935703
 - What: Operating cash flow tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: DOLLAR TREE, INC., Capex tag, FY2020
+### Change: DOLLAR TREE, INC., Capex tag, FY2019
 
 - CIK: 0000935703
 - What: Capex tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

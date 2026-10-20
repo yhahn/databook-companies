@@ -13,7 +13,7 @@
 
 PNC FINANCIAL SERVICES GROUP, INC., as it files with the SEC (CIK 0000713676): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PNC FINANCIAL SERVICES GROUP, INC., and how has it grown?** It sold $23.1 billion in FY2025, the 158th most of the 487 companies with a revenue for the year, and the 25th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 51.7% from FY2015 to FY2025, 4.3% a year.
+**How large is PNC FINANCIAL SERVICES GROUP, INC., and how has it grown?** It sold $23.1 billion in FY2025, the 159th most of the 488 companies with a revenue for the year, and the 25th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 51.7% from FY2015 to FY2025, 4.3% a year.
 
 **Does PNC FINANCIAL SERVICES GROUP, INC. make money, and how much of what it sells does it keep?** It earned $7.0 billion in FY2025, 30.3% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ PNC FINANCIAL SERVICES GROUP, INC., as it files with the SEC (CIK 0000713676): i
 > [!CARD:line] PNC FINANCIAL SERVICES GROUP, INC., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 5891 | 6296 | 16228 | 15176 | 14326 | 15512 | 16012 | 15375 | 15225 | 15162 | 16329 | 16190 | 16839 | 16901 | 19211 |  | 21490 | 21555 | 23099 |  |
+> | Revenue |  | 5891 | 6296 | 16228 | 15176 | 14326 | 15512 | 16012 | 15375 | 15225 | 15162 | 16329 | 16190 | 16839 | 16901 | 19211 | 21120 | 21490 | 21555 | 23099 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | 1491 | 914 | 2403 | 3397 | 3071 | 2994 | 4212 | 4207 | 4143 | 3985 | 5388 | 5346 | 5418 | 7558 | 5725 | 6113 | 5647 | 5953 | 6997 |  |
@@ -51,7 +51,7 @@ PNC FINANCIAL SERVICES GROUP, INC., as it files with the SEC (CIK 0000713676): i
 | FY2019 | 2019-01-01 | 2019-12-31 | 11.39 | 11.39 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 16.96 | 16.96 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 12.7 | 12.7 |
-| FY2022 | 2022-01-01 |  | 13.85 | 13.85 |
+| FY2022 | 2022-01-01 | 2022-12-31 | 13.85 | 13.85 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 12.79 | 12.79 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 13.74 | 13.74 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 16.59 | 16.59 |
@@ -118,7 +118,7 @@ PNC FINANCIAL SERVICES GROUP, INC., as it files with the SEC (CIK 0000713676): i
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 4692 |  |  | 1429 | 3.23 | -989 |  | -1279 | 3.23 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 5116 |  |  | 1496 | 3.39 | 2632 |  | -797 | 3.39 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 5549 |  |  | 1640 | 3.78 | 3394 |  | -1002 | 3.78 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 |  |  |  | 1548 | 3.46 | 4046 |  | -653 | 3.46 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 5763 |  |  | 1548 | 3.46 | 4046 |  | -653 | 3.46 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 5603 |  |  | 1694 | 3.98 | 1876 |  | -459 | 3.98 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 5293 |  |  | 1500 | 3.36 | 3256 |  | -129 | 3.36 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 5233 |  |  | 1570 | 3.6 | 115 |  | -11 | 3.6 |
@@ -172,8 +172,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2007 | FY2018 | us-gaap:Revenues |
-| Revenue | FY2019 | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2023 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2019 | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2022 | FY2026 | us-gaap:Revenues |
 | Net income | FY2007 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -193,11 +193,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2019 under both: 16839000000 and 16839000000
 - Source: SEC EDGAR companyfacts
 
-### Change: PNC FINANCIAL SERVICES GROUP, INC., Revenue tag, FY2023
+### Change: PNC FINANCIAL SERVICES GROUP, INC., Revenue tag, FY2022
 
 - CIK: 0000713676
 - What: Revenue tag
-- Boundary: FY2023
+- Boundary: FY2022
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

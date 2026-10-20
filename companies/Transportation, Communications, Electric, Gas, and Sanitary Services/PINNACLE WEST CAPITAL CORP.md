@@ -13,9 +13,9 @@
 
 PINNACLE WEST CAPITAL CORP, as it files with the SEC (CIK 0000764622): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PINNACLE WEST CAPITAL CORP, and how has it grown?** It sold $5.3 billion in FY2025, the 386th most of the 487 companies with a revenue for the year, and the 56th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 52.8% from FY2015 to FY2025, 4.3% a year.
+**How large is PINNACLE WEST CAPITAL CORP, and how has it grown?** It sold $5.3 billion in FY2025, the 387th most of the 488 companies with a revenue for the year, and the 56th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 52.8% from FY2015 to FY2025, 4.3% a year.
 
-**Does PINNACLE WEST CAPITAL CORP make money, and how much of what it sells does it keep?** It earned $632 million in FY2025, 11.8% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 17 years in the book.
+**Does PINNACLE WEST CAPITAL CORP make money, and how much of what it sells does it keep?** It earned $632 million in FY2025, 11.8% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 18 years in the book.
 
 **Where does PINNACLE WEST CAPITAL CORP's cash go?** From FY2016 to FY2025 its operations brought in $12.1 billion; it spent 134.9% of that on plant and equipment, and 0.1% on buying back its own shares.
 
@@ -27,7 +27,7 @@ PINNACLE WEST CAPITAL CORP, as it files with the SEC (CIK 0000764622): its fisca
 > | Revenue |  |  | 3219.687 | 3153.656 | 3189.199 | 3241.379 | 3301.804 | 3454.628 | 3491.632 | 3495.443 | 3498.682 | 3565.296 | 3691.247 | 3471.209 | 3586.982 | 3803.835 | 4324.385 | 4695.991 | 5124.915 | 5339.939 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  | 582.647 | 616.128 | 714.883 | 746.508 | 851.755 | 846.323 | 811.242 | 854.602 | 835.611 | 909.763 | 773.687 | 671.96 | 788.152 | 805.31 | 731.911 | 824.64 | 1012.063 | 1067.63 |  |
-> | Net income |  |  | 242.125 | 68.33 | 350.053 |  | 413.164 | 439.966 | 423.696 | 456.19 | 461.527 | 507.949 | 530.54 | 557.813 | 570.052 | 635.944 | 500.826 | 518.781 | 626.03 | 631.643 |  |
+> | Net income |  |  | 242.125 | 68.33 | 350.053 | 366.94 | 413.164 | 439.966 | 423.696 | 456.19 | 461.527 | 507.949 | 530.54 | 557.813 | 570.052 | 635.944 | 500.826 | 518.781 | 626.03 | 631.643 |  |
 > | Operating cash flow |  |  | 848.093 | 1067.305 | 750.457 | 1125.583 | 1171.122 | 1153.307 | 1099.627 | 1094.327 | 1023.39 | 1118.036 | 1277.144 | 956.726 | 966.365 | 860.014 | 1241.441 | 1207.697 | 1609.823 | 1805.095 |  |
 > | Capex |  |  | -935.577 | -764.609 | -748.374 | -884.35 | -889.551 | -1016.322 | -910.634 | -1076.087 | -1275.472 | -1408.774 | -1178.169 | -1191.447 | -1326.584 | -1473.475 | -1707.49 | -1846.37 | -2249.195 | -2624.618 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -2.653 | -4.093 |  |  |  |
@@ -66,10 +66,10 @@ PINNACLE WEST CAPITAL CORP, as it files with the SEC (CIK 0000764622): its fisca
 | FY2010 Q2 | 2010 | 2 | 2010-06-30 | 802.795 |  | 201.384 | 114.797 | 1.07 | 215.089 | -176.025 |  | 1.07 |
 | FY2010 Q3 | 2010 | 3 | 2010-09-30 | 1116.71 |  | 400.274 | 233.92 | 2.14 | 368.086 | -174.128 |  | 2.14 |
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 657.432 |  | 56.251 | 7.35 | 0.05 | 180.957 | -195.667 |  | 0.05 |
-| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 648.847 |  | 35.784 | -15.135 | -0.14 | 243.496 | -191.553 |  | -0.14 |
-| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 799.799 |  | 196.992 | 86.685 | 0.79 | 192.783 | -195.719 |  | 0.79 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 1124.841 |  | 435.017 |  | 2.32 | 484.227 | -255.989 |  | 2.32 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 667.892 |  | 78.715 |  | 0.11 | 205.077 | -241.089 |  | 0.11 |
+| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 648.847 |  | 35.784 | -9.674 | -0.14 | 243.496 | -191.553 |  | -0.14 |
+| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 799.799 |  | 196.992 | 93.839 | 0.79 | 192.783 | -195.719 |  | 0.79 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 1124.841 |  | 435.017 | 262.785 | 2.32 | 484.227 | -255.989 |  | 2.32 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 667.892 |  | 78.715 | 19.99 | 0.11 | 205.077 | -241.089 |  | 0.11 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 620.631 |  | 48.007 | -0.481 | -0.08 | 115.335 | -240.973 |  | -0.08 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 878.576 |  | 254.489 | 130.111 | 1.11 | 343.3 | -183.802 |  | 1.11 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 1109.475 |  | 447.97 | 252.863 | 2.21 | 470.836 | -245.909 |  | 2.21 |
@@ -162,8 +162,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2017 | FY2017 | us-gaap:Revenues |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2008 | FY2011 | us-gaap:NetIncomeLoss |
-| Net income | FY2012 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2008 | FY2010 | us-gaap:NetIncomeLoss |
+| Net income | FY2011 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2008 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
@@ -191,11 +191,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 3691247000 and 3691247000
 - Source: SEC EDGAR companyfacts
 
-### Change: PINNACLE WEST CAPITAL CORP, Net income tag, FY2012
+### Change: PINNACLE WEST CAPITAL CORP, Net income tag, FY2011
 
 - CIK: 0000764622
 - What: Net income tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

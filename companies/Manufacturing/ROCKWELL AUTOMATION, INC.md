@@ -13,11 +13,11 @@
 
 ROCKWELL AUTOMATION, INC, as it files with the SEC (CIK 0001024478): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ROCKWELL AUTOMATION, INC, and how has it grown?** It sold $8.3 billion in FY2025, the 317th most of the 487 companies with a revenue for the year, and the 133rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 32.2% from FY2015 to FY2025, 2.8% a year.
+**How large is ROCKWELL AUTOMATION, INC, and how has it grown?** It sold $8.3 billion in FY2025, the 318th most of the 488 companies with a revenue for the year, and the 133rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 32.2% from FY2015 to FY2025, 2.8% a year.
 
-**Does ROCKWELL AUTOMATION, INC make money, and how much of what it sells does it keep?** It earned $869 million in FY2025, 10.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does ROCKWELL AUTOMATION, INC make money, and how much of what it sells does it keep?** It earned $869 million in FY2025, 10.4% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
-**Where does ROCKWELL AUTOMATION, INC's cash go?** From FY2016 to FY2025 its operations brought in $11.4 billion; it spent 10.8% of that on plant and equipment, and 48.4% on buying back its own shares.
+**Where does ROCKWELL AUTOMATION, INC's cash go?** From FY2016 to FY2025 its operations brought in $11.4 billion; it spent 12.8% of that on plant and equipment, and 48.4% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ ROCKWELL AUTOMATION, INC, as it files with the SEC (CIK 0001024478): its fiscal 
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1929 | 1595 | 1703 |  |
 > | Net income |  | 1487.8 | 577.6 | 220.7 | 464.3 | 697.8 | 737 | 756.3 | 826.8 | 827.6 | 729.7 | 825.7 | 535.5 | 695.8 | 1023.4 | 1358.1 | 932.2 | 1387 | 953 | 869 |  |
 > | Operating cash flow |  | 444.9 | 596.8 | 526.4 | 494 | 643.7 | 718.7 | 1014.8 | 1033.3 | 1187.7 | 947.3 | 1034 | 1300 | 1182 | 1120.5 | 1261 | 823.1 | 1374 | 864 | 1544 |  |
-> | Capex |  | -131 | -151 | -98 | -99.4 | -120.1 | -139.6 | -146.2 | -141 | -122.9 | -116.9 | -141.7 | -125.5 | -132.8 | -113.9 | -120.3 | -141.1 | -160.5 |  | -186 |  |
+> | Capex |  | -131 | -151 | -98 | -99.4 | -120.1 | -139.6 | -146.2 | -141 | -122.9 | -116.9 | -141.7 | -125.5 | -132.8 | -113.9 | -120.3 | -141.1 | -160.5 | -225 | -186 |  |
 > | Buybacks |  | -1519.3 | -359.1 | -53.5 | -118.8 | -298.7 | -259.4 | -402.7 | -485.7 | -598.4 | -507.6 | -342.6 | -1482.3 | -1009 | -264.2 | -299.7 | -301.3 | -312 | -595 | -425 |  |
 
 #### EPS by year
@@ -239,8 +239,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2025 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2007 | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2024 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -275,11 +275,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 1034000000 and 1034000000
 - Source: SEC EDGAR companyfacts
 
-### Change: ROCKWELL AUTOMATION, INC, Capex tag, FY2025
+### Change: ROCKWELL AUTOMATION, INC, Capex tag, FY2024
 
 - CIK: 0001024478
 - What: Capex tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

@@ -13,7 +13,7 @@
 
 SHERWIN WILLIAMS CO, as it files with the SEC (CIK 0000089800): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-04-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is SHERWIN WILLIAMS CO, and how has it grown?** It sold $23.6 billion in FY2025, the 156th most of the 487 companies with a revenue for the year, and the 14th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 107.9% from FY2015 to FY2025, 7.6% a year.
+**How large is SHERWIN WILLIAMS CO, and how has it grown?** It sold $23.6 billion in FY2025, the 157th most of the 488 companies with a revenue for the year, and the 14th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 107.9% from FY2015 to FY2025, 7.6% a year.
 
 **Does SHERWIN WILLIAMS CO make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 10.9% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 
@@ -29,7 +29,7 @@ SHERWIN WILLIAMS CO, as it files with the SEC (CIK 0000089800): its fiscal years
 > | Operating income |  |  |  |  | 948 | 985 | 1307 | 1442 | 1695 | 1963 | 2164 | 2235.1 | 2611.6 | 2808.8 | 3373.8 | 3083.7 | 3397.2 | 4161.7 |  |  |  |
 > | Net income |  | 615.578 | 476.876 | 435.848 | 462.485 | 441.86 | 631.034 | 752.561 | 865.887 | 1053.849 | 1132.703 | 1727.9 | 1108.7 | 1541.3 | 2030.4 | 1864.4 | 2020.1 | 2388.8 | 2681.4 | 2568.5 |  |
 > | Operating cash flow |  | 874.545 | 876.233 | 859.186 | 706.59 | 735.812 | 887.886 | 1083.766 | 1081.528 | 1447.463 | 1308.572 | 1884 | 1943.7 | 2321.3 | 3408.6 | 2244.6 | 1919.9 | 3521.9 | 3153.2 | 3451.6 |  |
-> | Capex |  | -165.87 | -117.203 | -91.328 | -125.162 |  | -157.112 | -166.68 | -200.545 | -234.34 | -239.026 | -222.8 | -251 | -328.9 | -303.8 | -372 | -644.5 | -888.4 | -1070 | -797.6 |  |
+> | Capex |  | -165.87 | -117.203 | -91.328 | -125.162 | -153.801 | -157.112 | -166.68 | -200.545 | -234.34 | -239.026 | -222.8 | -251 | -328.9 | -303.8 | -372 | -644.5 | -888.4 | -1070 | -797.6 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 #### EPS by year
@@ -73,8 +73,8 @@ SHERWIN WILLIAMS CO, as it files with the SEC (CIK 0000089800): its fiscal years
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 1895.619 | 845.632 | 190.464 | 72.918 | 0.67 | 228.98 | -49.046 |  | 0.2233 |
 | FY2011 Q1 | 2011 | 1 | 2011-03-31 | 1855.586 | 797.408 |  | 68.316 | 0.63 | -153.166 | -26.951 |  | 0.21 |
 | FY2011 Q2 | 2011 | 2 | 2011-06-30 | 2354.751 | 1022.755 | 314.072 | 179.115 | 1.66 | 261.332 | -41.978 |  | 0.5533 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-30 |  | 1038.299 | 321.417 | 179.877 | 1.71 | 337.797 |  |  | 0.57 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 |  | 886.1 | 202.754 | 14.552 | 0.14 | 289.849 |  |  | 0.0467 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-30 |  | 1038.299 | 321.417 | 179.877 | 1.71 | 337.797 | -27.954 |  | 0.57 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 |  | 886.1 | 202.754 | 14.552 | 0.14 | 289.849 | -56.918 |  | 0.0467 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 |  | 909.839 | 216.542 | 100.216 | 0.95 | -154.839 | -32.783 |  | 0.3167 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 2573.022 | 1150.597 | 405.052 | 227.813 | 2.17 | 356.951 | -37.189 |  | 0.7233 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 2603.226 | 1150.282 | 415.963 | 234.953 | 2.24 | 367.153 | -33.017 |  | 0.7467 |
@@ -178,8 +178,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2011 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2012 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2007 | FY2010 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2011 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 
 ## Changes
 
@@ -193,11 +193,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2019 under both: 17900800000 and 17900800000
 - Source: SEC EDGAR companyfacts
 
-### Change: SHERWIN WILLIAMS CO, Capex tag, FY2012
+### Change: SHERWIN WILLIAMS CO, Capex tag, FY2011
 
 - CIK: 0000089800
 - What: Capex tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

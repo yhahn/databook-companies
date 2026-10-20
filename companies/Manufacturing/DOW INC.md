@@ -13,9 +13,9 @@
 
 DOW INC., as it files with the SEC (CIK 0001751788): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DOW INC., and how has it grown?** It sold $40.0 billion in FY2025, the 91st most of the 487 companies with a revenue for the year, and the 41st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 10.2% from FY2016 to FY2025, 1.1% a year.
+**How large is DOW INC., and how has it grown?** It sold $40.0 billion in FY2025, the 92nd most of the 488 companies with a revenue for the year, and the 41st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 10.2% from FY2016 to FY2025, 1.1% a year.
 
-**Does DOW INC. make money, and how much of what it sells does it keep?** It earned −$2.4 billion in FY2025, −6.1% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 9 years in the book (FY2025).
+**Does DOW INC. make money, and how much of what it sells does it keep?** It earned −$2.4 billion in FY2025, −6.1% of what it sold; the median company of its sector kept 11.7%. It lost money in 2 of its 10 years in the book (FY2019, FY2025).
 
 **Where does DOW INC.'s cash go?** From FY2016 to FY2025 its operations brought in $32.1 billion; it spent 70.6% of that on plant and equipment, and 18.6% on buying back its own shares.
 
@@ -27,7 +27,7 @@ DOW INC., as it files with the SEC (CIK 0001751788): its fiscal years and quarte
 > | Revenue |  |  |  |  |  |  |  |  |  |  | 36264 | 43730 | 49604 | 42951 | 38542 | 54968 | 56902 | 44622 | 42964 | 39968 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  | 7380 | 8530 | 6294 | 5196 |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  | 4318 | 595 | 4641 |  | 1294 | 6405 | 4640 | 660 | 1201 | -2444 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  | 4318 | 595 | 4641 | -1272 | 1294 | 6405 | 4640 | 660 | 1201 | -2444 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | -2957 | -4929 | 4254 | 5930 | 6226 | 7009 | 7475 | 5196 | 2914 | 1032 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  | -3489 | -2807 | -2091 | -1961 | -1252 | -1501 | -1823 | -2356 | -2940 | -2479 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | -916 | 0 | 0 | -500 | -125 | -1000 | -2325 | -625 | -494 | 0 |  |
@@ -59,10 +59,10 @@ DOW INC., as it files with the SEC (CIK 0001751788): its fiscal years and quarte
 | FY2018 Q2 | 2018 | 2 | 2018-06-30 | 12789 | 2249 |  | 1333 | 1.78 | 1951 | -489 |  | 1.78 |
 | FY2018 Q3 | 2018 | 3 | 2018-09-30 | 12634 | 2178 |  | 1013 | 1.36 | 731 | -577 | 0 | 1.36 |
 | FY2018 Q4 | 2018 | 4 | 2018-12-31 | 11944 | 1846 |  | 891 | 1.19 | 1730 | -646 | 0 | 1.19 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 10969 | 1827 |  | 556 | 0.74 | 1381 | -442 | 0 | 0.74 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 11014 | 1594 |  | 75 | 0.1 | 875 | -470 | -305 | 0.1 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 10764 | 1387 |  | 333 | 0.45 | 1724 | -472 | -101 | 0.45 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 10204 | 1486 |  |  | -3.13 | 1950 | -577 | -94 | -3.13 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 10969 | 1827 |  | 601 | 0.74 | 1381 | -442 | 0 | 0.74 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 11014 | 1594 |  | 90 | 0.1 | 875 | -470 | -305 | 0.1 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 10764 | 1387 |  | 347 | 0.45 | 1724 | -472 | -101 | 0.45 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 10204 | 1486 |  | -2310 | -3.13 | 1950 | -577 | -94 | -3.13 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 9770 | 1540 |  | 258 | 0.32 | 1239 | -395 | -125 | 0.32 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 8354 | 744 |  | -217 | -0.31 | 1590 | -273 | 0 | -0.31 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 9712 | 1341 |  | -1 | -0.04 | 1767 | -287 | 0 | -0.04 |
@@ -154,8 +154,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Gross profit | FY2017 | FY2020 | us-gaap:GrossProfit |
 | Net income | FY2016 | FY2016 | us-gaap:NetIncomeLoss |
 | Net income | FY2017 | FY2017 | us-gaap:ProfitLoss |
-| Net income | FY2018 | FY2019 | us-gaap:NetIncomeLoss |
-| Net income | FY2020 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2018 | FY2018 | us-gaap:NetIncomeLoss |
+| Net income | FY2019 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2016 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2016 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
@@ -183,11 +183,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 4775000000 and 4641000000
 - Source: SEC EDGAR companyfacts
 
-### Change: DOW INC., Net income tag, FY2020
+### Change: DOW INC., Net income tag, FY2019
 
 - CIK: 0001751788
 - What: Net income tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

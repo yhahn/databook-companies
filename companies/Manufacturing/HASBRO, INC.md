@@ -13,9 +13,9 @@
 
 HASBRO, INC., as it files with the SEC (CIK 0000046080): its fiscal years and quarters from its XBRL filings, FY2010 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HASBRO, INC., and how has it grown?** It sold $4.7 billion in FY2025, the 406th most of the 487 companies with a revenue for the year, and the 173rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.4% from FY2015 to FY2025, 9.1% a year.
+**How large is HASBRO, INC., and how has it grown?** It sold $4.7 billion in FY2025, the 407th most of the 488 companies with a revenue for the year, and the 173rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.4% from FY2015 to FY2025, 9.1% a year.
 
-**Does HASBRO, INC. make money, and how much of what it sells does it keep?** It earned −$322 million in FY2025, −6.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 16 years in the book (FY2023, FY2025).
+**Does HASBRO, INC. make money, and how much of what it sells does it keep?** It earned −$322 million in FY2025, −6.9% of what it sold; the median company of its sector kept 11.7%. It lost money in 2 of its 16 years in the book (FY2023, FY2025).
 
 **Where does HASBRO, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $7.5 billion; it spent 16.5% of that on plant and equipment, and 9.9% on buying back its own shares.
 

@@ -13,9 +13,9 @@
 
 COGNIZANT TECHNOLOGY SOLUTIONS CORP, as it files with the SEC (CIK 0001058290): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2014-05-08, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is COGNIZANT TECHNOLOGY SOLUTIONS CORP, and how has it grown?** It sold $21.1 billion in FY2025, the 173rd most of the 487 companies with a revenue for the year, and the 18th of 74 in [Services](../Services.md). Its sales rose 70% from FY2015 to FY2025, 5.4% a year.
+**How large is COGNIZANT TECHNOLOGY SOLUTIONS CORP, and how has it grown?** It sold $21.1 billion in FY2025, the 174th most of the 488 companies with a revenue for the year, and the 19th of 75 in [Services](../Services.md). Its sales rose 70% from FY2015 to FY2025, 5.4% a year.
 
-**Does COGNIZANT TECHNOLOGY SOLUTIONS CORP make money, and how much of what it sells does it keep?** It earned $2.2 billion in FY2025, 10.6% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does COGNIZANT TECHNOLOGY SOLUTIONS CORP make money, and how much of what it sells does it keep?** It earned $2.2 billion in FY2025, 10.6% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does COGNIZANT TECHNOLOGY SOLUTIONS CORP's cash go?** From FY2016 to FY2025 its operations brought in $24.8 billion; it spent 13.1% of that on plant and equipment, and 51.4% on buying back its own shares.
 

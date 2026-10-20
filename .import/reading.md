@@ -68,7 +68,7 @@ real.
 - Turns on: worst_year
 - FAQ: co-reading-2
 - FAQ page: README.md
-- Holds: worst_year=worst_year
+- Holds: worst_year=worst_year, n_same=companies~3, rev_rise=revenue_rise_pct~1, ni_rise=net_income_rise_pct~1
 
 ### Question: front-leaders
 - Page: README.md
@@ -150,7 +150,7 @@ real.
 - Turns on:
 - FAQ: co-reading-3
 - FAQ page: companies/Finance, Insurance, and Real Estate.md
-- Holds: rev=revenue_millions~1%, ni=net_income_millions~1%
+- Holds: n=companies, rev=revenue_millions, ni=net_income_millions
 
 ### Question: sector-growth
 - Page: companies/<Sector>.md

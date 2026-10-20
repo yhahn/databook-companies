@@ -13,11 +13,11 @@
 
 MCCORMICK & CO INC, as it files with the SEC (CIK 0000063754): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-01-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MCCORMICK & CO INC, and how has it grown?** It sold $6.8 billion in FY2025, the 351st most of the 487 companies with a revenue for the year, and the 151st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 59.2% from FY2015 to FY2025, 4.8% a year.
+**How large is MCCORMICK & CO INC, and how has it grown?** It sold $6.8 billion in FY2025, the 352nd most of the 488 companies with a revenue for the year, and the 151st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 59.2% from FY2015 to FY2025, 4.8% a year.
 
-**Does MCCORMICK & CO INC make money, and how much of what it sells does it keep?** It earned $789 million in FY2025, 11.5% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
+**Does MCCORMICK & CO INC make money, and how much of what it sells does it keep?** It earned $789 million in FY2025, 11.5% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 18 years in the book.
 
-**Where does MCCORMICK & CO INC's cash go?** From FY2016 to FY2025 its operations brought in $8.9 billion; it spent 21.8% of that on plant and equipment, and 8.5% on buying back its own shares.
+**Where does MCCORMICK & CO INC's cash go?** From FY2016 to FY2025 its operations brought in $8.9 billion; it spent 24.8% of that on plant and equipment, and 8.5% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ MCCORMICK & CO INC, as it files with the SEC (CIK 0000063754): its fiscal years 
 > | Operating income |  |  | 376.5 | 466.9 | 509.8 | 540.3 | 578.3 | 550.5 | 603 | 548.4 | 641 | 699.8 | 891.1 | 957.7 | 999.5 | 1015.1 | 863.6 | 963 | 1060.3 | 1070.8 |  |
 > | Net income |  |  | 255.8 | 299.8 | 370.2 | 374.2 | 407.8 | 389 | 437.9 | 401.6 | 472.3 | 477.4 | 933.4 | 702.7 | 747.4 | 755.3 | 682 | 680.6 | 788.5 | 789.4 |  |
 > | Operating cash flow |  |  | 314.6 | 415.8 | 387.5 | 340 | 455 | 465.2 | 503.6 | 590 | 658.1 | 815.3 | 821.2 | 946.8 | 1041.3 | 828.3 | 651.5 | 1237.3 | 921.9 | 962.2 |  |
-> | Capex |  |  | -85.8 | -82.4 | -89 | -96.7 | -110.3 | -99.9 | -132.7 | -128.4 | -153.8 | -182.4 | -169.1 | -173.7 | -225.3 | -278 | -262 |  | -274.9 | -221.8 |  |
+> | Capex |  |  | -85.8 | -82.4 | -89 | -96.7 | -110.3 | -99.9 | -132.7 | -128.4 | -153.8 | -182.4 | -169.1 | -173.7 | -225.3 | -278 | -262 | -263.9 | -274.9 | -221.8 |  |
 > | Buybacks |  |  | -11 |  | -82.5 | -89.3 | -132.2 | -177.4 | -244.3 | -145.8 | -242.7 | -137.8 | -62.3 | -95.1 | -47.3 | -8.6 | -38.8 | -35.7 | -53.1 | -34.8 |  |
 
 #### EPS by year
@@ -194,8 +194,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2008 | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2024 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2008 | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2023 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2008 | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 | Buybacks | FY2010 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -211,11 +211,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 4834100000 and 4730300000
 - Source: SEC EDGAR companyfacts
 
-### Change: MCCORMICK & CO INC, Capex tag, FY2024
+### Change: MCCORMICK & CO INC, Capex tag, FY2023
 
 - CIK: 0000063754
 - What: Capex tag
-- Boundary: FY2024
+- Boundary: FY2023
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

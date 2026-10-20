@@ -13,9 +13,9 @@
 
 CHARLES RIVER LABORATORIES INTERNATIONAL, INC., as it files with the SEC (CIK 0001100682): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CHARLES RIVER LABORATORIES INTERNATIONAL, INC., and how has it grown?** It sold $4.0 billion in FY2025, the 426th most of the 487 companies with a revenue for the year, and the 58th of 74 in [Services](../Services.md). Its sales rose 194.5% from FY2015 to FY2025, 11.4% a year.
+**How large is CHARLES RIVER LABORATORIES INTERNATIONAL, INC., and how has it grown?** It sold $4.0 billion in FY2025, the 427th most of the 488 companies with a revenue for the year, and the 59th of 75 in [Services](../Services.md). Its sales rose 194.5% from FY2015 to FY2025, 11.4% a year.
 
-**Does CHARLES RIVER LABORATORIES INTERNATIONAL, INC. make money, and how much of what it sells does it keep?** It earned −$144 million in FY2025, −3.6% of what it sold; the median company of its sector kept 16.1%. It lost money in 3 of its 18 years in the book (FY2008, FY2010, FY2025).
+**Does CHARLES RIVER LABORATORIES INTERNATIONAL, INC. make money, and how much of what it sells does it keep?** It earned −$144 million in FY2025, −3.6% of what it sold; the median company of its sector kept 16.3%. It lost money in 3 of its 18 years in the book (FY2008, FY2010, FY2025).
 
 **Where does CHARLES RIVER LABORATORIES INTERNATIONAL, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $5.6 billion; it spent 33.8% of that on plant and equipment, and 13.4% on buying back its own shares.
 

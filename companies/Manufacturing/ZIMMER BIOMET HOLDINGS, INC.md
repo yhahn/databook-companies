@@ -13,9 +13,9 @@
 
 ZIMMER BIOMET HOLDINGS, INC., as it files with the SEC (CIK 0001136869): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ZIMMER BIOMET HOLDINGS, INC., and how has it grown?** It sold $8.2 billion in FY2025, the 323rd most of the 487 companies with a revenue for the year, and the 137th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 7.3% from FY2016 to FY2025, 0.8% a year.
+**How large is ZIMMER BIOMET HOLDINGS, INC., and how has it grown?** It sold $8.2 billion in FY2025, the 324th most of the 488 companies with a revenue for the year, and the 137th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 7.3% from FY2016 to FY2025, 0.8% a year.
 
-**Does ZIMMER BIOMET HOLDINGS, INC. make money, and how much of what it sells does it keep?** It earned $705 million in FY2025, 8.6% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 19 years in the book (FY2018, FY2020).
+**Does ZIMMER BIOMET HOLDINGS, INC. make money, and how much of what it sells does it keep?** It earned $705 million in FY2025, 8.6% of what it sold; the median company of its sector kept 11.7%. It lost money in 2 of its 19 years in the book (FY2018, FY2020).
 
 **Where does ZIMMER BIOMET HOLDINGS, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $15.4 billion; it spent 12.1% of that on plant and equipment, and 16.8% on buying back its own shares.
 

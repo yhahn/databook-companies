@@ -13,9 +13,9 @@
 
 Air Products & Chemicals, Inc., as it files with the SEC (CIK 0000002969): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Air Products & Chemicals, Inc., and how has it grown?** It sold $12.0 billion in FY2025, the 272nd most of the 487 companies with a revenue for the year, and the 108th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 53.8% from FY2015 to FY2025, 4.4% a year.
+**How large is Air Products & Chemicals, Inc., and how has it grown?** It sold $12.0 billion in FY2025, the 273rd most of the 488 companies with a revenue for the year, and the 108th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 53.8% from FY2015 to FY2025, 4.4% a year.
 
-**Does Air Products & Chemicals, Inc. make money, and how much of what it sells does it keep?** It earned −$395 million in FY2025, −3.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2025).
+**Does Air Products & Chemicals, Inc. make money, and how much of what it sells does it keep?** It earned −$395 million in FY2025, −3.3% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 19 years in the book (FY2025).
 
 **Where does Air Products & Chemicals, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $30.2 billion; it spent 105.5% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -28,7 +28,7 @@ Air Products & Chemicals, Inc., as it files with the SEC (CIK 0000002969): its f
 > | Gross profit |  |  |  | 2214.1 | 2523 | 2575.4 | 2559.8 | 2708.3 | 2804.4 | 2226.1 | 2327.1 | 2436.1 | 2740.7 | 2914.4 | 2998.2 |  |  |  |  |  |  |
 > | Operating income |  | 1375.6 | 1495.8 | 846.3 | 1267.7 | 1508.1 | 1282.4 | 1324.4 | 924.2 | 1233.2 | 1535.1 | 1440 | 1965.6 | 2144.4 | 2237.6 | 2281.4 | 2338.8 | 2494.6 | 4466.1 | -877 |  |
 > | Net income |  | 1035.6 | 909.7 | 631.3 | 1029.1 | 1224.2 | 1167.3 | 994.2 | 991.7 | 1277.9 | 631.1 | 3000.4 | 1497.8 | 1760 | 1886.7 | 2099.1 | 2256.1 | 2300.2 | 3828.2 | -394.5 |  |
-> | Operating cash flow |  | 1499.9 | 1658.8 | 1329.4 | 1522.4 | 1753.2 |  | 1553.1 | 1861.6 | 2047 | 2258.8 | 2528.4 | 2547.2 | 2969.9 | 3264.7 | 3335.2 | 3170.6 | 3205.7 | 3646.7 | 3256.8 |  |
+> | Operating cash flow |  | 1499.9 | 1658.8 | 1329.4 | 1522.4 | 1753.2 | 1765.1 | 1553.1 | 1861.6 | 2047 | 2258.8 | 2528.4 | 2547.2 | 2969.9 | 3264.7 | 3335.2 | 3170.6 | 3205.7 | 3646.7 | 3256.8 |  |
 > | Capex |  | -1013.2 | -1085.1 | -1179.1 | -988.7 | -1309.3 | -1521 | -1524.2 | -1299.3 | -1162.4 | -907.7 | -1039.7 | -1568.4 | -1989.7 | -2509 | -2464.2 | -2926.5 | -4626.4 | -6796.7 | -7022.6 |  |
 > | Buybacks |  | -575.2 | -793.4 | 0 | 0 | -649.2 | -53.1 | -461.6 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -74,10 +74,10 @@ Air Products & Chemicals, Inc., as it files with the SEC (CIK 0000002969): its f
 | FY2011 Q2 | 2011 | 2 | 2011-03-31 | 2403 | 654.8 | 393.8 | 304.3 | 1.39 | 270.1 | -285.1 |  | 1.39 |
 | FY2011 Q3 | 2011 | 3 | 2011-06-30 | 2472 | 646.3 | 387.7 | 326.5 | 1.5 | 522 | -341.5 | 0 | 1.5 |
 | FY2011 Q4 | 2011 | 4 | 2011-09-30 | 2506.2 | 651.4 | 395.4 | 324.8 | 1.51 | 624.5 | -375.8 | -299.2 | 1.51 |
-| FY2012 Q1 | 2012 | 1 | 2011-12-31 | 2321.5 | 599.2 | 353.8 | 248.1 | 1.16 | 430.7 | -342.3 | 0 | 1.16 |
-| FY2012 Q2 | 2012 | 2 | 2012-03-31 | 2344.3 | 628.5 | 287.9 | 296 | 1.38 | 300.5 | -392.6 | -53.1 | 1.38 |
-| FY2012 Q3 | 2012 | 3 | 2012-06-30 | 2340.1 | 649.3 | 482.8 | 484.5 | 2.26 |  | -431.6 | 0 | 2.26 |
-| FY2012 Q4 | 2012 | 4 | 2012-09-30 | 2605.8 | 682.8 | 157.9 | 138.7 | 0.65 |  | -354.5 | 0 | 0.65 |
+| FY2012 Q1 | 2012 | 1 | 2011-12-31 | 2321.5 | 599.2 | 353.8 | 248.1 | 1.16 | 424.3 | -342.3 | 0 | 1.16 |
+| FY2012 Q2 | 2012 | 2 | 2012-03-31 | 2344.3 | 628.5 | 287.9 | 296 | 1.38 | 306.9 | -392.6 | -53.1 | 1.38 |
+| FY2012 Q3 | 2012 | 3 | 2012-06-30 | 2340.1 | 649.3 | 482.8 | 484.5 | 2.26 | 513.4 | -431.6 | 0 | 2.26 |
+| FY2012 Q4 | 2012 | 4 | 2012-09-30 | 2605.8 | 682.8 | 157.9 | 138.7 | 0.65 | 520.5 | -354.5 | 0 | 0.65 |
 | FY2013 Q1 | 2013 | 1 | 2012-12-31 | 2562.4 | 662.3 | 372.4 | 278.3 | 1.31 | 278.4 | -357 | -461.6 | 1.31 |
 | FY2013 Q2 | 2013 | 2 | 2013-03-31 | 2484.2 | 670.6 | 389.7 | 290.4 | 1.38 | 319.8 | -350.3 | 0 | 1.38 |
 | FY2013 Q3 | 2013 | 3 | 2013-06-30 | 2547.3 | 671.8 | 383.1 | 288.4 | 1.36 | 453 | -408.1 | 0 | 1.36 |
@@ -204,8 +204,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
-| Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2013 | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2007 | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2012 | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2007 | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -221,11 +221,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 8187600000 and 8187600000
 - Source: SEC EDGAR companyfacts
 
-### Change: Air Products & Chemicals, Inc., Operating cash flow tag, FY2013
+### Change: Air Products & Chemicals, Inc., Operating cash flow tag, FY2012
 
 - CIK: 0000002969
 - What: Operating cash flow tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none

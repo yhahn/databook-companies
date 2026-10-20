@@ -13,9 +13,9 @@
 
 WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, as it files with the SEC (CIK 0000943452): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2013-07-26, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, and how has it grown?** It sold $11.2 billion in FY2025, the 280th most of the 487 companies with a revenue for the year, and the 113th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 237.6% from FY2015 to FY2025, 12.9% a year.
+**How large is WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, and how has it grown?** It sold $11.2 billion in FY2025, the 281st most of the 488 companies with a revenue for the year, and the 113th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 237.6% from FY2015 to FY2025, 12.9% a year.
 
-**Does WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 10.5% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
+**Does WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 10.5% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 18 years in the book.
 
 **Where does WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP's cash go?** From FY2016 to FY2025 its operations brought in $9.7 billion; it spent 15.4% of that on plant and equipment, and 30.2% on buying back its own shares.
 
@@ -24,7 +24,7 @@ WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, as it files with the SEC (CIK 00009434
 > [!CARD:line] WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 1574.749 | 1401.616 | 1507.012 | 1967.637 | 2391.122 |  | 3044.454 | 3307.998 | 2931.188 | 3881.7 | 4363.5 | 8200 | 7556 | 7822 | 8362 | 9677 | 10387 | 11167 |  |
+> | Revenue |  |  | 1574.749 | 1401.616 | 1507.012 | 1967.637 | 2391.122 | 2566.392 | 3044.454 | 3307.998 | 2931.188 | 3881.7 | 4363.5 | 8200 | 7556 | 7822 | 8362 | 9677 | 10387 | 11167 |  |
 > | Gross profit |  |  | 427.186 | 393.326 | 449.078 | 570.424 | 694.567 | 764.027 | 935.982 | 1047.816 | 924.239 | 1065.3 | 1233.9 | 2278 | 2137 | 2369 | 2540 | 2944 | 3366 | 3806 |  |
 > | Operating income |  |  | 212.516 | 180.032 | 202.81 | 270.701 | 392.279 | 437.31 | 527.109 | 607.567 | 456.607 | 421.1 | 473.4 | 663 | 745 | 876 | 1011 | 1266 | 1609 | 1793 |  |
 > | Net income |  |  | 130.551 | 115.055 | 123.099 | 170.149 | 251.732 | 292.235 | 351.68 | 398.628 | 304.887 | 262.3 | 294.9 | 327 | 414 | 558 | 633 | 815 | 1056 | 1170 |  |
@@ -41,7 +41,7 @@ WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, as it files with the SEC (CIK 00009434
 | FY2010 | 2010-01-01 | 2010-12-31 | 2.56 | 1.28 |
 | FY2011 | 2011-01-01 | 2011-12-31 | 1.76 | 1.76 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 2.6 | 2.6 |
-| FY2013 | 2013-01-01 |  | 3.01 | 3.01 |
+| FY2013 | 2013-01-01 | 2013-12-31 | 3.01 | 3.01 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 3.62 | 3.62 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 4.1 | 4.1 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 3.34 | 3.34 |
@@ -76,8 +76,8 @@ WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, as it files with the SEC (CIK 00009434
 | FY2012 Q4 | 2012 | 4 | 2012-12-31 | 610.4 | 180.48 | 100.462 | 64.765 | 0.67 | 123.913 | -11.307 | -18.559 | 0.67 |
 | FY2013 Q1 | 2013 | 1 | 2013-03-31 | 615.51 | 182.888 | 103.667 | 69.613 | 0.72 | 32.04 | -6.448 |  | 0.72 |
 | FY2013 Q2 | 2013 | 2 | 2013-06-30 | 638.002 | 192.881 | 112.554 | 74.638 | 0.77 | 13.056 | -8.16 |  | 0.77 |
-| FY2013 Q3 | 2013 | 3 | 2013-09-30 |  | 188.133 | 109.871 | 73.943 | 0.76 | 39.9 | -8.987 |  | 0.76 |
-| FY2013 Q4 | 2013 | 4 | 2013-12-31 |  | 200.125 | 111.218 | 74.041 | 0.76 | 150.657 | -17.643 | -27.512 | 0.76 |
+| FY2013 Q3 | 2013 | 3 | 2013-09-30 | 631.398 | 188.133 | 109.871 | 73.943 | 0.76 | 39.9 | -8.987 |  | 0.76 |
+| FY2013 Q4 | 2013 | 4 | 2013-12-31 | 681.482 | 200.125 | 111.218 | 74.041 | 0.76 | 150.657 | -17.643 | -27.512 | 0.76 |
 | FY2014 Q1 | 2014 | 1 | 2014-03-31 | 695.249 | 209.569 | 121.846 | 80.134 | 0.83 | 26.215 | -6.333 | -2.151 | 0.83 |
 | FY2014 Q2 | 2014 | 2 | 2014-06-30 | 731.068 | 224.658 | 132.323 | 88.705 | 0.91 |  | -12.024 | -14.471 | 0.91 |
 | FY2014 Q3 | 2014 | 3 | 2014-09-30 | 797.271 | 247.458 | 135.977 | 90.155 | 0.93 |  | -12.62 | -10.135 | 0.93 |
@@ -175,8 +175,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2008 | FY2009 | us-gaap:SalesRevenueNet |
-| Revenue | FY2010 | FY2013 | us-gaap:Revenues |
-| Revenue | FY2014 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2010 | FY2012 | us-gaap:Revenues |
+| Revenue | FY2013 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2008 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -200,11 +200,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2010 under both: 1507012000 and 1507012000
 - Source: SEC EDGAR companyfacts
 
-### Change: WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, Revenue tag, FY2014
+### Change: WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP, Revenue tag, FY2013
 
 - CIK: 0000943452
 - What: Revenue tag
-- Boundary: FY2014
+- Boundary: FY2013
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

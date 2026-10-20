@@ -13,9 +13,9 @@
 
 Alphabet Inc., as it files with the SEC (CIK 0001652044): its fiscal years and quarters from its XBRL filings, FY2013 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2022-07-27, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. Its shares in the S&P 500: GOOGL, GOOG.
 
-**How large is Alphabet Inc., and how has it grown?** The book holds no revenue of its for FY2025, the year the front page compares; its last is FY2024's, $350.0 billion.
+**How large is Alphabet Inc., and how has it grown?** It sold $402.8 billion in FY2025, the 5th most of the 488 companies with a revenue for the year, and the 1st of 75 in [Services](../Services.md). Its sales rose 437.2% from FY2015 to FY2025, 18.3% a year.
 
-**Does Alphabet Inc. make money, and how much of what it sells does it keep?** The book does not hold both a revenue and a net income of its for FY2025; it lost money in none of its 13 years in the book.
+**Does Alphabet Inc. make money, and how much of what it sells does it keep?** It earned $132.2 billion in FY2025, 32.8% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 13 years in the book.
 
 **Where does Alphabet Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $815.6 billion; it spent 40.1% of that on plant and equipment, and 42.4% on buying back its own shares.
 
@@ -24,13 +24,13 @@ Alphabet Inc., as it files with the SEC (CIK 0001652044): its fiscal years and q
 > [!CARD:line] Alphabet Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  | 55519 | 66001 | 74989 | 90272 | 110855 | 136819 | 161857 | 182527 | 257637 | 282836 | 307394 | 350018 |  |  |
+> | Revenue |  |  |  |  |  |  |  | 55519 | 66001 | 74989 | 90272 | 110855 | 136819 | 161857 | 182527 | 257637 | 282836 | 307394 | 350018 | 402836 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Operating income |  |  |  |  |  |  |  | 15403 | 16496 | 19360 | 23716 | 26178 | 27524 | 34231 | 41224 | 78714 | 74842 | 84293 | 112390 |  |  |
-> | Net income |  |  |  |  |  |  |  | 12733 | 14136 | 16348 | 19478 | 12662 | 30736 | 34343 | 40269 | 76033 | 59972 | 73795 | 100118 |  |  |
-> | Operating cash flow |  |  |  |  |  |  |  | 19140 | 23024 | 26572 | 36036 | 37091 | 47971 | 54520 | 65124 | 91652 | 91495 | 101746 | 125299 |  |  |
-> | Capex |  |  |  |  |  |  |  | -7358 | -11014 | -9950 | -10212 | -13184 | -25139 | -23548 | -22281 | -24640 | -31485 | -32251 | -52535 |  |  |
-> | Buybacks |  |  |  |  |  |  |  | 0 | 0 | -1780 | -3693 | -4846 | -9075 | -18396 | -31149 | -50274 | -59296 | -61504 | -62222 |  |  |
+> | Operating income |  |  |  |  |  |  |  | 15403 | 16496 | 19360 | 23716 | 26178 | 27524 | 34231 | 41224 | 78714 | 74842 | 84293 | 112390 | 129039 |  |
+> | Net income |  |  |  |  |  |  |  | 12733 | 14136 | 16348 | 19478 | 12662 | 30736 | 34343 | 40269 | 76033 | 59972 | 73795 | 100118 | 132170 |  |
+> | Operating cash flow |  |  |  |  |  |  |  | 19140 | 23024 | 26572 | 36036 | 37091 | 47971 | 54520 | 65124 | 91652 | 91495 | 101746 | 125299 | 164713 |  |
+> | Capex |  |  |  |  |  |  |  | -7358 | -11014 | -9950 | -10212 | -13184 | -25139 | -23548 | -22281 | -24640 | -31485 | -32251 | -52535 | -91447 |  |
+> | Buybacks |  |  |  |  |  |  |  | 0 | 0 | -1780 | -3693 | -4846 | -9075 | -18396 | -31149 | -50274 | -59296 | -61504 | -62222 | -45709 |  |
 
 #### EPS by year
 
@@ -48,6 +48,7 @@ Alphabet Inc., as it files with the SEC (CIK 0001652044): its fiscal years and q
 | FY2022 | 2022-01-01 | 2022-12-31 | 4.56 | 4.56 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 5.8 | 5.8 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 8.04 | 8.04 |
+| FY2025 | 2025-01-01 | 2025-12-31 | 10.81 | 10.81 |
 
 ## Quarterly
 
@@ -96,9 +97,9 @@ Alphabet Inc., as it files with the SEC (CIK 0001652044): its fiscal years and q
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 88268 |  | 28521 | 26301 | 2.12 | 30698 | -13061 | -15291 | 2.12 |
 | FY2024 Q4 | 2024 | 4 | 2024-12-31 | 96469 |  | 30972 | 26536 | 2.14 | 39113 | -14276 | -15551 | 2.14 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 90234 |  | 30606 | 34540 | 2.81 | 36150 | -17197 | -15068 | 2.81 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 |  |  | 31271 | 28196 | 2.31 | 27747 | -22446 | -13238 | 2.31 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 |  |  | 31228 | 34979 | 2.87 | 48414 | -23953 | -11904 | 2.87 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 |  |  | 35934 | 34455 | 2.82 | 52402 | -27851 | -5499 | 2.82 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 96428 |  | 31271 | 28196 | 2.31 | 27747 | -22446 | -13238 | 2.31 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 102346 |  | 31228 | 34979 | 2.87 | 48414 | -23953 | -11904 | 2.87 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 113829 |  | 35934 | 34455 | 2.82 | 52402 | -27851 | -5499 | 2.82 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 109896 |  | 39696 | 62578 | 5.11 | 45790 | -35674 | 0 | 5.11 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 119796 |  | 40770 | 112193 | 9.11 | 39069 | -44924 | 0 | 9.11 |
 
@@ -130,8 +131,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2013 | FY2016 | us-gaap:Revenues |
-| Revenue | FY2017 | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2026 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2017 | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2025 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2013 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2013 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2013 | FY2014 | us-gaap:EarningsPerShareDiluted |
@@ -152,11 +153,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 110855000000 and 110855000000
 - Source: SEC EDGAR companyfacts
 
-### Change: Alphabet Inc., Revenue tag, FY2026
+### Change: Alphabet Inc., Revenue tag, FY2025
 
 - CIK: 0001652044
 - What: Revenue tag
-- Boundary: FY2026
+- Boundary: FY2025
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

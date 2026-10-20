@@ -13,7 +13,7 @@
 
 PRICE T ROWE GROUP INC, as it files with the SEC (CIK 0001113169): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PRICE T ROWE GROUP INC, and how has it grown?** It sold $7.3 billion in FY2025, the 337th most of the 487 companies with a revenue for the year, and the 48th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 74.1% from FY2015 to FY2025, 5.7% a year.
+**How large is PRICE T ROWE GROUP INC, and how has it grown?** It sold $7.3 billion in FY2025, the 338th most of the 488 companies with a revenue for the year, and the 48th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 74.1% from FY2015 to FY2025, 5.7% a year.
 
 **Does PRICE T ROWE GROUP INC make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 28.5% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ PRICE T ROWE GROUP INC, as it files with the SEC (CIK 0001113169): its fiscal ye
 > [!CARD:line] PRICE T ROWE GROUP INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 2233.1 | 2121.3 | 1871.9 | 2370.7 |  | 3022.5 | 3484.2 | 3982.1 | 4200.6 | 4284.8 | 4854.9 | 5372.6 | 5617.9 | 6206.7 | 7671.9 | 6488.4 | 6460.5 | 7093.6 | 7314.8 |  |
+> | Revenue |  | 2233.1 | 2121.3 | 1871.9 | 2370.7 | 2747.1 | 3022.5 | 3484.2 | 3982.1 | 4200.6 | 4284.8 | 4854.9 | 5372.6 | 5617.9 | 6206.7 | 7671.9 | 6488.4 | 6460.5 | 7093.6 | 7314.8 |  |
 > | Gross profit |  | 2228.3 | 2116.3 | 1867.4 | 2367.2 | 2747.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 996.4 | 848.5 | 701.6 | 1036.5 | 1226.9 | 1364.3 | 1637.4 | 1890.9 | 1898.9 | 1733.4 | 2108.8 | 2361.4 | 2387 | 2745.7 | 3710 | 2373.7 | 1986.2 | 2333.3 | 2188.8 |  |
 > | Net income |  | 670.6 | 490.8 | 433.6 | 672.2 | 773.2 | 883.6 | 1047.7 | 1229.6 | 1223 | 1215 | 1497.8 | 1837.5 | 2131.3 | 2372.7 | 3082.9 | 1557.9 | 1788.7 | 2100.1 | 2087.1 |  |
@@ -40,7 +40,7 @@ PRICE T ROWE GROUP INC, as it files with the SEC (CIK 0001113169): its fiscal ye
 | FY2008 | 2008-01-01 | 2008-12-31 | 1.81 | 1.81 |
 | FY2009 | 2009-01-01 | 2009-12-31 | 1.65 | 1.65 |
 | FY2010 | 2010-01-01 | 2010-12-31 | 2.53 | 2.53 |
-| FY2011 | 2011-01-01 |  | 2.92 | 2.92 |
+| FY2011 | 2011-01-01 | 2011-12-31 | 2.92 | 2.92 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 3.36 | 3.36 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 3.9 | 3.9 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 4.55 | 4.55 |
@@ -72,10 +72,10 @@ PRICE T ROWE GROUP INC, as it files with the SEC (CIK 0001113169): its fiscal ye
 | FY2010 Q2 | 2010 | 2 | 2010-06-30 | 578.3 | 577.4 | 253.1 | 158.5 | 0.59 | 195.5 | -43 | -121.8 | 0.59 |
 | FY2010 Q3 | 2010 | 3 | 2010-09-30 | 587 | 586.1 | 261.9 | 169.1 | 0.64 | 259.3 | -33.4 | -85.5 | 0.64 |
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 648.3 | 647.5 | 282.8 | 191.6 | 0.72 | 21.3 | -16.6 | 0 | 0.72 |
-| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 683.2 | 682.4 | 311.5 | 194.6 | 0.72 | 336 | -11.7 | -31.3 | 0.72 |
-| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 714.5 | 713.7 | 326.6 | 204.7 | 0.76 | 274.5 | -21.3 | -204 | 0.76 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 680.2 | 679.4 | 295.2 | 185.5 | 0.71 |  | -16.5 | -226.3 | 0.71 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 |  | 671.6 | 293.6 | 188.4 | 0.73 |  | -32.8 | -18.1 | 0.73 |
+| FY2011 Q1 | 2011 | 1 | 2011-03-31 | 682.4 | 682.4 | 311.5 | 194.6 | 0.72 | 336 | -11.7 | -31.3 | 0.72 |
+| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 713.7 | 713.7 | 326.6 | 204.7 | 0.76 | 274.5 | -21.3 | -204 | 0.76 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 679.4 | 679.4 | 295.2 | 185.5 | 0.71 |  | -16.5 | -226.3 | 0.71 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 671.6 | 671.6 | 293.6 | 188.4 | 0.73 |  | -32.8 | -18.1 | 0.73 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 728.7 | 728.7 | 316.2 | 197.5 | 0.75 |  | -18.6 |  | 0.75 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 736.8 |  | 328 | 206.8 | 0.79 |  | -18 |  | 0.79 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 769.7 |  | 358.9 | 247.3 | 0.94 |  | -19.1 | -6 | 0.94 |
@@ -180,8 +180,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2011 | us-gaap:Revenues |
-| Revenue | FY2012 | FY2015 | us-gaap:RevenuesNetOfInterestExpense |
+| Revenue | FY2007 | FY2010 | us-gaap:Revenues |
+| Revenue | FY2011 | FY2015 | us-gaap:RevenuesNetOfInterestExpense |
 | Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2007 | FY2012 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -195,11 +195,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: PRICE T ROWE GROUP INC, Revenue tag, FY2012
+### Change: PRICE T ROWE GROUP INC, Revenue tag, FY2011
 
 - CIK: 0001113169
 - What: Revenue tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenuesNetOfInterestExpense
 - Crosswalk: none

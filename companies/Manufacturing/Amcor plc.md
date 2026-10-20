@@ -13,9 +13,9 @@
 
 Amcor plc, as it files with the SEC (CIK 0001748790): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2026-02-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Amcor plc, and how has it grown?** It sold $15.0 billion in FY2025, the 233rd most of the 487 companies with a revenue for the year, and the 96th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 64.9% from FY2017 to FY2025, 6.5% a year.
+**How large is Amcor plc, and how has it grown?** It sold $15.0 billion in FY2025, the 234th most of the 488 companies with a revenue for the year, and the 96th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 64.9% from FY2017 to FY2025, 6.5% a year.
 
-**Does Amcor plc make money, and how much of what it sells does it keep?** It earned $511 million in FY2025, 3.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 10 years in the book.
+**Does Amcor plc make money, and how much of what it sells does it keep?** It earned $511 million in FY2025, 3.4% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 10 years in the book.
 
 **Where does Amcor plc's cash go?** From FY2017 to FY2025 its operations brought in $11.3 billion; it spent 35.9% of that on plant and equipment, and 19.5% on buying back its own shares.
 

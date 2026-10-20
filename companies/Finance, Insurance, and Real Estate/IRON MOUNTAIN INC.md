@@ -13,7 +13,7 @@
 
 IRON MOUNTAIN INC, as it files with the SEC (CIK 0001020569): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is IRON MOUNTAIN INC, and how has it grown?** It sold $6.9 billion in FY2025, the 348th most of the 487 companies with a revenue for the year, and the 51st of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 96.5% from FY2016 to FY2025, 7.8% a year.
+**How large is IRON MOUNTAIN INC, and how has it grown?** It sold $6.9 billion in FY2025, the 349th most of the 488 companies with a revenue for the year, and the 51st of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 96.5% from FY2016 to FY2025, 7.8% a year.
 
 **Does IRON MOUNTAIN INC make money, and how much of what it sells does it keep?** It earned $152 million in FY2025, 2.2% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 10 years in the book.
 
@@ -177,8 +177,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | --- | --- | --- | --- |
 | Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2008 | FY2011 | us-gaap:NetIncomeLoss |
-| Net income | FY2012 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2008 | FY2010 | us-gaap:NetIncomeLoss |
+| Net income | FY2011 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2008 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
@@ -186,11 +186,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: IRON MOUNTAIN INC, Net income tag, FY2012
+### Change: IRON MOUNTAIN INC, Net income tag, FY2011
 
 - CIK: 0001020569
 - What: Net income tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

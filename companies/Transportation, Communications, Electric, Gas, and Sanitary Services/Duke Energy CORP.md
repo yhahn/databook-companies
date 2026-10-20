@@ -13,7 +13,7 @@
 
 Duke Energy CORP, as it files with the SEC (CIK 0001326160): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-11-08, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Duke Energy CORP, and how has it grown?** It sold $31.7 billion in FY2025, the 115th most of the 487 companies with a revenue for the year, and the 11th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 41.9% from FY2015 to FY2025, 3.6% a year.
+**How large is Duke Energy CORP, and how has it grown?** It sold $31.7 billion in FY2025, the 116th most of the 488 companies with a revenue for the year, and the 11th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 41.9% from FY2015 to FY2025, 3.6% a year.
 
 **Does Duke Energy CORP make money, and how much of what it sells does it keep?** It earned $5.0 billion in FY2025, 15.7% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ Duke Energy CORP, as it files with the SEC (CIK 0001326160): its fiscal years an
 > [!CARD:line] Duke Energy CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 12720 | 13207 | 12731 | 14272 | 14529 | 19624 |  | 22509 | 22371 | 22743 |  | 23757 | 24348 | 23253 | 24486 | 28675 | 28674 | 30050 | 31741 |  |
+> | Revenue |  | 12720 | 13207 | 12731 | 14272 | 14529 | 19624 | 22756 | 22509 | 22371 | 22743 |  | 23757 | 24348 | 23253 | 24486 | 28675 | 28674 | 30050 | 31741 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 2493 | 2511 | 2249 | 2461 | 2777 | 2911 | 4854 | 4842 | 5078 | 5202 | 5625 | 4685 | 5709 | 4571 | 5500 | 6012 | 7070 | 7926 | 8626 |  |
 > | Net income |  | 1500 | 1362 | 1075 | 1320 | 1706 | 1768 | 2665 | 1883 | 2816 | 2152 | 3059 | 2666 | 3748 | 1377 | 3908 | 2550 | 2841 | 4524 | 4968 |  |
@@ -42,7 +42,7 @@ Duke Energy CORP, as it files with the SEC (CIK 0001326160): its fiscal years an
 | FY2010 | 2010-01-01 | 2010-12-31 | 3 | 3 |
 | FY2011 | 2011-01-01 | 2011-12-31 | 3.83 | 3.83 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 3.07 | 3.07 |
-| FY2013 | 2013-01-01 |  | 3.76 | 3.76 |
+| FY2013 | 2013-01-01 | 2013-12-31 | 3.76 | 3.76 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 2.66 | 2.66 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 4.05 | 4.05 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 3.11 | 3.11 |
@@ -79,10 +79,10 @@ Duke Energy CORP, as it files with the SEC (CIK 0001326160): its fiscal years an
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 3577 |  | 786 | 444 | 0.99 | 1130 | -1264 |  | 0.99 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 6722 |  | 1078 | 594 | 0.85 | 1977 | -1593 |  | 0.85 |
 | FY2012 Q4 | 2012 | 4 | 2012-12-31 | 5695 |  | 767 | 435 | 0.62 | 1265 | -1656 |  | 0.62 |
-| FY2013 Q1 | 2013 | 1 | 2013-03-31 | 5898 |  | 1259 | 634 | 0.89 | 1091 | -1375 |  | 0.89 |
-| FY2013 Q2 | 2013 | 2 | 2013-06-30 |  |  | 742 | 339 | 0.48 | 1752 | -1340 |  | 0.48 |
-| FY2013 Q3 | 2013 | 3 | 2013-09-30 |  |  | 1660 | 1004 | 1.42 | 2147 | -1139 |  | 1.42 |
-| FY2013 Q4 | 2013 | 4 | 2013-12-31 |  |  | 1193 | 688 | 0.97 | 1392 | -1672 |  | 0.97 |
+| FY2013 Q1 | 2013 | 1 | 2013-03-31 | 5536 |  | 1259 | 634 | 0.89 | 1091 | -1375 |  | 0.89 |
+| FY2013 Q2 | 2013 | 2 | 2013-06-30 | 5393 |  | 742 | 339 | 0.48 | 1752 | -1340 |  | 0.48 |
+| FY2013 Q3 | 2013 | 3 | 2013-09-30 | 6217 |  | 1660 | 1004 | 1.42 | 2147 | -1139 |  | 1.42 |
+| FY2013 Q4 | 2013 | 4 | 2013-12-31 | 5610 |  | 1193 | 688 | 0.97 | 1392 | -1672 |  | 0.97 |
 | FY2014 Q1 | 2014 | 1 | 2014-03-31 | 6263 |  | 1362 | -97 | -0.14 | 1373 | -1232 |  | -0.14 |
 | FY2014 Q2 | 2014 | 2 | 2014-06-30 | 5708 |  | 1289 | 609 | 0.86 | 1246 | -1168 |  | 0.86 |
 | FY2014 Q3 | 2014 | 3 | 2014-09-30 | 6395 |  | 1619 | 1274 | 1.8 | 2548 | -1355 |  | 1.8 |
@@ -143,8 +143,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2013 | us-gaap:Revenues |
-| Revenue | FY2014 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2012 | us-gaap:Revenues |
+| Revenue | FY2013 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
@@ -155,11 +155,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Duke Energy CORP, Revenue tag, FY2014
+### Change: Duke Energy CORP, Revenue tag, FY2013
 
 - CIK: 0001326160
 - What: Revenue tag
-- Boundary: FY2014
+- Boundary: FY2013
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

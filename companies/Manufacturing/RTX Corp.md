@@ -13,11 +13,11 @@
 
 RTX Corp, as it files with the SEC (CIK 0000101829): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is RTX Corp, and how has it grown?** It sold $88.6 billion in FY2025, the 39th most of the 487 companies with a revenue for the year, and the 15th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 57.9% from FY2015 to FY2025, 4.7% a year.
+**How large is RTX Corp, and how has it grown?** It sold $88.6 billion in FY2025, the 40th most of the 488 companies with a revenue for the year, and the 15th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 57.9% from FY2015 to FY2025, 4.7% a year.
 
-**Does RTX Corp make money, and how much of what it sells does it keep?** It earned $6.7 billion in FY2025, 7.6% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2020).
+**Does RTX Corp make money, and how much of what it sells does it keep?** It earned $6.7 billion in FY2025, 7.6% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 19 years in the book (FY2020).
 
-**Where does RTX Corp's cash go?** From FY2016 to FY2025 its operations brought in $61.4 billion; it spent 29.9% of that on plant and equipment, and 37% on buying back its own shares.
+**Where does RTX Corp's cash go?** From FY2016 to FY2025 its operations brought in $61.4 billion; it spent 33.3% of that on plant and equipment, and 37% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ RTX Corp, as it files with the SEC (CIK 0000101829): its fiscal years and quarte
 > | Operating income |  | 7050 | 7509 | 6377 | 6898 | 7846 | 7684 | 8549 | 9593 | 7291 | 8221 | 2989 | 2877 | 4914 | -1889 | 5136 | 5504 | 3561 | 6538 | 9300 |  |
 > | Net income |  | 4224 | 4689 | 3829 | 4373 | 4979 | 5130 | 5721 | 6220 | 7608 | 5055 | 4552 | 5269 | 5537 | -3519 | 3864 | 5197 | 3195 | 4774 | 6732 |  |
 > | Operating cash flow |  | 5330 | 6161 | 5353 | 5720 | 6460 | 6605 | 7314 | 6979 | 6755 | 6412 | 2282 | 2670 | 5821 | 4334 | 7142 | 7168 | 7883 | 7159 | 10567 |  |
-> | Capex |  |  | -1216 | -826 | -838 | -929 | -1389 | -1569 | -1594 | -1652 | -1699 | -1556 | -1467 | -1868 | -1795 |  | -2288 | -2415 | -2625 | -2627 |  |
+> | Capex |  |  | -1216 | -826 | -838 | -929 | -1389 | -1569 | -1594 | -1652 | -1699 | -1556 | -1467 | -1868 | -1795 | -2134 | -2288 | -2415 | -2625 | -2627 |  |
 > | Buybacks |  | -2001 | -3160 | -1100 | -2200 | -2175 | 0 | -1200 | -1500 | -10000 | -2254 | -1453 | -325 | -151 | -47 | -2327 | -2803 | -12870 | -444 | -50 |  |
 
 #### EPS by year
@@ -243,8 +243,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2013 | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Operating cash flow | FY2022 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2008 | FY2021 | us-gaap:PaymentsToAcquireProductiveAssets |
-| Capex | FY2022 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2008 | FY2020 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2021 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -299,11 +299,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2022 under both: 7168000000 and 7168000000
 - Source: SEC EDGAR companyfacts
 
-### Change: RTX Corp, Capex tag, FY2022
+### Change: RTX Corp, Capex tag, FY2021
 
 - CIK: 0000101829
 - What: Capex tag
-- Boundary: FY2022
+- Boundary: FY2021
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: none

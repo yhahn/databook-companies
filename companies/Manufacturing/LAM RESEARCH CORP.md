@@ -13,9 +13,9 @@
 
 LAM RESEARCH CORP, as it files with the SEC (CIK 0000707549): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2024-10-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is LAM RESEARCH CORP, and how has it grown?** It sold $18.4 billion in FY2025, the 190th most of the 487 companies with a revenue for the year, and the 83rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 250.5% from FY2015 to FY2025, 13.4% a year.
+**How large is LAM RESEARCH CORP, and how has it grown?** It sold $18.4 billion in FY2025, the 191st most of the 488 companies with a revenue for the year, and the 83rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 250.5% from FY2015 to FY2025, 13.4% a year.
 
-**Does LAM RESEARCH CORP make money, and how much of what it sells does it keep?** It earned $5.4 billion in FY2025, 29.1% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 18 years in the book (FY2009).
+**Does LAM RESEARCH CORP make money, and how much of what it sells does it keep?** It earned $5.4 billion in FY2025, 29.1% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 18 years in the book (FY2009).
 
 **Where does LAM RESEARCH CORP's cash go?** From FY2016 to FY2025 its operations brought in $34.0 billion; it spent 10.8% of that on plant and equipment, and 69.4% on buying back its own shares.
 
@@ -24,7 +24,7 @@ LAM RESEARCH CORP, as it files with the SEC (CIK 0000707549): its fiscal years a
 > [!CARD:line] LAM RESEARCH CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 1115.946 | 2133.776 | 3237.693 |  | 3598.916 | 4607.309 | 5259.312 | 5885.893 | 8013.62 | 11076.998 | 9653.559 | 10044.736 | 14626.15 | 17227.039 | 17428.516 | 14905.386 | 18435.591 | 23232.69 |
+> | Revenue |  |  |  | 1115.946 | 2133.776 | 3237.693 | 2665.192 | 3598.916 | 4607.309 | 5259.312 | 5885.893 | 8013.62 | 11076.998 | 9653.559 | 10044.736 | 14626.15 | 17227.039 | 17428.516 | 14905.386 | 18435.591 | 23232.69 |
 > | Gross profit |  |  |  | 388.734 | 969.935 | 1497.232 | 1084.069 | 1403.059 | 2007.481 | 2284.336 | 2618.922 | 3603.359 | 5165.032 | 4358.459 | 4608.693 | 6805.306 | 7871.807 | 7776.925 | 7052.791 | 8979.059 | 11725.308 |
 > | Operating income |  |  |  | -281.243 | 425.41 | 804.285 | 237.733 | 118.071 | 677.669 | 788.039 | 1074.256 | 1902.132 | 3213.299 | 2464.732 | 2673.802 | 4482.023 | 5381.822 | 5174.86 | 4263.913 | 5900.968 | 8199.795 |
 > | Net income |  |  |  | -302.148 | 346.669 | 723.748 | 168.723 | 113.879 | 632.289 | 655.577 | 914.049 | 1697.763 | 2380.681 | 2191.43 | 2251.753 | 3908.458 | 4605.286 | 4510.931 | 3827.772 | 5358.217 | 7265.396 |
@@ -39,7 +39,7 @@ LAM RESEARCH CORP, as it files with the SEC (CIK 0000707549): its fiscal years a
 | FY2009 | 2008-06-30 | 2009-06-28 | -2.41 | -0.241 |
 | FY2010 | 2009-06-29 | 2010-06-27 | 2.71 | 0.271 |
 | FY2011 | 2010-06-28 | 2011-06-26 | 5.79 | 0.579 |
-| FY2012 | 2011-06-27 |  | 1.35 | 0.135 |
+| FY2012 | 2011-06-27 | 2012-06-24 | 1.35 | 0.135 |
 | FY2013 | 2012-07-01 | 2013-06-30 | 0.66 | 0.066 |
 | FY2014 | 2013-07-01 | 2014-06-29 | 3.62 | 0.362 |
 | FY2015 | 2014-06-30 | 2015-06-28 | 3.7 | 0.37 |
@@ -70,7 +70,7 @@ LAM RESEARCH CORP, as it files with the SEC (CIK 0000707549): its fiscal years a
 | FY2012 Q1 | 2012 | 1 | 2011-09-25 | 680.436 | 283.883 | 99.399 | 71.838 | 0.58 | 86.9 | -15.732 | -72.053 | 0.058 |
 | FY2012 Q2 | 2012 | 2 | 2011-12-25 | 583.981 | 234.826 | 47.546 | 33.212 | 0.27 | 169.016 | -26.682 | -20.642 | 0.027 |
 | FY2012 Q3 | 2012 | 3 | 2012-03-25 | 658.961 | 267.147 | 58.118 | 45.604 | 0.38 | 146.397 | -27.978 | -18.909 | 0.038 |
-| FY2012 Q4 | 2012 | 4 | 2012-06-24 |  | 298.213 | 32.67 | 18.069 | 0.11 | 96.715 | -36.88 | -661.059 | 0.011 |
+| FY2012 Q4 | 2012 | 4 | 2012-06-24 | 741.814 | 298.213 | 32.67 | 18.069 | 0.11 | 96.715 | -36.88 | -661.059 | 0.011 |
 | FY2013 Q1 | 2013 | 1 | 2012-09-23 |  |  |  |  |  | 249.262 |  |  |  |
 | FY2013 Q2 | 2013 | 2 | 2012-12-23 | 860.886 | 315.414 | 4.042 | 6.408 | 0.04 | 193.226 |  |  | 0.004 |
 | FY2013 Q3 | 2013 | 3 | 2013-03-31 | 844.928 | 339.832 | 10.819 | 18.996 | 0.11 | 102.457 |  | -86.4 | 0.011 |
@@ -212,8 +212,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2009 | FY2012 | us-gaap:Revenues |
-| Revenue | FY2013 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2009 | FY2011 | us-gaap:Revenues |
+| Revenue | FY2012 | FY2017 | us-gaap:SalesRevenueNet |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -227,11 +227,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: LAM RESEARCH CORP, Revenue tag, FY2013
+### Change: LAM RESEARCH CORP, Revenue tag, FY2012
 
 - CIK: 0000707549
 - What: Revenue tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

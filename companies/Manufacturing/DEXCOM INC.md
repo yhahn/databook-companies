@@ -13,9 +13,9 @@
 
 DEXCOM INC, as it files with the SEC (CIK 0001093557): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2022-07-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DEXCOM INC, and how has it grown?** It sold $4.7 billion in FY2025, the 407th most of the 487 companies with a revenue for the year, and the 174th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 1059.7% from FY2015 to FY2025, 27.8% a year.
+**How large is DEXCOM INC, and how has it grown?** It sold $4.7 billion in FY2025, the 408th most of the 488 companies with a revenue for the year, and the 174th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 1059.7% from FY2015 to FY2025, 27.8% a year.
 
-**Does DEXCOM INC make money, and how much of what it sells does it keep?** It earned $836 million in FY2025, 17.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 10 of its 17 years in the book (FY2009, FY2010, FY2011 and 7 more).
+**Does DEXCOM INC make money, and how much of what it sells does it keep?** It earned $836 million in FY2025, 17.9% of what it sold; the median company of its sector kept 11.7%. It lost money in 10 of its 17 years in the book (FY2009, FY2010, FY2011 and 7 more).
 
 **Where does DEXCOM INC's cash go?** From FY2016 to FY2025 its operations brought in $5.4 billion; it spent 42.6% of that on plant and equipment, and 48.5% on buying back its own shares.
 
@@ -24,7 +24,7 @@ DEXCOM INC, as it files with the SEC (CIK 0001093557): its fiscal years and quar
 > [!CARD:line] DEXCOM INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 29.693 | 48.6 | 76.3 | 99.9 | 160 |  | 402 | 573.3 | 718.5 | 1031.6 | 1476 | 1926.7 | 2448.5 | 2909.8 | 3622.3 | 4033 | 4662 |  |
+> | Revenue |  |  |  | 29.693 | 48.6 | 76.3 | 99.9 | 160 | 259.2 | 402 | 573.3 | 718.5 | 1031.6 | 1476 | 1926.7 | 2448.5 | 2909.8 | 3622.3 | 4033 | 4662 |  |
 > | Gross profit |  |  |  | 3.661 | 18.4 | 35.9 | 46.6 | 100.1 | 176.3 | 278.4 | 378.4 | 492.1 | 663.9 | 931.5 | 1280.1 | 1680.5 | 1883.1 | 2288.9 | 2438.2 | 2801.9 |  |
 > | Operating income |  |  |  | -45.833 | -45.3 | -44.8 | -55.7 | -28.9 | -21.5 | -57.1 | -63.9 | -42.5 | -186.3 | 142.3 | 299.5 | 265.8 | 391.2 | 597.7 | 600 | 911.8 |  |
 > | Net income |  |  |  | -53.524 | -55.2 | -44.7 | -54.5 | -29.8 | -22.4 | -57.6 | -65.6 | -50.2 | -127.1 | 101.1 | 549.7 | 216.9 | 341.2 | 541.5 | 576.2 | 836.3 |  |
@@ -41,7 +41,7 @@ DEXCOM INC, as it files with the SEC (CIK 0001093557): its fiscal years and quar
 | FY2011 | 2011-01-01 | 2011-12-31 | -0.68 | -0.17 |
 | FY2012 | 2012-01-01 | 2012-12-31 | -0.79 | -0.1975 |
 | FY2013 | 2013-01-01 | 2013-12-31 | -0.42 | -0.105 |
-| FY2014 | 2014-01-01 |  | -0.3 | -0.075 |
+| FY2014 | 2014-01-01 | 2014-12-31 | -0.3 | -0.075 |
 | FY2015 | 2015-01-01 | 2015-12-31 | -0.72 | -0.18 |
 | FY2016 | 2016-01-01 | 2016-12-31 | -0.78 | -0.195 |
 | FY2017 | 2017-01-01 | 2017-12-31 | -0.58 | -0.145 |
@@ -154,8 +154,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2009 | FY2014 | us-gaap:Revenues |
-| Revenue | FY2015 | FY2015 | us-gaap:SalesRevenueNet |
+| Revenue | FY2009 | FY2013 | us-gaap:Revenues |
+| Revenue | FY2014 | FY2015 | us-gaap:SalesRevenueNet |
 | Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -168,11 +168,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: DEXCOM INC, Revenue tag, FY2015
+### Change: DEXCOM INC, Revenue tag, FY2014
 
 - CIK: 0001093557
 - What: Revenue tag
-- Boundary: FY2015
+- Boundary: FY2014
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

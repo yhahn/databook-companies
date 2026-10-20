@@ -13,11 +13,11 @@
 
 RAYMOND JAMES FINANCIAL INC, as it files with the SEC (CIK 0000720005): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-11-23, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is RAYMOND JAMES FINANCIAL INC, and how has it grown?** It sold $15.9 billion in FY2025, the 222nd most of the 487 companies with a revenue for the year, and the 33rd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 199.7% from FY2015 to FY2025, 11.6% a year.
+**How large is RAYMOND JAMES FINANCIAL INC, and how has it grown?** It sold $15.9 billion in FY2025, the 223rd most of the 488 companies with a revenue for the year, and the 33rd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 199.7% from FY2015 to FY2025, 11.6% a year.
 
 **Does RAYMOND JAMES FINANCIAL INC make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 13.4% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 18 years in the book.
 
-**Where does RAYMOND JAMES FINANCIAL INC's cash go?** From FY2017 to FY2025 its operations brought in $13.2 billion; it spent 10% of that on plant and equipment, and 9.6% on buying back its own shares.
+**Where does RAYMOND JAMES FINANCIAL INC's cash go?** From FY2016 to FY2025 its operations brought in $12.6 billion; it spent 11.4% of that on plant and equipment, and 11.4% on buying back its own shares.
 
 ## Annual
 
@@ -28,7 +28,7 @@ RAYMOND JAMES FINANCIAL INC, as it files with the SEC (CIK 0000720005): its fisc
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  | 235.078 | 152.75 | 228.283 | 278.353 | 295.869 | 367.154 | 480.248 | 502.14 | 529.35 | 636 | 857 | 1034 | 818 | 1403 | 1509 | 1739 | 2068 | 2135 |  |
-> | Operating cash flow |  |  | 227.169 | 374.159 | -1021.393 | 1558.441 | 391.289 | 659.805 | 507.587 | 899.177 |  | -125 | 884 | 577 | 4073 | 6647 | 72 | -3514 | 2155 | 2434 |  |
+> | Operating cash flow |  |  | 227.169 | 374.159 | -1021.393 | 1558.441 | 391.289 | 659.805 | 507.587 | 899.177 | -573.318 | -125 | 884 | 577 | 4073 | 6647 | 72 | -3514 | 2155 | 2434 |  |
 > | Capex |  |  | -51.043 | -35.539 | -22.287 | -37.2 | -77.515 | -72.879 | -60.149 | -74.111 | -121.733 | -190 | -134 | -138 | -124 | -74 | -91 | -173 | -205 | -188 |  |
 > | Buybacks |  |  | -67.243 | -4.339 | -3.537 | -23.111 | -20.86 | -11.718 | -8.427 | -88.542 | -162.502 | -34 | -62 | -778 | -272 | -128 |  |  |  |  |  |
 
@@ -331,8 +331,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2013 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2013 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2008 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2008 | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -348,11 +348,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: RAYMOND JAMES FINANCIAL INC, Operating cash flow tag, FY2017
+### Change: RAYMOND JAMES FINANCIAL INC, Operating cash flow tag, FY2016
 
 - CIK: 0000720005
 - What: Operating cash flow tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: none

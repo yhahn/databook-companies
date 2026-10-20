@@ -13,9 +13,9 @@
 
 LOCKHEED MARTIN CORP, as it files with the SEC (CIK 0000936468): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is LOCKHEED MARTIN CORP, and how has it grown?** It sold $75.0 billion in FY2025, the 49th most of the 487 companies with a revenue for the year, and the 17th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 85.1% from FY2015 to FY2025, 6.4% a year.
+**How large is LOCKHEED MARTIN CORP, and how has it grown?** It sold $75.0 billion in FY2025, the 50th most of the 488 companies with a revenue for the year, and the 17th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 85.1% from FY2015 to FY2025, 6.4% a year.
 
-**Does LOCKHEED MARTIN CORP make money, and how much of what it sells does it keep?** It earned $5.0 billion in FY2025, 6.7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does LOCKHEED MARTIN CORP make money, and how much of what it sells does it keep?** It earned $5.0 billion in FY2025, 6.7% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does LOCKHEED MARTIN CORP's cash go?** From FY2016 to FY2025 its operations brought in $70.8 billion; it spent 21.2% of that on plant and equipment, and 46% on buying back its own shares.
 
@@ -29,7 +29,7 @@ LOCKHEED MARTIN CORP, as it files with the SEC (CIK 0000936468): its fiscal year
 > | Operating income |  | 4527 | 5049 | 4367 | 4105 | 4020 | 4434 | 4505 | 5012 | 4712 | 5888 | 6744 | 7334 | 8545 | 8644 | 9123 | 8348 | 8507 | 7013 | 7731 |  |
 > | Net income |  | 3033 | 3217 | 2973 | 2878 | 2655 | 2745 | 2981 | 3614 | 3605 | 5173 | 1963 | 5046 | 6230 | 6833 | 6315 | 5732 | 6920 | 5336 | 5017 |  |
 > | Operating cash flow |  | 4238 | 4421 | 3487 | 3801 | 4253 | 1561 | 4546 | 3866 | 5101 | 5189 | 6476 | 3138 | 7311 | 8183 | 9221 | 7802 | 7920 | 6972 | 8557 |  |
-> | Capex |  | -940 | -926 | -852 | -1074 | -987 | -942 |  | -845 | -939 | -1063 | -1177 | -1278 | -1484 | -1766 | -1522 | -1670 | -1691 | -1685 | -1649 |  |
+> | Capex |  | -940 | -926 | -852 | -1074 | -987 | -942 | -836 | -845 | -939 | -1063 | -1177 | -1278 | -1484 | -1766 | -1522 | -1670 | -1691 | -1685 | -1649 |  |
 > | Buybacks |  | -2127 | -2931 | -1851 | -2420 | -2465 | -990 | -1762 | -1900 | -3071 | -2096 | -2001 | -1492 | -1200 | -1100 | -4087 | -7900 | -6000 | -3700 | -3000 |  |
 
 #### EPS by year
@@ -82,7 +82,7 @@ LOCKHEED MARTIN CORP, as it files with the SEC (CIK 0000936468): its fiscal year
 | FY2013 Q1 | 2013 | 1 | 2013-03-31 | 11070 | 1041 | 1119 | 761 | 2.33 | 2085 | -106 | -461 | 2.33 |
 | FY2013 Q2 | 2013 | 2 | 2013-06-30 | 11408 | 1224 | 1298 | 859 | 2.64 | 623 | -176 | -465 | 2.64 |
 | FY2013 Q3 | 2013 | 3 | 2013-09-29 | 11347 | 1184 | 1254 | 873 | 2.66 | 900 | -209 | -607 | 2.66 |
-| FY2013 Q4 | 2013 | 4 | 2013-12-31 | 11533 | 738 | 834 | 488 | 1.5 | 938 |  | -229 | 1.5 |
+| FY2013 Q4 | 2013 | 4 | 2013-12-31 | 11533 | 738 | 834 | 488 | 1.5 | 938 | -345 | -229 | 1.5 |
 | FY2014 Q1 | 2014 | 1 | 2014-03-30 | 10650 | 1371 | 1432 | 933 | 2.87 | 2100 | -103 | -1106 | 2.87 |
 | FY2014 Q2 | 2014 | 2 | 2014-06-29 | 11306 | 1341 | 1426 | 889 | 2.76 | 977 | -150 | -124 | 2.76 |
 | FY2014 Q3 | 2014 | 3 | 2014-09-28 | 11114 | 1275 | 1392 | 888 | 2.76 | 990 | -203 | -446 | 2.76 |
@@ -243,8 +243,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2013 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2014 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2007 | FY2012 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2013 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -269,11 +269,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2019 under both: 59812000000 and 59812000000
 - Source: SEC EDGAR companyfacts
 
-### Change: LOCKHEED MARTIN CORP, Capex tag, FY2014
+### Change: LOCKHEED MARTIN CORP, Capex tag, FY2013
 
 - CIK: 0000936468
 - What: Capex tag
-- Boundary: FY2014
+- Boundary: FY2013
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

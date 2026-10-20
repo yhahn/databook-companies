@@ -13,9 +13,9 @@
 
 TEXTRON INC, as it files with the SEC (CIK 0000217346): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TEXTRON INC, and how has it grown?** It sold $14.8 billion in FY2025, the 236th most of the 487 companies with a revenue for the year, and the 97th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 10.3% from FY2015 to FY2025, 1% a year.
+**How large is TEXTRON INC, and how has it grown?** It sold $14.8 billion in FY2025, the 237th most of the 488 companies with a revenue for the year, and the 97th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 10.3% from FY2015 to FY2025, 1% a year.
 
-**Does TEXTRON INC make money, and how much of what it sells does it keep?** It earned $921 million in FY2025, 6.2% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 18 years in the book (FY2009).
+**Does TEXTRON INC make money, and how much of what it sells does it keep?** It earned $921 million in FY2025, 6.2% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 18 years in the book (FY2009).
 
 **Where does TEXTRON INC's cash go?** From FY2016 to FY2025 its operations brought in $11.4 billion; it spent 33% of that on plant and equipment, and 71.7% on buying back its own shares.
 
@@ -24,7 +24,7 @@ TEXTRON INC, as it files with the SEC (CIK 0000217346): its fiscal years and qua
 > [!CARD:line] TEXTRON INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 14010 | 10500 | 10525 | 11275 | 12237 | 12104 | 13878 | 13423 | 13788 | 14198 | 13972 | 13630 |  | 12382 | 12869 | 13683 | 13702 | 14799 |  |
+> | Revenue |  |  | 14010 | 10500 | 10525 | 11275 | 12237 | 12104 | 13878 | 13423 | 13788 | 14198 | 13972 | 13630 | 11651 | 12382 | 12869 | 13683 | 13702 | 14799 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  | 486 | -31 | 86 | 242 | 589 | 498 | 600 | 697 | 962 | 307 | 1222 | 815 | 309 | 746 | 861 | 921 | 824 | 921 |  |
@@ -48,7 +48,7 @@ TEXTRON INC, as it files with the SEC (CIK 0000217346): its fiscal years and qua
 | FY2017 | 2017-01-01 | 2017-12-30 | 1.14 | 1.14 |
 | FY2018 | 2017-12-31 | 2018-12-29 | 4.83 | 4.83 |
 | FY2019 | 2018-12-30 | 2020-01-04 |  |  |
-| FY2020 | 2020-01-05 |  |  |  |
+| FY2020 | 2020-01-05 | 2021-01-02 |  |  |
 | FY2021 | 2021-01-03 | 2022-01-01 | 3.3 | 3.3 |
 | FY2022 | 2022-01-02 | 2022-12-31 | 4.01 | 4.01 |
 | FY2023 | 2023-01-01 | 2023-12-30 | 4.56 | 4.56 |
@@ -105,8 +105,8 @@ TEXTRON INC, as it files with the SEC (CIK 0000217346): its fiscal years and qua
 | FY2019 Q4 | 2019 | 4 | 2020-01-04 | 4035 |  |  | 199 |  | 791 | -123 | -33 |  |
 | FY2020 Q1 | 2020 | 1 | 2020-04-04 | 2777 |  |  | 50 |  | -395 | -50 | -54 |  |
 | FY2020 Q2 | 2020 | 2 | 2020-07-04 | 2472 |  |  | -92 |  | 243 | -46 | 0 |  |
-| FY2020 Q3 | 2020 | 3 | 2020-10-03 |  |  |  | 115 |  | 351 | -55 | 0 |  |
-| FY2020 Q4 | 2020 | 4 | 2021-01-02 |  |  |  | 236 |  | 569 | -166 | -129 |  |
+| FY2020 Q3 | 2020 | 3 | 2020-10-03 | 2735 |  |  | 115 |  | 351 | -55 | 0 |  |
+| FY2020 Q4 | 2020 | 4 | 2021-01-02 | 3667 |  |  | 236 |  | 569 | -166 | -129 |  |
 | FY2021 Q1 | 2021 | 1 | 2021-04-03 | 2879 |  |  | 171 | 0.75 | 181 | -53 | -91 | 0.75 |
 | FY2021 Q2 | 2021 | 2 | 2021-07-03 | 3191 |  |  | 183 | 0.8 | 591 | -75 | -196 | 0.8 |
 | FY2021 Q3 | 2021 | 3 | 2021-10-02 | 2990 |  |  | 185 |  | 401 | -76 | -299 |  |
@@ -216,8 +216,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2008 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2021 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2020 | FY2026 | us-gaap:Revenues |
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2018 | us-gaap:EarningsPerShareDiluted |
 | EPS diluted | FY2021 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -239,11 +239,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 13972000000 and 13972000000
 - Source: SEC EDGAR companyfacts
 
-### Change: TEXTRON INC, Revenue tag, FY2021
+### Change: TEXTRON INC, Revenue tag, FY2020
 
 - CIK: 0000217346
 - What: Revenue tag
-- Boundary: FY2021
+- Boundary: FY2020
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

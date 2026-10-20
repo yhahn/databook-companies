@@ -13,11 +13,11 @@
 
 UNITED RENTALS, INC., as it files with the SEC (CIK 0001067701): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is UNITED RENTALS, INC., and how has it grown?** It sold $3.7 billion in FY2025, the 433rd most of the 487 companies with a revenue for the year, and the 62nd of 74 in [Services](../Services.md). Its sales fell 36.5% from FY2015 to FY2025, −4.4% a year.
+**How large is UNITED RENTALS, INC., and how has it grown?** It sold $3.7 billion in FY2025, the 434th most of the 488 companies with a revenue for the year, and the 63rd of 75 in [Services](../Services.md). Its sales fell 36.5% from FY2015 to FY2025, −4.4% a year.
 
-**Does UNITED RENTALS, INC. make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 67.5% of what it sold; the median company of its sector kept 16.1%. It lost money in 2 of its 17 years in the book (FY2009, FY2010).
+**Does UNITED RENTALS, INC. make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 67.5% of what it sold; the median company of its sector kept 16.3%. It lost money in 2 of its 17 years in the book (FY2009, FY2010).
 
-**Where does UNITED RENTALS, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $35.2 billion; it spent 35.5% of that on plant and equipment, and 23.5% on buying back its own shares.
+**Where does UNITED RENTALS, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $35.2 billion; it spent 44.5% of that on plant and equipment, and 23.5% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ UNITED RENTALS, INC., as it files with the SEC (CIK 0001067701): its fiscal year
 > | Operating income |  |  |  | 114 | 197 | 396 | 591 | 1078 | 1391 | 1518 | 1415 | 1507 | 1951 | 2152 | 1800 | 2277 | 3232 | 3827 | 4065 | 3973 |  |
 > | Net income |  |  |  | -62 | -26 | 101 | 75 | 387 | 540 | 585 | 566 | 1346 | 1096 | 1174 | 890 | 1386 | 2105 | 2424 | 2575 | 2494 |  |
 > | Operating cash flow |  |  |  | 438 | 452 | 612 | 721 | 1551 | 1801 | 1995 | 1941 | 2209 | 2853 | 3024 | 2658 | 3689 | 4433 | 4704 | 4546 | 5190 |  |
-> | Capex |  |  |  | -51 | -28 | -36 | -97 | -104 | -120 | -102 | -93 | -120 | -185 | -218 | -197 |  | -3690 | -3864 | -4130 |  |  |
+> | Capex |  |  |  | -51 | -28 | -36 | -97 | -104 | -120 | -102 | -93 | -120 | -185 | -218 | -197 | -3198 | -3690 | -3864 | -4130 |  |  |
 > | Buybacks |  |  |  | -1 | -1 | -7 | -131 | -115 | -613 | -789 | -528 | -56 | -817 | -870 | -286 | -34 | -1068 | -1070 | -1571 | -1969 |  |
 
 #### EPS by year
@@ -102,10 +102,10 @@ UNITED RENTALS, INC., as it files with the SEC (CIK 0001067701): its fiscal year
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 |  | 701 | 381 | 212 | 2.93 | 817 | -49 | 0 | 2.93 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 490 | 886 | 551 | 208 | 2.87 | 827 | -43 | -5 | 2.87 |
 | FY2020 Q4 | 2020 | 4 | 2020-12-31 | 588 | 869 | 510 | 297 | 4.09 | 370 | -52 | -5 | 4.09 |
-| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 539 | 714 | 372 | 203 | 2.8 | 758 | -19 | -30 | 2.8 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 510 | 875 | 481 | 293 | 4.02 | 1176 | -34 | -2 | 4.02 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 523 | 1103 | 679 | 409 | 5.63 | 1087 |  | -1 | 5.63 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 684 | 1161 | 745 | 481 | 6.61 | 668 |  | -1 | 6.61 |
+| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 539 | 714 | 372 | 203 | 2.8 | 758 | -314 | -30 | 2.8 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 510 | 875 | 481 | 293 | 4.02 | 1176 | -947 | -2 | 4.02 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 523 | 1103 | 679 | 409 | 5.63 | 1087 | -1189 | -1 | 5.63 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 684 | 1161 | 745 | 481 | 6.61 | 668 | -748 | -1 | 6.61 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 554 | 992 | 572 | 367 | 5.05 | 886 | -537 | -318 | 5.05 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 556 | 1150 | 715 | 493 | 6.9 | 1154 | -940 | -501 | 6.9 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 578 | 1366 | 921 | 606 | 8.66 | 1142 | -1161 | -239 | 8.66 |
@@ -226,8 +226,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2009 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2009 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2009 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2009 | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2022 | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2009 | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2021 | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2009 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -262,11 +262,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2020 under both: 8530000000 and 1994000000
 - Source: SEC EDGAR companyfacts
 
-### Change: UNITED RENTALS, INC., Capex tag, FY2022
+### Change: UNITED RENTALS, INC., Capex tag, FY2021
 
 - CIK: 0001067701
 - What: Capex tag
-- Boundary: FY2022
+- Boundary: FY2021
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

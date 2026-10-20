@@ -109,15 +109,18 @@ function rows(f, tag, { first = false } = {}) {
 // by the year they end in (a span ending in January's first week, the
 // year before) plus the offset most of its 10-Ks agree on (0, or -1 where
 // a year is named for the calendar year it mostly falls in: Home Depot's
-// 2024 ended 2025-02-02). A map, each year-long span's end -> its year.
+// 2024 ended 2025-02-02). Where two year-long spans would take one name
+// (ADP's years to June, and a calendar year its notes file; PPG's 2024 to
+// December 30 in one fact, to December 31 in the rest), the year is the
+// span the 10-Ks file most facts for. A map, each fiscal year's end -> its year.
 function fiscalYears(f) {
   const cur = new Map(); // accn -> {end, fy}
-  const ends = new Set();
+  const ends = new Map(); // end -> facts filed for a year-long span to it
   for (const node of Object.values(f.facts['us-gaap'] || {})) {
     for (const unit of Object.values(node.units)) {
       for (const r of unit) {
         if (r.form !== '10-K' || !isYear(r) || r.end > r.filed) continue;
-        ends.add(r.end);
+        ends.set(r.end, (ends.get(r.end) || 0) + 1);
         if (!r.fy) continue;
         const c = cur.get(r.accn);
         if (!c || r.end > c.end) cur.set(r.accn, { end: r.end, fy: r.fy });
@@ -128,19 +131,38 @@ function fiscalYears(f) {
   const votes = new Map();
   for (const c of cur.values()) { const o = c.fy - year(c.end); votes.set(o, (votes.get(o) || 0) + 1); }
   const offset = [...votes].sort((a, b) => b[1] - a[1] || b[0] - a[0])[0]?.[0] ?? 0;
-  return new Map([...ends].sort().map((e) => [e, year(e) + offset]));
+  const best = new Map(); // year -> end
+  for (const [e, n] of [...ends].sort()) {
+    const y = year(e) + offset, b = best.get(y);
+    if (b === undefined || n > ends.get(b)) best.set(y, e);
+  }
+  return new Map([...best].map(([y, e]) => [e, y]).sort());
+}
+
+// A line item's year to an end, from the first tag of the cascade that files
+// the year and a 10-Q within it: a line is what the company files every
+// quarter, and a tag filed only in the 10-K is a part of it (Charter's
+// RevenueFromContractWithCustomerIncludingAssessedTax, 889 million of its
+// 54,774 in FY2025). Else the first tag that files the year.
+function yearRow(f, tags, end) {
+  let only = null;
+  for (const tag of tags) {
+    const all = rows(f, tag);
+    const r = all.find((x) => isYear(x) && x.end === end);
+    if (!r) continue;
+    if (all.some((x) => x.form === '10-Q' && x.end > r.start && x.end < r.end)) return { r, tag };
+    only ??= { r, tag };
+  }
+  return only;
 }
 
 // A line item's value for a fiscal year (the year-long span the company names
-// so), from the first tag of the cascade that files it.
+// so), by yearRow.
 function annual(f, tags, fy) {
   const ends = [...fiscalYears(f)].filter(([, y]) => y === fy).map(([e]) => e);
   if (ends.length !== 1) return null;
-  for (const tag of tags) {
-    const r = rows(f, tag).find((x) => isYear(x) && x.end === ends[0]);
-    if (r) return { val: r.val, tag, end: r.end, start: r.start, filed: r.filed, accn: r.accn };
-  }
-  return null;
+  const x = yearRow(f, tags, ends[0]);
+  return x && { val: x.r.val, tag: x.tag, end: x.r.end, start: x.r.start, filed: x.r.filed, accn: x.r.accn };
 }
 
 const REVENUE = ['RevenueFromContractWithCustomerExcludingAssessedTax', 'RevenueFromContractWithCustomerIncludingAssessedTax', 'Revenues', 'RevenuesNetOfInterestExpense', 'SalesRevenueNet'];
@@ -148,15 +170,12 @@ const NET_INCOME = ['NetIncomeLoss', 'ProfitLoss'];
 const OPERATING_CASH = ['NetCashProvidedByUsedInOperatingActivities', 'NetCashProvidedByUsedInOperatingActivitiesContinuingOperations'];
 const mn = (v) => v / 1e6;
 // annual()'s reading with the years already named: a line item's value for a
-// fiscal year, $ millions, from the first tag of the cascade that files it
+// fiscal year, $ millions, by yearRow
 function yearValue(f, fys, tags, fy) {
   const ends = [...fys].filter(([, y]) => y === fy).map(([e]) => e);
   if (ends.length !== 1) return null;
-  for (const tag of tags) {
-    const r = rows(f, tag).find((x) => isYear(x) && x.end === ends[0]);
-    if (r) return mn(r.val);
-  }
-  return null;
+  const x = yearRow(f, tags, ends[0]);
+  return x ? mn(x.r.val) : null;
 }
 
 // The splits the filings show: a period's diluted EPS filed again in a
@@ -323,7 +342,7 @@ const ANSWERS = {
   'co-across-4': () => {
     const top = companies().map((t) => ({ t, r: summary(t).revenue2024 })).filter((x) => x.r).sort((x, y) => y.r.val - x.r.val).slice(0, 5);
     return { answer: top.map((x) => x.t), text: top.map((x) => `${x.t} (${mn(x.r.val)})`).join(', '),
-      note: `Revenue (the first of the revenue tags filed) for the year each company names 2024, latest filed: ${top.map((x) => `${x.t} ${x.r.start} to ${x.r.end}, us-gaap:${x.r.tag}`).join('; ')}.` };
+      note: `Revenue (the first of the revenue tags filed for the year and in its 10-Qs) for the year each company names 2024, latest filed: ${top.map((x) => `${x.t} ${x.r.start} to ${x.r.end}, us-gaap:${x.r.tag}`).join('; ')}.` };
   },
 
   // Join
@@ -426,7 +445,7 @@ const ANSWERS = {
   },
   'co-analysis-2': () => {
     const up = margins().filter(({ m }) => m.every((x, i) => i === 0 || x > m[i - 1])).map((x) => x.t).sort();
-    return { answer: up, note: `Operating income (us-gaap:OperatingIncomeLoss) over revenue (the first of the revenue tags filed), each year FY2021 to FY2025 as each company names it; of ${margins().length} companies with all five, ${up.length} rose every year.` };
+    return { answer: up, note: `Operating income (us-gaap:OperatingIncomeLoss) over revenue (the first of the revenue tags filed for the year and in its 10-Qs), each year FY2021 to FY2025 as each company names it; of ${margins().length} companies with all five, ${up.length} rose every year.` };
   },
   'co-analysis-3': () => {
     let bb = 0, ni = 0;
@@ -489,7 +508,7 @@ const READING = {
     const Y = theYear(), cs = companies(), r = top(cs, Y, 'rev'), n = top(cs, Y, 'ni');
     const ans = { year: Y, revenue_top: r[0], revenue_top_millions: val(r[0], Y, 'rev'), net_income_top: n[0], net_income_top_millions: val(n[0], Y, 'ni') };
     return { answer: ans, text: `FY${Y}: revenue, ${r[0]} (${ans.revenue_top_millions}); net income, ${n[0]} (${ans.net_income_top_millions}) ($ millions)`,
-      note: `${cs.length} companies; FY${Y}, the latest year in which at least 95 of every 100 with a revenue the year before have one (${r.length} with a revenue for it). Revenue, the first of the revenue tags filed for the year; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.` };
+      note: `${cs.length} companies; FY${Y}, the latest year in which at least 95 of every 100 with a revenue the year before have one (${r.length} with a revenue for it). Revenue, the first of the revenue tags filed for the year and in its 10-Qs; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.` };
   },
   'co-reading-2': () => {
     const Y = theYear(), B = Y - 10, ys = Array.from({ length: 11 }, (_, i) => B + i);
@@ -522,7 +541,7 @@ const READING = {
       net_income_millions: val('AAPL', Y, 'ni'), margin_pct: r1(100 * val('AAPL', Y, 'ni') / val('AAPL', Y, 'rev')),
       operating_cash_millions: r1(sum(ocf)), buybacks_pct: r1(100 * sum(bb) / sum(ocf)) };
     return { answer: ans, text: `FY${Y}: revenue ${ans.revenue_millions}, the ${ans.rank}th most; up ${ans.rise_pct}% from FY${from}; net income ${ans.net_income_millions}, ${ans.margin_pct}% of revenue; FY${B + 1} to FY${Y}, operating cash flow ${ans.operating_cash_millions}, ${ans.buybacks_pct}% of it on buybacks ($ millions)`,
-      note: `companyfacts CIK0000320193: revenue (the first revenue tag filed), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the ${r.length} members with a revenue for FY${Y}.` };
+      note: `companyfacts CIK0000320193: revenue (the first revenue tag filed for the year and in its 10-Qs), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the ${r.length} members with a revenue for FY${Y}.` };
   },
 };
 Object.assign(ANSWERS, READING);

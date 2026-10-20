@@ -13,7 +13,7 @@
 
 Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Invitation Homes Inc., and how has it grown?** It sold $2.7 billion in FY2025, the 454th most of the 487 companies with a revenue for the year, and the 72nd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 4484.4% from FY2015 to FY2025, 46.6% a year.
+**How large is Invitation Homes Inc., and how has it grown?** It sold $2.7 billion in FY2025, the 455th most of the 488 companies with a revenue for the year, and the 72nd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 4484.4% from FY2015 to FY2025, 46.6% a year.
 
 **Does Invitation Homes Inc. make money, and how much of what it sells does it keep?** It earned $588 million in FY2025, 21.5% of what it sold; the median company of its sector kept 21.5%. It lost money in 4 of its 11 years in the book (FY2015, FY2016, FY2017, FY2018).
 
@@ -24,7 +24,7 @@ Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal yea
 > [!CARD:line] Invitation Homes Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  | 59.535 | 44.596 |  | 1722.962 | 1764.685 | 1822.828 | 1996.615 | 2238.121 | 2432.278 | 2618.942 | 2729.296 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  | 59.535 | 44.596 | 1054.456 | 1722.962 | 1764.685 | 1822.828 | 1996.615 | 2238.121 | 2432.278 | 2618.942 | 2729.296 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  | 114.377 | 190.777 | 118.207 |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  | -160.208 | -78.239 | -105.337 | -4.927 | 145.463 | 196.212 | 261.425 | 383.329 | 519.47 | 453.917 | 587.924 |  |
@@ -38,7 +38,7 @@ Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal yea
 | --- | --- | --- | --- | --- |
 | FY2015 | 2015-01-01 | 2015-12-31 |  |  |
 | FY2016 | 2016-01-01 | 2016-12-31 |  |  |
-| FY2017 | 2017-01-01 |  |  |  |
+| FY2017 | 2017-01-01 | 2017-12-31 |  |  |
 | FY2018 | 2018-01-01 | 2018-12-31 | -0.01 | -0.01 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 0.27 | 0.27 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 0.35 | 0.35 |
@@ -52,10 +52,10 @@ Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal yea
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FY2017 Q1 | 2017 | 1 | 2017-03-31 |  |  | 12.086 | -42.391 |  | 76.074 | -0.27 |  |  |
-| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 13.712 |  | 53.594 | 5.529 |  | 93.784 | -1.224 |  |  |
-| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 14.161 |  | 29.917 | -22.51 |  | 100.579 | -1.315 |  |  |
-| FY2017 Q4 | 2017 | 4 | 2017-12-31 |  |  | 22.61 | -45.965 |  | -7.467 | -1.277 |  |  |
+| FY2017 Q1 | 2017 | 1 | 2017-03-31 | 238.75 |  | 12.086 | -42.391 |  | 76.074 | -0.27 |  |  |
+| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 242.216 |  | 53.594 | 5.529 |  | 93.784 | -1.224 |  |  |
+| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 243.536 |  | 29.917 | -22.51 |  | 100.579 | -1.315 |  |  |
+| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 329.954 |  | 22.61 | -45.965 |  | -7.467 | -1.277 |  |  |
 | FY2018 Q1 | 2018 | 1 | 2018-03-31 | 423.669 |  | 67.481 | -17.269 | -0.03 | 130.08 | -0.029 |  | -0.03 |
 | FY2018 Q2 | 2018 | 2 | 2018-06-30 | 432.426 |  | 77.466 | -13.946 | -0.03 | 180.255 | -1.803 |  | -0.03 |
 | FY2018 Q3 | 2018 | 3 | 2018-09-30 | 434.251 |  | 83.763 | 1.02 | 0 | 202.746 | -1.716 |  | 0 |
@@ -101,8 +101,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2015 | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2018 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2015 | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2017 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2015 | FY2018 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2015 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2018 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -112,11 +112,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Invitation Homes Inc., Revenue tag, FY2018
+### Change: Invitation Homes Inc., Revenue tag, FY2017
 
 - CIK: 0001687229
 - What: Revenue tag
-- Boundary: FY2018
+- Boundary: FY2017
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

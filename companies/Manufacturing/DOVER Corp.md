@@ -13,11 +13,11 @@
 
 DOVER Corp, as it files with the SEC (CIK 0000029905): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DOVER Corp, and how has it grown?** It sold $8.1 billion in FY2025, the 326th most of the 487 companies with a revenue for the year, and the 138th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 16.3% from FY2015 to FY2025, 1.5% a year.
+**How large is DOVER Corp, and how has it grown?** It sold $8.1 billion in FY2025, the 327th most of the 488 companies with a revenue for the year, and the 138th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 16.3% from FY2015 to FY2025, 1.5% a year.
 
-**Does DOVER Corp make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 13.5% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does DOVER Corp make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 13.5% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
-**Where does DOVER Corp's cash go?** From FY2016 to FY2025 its operations brought in $8.9 billion; it spent 18.2% of that on plant and equipment, and 26.9% on buying back its own shares.
+**Where does DOVER Corp's cash go?** From FY2016 to FY2025 its operations brought in $10.0 billion; it spent 17.9% of that on plant and equipment, and 29% on buying back its own shares.
 
 ## Annual
 
@@ -28,7 +28,7 @@ DOVER Corp, as it files with the SEC (CIK 0000029905): its fiscal years and quar
 > | Gross profit |  | 2619.502 | 2730.007 | 2013.144 | 2422.646 | 2844.803 | 2579.989 | 2778.591 | 2974.249 | 2568.144 | 2227.552 | 2529.047 | 2559.556 | 2620.938 | 2474.019 | 2969.786 | 2904.953 | 2867.544 | 2958.621 | 3218.169 |  |
 > | Operating income |  | 1005.497 | 1029.33 | 591.129 | 923.049 | 1123.849 | 1059.028 | 1161.67 | 1215.484 | 920.762 | 708.972 | 806.886 | 843.112 | 974.894 | 932.987 | 1281.508 | 1279.641 | 1219.34 | 1206.355 | 1373.361 |  |
 > | Net income |  | 661.08 | 590.831 | 356.438 | 700.104 | 895.243 | 811.07 | 1003.129 | 775.235 | 869.829 | 508.892 | 811.665 | 570.267 | 677.918 | 683.451 | 1123.818 | 1065.376 | 1056.828 | 2697.126 | 1093.956 |  |
-> | Operating cash flow |  | 927.693 | 1010.416 | 743.381 | 830.295 | 948.864 | 968.369 | 979.612 | 950.164 | 949.059 | 734.596 | 739.409 | 789.193 | 945.306 | 1104.81 | 1115.865 | 805.724 | 1336.345 |  | 1338.005 |  |
+> | Operating cash flow |  | 927.693 | 1010.416 | 743.381 | 830.295 | 948.864 | 968.369 | 979.612 | 950.164 | 949.059 | 734.596 | 739.409 | 789.193 | 945.306 | 1104.81 | 1115.865 | 805.724 | 1336.345 | 1087.833 | 1338.005 |  |
 > | Capex |  | -173.653 | -175.795 | -112.972 | -169.297 | -262.676 | -146.502 | -141.694 | -166.033 | -154.251 | -139.578 | -170.068 | -170.994 | -186.804 | -165.692 | -171.465 | -211.082 | -183.406 | -167.533 | -220.263 |  |
 > | Buybacks |  | -596.009 | -466.737 | 0 | -123.555 | -242.488 | -748.955 | -457.871 | -601.077 | -600.164 | 0 | -105.023 | -894.977 | -143.28 | -106.279 | -21.637 | -585 | 0 | -500 | -540.7 |  |
 
@@ -123,10 +123,10 @@ DOVER Corp, as it files with the SEC (CIK 0000029905): its fiscal years and quar
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 2100.086 | 758.836 | 324.496 | 242.239 | 1.72 | 195.254 | -40.079 | 0 | 1.72 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 1958.428 | 739.381 | 336.543 | 289.753 | 2.06 | 383.457 | -37.677 | 0 | 2.06 |
 | FY2023 Q4 | 2023 | 4 | 2023-12-31 | 1904.812 | 718.903 | 304.922 | 296.262 | 2.11 | 516.35 | -57.275 | 0 | 2.11 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1883.719 | 697.187 | 254.206 | 632.221 | 4.52 | 166.593 | -40.05 | -500 | 4.52 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1948.782 | 752.523 | 323.468 | 281.822 | 2.04 | 203.662 | -35.822 | 0 | 2.04 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1983.542 | 763.187 | 333.617 | 347.1 | 2.51 |  | -37.754 | 0 | 2.51 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1929.866 | 745.724 | 295.064 | 1435.983 | 10.37 |  | -53.907 | 0 | 10.37 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1883.719 | 697.187 | 254.206 | 632.221 | 4.52 | 146.456 | -40.05 | -500 | 4.52 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1948.782 | 752.523 | 323.468 | 281.822 | 2.04 | 149.181 | -35.822 | 0 | 2.04 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1983.542 | 763.187 | 333.617 | 347.1 | 2.51 | 353.244 | -37.754 | 0 | 2.51 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1929.866 | 745.724 | 295.064 | 1435.983 | 10.37 | 438.952 | -53.907 | 0 | 10.37 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1866.059 | 745.5 | 296.309 | 230.821 | 1.67 | 157.474 | -48.192 | -40.7 | 1.67 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 2049.592 | 818.262 | 354.597 | 279.064 | 2.02 | 212.34 | -60.932 | 0 | 2.02 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 2077.841 | 833.594 | 377.153 | 301.996 | 2.19 | 424.245 | -54.15 | 0 | 2.19 |
@@ -235,8 +235,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2020 | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2025 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2020 | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2024 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -272,11 +272,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2020 under both: 1104810000 and 1104810000
 - Source: SEC EDGAR companyfacts
 
-### Change: DOVER Corp, Operating cash flow tag, FY2025
+### Change: DOVER Corp, Operating cash flow tag, FY2024
 
 - CIK: 0000029905
 - What: Operating cash flow tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none

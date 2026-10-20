@@ -13,9 +13,9 @@
 
 Qnity Electronics, Inc., as it files with the SEC (CIK 0002058873): its fiscal years and quarters from its XBRL filings, FY2023 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Qnity Electronics, Inc., and how has it grown?** It sold $4.8 billion in FY2025, the 401st most of the 487 companies with a revenue for the year, and the 171st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 17.8% from FY2023 to FY2025, 8.5% a year.
+**How large is Qnity Electronics, Inc., and how has it grown?** It sold $4.8 billion in FY2025, the 402nd most of the 488 companies with a revenue for the year, and the 171st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 17.8% from FY2023 to FY2025, 8.5% a year.
 
-**Does Qnity Electronics, Inc. make money, and how much of what it sells does it keep?** It earned $729 million in FY2025, 15.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 3 years in the book.
+**Does Qnity Electronics, Inc. make money, and how much of what it sells does it keep?** It earned $729 million in FY2025, 15.3% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 3 years in the book.
 
 **Where does Qnity Electronics, Inc.'s cash go?** From FY2023 to FY2025 its operations brought in $3.2 billion; it spent 22.3% of that on plant and equipment, and 0% on buying back its own shares.
 

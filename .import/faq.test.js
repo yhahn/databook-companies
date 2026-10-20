@@ -69,7 +69,7 @@ company_tickers_exchange.json: CIK 104169, Walmart Inc., WMT, Nasdaq. (Walmart m
 - Tolerance:
 - Look in: [companies/Retail Trade/Walmart Inc](./companies/Retail%20Trade/Walmart%20Inc.md), [companies/Retail Trade/AMAZON COM INC](./companies/Retail%20Trade/AMAZON%20COM%20INC.md), [companies/Finance, Insurance, and Real Estate/UNITEDHEALTH GROUP INC](./companies/Finance,%20Insurance,%20and%20Real%20Estate/UNITEDHEALTH%20GROUP%20INC.md), [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md), [companies/Retail Trade/CVS HEALTH Corp](./companies/Retail%20Trade/CVS%20HEALTH%20Corp.md)
 
-Revenue (the first of the revenue tags filed) for the year each company names 2024, latest filed: WMT 2023-02-01 to 2024-01-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; AMZN 2024-01-01 to 2024-12-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; UNH 2024-01-01 to 2024-12-31, us-gaap:Revenues; AAPL 2023-10-01 to 2024-09-28, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; CVS 2024-01-01 to 2024-12-31, us-gaap:Revenues.
+Revenue (the first of the revenue tags filed for the year and in its 10-Qs) for the year each company names 2024, latest filed: WMT 2023-02-01 to 2024-01-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; AMZN 2024-01-01 to 2024-12-31, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; UNH 2024-01-01 to 2024-12-31, us-gaap:Revenues; AAPL 2023-10-01 to 2024-09-28, us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax; CVS 2024-01-01 to 2024-12-31, us-gaap:Revenues.
 `,
   "co-gap-1": `### Question: co-gap-1
 

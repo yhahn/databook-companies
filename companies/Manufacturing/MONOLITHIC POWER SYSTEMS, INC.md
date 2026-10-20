@@ -13,9 +13,9 @@
 
 MONOLITHIC POWER SYSTEMS, INC., as it files with the SEC (CIK 0001280452): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MONOLITHIC POWER SYSTEMS, INC., and how has it grown?** It sold $2.8 billion in FY2025, the 450th most of the 487 companies with a revenue for the year, and the 196th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 737.8% from FY2015 to FY2025, 23.7% a year.
+**How large is MONOLITHIC POWER SYSTEMS, INC., and how has it grown?** It sold $2.8 billion in FY2025, the 451st most of the 488 companies with a revenue for the year, and the 196th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 737.8% from FY2015 to FY2025, 23.7% a year.
 
-**Does MONOLITHIC POWER SYSTEMS, INC. make money, and how much of what it sells does it keep?** It earned $621 million in FY2025, 22.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 17 years in the book.
+**Does MONOLITHIC POWER SYSTEMS, INC. make money, and how much of what it sells does it keep?** It earned $621 million in FY2025, 22.3% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 17 years in the book.
 
 **Where does MONOLITHIC POWER SYSTEMS, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $3.7 billion; it spent 21.8% of that on plant and equipment, and 17.5% on buying back its own shares.
 
@@ -24,7 +24,7 @@ MONOLITHIC POWER SYSTEMS, INC., as it files with the SEC (CIK 0001280452): its f
 > [!CARD:line] MONOLITHIC POWER SYSTEMS, INC., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 165.008 | 218.84 | 196.519 | 213.813 | 238.091 | 282.535 | 333.067 |  | 470.929 | 582.382 | 627.921 | 844.452 | 1207.798 | 1794.148 | 1821.072 | 2207.1 | 2790.459 |  |
+> | Revenue |  |  |  | 165.008 | 218.84 | 196.519 | 213.813 | 238.091 | 282.535 | 333.067 | 388.665 | 470.929 | 582.382 | 627.921 | 844.452 | 1207.798 | 1794.148 | 1821.072 | 2207.1 | 2790.459 |  |
 > | Gross profit |  |  |  | 97.678 | 121.457 | 101.594 | 113.148 | 127.901 | 152.618 | 180.169 | 210.873 | 258.283 | 322.668 | 346.325 | 465.954 | 685.459 | 1048.552 | 1021.119 | 1220.87 | 1539.741 |  |
 > | Operating income |  |  |  | 19.53 | 30.498 | 13.417 | 17.279 | 23.915 | 35.3 | 41.07 | 54.447 | 77.424 | 113.488 | 102.562 | 158.882 | 262.417 | 526.785 | 481.736 | 539.358 | 728.636 |  |
 > | Net income |  |  |  | 19.674 | 29.563 | 13.301 | 15.756 | 22.898 | 35.495 | 35.172 | 52.72 | 65.203 | 105.268 | 108.839 | 164.375 | 242.023 | 437.672 | 427.374 | 1592.058 | 621.483 |  |
@@ -43,7 +43,7 @@ MONOLITHIC POWER SYSTEMS, INC., as it files with the SEC (CIK 0001280452): its f
 | FY2013 | 2013-01-01 | 2013-12-31 | 0.59 | 0.59 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 0.89 | 0.89 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 0.86 | 0.86 |
-| FY2016 | 2016-01-01 |  | 1.26 | 1.26 |
+| FY2016 | 2016-01-01 | 2016-12-31 | 1.26 | 1.26 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 1.5 | 1.5 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 2.36 | 2.36 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 2.38 | 2.38 |
@@ -201,8 +201,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2009 | FY2016 | us-gaap:Revenues |
-| Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2009 | FY2015 | us-gaap:Revenues |
+| Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2009 | FY2010 | us-gaap:ProfitLoss |
@@ -218,11 +218,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: MONOLITHIC POWER SYSTEMS, INC., Revenue tag, FY2017
+### Change: MONOLITHIC POWER SYSTEMS, INC., Revenue tag, FY2016
 
 - CIK: 0001280452
 - What: Revenue tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: none

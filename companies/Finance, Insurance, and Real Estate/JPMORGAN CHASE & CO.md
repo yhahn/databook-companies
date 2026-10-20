@@ -13,7 +13,7 @@
 
 JPMORGAN CHASE & CO, as it files with the SEC (CIK 0000019617): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is JPMORGAN CHASE & CO, and how has it grown?** It sold $182.4 billion in FY2025, the 18th most of the 487 companies with a revenue for the year, and the 5th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 95% from FY2015 to FY2025, 6.9% a year.
+**How large is JPMORGAN CHASE & CO, and how has it grown?** It sold $182.4 billion in FY2025, the 19th most of the 488 companies with a revenue for the year, and the 5th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 95% from FY2015 to FY2025, 6.9% a year.
 
 **Does JPMORGAN CHASE & CO make money, and how much of what it sells does it keep?** It earned $57.0 billion in FY2025, 31.2% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
 

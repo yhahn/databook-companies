@@ -13,9 +13,9 @@
 
 TEXAS INSTRUMENTS INC, as it files with the SEC (CIK 0000097476): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TEXAS INSTRUMENTS INC, and how has it grown?** It sold $17.7 billion in FY2025, the 196th most of the 487 companies with a revenue for the year, and the 86th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 36% from FY2015 to FY2025, 3.1% a year.
+**How large is TEXAS INSTRUMENTS INC, and how has it grown?** It sold $17.7 billion in FY2025, the 197th most of the 488 companies with a revenue for the year, and the 86th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 36% from FY2015 to FY2025, 3.1% a year.
 
-**Does TEXAS INSTRUMENTS INC make money, and how much of what it sells does it keep?** It earned $5.0 billion in FY2025, 28.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does TEXAS INSTRUMENTS INC make money, and how much of what it sells does it keep?** It earned $5.0 billion in FY2025, 28.3% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does TEXAS INSTRUMENTS INC's cash go?** From FY2016 to FY2025 its operations brought in $67.3 billion; it spent 35% of that on plant and equipment, and 32.9% on buying back its own shares.
 

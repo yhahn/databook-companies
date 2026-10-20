@@ -13,7 +13,7 @@
 
 MCKESSON CORP, as it files with the SEC (CIK 0000927653): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MCKESSON CORP, and how has it grown?** It sold $359.1 billion in FY2025, the 6th most of the 487 companies with a revenue for the year, and the 1st of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 100.5% from FY2015 to FY2025, 7.2% a year.
+**How large is MCKESSON CORP, and how has it grown?** It sold $359.1 billion in FY2025, the 7th most of the 488 companies with a revenue for the year, and the 1st of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 100.5% from FY2015 to FY2025, 7.2% a year.
 
 **Does MCKESSON CORP make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 0.9% of what it sold; the median company of its sector kept 2.7%. It lost money in 1 of its 18 years in the book (FY2021).
 
@@ -24,7 +24,7 @@ MCKESSON CORP, as it files with the SEC (CIK 0000927653): its fiscal years and q
 > [!CARD:line] MCKESSON CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 101703 | 106632 | 108702 | 112084 |  | 122196 | 137392 | 179045 | 190884 | 198533 | 208357 | 214319 | 231051 | 238228 | 263966 | 276711 | 308951 | 359051 | 403430 |
+> | Revenue |  |  | 101703 | 106632 | 108702 | 112084 | 122321 | 122196 | 137392 | 179045 | 190884 | 198533 | 208357 | 214319 | 231051 | 238228 | 263966 | 276711 | 308951 | 359051 | 403430 |
 > | Gross profit |  |  | 5009 | 5378 | 5676 | 5970 | 6402 | 6881 | 8352 | 11411 | 11416 | 11271 | 11184 | 11754 | 12023 | 12148 | 13130 | 12358 | 12828 | 13323 | 14550 |
 > | Operating income |  |  | 1478 | 1196 | 2008 | 1821 | 2124 | 2347 | 2439 | 2968 | 3545 | 7122 | 762 | 886 | 2489 | -5040 | 2038 | 4381 | 3909 | 4422 | 6212 |
 > | Net income |  |  |  | 823 | 1263 | 1202 | 1403 | 1338 | 1263 | 1476 | 2258 | 5070 | 67 | 34 | 900 | -4539 | 1114 | 3560 | 3002 | 3295 | 4762 |
@@ -40,7 +40,7 @@ MCKESSON CORP, as it files with the SEC (CIK 0000927653): its fiscal years and q
 | FY2009 | 2008-04-01 | 2009-03-31 | 2.95 | 2.95 |
 | FY2010 | 2009-04-01 | 2010-03-31 | 4.62 | 4.62 |
 | FY2011 | 2010-04-01 | 2011-03-31 | 4.57 | 4.57 |
-| FY2012 | 2011-04-01 |  | 5.59 | 5.59 |
+| FY2012 | 2011-04-01 | 2012-03-31 | 5.59 | 5.59 |
 | FY2013 | 2012-04-01 | 2013-03-31 | 5.59 | 5.59 |
 | FY2014 | 2013-04-01 | 2014-03-31 | 5.41 | 5.41 |
 | FY2015 | 2014-04-01 | 2015-03-31 | 6.27 | 6.27 |
@@ -73,9 +73,9 @@ MCKESSON CORP, as it files with the SEC (CIK 0000927653): its fiscal years and q
 | FY2011 Q3 | 2011 | 3 | 2010-12-31 | 28247 | 1461 | 307 | 155 | 0.6 | 540 | -50 | -1 | 0.6 |
 | FY2011 Q4 | 2011 | 4 | 2011-03-31 | 28853 | 1751 | 623 | 422 | 1.62 | 1000 | -76 | -502 | 1.62 |
 | FY2012 Q1 | 2012 | 1 | 2011-06-30 | 29980 | 1509 | 472 | 286 | 1.13 | 326 | -58 | -672 | 1.13 |
-| FY2012 Q2 | 2012 | 2 | 2011-09-30 |  | 1647 | 478 | 296 | 1.18 | 1069 | -68 | 0 | 1.18 |
-| FY2012 Q3 | 2012 | 3 | 2011-12-31 |  | 1566 | 492 | 300 | 1.2 | 321 | -44 | 0 | 1.2 |
-| FY2012 Q4 | 2012 | 4 | 2012-03-31 |  | 1845 | 682 | 521 | 2.09 | 1234 | -51 | -1202 | 2.09 |
+| FY2012 Q2 | 2012 | 2 | 2011-09-30 | 30216 | 1647 | 478 | 296 | 1.18 | 1069 | -68 | 0 | 1.18 |
+| FY2012 Q3 | 2012 | 3 | 2011-12-31 | 30839 | 1566 | 492 | 300 | 1.2 | 321 | -44 | 0 | 1.2 |
+| FY2012 Q4 | 2012 | 4 | 2012-03-31 | 31699 | 1845 | 682 | 521 | 2.09 | 1234 | -51 | -1202 | 2.09 |
 | FY2013 Q1 | 2013 | 1 | 2012-06-30 | 30699 | 1561 | 576 | 380 | 1.58 | -552 | -45 | -53 | 1.58 |
 | FY2013 Q2 | 2013 | 2 | 2012-09-30 | 29755 | 1683 | 606 | 401 | 1.67 | 1011 | -38 | 0 | 1.67 |
 | FY2013 Q3 | 2013 | 3 | 2012-12-31 | 31099 | 1645 | 498 | 298 | 1.24 | -183 | -62 | -360 | 1.24 |
@@ -181,8 +181,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2008 | FY2012 | us-gaap:Revenues |
-| Revenue | FY2013 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2008 | FY2011 | us-gaap:Revenues |
+| Revenue | FY2012 | FY2017 | us-gaap:SalesRevenueNet |
 | Revenue | FY2018 | FY2027 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2008 | FY2027 | us-gaap:GrossProfit |
 | Operating income | FY2008 | FY2027 | us-gaap:OperatingIncomeLoss |
@@ -195,11 +195,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: MCKESSON CORP, Revenue tag, FY2013
+### Change: MCKESSON CORP, Revenue tag, FY2012
 
 - CIK: 0000927653
 - What: Revenue tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

@@ -8,19 +8,19 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Construction among the S&P 500?** Its 8 companies with a revenue and a net income for FY2025 sold $155.4 billion, 0.9% of the sales of all the 500's, and kept $12.8 billion as net income, 0.7% of theirs. It kept 8.3% of what it sold; all the companies together, 11.8%.
+**How large is Construction among the S&P 500?** Its 8 companies with a revenue and a net income for FY2025 sold $155.4 billion, 0.9% of the sales of all the 500's, and kept $12.8 billion as net income, 0.6% of theirs. It kept 8.3% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Construction grown?** Its 6 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 148.8% more in FY2025 than in FY2015, 9.5% a year, and their net income went from $2.9 billion to $10.8 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Construction grown?** Its 7 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 144.8% more in FY2025 than in FY2015, 9.4% a year, and their net income went from $3.0 billion to $11.8 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
-The rise in revenue since FY2015, each year, in percent: the sector's 6 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
+The rise in revenue since FY2015, each year, in percent: the sector's 7 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Construction | 0 | 9.6 | 10.7 | 44.6 | 57.9 | 66.6 | 102.1 | 127.8 | 136.1 | 152.2 | 148.8 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | Construction | 0 | 9.4 | 10.7 | 44.4 | 58.1 | 67 | 101.8 | 128.9 | 139 | 158.1 | 144.8 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared
@@ -39,7 +39,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | EME | 2.6 | 2.4 | 3 | 3.5 | 3.5 | 1.5 | 3.9 | 3.7 | 5 | 6.9 | 7.5 | 17 | 152.8 |
 > | J | 2.5 | 1.9 | 4.6 | 1.5 | 6.7 | 3.6 | 3.4 | 6.6 | 6.1 | 7 | 2.4 | 12 | -0.7 |
 > | NVR | 7.4 | 7.3 | 8.5 | 11.1 | 11.9 | 12 | 13.8 | 16.4 | 16.7 | 16 | 13 | 10.3 | 100.1 |
-> | FIX | 3.1 | 4 | 3.1 | 5.2 | 4.4 | 5.3 |  | 5.9 | 6.2 | 7.4 | 55.8 | 1.8 | 15.9 |
+> | FIX | 3.1 | 4 | 3.1 | 5.2 | 4.4 | 5.3 | 4.7 | 5.9 | 6.2 | 7.4 | 55.8 | 1.8 | 15.9 |
 > - Gutter: Revenue
 > - Gutter: Rise
 > - Top: 30

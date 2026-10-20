@@ -13,9 +13,9 @@
 
 AMERICAN TOWER CORP, as it files with the SEC (CIK 0001053507): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMERICAN TOWER CORP, and how has it grown?** It sold $936 million in FY2025, the 478th most of the 487 companies with a revenue for the year, and the 84th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 80.4% from FY2015 to FY2025, −15% a year.
+**How large is AMERICAN TOWER CORP, and how has it grown?** It sold $936 million in FY2025, the 479th most of the 488 companies with a revenue for the year, and the 84th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 80.4% from FY2015 to FY2025, −15% a year.
 
-**Does AMERICAN TOWER CORP make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 280.9% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 18 years in the book.
+**Does AMERICAN TOWER CORP make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 280.9% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
 
 **Where does AMERICAN TOWER CORP's cash go?** From FY2016 to FY2025 its operations brought in $41.0 billion; it spent 31.4% of that on plant and equipment, and 3.6% on buying back its own shares.
 
@@ -27,7 +27,7 @@ AMERICAN TOWER CORP, as it files with the SEC (CIK 0001053507): its fiscal years
 > | Revenue |  | 1456.594 | 1593.504 | 1724.114 | 1985.335 | 2443.532 | 2875.96 | 3361.407 | 4100.048 | 4771.5 | 5785.7 | 6663.9 | 491.3 | 527.2 | 495.7 | 717.2 | 840.7 | 747.3 | 774.6 | 935.9 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 378.363 | 606.754 | 672.258 | 784.378 | 920.132 | 1119.719 | 1214.305 | 1486.922 | 1612.8 | 1853 | 1998.4 | 1905 | 2688.4 | 2887.5 | 3132 | 2738.6 | 3125.5 | 4516.5 | 4845.8 |  |
-> | Net income |  | 56.316 | 347.246 | 246.595 | 372.936 | 396.462 | 637.283 | 551.333 | 824.91 | 685.1 | 956.4 | 1238.9 | 1236.4 | 1887.8 | 1690.6 |  | 1696.7 | 1367.1 | 2280.2 | 2628.5 |  |
+> | Net income |  | 56.316 | 347.246 | 246.595 | 372.936 | 396.462 | 637.283 | 551.333 | 824.91 | 685.1 | 956.4 | 1238.9 | 1236.4 | 1887.8 | 1690.6 | 2567.6 | 1696.7 | 1367.1 | 2280.2 | 2628.5 |  |
 > | Operating cash flow |  | 692.679 | 773.258 | 842.126 | 1020.977 | 1165.942 | 1414.391 | 1599.047 | 2134.589 | 2166.9 | 2701.7 | 2925.6 | 3748.3 | 3752.6 | 3881.4 | 4819.9 | 3696.2 | 4722.4 | 5290.5 | 5464 |  |
 > | Capex |  | -154.381 | -243.484 | -250.262 | -346.664 | -523.015 | -568.048 | -724.532 | -974.404 | -728.8 | -701.4 | -835.4 | -945.2 | -1038.9 | -1031.7 | -1376.7 | -1873.6 | -1798.1 | -1590 | -1680.4 |  |
 > | Buybacks |  | -1642.821 | -714.655 | -213.288 | -430.618 | -437.402 | -62.728 | -145.012 | 0 | 0 | 0 | -766.3 | -232.8 | -19.6 | -56 | 0 | -18.8 | 0 | 0 | -364.6 |  |
@@ -111,10 +111,10 @@ AMERICAN TOWER CORP, as it files with the SEC (CIK 0001053507): its fiscal years
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 117.4 |  | 691.3 | 446.1 | 1 | 988.8 | -210.5 | -16.3 | 1 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 131.6 |  | 785.1 | 464.4 | 1.04 | 960.3 | -243.9 | 0 | 1.04 |
 | FY2020 Q4 | 2020 | 4 | 2020-12-31 | 128.7 |  | 674.3 | 365.1 | 0.82 | 1132.3 | -362.9 | 0 | 0.82 |
-| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 141.9 |  | 828.7 | 645 | 1.45 | 1092.7 | -324.8 | 0 | 1.45 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 179.6 |  | 849.2 | 746.3 | 1.65 | 951.9 | -277.9 | 0 | 1.65 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 204.7 |  | 827.5 | 723 | 1.58 | 2096.4 | -314 | 0 | 1.58 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 191 |  | 626.6 |  | 0.98 | 678.9 | -460 | 0 | 0.98 |
+| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 141.9 |  | 828.7 | 652.3 | 1.45 | 1092.7 | -324.8 | 0 | 1.45 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 179.6 |  | 849.2 | 747.9 | 1.65 | 951.9 | -277.9 | 0 | 1.65 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 204.7 |  | 827.5 | 726.2 | 1.58 | 2096.4 | -314 | 0 | 1.58 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 191 |  | 626.6 | 441.2 | 0.98 | 678.9 | -460 | 0 | 0.98 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 209.3 |  | 725.1 | 702.7 | 1.56 | 663.6 | -386.1 |  | 1.56 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 217 |  | 782.3 | 890.9 | 1.95 | 915.3 | -370.1 |  | 1.95 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 220.6 |  | 652.9 | 819.7 | 1.8 | 932.3 | -459.2 |  | 1.8 |
@@ -215,8 +215,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2017 | FY2017 | us-gaap:Revenues |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2007 | FY2021 | us-gaap:NetIncomeLoss |
-| Net income | FY2022 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2007 | FY2020 | us-gaap:NetIncomeLoss |
+| Net income | FY2021 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2013 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
@@ -247,11 +247,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 7440100000 and 491300000
 - Source: SEC EDGAR companyfacts
 
-### Change: AMERICAN TOWER CORP, Net income tag, FY2022
+### Change: AMERICAN TOWER CORP, Net income tag, FY2021
 
 - CIK: 0001053507
 - What: Net income tag
-- Boundary: FY2022
+- Boundary: FY2021
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

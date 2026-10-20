@@ -13,7 +13,7 @@
 
 ENTERGY CORP, as it files with the SEC (CIK 0000065984): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2025-02-18, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ENTERGY CORP, and how has it grown?** It sold $12.9 billion in FY2025, the 254th most of the 487 companies with a revenue for the year, and the 40th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 19.4% from FY2016 to FY2025, 2% a year.
+**How large is ENTERGY CORP, and how has it grown?** It sold $12.9 billion in FY2025, the 255th most of the 488 companies with a revenue for the year, and the 40th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 19.4% from FY2016 to FY2025, 2% a year.
 
 **Does ENTERGY CORP make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 13.7% of what it sold; the median company of its sector kept 12.9%. It lost money in 2 of its 17 years in the book (FY2015, FY2016).
 
@@ -24,7 +24,7 @@ ENTERGY CORP, as it files with the SEC (CIK 0000065984): its fiscal years and qu
 > [!CARD:line] ENTERGY CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 10745.65 | 11487.577 | 11229.073 | 10302.079 |  |  |  | 10845.645 | 11074.481 | 11009.452 | 10878.673 | 10113.636 | 11742.896 | 13764.237 | 12147.412 |  | 12946.686 |  |
+> | Revenue |  |  |  | 10745.65 | 11487.577 | 11229.073 | 10302.079 |  |  |  | 10845.645 | 11074.481 | 11009.452 | 10878.673 | 10113.636 | 11742.896 | 13764.237 | 12147.412 | 11879.653 | 12946.686 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  | 2284.526 | 2267.377 | 2013.234 | 1301.181 | 1354.999 | 2006.889 | -299.165 | -815.231 | 1360.407 | 469.365 | 1390.497 | 1769.195 | 1845.626 | 2050.775 | 2617.975 | 2651.09 | 3202.278 |  |
 > | Net income |  |  |  | 1231.092 | 1250.242 | 1346.439 | 846.673 | 711.902 | 940.721 | -176.562 | -583.618 | 411.612 | 848.661 | 1258.244 | 1406.653 | 1118.719 | 1103.166 | 2356.536 | 1061.184 | 1773.328 |  |
@@ -51,7 +51,7 @@ ENTERGY CORP, as it files with the SEC (CIK 0000065984): its fiscal years and qu
 | FY2021 | 2021-01-01 | 2021-12-31 | 5.54 | 2.77 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 2.68 | 2.68 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 5.55 | 5.55 |
-| FY2024 | 2024-01-01 |  | 2.45 | 2.45 |
+| FY2024 | 2024-01-01 | 2024-12-31 | 2.45 | 2.45 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.91 | 3.91 |
 
 ## Quarterly
@@ -117,7 +117,7 @@ ENTERGY CORP, as it files with the SEC (CIK 0000065984): its fiscal years and qu
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 2794.628 |  | 237.982 | 76.536 | 0.18 | 521.092 | -961.152 |  | 0.18 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 2953.62 |  | 617.63 | 51.732 | 0.11 | 1025.364 | -1163.127 |  | 0.11 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 3389.1 |  | 1125.862 | 645.754 | 1.5 | 1562.372 | -1140.577 |  | 1.5 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 |  |  | 669.615 | 287.162 | 0.66 | 1379.682 | -1573.483 |  | 0.66 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2742.305 |  | 669.615 | 287.162 | 0.66 | 1379.682 | -1573.483 |  | 0.66 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 2846.874 |  | 700.104 | 362.422 | 0.82 | 536.188 | -1660.169 |  | 0.82 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 3328.849 |  | 837.425 | 471.954 | 1.05 | 1261.602 | -2008.157 |  | 1.05 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 3812.019 |  | 1119.041 | 698.424 | 1.53 | 2134.795 | -1888.823 |  | 1.53 |
@@ -178,8 +178,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2009 | FY2012 | us-gaap:Revenues |
-| Revenue | FY2016 | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2025 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2016 | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2024 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2018 | us-gaap:NetIncomeLoss |
 | Net income | FY2019 | FY2021 | us-gaap:ProfitLoss |
@@ -203,11 +203,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: ENTERGY CORP, Revenue tag, FY2025
+### Change: ENTERGY CORP, Revenue tag, FY2024
 
 - CIK: 0000065984
 - What: Revenue tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

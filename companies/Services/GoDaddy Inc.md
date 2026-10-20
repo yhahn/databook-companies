@@ -13,9 +13,9 @@
 
 GoDaddy Inc., as it files with the SEC (CIK 0001609711): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is GoDaddy Inc., and how has it grown?** It sold $5.0 billion in FY2025, the 397th most of the 487 companies with a revenue for the year, and the 52nd of 74 in [Services](../Services.md). Its sales rose 167.9% from FY2016 to FY2025, 11.6% a year.
+**How large is GoDaddy Inc., and how has it grown?** It sold $5.0 billion in FY2025, the 398th most of the 488 companies with a revenue for the year, and the 53rd of 75 in [Services](../Services.md). Its sales rose 167.9% from FY2016 to FY2025, 11.6% a year.
 
-**Does GoDaddy Inc. make money, and how much of what it sells does it keep?** It earned $875 million in FY2025, 17.7% of what it sold; the median company of its sector kept 16.1%. It lost money in 2 of its 10 years in the book (FY2016, FY2020).
+**Does GoDaddy Inc. make money, and how much of what it sells does it keep?** It earned $875 million in FY2025, 17.7% of what it sold; the median company of its sector kept 16.3%. It lost money in 2 of its 10 years in the book (FY2016, FY2020).
 
 **Where does GoDaddy Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $8.7 billion; it spent 6.8% of that on plant and equipment, and 73.8% on buying back its own shares.
 

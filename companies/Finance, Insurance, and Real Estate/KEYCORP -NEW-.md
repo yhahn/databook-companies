@@ -13,7 +13,7 @@
 
 KEYCORP /NEW/, as it files with the SEC (CIK 0000091576): its fiscal years and quarters from its XBRL filings, FY2014 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is KEYCORP /NEW/, and how has it grown?** It sold $1.7 billion in FY2025, the 468th most of the 487 companies with a revenue for the year, and the 77th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 58.9% from FY2015 to FY2025, −8.5% a year.
+**How large is KEYCORP /NEW/, and how has it grown?** It sold $1.7 billion in FY2025, the 469th most of the 488 companies with a revenue for the year, and the 77th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 58.9% from FY2015 to FY2025, −8.5% a year.
 
 **Does KEYCORP /NEW/ make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 104.6% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 12 years in the book (FY2024).
 
@@ -115,8 +115,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2013 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2014 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2007 | FY2012 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2013 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2012 | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -131,11 +131,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 6455000000 and 1316000000
 - Source: SEC EDGAR companyfacts
 
-### Change: KEYCORP /NEW/, Capex tag, FY2014
+### Change: KEYCORP /NEW/, Capex tag, FY2013
 
 - CIK: 0000091576
 - What: Capex tag
-- Boundary: FY2014
+- Boundary: FY2013
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

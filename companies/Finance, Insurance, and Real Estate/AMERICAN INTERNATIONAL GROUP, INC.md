@@ -13,7 +13,7 @@
 
 AMERICAN INTERNATIONAL GROUP, INC., as it files with the SEC (CIK 0000005272): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMERICAN INTERNATIONAL GROUP, INC., and how has it grown?** It sold $26.8 billion in FY2025, the 133rd most of the 487 companies with a revenue for the year, and the 22nd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 54.1% from FY2015 to FY2025, −7.5% a year.
+**How large is AMERICAN INTERNATIONAL GROUP, INC., and how has it grown?** It sold $26.8 billion in FY2025, the 134th most of the 488 companies with a revenue for the year, and the 22nd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 54.1% from FY2015 to FY2025, −7.5% a year.
 
 **Does AMERICAN INTERNATIONAL GROUP, INC. make money, and how much of what it sells does it keep?** It earned $3.1 billion in FY2025, 11.6% of what it sold; the median company of its sector kept 21.5%. It lost money in 7 of its 19 years in the book (FY2008, FY2009, FY2016 and 4 more).
 

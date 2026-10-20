@@ -13,7 +13,7 @@
 
 DIGITAL REALTY TRUST, INC., as it files with the SEC (CIK 0001297996): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DIGITAL REALTY TRUST, INC., and how has it grown?** It sold $6.1 billion in FY2025, the 364th most of the 487 companies with a revenue for the year, and the 56th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 246.7% from FY2015 to FY2025, 13.2% a year.
+**How large is DIGITAL REALTY TRUST, INC., and how has it grown?** It sold $6.1 billion in FY2025, the 365th most of the 488 companies with a revenue for the year, and the 56th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 246.7% from FY2015 to FY2025, 13.2% a year.
 
 **Does DIGITAL REALTY TRUST, INC. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 21.5% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 17 years in the book.
 
@@ -28,7 +28,7 @@ DIGITAL REALTY TRUST, INC., as it files with the SEC (CIK 0001297996): its fisca
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  | 177.789 | 242.306 | 304.31 | 366.078 | 381.812 | 258.666 | 401.911 | 497.286 | 451.295 | 549.787 | 594.215 | 557.526 | 694.009 | 589.968 | 524.461 | 471.864 | 658.492 |  |
 > | Net income |  |  |  | 87.662 | 102.294 | 156.265 | 210.334 | 314.488 | 200.183 | 296.689 | 426.187 | 248.259 | 331.246 | 579.761 | 356.398 | 1747.412 | 380.325 | 950.312 | 588.327 | 1313.165 |  |
-> | Operating cash flow |  |  |  | 283.809 | 359.029 | 400.956 | 542.948 | 656.39 | 655.888 |  | 911.242 | 1023.305 | 1385.324 | 1513.817 | 1706.541 | 1702.228 | 1659.388 | 1634.78 | 2261.477 | 2412.136 |  |
+> | Operating cash flow |  |  |  | 283.809 | 359.029 | 400.956 | 542.948 | 656.39 | 655.888 | 796.84 | 911.242 | 1023.305 | 1385.324 | 1513.817 | 1706.541 | 1702.228 | 1659.388 | 1634.78 | 2261.477 | 2412.136 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -177,8 +177,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2009 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2009 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2009 | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2014 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2014 | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2015 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 
 ## Changes
 
@@ -192,11 +192,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2014 under both: 655888000 and 655888000
 - Source: SEC EDGAR companyfacts
 
-### Change: DIGITAL REALTY TRUST, INC., Operating cash flow tag, FY2016
+### Change: DIGITAL REALTY TRUST, INC., Operating cash flow tag, FY2015
 
 - CIK: 0001297996
 - What: Operating cash flow tag
-- Boundary: FY2016
+- Boundary: FY2015
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: none

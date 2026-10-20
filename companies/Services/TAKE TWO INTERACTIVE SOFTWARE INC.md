@@ -13,9 +13,9 @@
 
 TAKE TWO INTERACTIVE SOFTWARE INC, as it files with the SEC (CIK 0000946581): its fiscal years and quarters from its XBRL filings, FY2009 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TAKE TWO INTERACTIVE SOFTWARE INC, and how has it grown?** It sold $5.6 billion in FY2025, the 377th most of the 487 companies with a revenue for the year, and the 46th of 74 in [Services](../Services.md). Its sales rose 420.2% from FY2015 to FY2025, 17.9% a year.
+**How large is TAKE TWO INTERACTIVE SOFTWARE INC, and how has it grown?** It sold $5.6 billion in FY2025, the 378th most of the 488 companies with a revenue for the year, and the 47th of 75 in [Services](../Services.md). Its sales rose 420.2% from FY2015 to FY2025, 17.9% a year.
 
-**Does TAKE TWO INTERACTIVE SOFTWARE INC make money, and how much of what it sells does it keep?** It earned −$4.5 billion in FY2025, −79.5% of what it sold; the median company of its sector kept 16.1%. It lost money in 10 of its 18 years in the book (FY2009, FY2010, FY2012 and 7 more).
+**Does TAKE TWO INTERACTIVE SOFTWARE INC make money, and how much of what it sells does it keep?** It earned −$4.5 billion in FY2025, −79.5% of what it sold; the median company of its sector kept 16.3%. It lost money in 10 of its 18 years in the book (FY2009, FY2010, FY2012 and 7 more).
 
 **Where does TAKE TWO INTERACTIVE SOFTWARE INC's cash go?** From FY2016 to FY2025 its operations brought in $3.8 billion; it spent 25.9% of that on plant and equipment, and 19.6% on buying back its own shares.
 

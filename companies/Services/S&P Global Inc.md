@@ -13,9 +13,9 @@
 
 S&P Global Inc., as it files with the SEC (CIK 0000064040): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is S&P Global Inc., and how has it grown?** It sold $15.3 billion in FY2025, the 227th most of the 487 companies with a revenue for the year, and the 26th of 74 in [Services](../Services.md). Its sales rose 188.7% from FY2015 to FY2025, 11.2% a year.
+**How large is S&P Global Inc., and how has it grown?** It sold $15.3 billion in FY2025, the 228th most of the 488 companies with a revenue for the year, and the 27th of 75 in [Services](../Services.md). Its sales rose 188.7% from FY2015 to FY2025, 11.2% a year.
 
-**Does S&P Global Inc. make money, and how much of what it sells does it keep?** It earned $4.5 billion in FY2025, 29.2% of what it sold; the median company of its sector kept 16.1%. It lost money in 1 of its 19 years in the book (FY2014).
+**Does S&P Global Inc. make money, and how much of what it sells does it keep?** It earned $4.5 billion in FY2025, 29.2% of what it sold; the median company of its sector kept 16.3%. It lost money in 1 of its 19 years in the book (FY2014).
 
 **Where does S&P Global Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $33.2 billion; it spent 3.4% of that on plant and equipment, and 89.7% on buying back its own shares.
 
@@ -29,7 +29,7 @@ S&P Global Inc., as it files with the SEC (CIK 0000064040): its fiscal years and
 > | Operating income |  | 1676.912 | 1374.684 | 1259 | 1026 | 1077 | 1170 | 1358 | 113 | 1917 | 3341 | 2583 | 2790 | 3226 | 3617 | 4221 | 4944 | 4020 | 5580 | 6478 |  |
 > | Net income |  | 1013.559 | 799.491 | 731 | 828 | 911 | 437 | 1376 | -115 | 1156 | 2106 | 1496 | 1958 | 2123 | 2339 | 3024 | 3248 | 2626 | 3852 | 4471 |  |
 > | Operating cash flow |  | 1716.951 | 1178.05 | 1330 | 704 | 924 | 730 | 782 | 1209 | 356 | 1560 | 2016 | 2064 | 2776 | 3567 | 3598 | 2603 | 3710 | 5689 | 5651 |  |
-> | Capex |  | -229.609 | -105.978 | -68.526 |  | -92 | -96 | -117 | -92 | -139 | -115 | -123 | -113 | -115 | -76 | -35 | -89 | -143 | -124 | -195 |  |
+> | Capex |  | -229.609 | -105.978 | -68.526 | -86 | -92 | -96 | -117 | -92 | -139 | -115 | -123 | -113 | -115 | -76 | -35 | -89 | -143 | -124 | -195 |  |
 > | Buybacks |  | -2212.655 | -447.233 | 0 | -256 | -1500 | -295 | -978 | -362 | -974 | -1123 | -1001 | -1660 | -1240 | -1164 | 0 | -12004 | -3301 | -3301 | -5001 |  |
 
 #### EPS by year
@@ -67,10 +67,10 @@ S&P Global Inc., as it files with the SEC (CIK 0000064040): its fiscal years and
 | FY2009 Q2 | 2009 | 2 | 2009-06-30 | 1465.2 |  | 296.327 | 164.1 | 0.52 | 226.995 | -8.873 |  | 0.52 |
 | FY2009 Q3 | 2009 | 3 | 2009-09-30 | 1875.9 |  | 555.965 | 336.1 | 1.07 | 609.405 | -15.705 | 0 | 1.07 |
 | FY2009 Q4 | 2009 | 4 | 2009-12-31 | 1462.5 |  | 282.367 | 167.3 | 0.53 | 426.469 | -35.923 | 0 | 0.53 |
-| FY2010 Q1 | 2010 | 1 | 2010-03-31 | 1171 |  | 190.3 | 103 | 0.33 | 106.4 | -7.623 | 0 | 0.33 |
-| FY2010 Q2 | 2010 | 2 | 2010-06-30 | 1449 |  | 326.3 | 191 | 0.61 | 253.1 | -14.462 | -186.9 | 0.61 |
-| FY2010 Q3 | 2010 | 3 | 2010-09-30 | 1956 |  | 630 | 380 | 1.23 | 693.8 | -16.561 | -69 | 1.23 |
-| FY2010 Q4 | 2010 | 4 | 2010-12-31 | 1496 |  | -119.4 | 154 | 0.5 | -349.3 |  | -0.2 | 0.5 |
+| FY2010 Q1 | 2010 | 1 | 2010-03-31 | 1171 |  | 190.3 | 103 | 0.33 | 106.4 | -11.7 | 0 | 0.33 |
+| FY2010 Q2 | 2010 | 2 | 2010-06-30 | 1449 |  | 326.3 | 191 | 0.61 | 253.1 | -27.3 | -186.9 | 0.61 |
+| FY2010 Q3 | 2010 | 3 | 2010-09-30 | 1956 |  | 630 | 380 | 1.23 | 693.8 | -26.3 | -69 | 1.23 |
+| FY2010 Q4 | 2010 | 4 | 2010-12-31 | 1496 |  | -119.4 | 154 | 0.5 | -349.3 | -20.7 | -0.2 | 0.5 |
 | FY2011 Q1 | 2011 | 1 | 2011-03-31 | 959 |  | 216 | 120 | 0.39 | 49 | -18 | -124 | 0.39 |
 | FY2011 Q2 | 2011 | 2 | 2011-06-30 | 1020 |  | 358 | 211 | 0.68 | 289 | -27 | -177 | 0.68 |
 | FY2011 Q3 | 2011 | 3 | 2011-09-30 | 1035 |  | 282 | 366 | 1.21 | 700 | -25 | -354.7 | 1.21 |
@@ -273,8 +273,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2013 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2010 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2011 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2007 | FY2009 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2010 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -309,11 +309,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2016 under both: 1560000000 and 1560000000
 - Source: SEC EDGAR companyfacts
 
-### Change: S&P Global Inc., Capex tag, FY2011
+### Change: S&P Global Inc., Capex tag, FY2010
 
 - CIK: 0000064040
 - What: Capex tag
-- Boundary: FY2011
+- Boundary: FY2010
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

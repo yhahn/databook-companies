@@ -13,9 +13,9 @@
 
 ILLINOIS TOOL WORKS INC, as it files with the SEC (CIK 0000049826): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ILLINOIS TOOL WORKS INC, and how has it grown?** It sold $16.0 billion in FY2025, the 220th most of the 487 companies with a revenue for the year, and the 91st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 19.7% from FY2015 to FY2025, 1.8% a year.
+**How large is ILLINOIS TOOL WORKS INC, and how has it grown?** It sold $16.0 billion in FY2025, the 221st most of the 488 companies with a revenue for the year, and the 91st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 19.7% from FY2015 to FY2025, 1.8% a year.
 
-**Does ILLINOIS TOOL WORKS INC make money, and how much of what it sells does it keep?** It earned $3.1 billion in FY2025, 19.1% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does ILLINOIS TOOL WORKS INC make money, and how much of what it sells does it keep?** It earned $3.1 billion in FY2025, 19.1% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does ILLINOIS TOOL WORKS INC's cash go?** From FY2016 to FY2025 its operations brought in $28.2 billion; it spent 12.5% of that on plant and equipment, and 51.3% on buying back its own shares.
 

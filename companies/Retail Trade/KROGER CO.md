@@ -13,7 +13,7 @@
 
 KROGER CO, as it files with the SEC (CIK 0000056873): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-09-22, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is KROGER CO, and how has it grown?** It sold $147.6 billion in FY2025, the 22nd most of the 487 companies with a revenue for the year, and the 6th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 28% from FY2016 to FY2025, 2.8% a year.
+**How large is KROGER CO, and how has it grown?** It sold $147.6 billion in FY2025, the 23rd most of the 488 companies with a revenue for the year, and the 6th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 28% from FY2016 to FY2025, 2.8% a year.
 
 **Does KROGER CO make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 0.7% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 10 years in the book.
 

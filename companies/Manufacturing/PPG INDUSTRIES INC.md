@@ -13,9 +13,9 @@
 
 PPG INDUSTRIES INC, as it files with the SEC (CIK 0000079879): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-07-27, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PPG INDUSTRIES INC, and how has it grown?** It sold $15.9 billion in FY2025, the 223rd most of the 487 companies with a revenue for the year, and the 92nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 11.5% from FY2015 to FY2025, 1.1% a year.
+**How large is PPG INDUSTRIES INC, and how has it grown?** It sold $15.9 billion in FY2025, the 224th most of the 488 companies with a revenue for the year, and the 92nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 11.5% from FY2015 to FY2025, 1.1% a year.
 
-**Does PPG INDUSTRIES INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 9.9% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does PPG INDUSTRIES INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 9.9% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does PPG INDUSTRIES INC's cash go?** From FY2016 to FY2025 its operations brought in $16.9 billion; it spent 28.1% of that on plant and equipment, and 35.1% on buying back its own shares.
 
@@ -24,7 +24,7 @@ PPG INDUSTRIES INC, as it files with the SEC (CIK 0000079879): its fiscal years 
 > [!CARD:line] PPG INDUSTRIES INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 12220 | 15849 | 12239 | 11989 | 13153 | 12686 | 15108 |  | 14241 | 14270 | 14748 | 15374 | 15146 | 13834 | 16802 | 15614 | 16242 | 15845 | 15875 |  |
+> | Revenue |  | 12220 | 15849 | 12239 | 11989 | 13153 | 12686 | 15108 | 14791 | 14241 | 14270 | 14748 | 15374 | 15146 | 13834 | 16802 | 15614 | 16242 | 15845 | 15875 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  | 1186 | 1533 | 1657 | 1629 | 1923 | 2191 | 2287 | 2382 | 2292 | 2118 | 2271 | 2109 | 2171 | 2042 | 2675 |  |  |  |
 > | Net income |  | 834 | 538 | 336 | 769 | 1095 | 941 | 3231 | 2102 | 1406 | 873 | 1594 | 1341 | 1243 | 1059 | 1439 | 1026 | 1270 | 1116 | 1576 |  |
@@ -43,7 +43,7 @@ PPG INDUSTRIES INC, as it files with the SEC (CIK 0000079879): its fiscal years 
 | FY2011 | 2011-01-01 | 2011-12-31 | 6.87 | 3.435 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 6.06 | 3.03 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 11.13 | 11.13 |
-| FY2014 | 2014-01-01 |  | 7.52 | 7.52 |
+| FY2014 | 2014-01-01 | 2014-12-31 | 7.52 | 7.52 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 5.14 | 5.14 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 3.27 | 3.27 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 6.18 | 6.18 |
@@ -86,7 +86,7 @@ PPG INDUSTRIES INC, as it files with the SEC (CIK 0000079879): its fiscal years 
 | FY2014 Q1 | 2014 | 1 | 2014-03-31 | 3636 |  | 483 | 1262 | 4.48 | 163 | -103 | -200 | 4.48 |
 | FY2014 Q2 | 2014 | 2 | 2014-06-30 | 4082 |  | 641 | 386 | 1.38 | 238 | -129 | -100 | 1.38 |
 | FY2014 Q3 | 2014 | 3 | 2014-09-30 | 3935 |  | 618 | 371 | 1.33 | 636 | -126 | -150 | 1.33 |
-| FY2014 Q4 | 2014 | 4 | 2014-12-31 |  |  | 449 | 83 | 0.3 | 491 | -206 | -300 | 0.3 |
+| FY2014 Q4 | 2014 | 4 | 2014-12-31 | 3707 |  | 449 | 83 | 0.3 | 491 | -206 | -300 | 0.3 |
 | FY2015 Q1 | 2015 | 1 | 2015-03-31 | 3531 |  | 536 | 322 | 1.17 | -429 | -72 | -200 | 1.17 |
 | FY2015 Q2 | 2015 | 2 | 2015-06-30 | 3958 |  | 708 | 337 | 1.23 | 615 | -90 | -151 | 1.23 |
 | FY2015 Q3 | 2015 | 3 | 2015-09-30 | 3725 |  | 626 | 433 | 1.59 | 800 | -100 | -150 | 1.59 |
@@ -197,8 +197,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2007 | FY2012 | us-gaap:SalesRevenueNet |
-| Revenue | FY2013 | FY2014 | us-gaap:Revenues |
-| Revenue | FY2015 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2013 | FY2013 | us-gaap:Revenues |
+| Revenue | FY2014 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2009 | FY2024 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
@@ -219,11 +219,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2013 under both: 14265000000 and 15108000000
 - Source: SEC EDGAR companyfacts
 
-### Change: PPG INDUSTRIES INC, Revenue tag, FY2015
+### Change: PPG INDUSTRIES INC, Revenue tag, FY2014
 
 - CIK: 0000079879
 - What: Revenue tag
-- Boundary: FY2015
+- Boundary: FY2014
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

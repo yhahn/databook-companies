@@ -13,9 +13,9 @@
 
 Live Nation Entertainment, Inc., as it files with the SEC (CIK 0001335258): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Live Nation Entertainment, Inc., and how has it grown?** It sold $25.2 billion in FY2025, the 139th most of the 487 companies with a revenue for the year, and the 14th of 74 in [Services](../Services.md). Its sales rose 247.8% from FY2015 to FY2025, 13.3% a year.
+**How large is Live Nation Entertainment, Inc., and how has it grown?** It sold $25.2 billion in FY2025, the 140th most of the 488 companies with a revenue for the year, and the 15th of 75 in [Services](../Services.md). Its sales rose 247.8% from FY2015 to FY2025, 13.3% a year.
 
-**Does Live Nation Entertainment, Inc. make money, and how much of what it sells does it keep?** It earned $496 million in FY2025, 2% of what it sold; the median company of its sector kept 16.1%. It lost money in 10 of its 17 years in the book (FY2009, FY2010, FY2011 and 7 more).
+**Does Live Nation Entertainment, Inc. make money, and how much of what it sells does it keep?** It earned $496 million in FY2025, 2% of what it sold; the median company of its sector kept 16.3%. It lost money in 10 of its 17 years in the book (FY2009, FY2010, FY2011 and 7 more).
 
 **Where does Live Nation Entertainment, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $9.6 billion; it spent 39.8% of that on plant and equipment, and 0.2% on buying back its own shares.
 

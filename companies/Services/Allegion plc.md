@@ -13,9 +13,9 @@
 
 Allegion plc, as it files with the SEC (CIK 0001579241): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Allegion plc, and how has it grown?** It sold $4.1 billion in FY2025, the 422nd most of the 487 companies with a revenue for the year, and the 57th of 74 in [Services](../Services.md). Its sales rose 96.7% from FY2015 to FY2025, 7% a year.
+**How large is Allegion plc, and how has it grown?** It sold $4.1 billion in FY2025, the 423rd most of the 488 companies with a revenue for the year, and the 58th of 75 in [Services](../Services.md). Its sales rose 96.7% from FY2015 to FY2025, 7% a year.
 
-**Does Allegion plc make money, and how much of what it sells does it keep?** It earned $644 million in FY2025, 15.8% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 14 years in the book.
+**Does Allegion plc make money, and how much of what it sells does it keep?** It earned $644 million in FY2025, 15.8% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 14 years in the book.
 
 **Where does Allegion plc's cash go?** From FY2016 to FY2025 its operations brought in $5.2 billion; it spent 12.3% of that on plant and equipment, and 28.7% on buying back its own shares.
 

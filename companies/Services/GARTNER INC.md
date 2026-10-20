@@ -13,9 +13,9 @@
 
 GARTNER INC, as it files with the SEC (CIK 0000749251): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is GARTNER INC, and how has it grown?** It sold $6.5 billion in FY2025, the 356th most of the 487 companies with a revenue for the year, and the 43rd of 74 in [Services](../Services.md). Its sales rose 165.8% from FY2016 to FY2025, 11.5% a year.
+**How large is GARTNER INC, and how has it grown?** It sold $6.5 billion in FY2025, the 357th most of the 488 companies with a revenue for the year, and the 44th of 75 in [Services](../Services.md). Its sales rose 200.4% from FY2015 to FY2025, 11.6% a year.
 
-**Does GARTNER INC make money, and how much of what it sells does it keep?** It earned $729 million in FY2025, 11.2% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 18 years in the book.
+**Does GARTNER INC make money, and how much of what it sells does it keep?** It earned $729 million in FY2025, 11.2% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 18 years in the book.
 
 **Where does GARTNER INC's cash go?** From FY2016 to FY2025 its operations brought in $8.9 billion; it spent 0% of that on plant and equipment, and 76% on buying back its own shares.
 
@@ -24,7 +24,7 @@ GARTNER INC, as it files with the SEC (CIK 0000749251): its fiscal years and qua
 > [!CARD:line] GARTNER INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 1279.065 | 1139.8 | 1288.454 | 1468.588 | 1615.808 | 1784.213 | 2021.441 |  | 2444.54 | 3311.494 | 3975.454 | 4245.321 | 4099.403 | 4733.962 | 5475.846 | 5906.956 | 6267.411 | 6497.226 |  |
+> | Revenue |  |  | 1279.065 | 1139.8 | 1288.454 | 1468.588 | 1615.808 | 1784.213 | 2021.441 | 2163.056 | 2444.54 | 3311.494 | 3975.454 | 4245.321 | 4099.403 | 4733.962 | 5475.846 | 5906.956 | 6267.411 | 6497.226 |  |
 > | Gross profit |  |  |  | 642.906 | 742.296 | 863.239 | 963.714 | 1078.165 | 1234.229 |  |  |  |  |  |  |  | 3815.134 | 4035.383 | 4277.544 | 4468.216 |  |
 > | Operating income |  |  | 164.368 | 134.477 | 149.265 | 214.062 | 245.707 | 275.492 | 286.162 | 287.997 | 305.141 | -6.329 | 259.715 | 370.087 | 490.15 | 915.751 | 1100.106 | 1236.894 | 1156.287 | 1025.711 |  |
 > | Net income |  |  | 103.871 | 82.964 | 96.285 | 136.902 | 165.903 | 182.801 | 183.766 | 175.635 | 193.582 | 3.279 | 122.456 | 233.29 | 266.745 | 794 | 808 | 882 | 1254 | 729 |  |
@@ -43,7 +43,7 @@ GARTNER INC, as it files with the SEC (CIK 0000749251): its fiscal years and qua
 | FY2012 | 2012-01-01 | 2012-12-31 | 1.73 | 1.73 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 1.93 | 1.93 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 2.03 | 2.03 |
-| FY2015 | 2015-01-01 |  | 2.06 | 2.06 |
+| FY2015 | 2015-01-01 | 2015-12-31 | 2.06 | 2.06 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 2.31 | 2.31 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 0.04 | 0.04 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 1.33 | 1.33 |
@@ -83,9 +83,9 @@ GARTNER INC, as it files with the SEC (CIK 0000749251): its fiscal years and qua
 | FY2014 Q3 | 2014 | 3 | 2014-09-30 | 470.94 | 282.833 | 49.391 | 33.846 | 0.38 | 122.851 |  | -79.678 | 0.38 |
 | FY2014 Q4 | 2014 | 4 | 2014-12-31 | 583.979 | 353.264 | 95.84 | 59.144 | 0.66 | 71.17 |  | -44.88 | 0.66 |
 | FY2015 Q1 | 2015 | 1 | 2015-03-31 | 471.186 |  | 48.682 | 28.351 | 0.32 | 5.663 |  | -324.042 | 0.32 |
-| FY2015 Q2 | 2015 | 2 | 2015-06-30 |  |  | 85.22 | 51.155 | 0.61 | 143.74 |  | -117.4 | 0.61 |
-| FY2015 Q3 | 2015 | 3 | 2015-09-30 |  |  | 52.474 | 30.366 | 0.36 | 116.904 |  | -11.558 | 0.36 |
-| FY2015 Q4 | 2015 | 4 | 2015-12-31 |  |  | 101.621 | 65.763 | 0.77 | 79.254 |  | -56.049 | 0.77 |
+| FY2015 Q2 | 2015 | 2 | 2015-06-30 | 547.936 |  | 85.22 | 51.155 | 0.61 | 143.74 |  | -117.4 | 0.61 |
+| FY2015 Q3 | 2015 | 3 | 2015-09-30 | 500.166 |  | 52.474 | 30.366 | 0.36 | 116.904 |  | -11.558 | 0.36 |
+| FY2015 Q4 | 2015 | 4 | 2015-12-31 | 643.768 |  | 101.621 | 65.763 | 0.77 | 79.254 |  | -56.049 | 0.77 |
 | FY2016 Q1 | 2016 | 1 | 2016-03-31 | 557.266 |  | 64.429 | 44.987 | 0.54 | 13.331 |  | -45.487 | 0.54 |
 | FY2016 Q2 | 2016 | 2 | 2016-06-30 | 609.998 |  | 83.299 | 51.626 | 0.62 | 148.452 |  | -6.48 | 0.62 |
 | FY2016 Q3 | 2016 | 3 | 2016-09-30 | 574.059 |  | 48.726 | 30.484 | 0.36 | 120.48 |  | -0.922 | 0.36 |
@@ -215,8 +215,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2008 | FY2009 | us-gaap:SalesRevenueNet |
-| Revenue | FY2010 | FY2015 | us-gaap:Revenues |
-| Revenue | FY2016 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2010 | FY2014 | us-gaap:Revenues |
+| Revenue | FY2015 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2014 | us-gaap:GrossProfit |
 | Gross profit | FY2022 | FY2026 | us-gaap:GrossProfit |
@@ -238,11 +238,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2010 under both: 1288454000 and 1288454000
 - Source: SEC EDGAR companyfacts
 
-### Change: GARTNER INC, Revenue tag, FY2016
+### Change: GARTNER INC, Revenue tag, FY2015
 
 - CIK: 0000749251
 - What: Revenue tag
-- Boundary: FY2016
+- Boundary: FY2015
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

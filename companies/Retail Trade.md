@@ -8,19 +8,19 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Retail Trade among the S&P 500?** Its 29 companies with a revenue and a net income for FY2025 sold $3.02 trillion, 18.4% of the sales of all the 500's, and kept $175.2 billion as net income, 9% of theirs. It kept 5.8% of what it sold; all the companies together, 11.8%.
+**How large is Retail Trade among the S&P 500?** Its 29 companies with a revenue and a net income for FY2025 sold $3.02 trillion, 17.7% of the sales of all the 500's, and kept $175.2 billion as net income, 8.5% of theirs. It kept 5.8% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Retail Trade grown?** Its 21 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 115.2% more in FY2025 than in FY2015, 8% a year, and their net income went from $45.5 billion to $157.8 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Retail Trade grown?** Its 23 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 120.6% more in FY2025 than in FY2015, 8.2% a year, and their net income went from $53.0 billion to $165.1 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
-The rise in revenue since FY2015, each year, in percent: the sector's 21 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
+The rise in revenue since FY2015, each year, in percent: the sector's 23 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Retail Trade | 0 | 4.4 | 11.5 | 21.3 | 29.9 | 45.9 | 66.5 | 78.3 | 88.3 | 100.1 | 115.2 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | Retail Trade | 0 | 5.9 | 12.7 | 22.1 | 34.7 | 48.5 | 69.3 | 81.9 | 93.7 | 105.1 | 120.6 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared
@@ -34,13 +34,13 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | AMZN | 0.6 | 1.7 | 1.7 | 4.3 | 4.1 | 5.5 | 7.1 | -0.5 | 5.3 | 9.3 | 10.8 | 716.9 | 570 |
 > | WMT | 3.4 | 3 | 2.8 | 2 | 1.3 | 2.9 | 2.4 | 2.4 | 1.9 | 2.4 | 2.9 | 674.5 | 38.9 |
-> | CVS | 3.4 | 3 | 3.6 | -0.3 |  | 2.7 | 2.7 | 1.3 | 2.3 | 1.2 | 0.4 | 402.1 | 162.3 |
+> | CVS | 3.4 | 3 | 3.6 | -0.3 | 2.6 | 2.7 | 2.7 | 1.3 | 2.3 | 1.2 | 0.4 | 402.1 | 162.3 |
 > | COST | 2 | 2 | 2.1 | 2.2 | 2.4 | 2.4 | 2.6 | 2.6 | 2.6 | 2.9 | 2.9 | 275.2 | 136.9 |
 > | HD | 7.9 | 8.4 | 8.6 | 10.3 | 10.2 | 9.7 | 10.9 | 10.9 | 9.9 | 9.3 | 8.6 | 164.7 | 86 |
 > | KR |  | 1.7 | 1.5 | 2.6 | 1.4 | 2 | 1.2 | 1.5 | 1.4 | 1.8 | 0.7 | 147.6 |  |
 > | TGT |  |  |  |  |  | 4.7 | 6.6 | 2.5 | 3.9 | 3.8 | 3.5 | 104.8 | 42 |
 > | LOW | 4.3 | 4.8 | 5 | 3.2 | 5.9 | 6.5 | 8.8 | 6.6 | 8.9 | 8.3 | 7.7 | 86.3 | 46.1 |
-> | TJX |  | 6.9 | 7.3 | 7.9 | 7.8 | 0.3 | 6.8 | 7 | 8.3 | 8.6 | 9.1 | 60.4 |  |
+> | TJX | 7.4 | 6.9 | 7.3 | 7.9 | 7.8 | 0.3 | 6.8 | 7 | 8.3 | 8.6 | 9.1 | 60.4 | 95.1 |
 > | DG |  | 5.7 | 6.6 | 6.2 | 6.2 | 7.9 | 7 | 6.4 | 4.3 | 2.8 | 3.5 | 42.7 |  |
 > | BBY | 3.1 | 2.3 | 3.1 | 2.4 | 3.4 | 3.5 | 3.8 | 4.7 | 3.1 | 2.9 | 2.2 | 41.5 | 2.9 |
 > | SBUX | 14.4 | 13.2 | 12.9 | 18.3 | 13.6 | 3.9 | 14.5 | 10.2 | 11.5 | 10.4 | 5 | 37.2 | 94 |

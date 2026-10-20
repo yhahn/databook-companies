@@ -13,11 +13,11 @@
 
 DuPont de Nemours, Inc., as it files with the SEC (CIK 0001666700): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2019-08-06 and 2026-08-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DuPont de Nemours, Inc., and how has it grown?** It sold $6.8 billion in FY2025, the 350th most of the 487 companies with a revenue for the year, and the 150th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 86% from FY2015 to FY2025, −17.8% a year.
+**How large is DuPont de Nemours, Inc., and how has it grown?** It sold $6.8 billion in FY2025, the 351st most of the 488 companies with a revenue for the year, and the 150th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 86% from FY2015 to FY2025, −17.8% a year.
 
-**Does DuPont de Nemours, Inc. make money, and how much of what it sells does it keep?** It earned $88 million in FY2025, 1.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 11 years in the book (FY2020).
+**Does DuPont de Nemours, Inc. make money, and how much of what it sells does it keep?** It earned $88 million in FY2025, 1.3% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 11 years in the book (FY2020).
 
-**Where does DuPont de Nemours, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $10.7 billion; it spent 105.8% of that on plant and equipment, and 103.1% on buying back its own shares.
+**Where does DuPont de Nemours, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $11.6 billion; it spent 100.7% of that on plant and equipment, and 95.6% on buying back its own shares.
 
 ## Annual
 
@@ -28,7 +28,7 @@ DuPont de Nemours, Inc., as it files with the SEC (CIK 0001666700): its fiscal y
 > | Gross profit |  |  |  |  |  |  |  |  |  |  | 10518 | 12693 | 20644 |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  | 7685 | 4318 | 1159 | 3845 | 498 | -2951 | 6467 | 5868 | 423 | 703 | 88 |  |
-> | Operating cash flow |  |  |  |  |  |  |  |  |  | 7607 | -2957 | -765 | 4731 | 1409 | 4095 | 2281 | 588 |  | 765 | 560 |  |
+> | Operating cash flow |  |  |  |  |  |  |  |  |  | 7607 | -2957 | -765 | 4731 | 1409 | 4095 | 2281 | 588 | 845 | 765 | 560 |  |
 > | Capex |  |  |  |  |  |  |  |  |  | -3703 | -3804 | -551 | -1244 | -2472 | -1194 | -788 | -662 | -302 | -285 | -333 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  | -1166 | -916 | -1000 | -4421 | -2329 | -232 | -2143 |  |  |  |  |  |
 
@@ -80,10 +80,10 @@ DuPont de Nemours, Inc., as it files with the SEC (CIK 0001666700): its fiscal y
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 3322 |  |  | 787 | 1.55 | 86 | -96 | -500 | 4.65 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 3317 |  |  | 367 | 0.73 | 419 | -155 | -250 | 2.19 |
 | FY2022 Q4 | 2022 | 4 | 2022-12-31 | 3104 |  |  | 4226 | 8.51 | -126 | -160 |  | 25.53 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 3018 |  |  | 257 | 0.56 | 343 | -232 |  | 1.68 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 3094 |  |  | -131 | -0.28 |  | -123 |  | -0.84 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 3058 |  |  | 319 | 0.7 |  | -119 |  | 2.1 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | -2556 |  |  | -22 | -0.03 |  | 172 |  | -0.09 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 3018 |  |  | 257 | 0.56 | 405 | -232 |  | 1.68 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 3094 |  |  | -131 | -0.28 | 400 | -123 |  | -0.84 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 3058 |  |  | 319 | 0.7 | 740 | -119 |  | 2.1 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | -2556 |  |  | -22 | -0.03 | -700 | 172 |  | -0.09 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1599 |  |  | 188 | 0.44 | 493 | -207 |  | 1.32 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1717 |  |  | 178 | 0.43 | 527 | -102 |  | 1.29 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1714 |  |  | 454 | 1.08 | 497 | -67 |  | 3.24 |
@@ -164,8 +164,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Gross profit | FY2016 | FY2018 | us-gaap:GrossProfit |
 | Net income | FY2015 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2015 | FY2026 | us-gaap:EarningsPerShareDiluted |
-| Operating cash flow | FY2015 | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2024 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2015 | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2023 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Capex | FY2015 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2015 | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -191,11 +191,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2020 under both: 14338000000 and 11128000000
 - Source: SEC EDGAR companyfacts
 
-### Change: DuPont de Nemours, Inc., Operating cash flow tag, FY2024
+### Change: DuPont de Nemours, Inc., Operating cash flow tag, FY2023
 
 - CIK: 0001666700
 - What: Operating cash flow tag
-- Boundary: FY2024
+- Boundary: FY2023
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none

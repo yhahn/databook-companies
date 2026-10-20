@@ -13,9 +13,9 @@
 
 ServiceNow, Inc., as it files with the SEC (CIK 0001373715): its fiscal years and quarters from its XBRL filings, FY2010 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2026-01-29, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ServiceNow, Inc., and how has it grown?** It sold $13.3 billion in FY2025, the 250th most of the 487 companies with a revenue for the year, and the 30th of 74 in [Services](../Services.md). Its sales rose 1220.6% from FY2015 to FY2025, 29.4% a year.
+**How large is ServiceNow, Inc., and how has it grown?** It sold $13.3 billion in FY2025, the 251st most of the 488 companies with a revenue for the year, and the 31st of 75 in [Services](../Services.md). Its sales rose 1220.6% from FY2015 to FY2025, 29.4% a year.
 
-**Does ServiceNow, Inc. make money, and how much of what it sells does it keep?** It earned $1.7 billion in FY2025, 13.2% of what it sold; the median company of its sector kept 16.1%. It lost money in 8 of its 16 years in the book (FY2010, FY2012, FY2013 and 5 more).
+**Does ServiceNow, Inc. make money, and how much of what it sells does it keep?** It earned $1.7 billion in FY2025, 13.2% of what it sold; the median company of its sector kept 16.3%. It lost money in 8 of its 16 years in the book (FY2010, FY2012, FY2013 and 5 more).
 
 **Where does ServiceNow, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $22.7 billion; it spent 20% of that on plant and equipment, and 13.8% on buying back its own shares.
 

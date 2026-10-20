@@ -13,7 +13,7 @@
 
 PULTEGROUP INC, as it files with the SEC (CIK 0000822416): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PULTEGROUP INC, and how has it grown?** It sold $17.3 billion in FY2025, the 201st most of the 487 companies with a revenue for the year, and the 4th of 8 in [Construction](../Construction.md). Its sales rose 189.4% from FY2015 to FY2025, 11.2% a year.
+**How large is PULTEGROUP INC, and how has it grown?** It sold $17.3 billion in FY2025, the 202nd most of the 488 companies with a revenue for the year, and the 4th of 8 in [Construction](../Construction.md). Its sales rose 189.4% from FY2015 to FY2025, 11.2% a year.
 
 **Does PULTEGROUP INC make money, and how much of what it sells does it keep?** It earned $2.2 billion in FY2025, 12.8% of what it sold; the median company of its sector kept 9%. It lost money in 4 of its 18 years in the book (FY2008, FY2009, FY2010, FY2011).
 
@@ -24,7 +24,7 @@ PULTEGROUP INC, as it files with the SEC (CIK 0000822416): its fiscal years and 
 > [!CARD:line] PULTEGROUP INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 6263.054 | 4084.389 | 4569.29 | 4136.69 | 4819.998 | 5679.595 | 5822.363 | 5981.964 | 7668.476 | 8573.25 |  | 10212.957 | 11036.082 | 13736.995 | 16002.979 | 16061.578 | 17946.95 | 17311.953 |  |
+> | Revenue |  |  | 6263.054 | 4084.389 | 4569.29 | 4136.69 | 4819.998 | 5679.595 | 5822.363 | 5981.964 | 7668.476 | 8573.25 | 10188.331 | 10212.957 | 11036.082 | 13736.995 | 16002.979 | 16061.578 | 17946.95 | 17311.953 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  | -1473.113 | -1182.567 | -1096.729 | -210.388 | 206.145 | 2620.116 | 474.338 | 494.09 | 602.703 | 447.221 | 1022.023 | 1016.7 | 1406.839 | 1946.32 | 2617.317 | 2602.372 | 3083.262 | 2218.73 |  |
@@ -46,7 +46,7 @@ PULTEGROUP INC, as it files with the SEC (CIK 0000822416): its fiscal years and 
 | FY2015 | 2015-01-01 | 2015-12-31 | 1.36 | 1.36 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 1.75 | 1.75 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 1.44 | 1.44 |
-| FY2018 | 2018-01-01 |  | 3.55 | 3.55 |
+| FY2018 | 2018-01-01 | 2018-12-31 | 3.55 | 3.55 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 3.66 | 3.66 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 5.18 | 5.18 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 7.43 | 7.43 |
@@ -158,8 +158,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2008 | FY2018 | us-gaap:Revenues |
-| Revenue | FY2019 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2008 | FY2017 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -168,11 +168,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: PULTEGROUP INC, Revenue tag, FY2019
+### Change: PULTEGROUP INC, Revenue tag, FY2018
 
 - CIK: 0000822416
 - What: Revenue tag
-- Boundary: FY2019
+- Boundary: FY2018
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: none

@@ -13,9 +13,9 @@
 
 MOODYS CORP, as it files with the SEC (CIK 0001059556): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MOODYS CORP, and how has it grown?** It sold $7.7 billion in FY2025, the 331st most of the 487 companies with a revenue for the year, and the 38th of 74 in [Services](../Services.md). Its sales rose 121.5% from FY2015 to FY2025, 8.3% a year.
+**How large is MOODYS CORP, and how has it grown?** It sold $7.7 billion in FY2025, the 332nd most of the 488 companies with a revenue for the year, and the 39th of 75 in [Services](../Services.md). Its sales rose 121.5% from FY2015 to FY2025, 8.3% a year.
 
-**Does MOODYS CORP make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 31.9% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does MOODYS CORP make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 31.9% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does MOODYS CORP's cash go?** From FY2016 to FY2025 its operations brought in $18.7 billion; it spent 9.7% of that on plant and equipment, and 41.6% on buying back its own shares.
 

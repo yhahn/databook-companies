@@ -13,7 +13,7 @@
 
 Extra Space Storage Inc., as it files with the SEC (CIK 0001289490): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Extra Space Storage Inc., and how has it grown?** It sold $129 million in FY2025, the 484th most of the 487 companies with a revenue for the year, and the 90th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 225% from FY2016 to FY2025, 14% a year.
+**How large is Extra Space Storage Inc., and how has it grown?** It sold $129 million in FY2025, the 485th most of the 488 companies with a revenue for the year, and the 90th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 225% from FY2016 to FY2025, 14% a year.
 
 **Does Extra Space Storage Inc. make money, and how much of what it sells does it keep?** It earned $974 million in FY2025, 752.3% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 10 years in the book.
 

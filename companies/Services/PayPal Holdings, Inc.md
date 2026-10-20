@@ -13,9 +13,9 @@
 
 PayPal Holdings, Inc., as it files with the SEC (CIK 0001633917): its fiscal years and quarters from its XBRL filings, FY2013 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PayPal Holdings, Inc., and how has it grown?** It sold $33.2 billion in FY2025, the 111th most of the 487 companies with a revenue for the year, and the 11th of 74 in [Services](../Services.md). Its sales rose 258.7% from FY2015 to FY2025, 13.6% a year.
+**How large is PayPal Holdings, Inc., and how has it grown?** It sold $33.2 billion in FY2025, the 112th most of the 488 companies with a revenue for the year, and the 12th of 75 in [Services](../Services.md). Its sales rose 258.7% from FY2015 to FY2025, 13.6% a year.
 
-**Does PayPal Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $5.2 billion in FY2025, 15.8% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 13 years in the book.
+**Does PayPal Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $5.2 billion in FY2025, 15.8% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 13 years in the book.
 
 **Where does PayPal Holdings, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $51.8 billion; it spent 14.5% of that on plant and equipment, and 64.2% on buying back its own shares.
 
@@ -24,7 +24,7 @@ PayPal Holdings, Inc., as it files with the SEC (CIK 0001633917): its fiscal yea
 > [!CARD:line] PayPal Holdings, Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  | 6727 | 8025 | 9248 | 10842 | 13094 | 15451 | 17772 |  | 25371 | 27518 | 29771 | 31797 | 33172 |  |
+> | Revenue |  |  |  |  |  |  |  | 6727 | 8025 | 9248 | 10842 | 13094 | 15451 | 17772 | 21454 | 25371 | 27518 | 29771 | 31797 | 33172 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  | 1091 | 1268 | 1461 | 1586 | 2127 | 2194 | 2719 | 3289 | 4262 | 3837 | 5028 | 5325 | 6065 |  |
 > | Net income |  |  |  |  |  |  |  | 955 | 419 | 1228 | 1401 | 1795 | 2057 | 2459 | 4202 | 4169 | 2419 | 4246 | 4147 | 5233 |  |
@@ -43,7 +43,7 @@ PayPal Holdings, Inc., as it files with the SEC (CIK 0001633917): its fiscal yea
 | FY2017 | 2017-01-01 | 2017-12-31 | 1.47 | 1.47 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 1.71 | 1.71 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 2.07 | 2.07 |
-| FY2020 | 2020-01-01 |  | 3.54 | 3.54 |
+| FY2020 | 2020-01-01 | 2020-12-31 | 3.54 | 3.54 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 3.52 | 3.52 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 2.09 | 2.09 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 3.84 | 3.84 |
@@ -79,9 +79,9 @@ PayPal Holdings, Inc., as it files with the SEC (CIK 0001633917): its fiscal yea
 | FY2019 Q3 | 2019 | 3 | 2019-09-30 | 4378 |  | 697 | 462 | 0.39 | 1096 | -173 | -350 | 0.39 |
 | FY2019 Q4 | 2019 | 4 | 2019-12-31 | 4961 |  | 799 | 507 | 0.43 | 774 | -174 | -305 | 0.43 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 4618 |  | 398 | 84 | 0.07 | 1421 | -206 | -800 | 0.07 |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 |  |  | 951 | 1530 | 1.29 | 1772 | -193 | -200 | 1.29 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 |  |  | 977 | 1021 | 0.86 | 1314 | -241 | -370 | 0.86 |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 |  |  | 963 | 1567 | 1.32 | 1712 | -226 | -265 | 1.32 |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 5261 |  | 951 | 1530 | 1.29 | 1772 | -193 | -200 | 1.29 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 5459 |  | 977 | 1021 | 0.86 | 1314 | -241 | -370 | 0.86 |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 6116 |  | 963 | 1567 | 1.32 | 1712 | -226 | -265 | 1.32 |
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 6033 |  | 1042 | 1097 | 0.92 | 1758 | -221 | -1323 | 0.92 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 6238 |  | 1127 | 1184 | 1 | 1306 | -247 | -200 | 1 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 6182 |  | 1043 | 1087 | 0.92 | 1513 | -227 | -350 | 0.92 |
@@ -148,8 +148,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2013 | FY2016 | us-gaap:SalesRevenueNet |
-| Revenue | FY2017 | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2021 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2017 | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2020 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2013 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2013 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2013 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -169,11 +169,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 13094000000 and 13094000000
 - Source: SEC EDGAR companyfacts
 
-### Change: PayPal Holdings, Inc., Revenue tag, FY2021
+### Change: PayPal Holdings, Inc., Revenue tag, FY2020
 
 - CIK: 0001633917
 - What: Revenue tag
-- Boundary: FY2021
+- Boundary: FY2020
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

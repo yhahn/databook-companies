@@ -13,9 +13,9 @@
 
 Reddit, Inc., as it files with the SEC (CIK 0001713445): its fiscal years and quarters from its XBRL filings, FY2022 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Reddit, Inc., and how has it grown?** It sold $2.2 billion in FY2025, the 462nd most of the 487 companies with a revenue for the year, and the 72nd of 74 in [Services](../Services.md). Its sales rose 230.4% from FY2022 to FY2025, 48.9% a year.
+**How large is Reddit, Inc., and how has it grown?** It sold $2.2 billion in FY2025, the 463rd most of the 488 companies with a revenue for the year, and the 73rd of 75 in [Services](../Services.md). Its sales rose 230.4% from FY2022 to FY2025, 48.9% a year.
 
-**Does Reddit, Inc. make money, and how much of what it sells does it keep?** It earned $530 million in FY2025, 24.1% of what it sold; the median company of its sector kept 16.1%. It lost money in 3 of its 4 years in the book (FY2022, FY2023, FY2024).
+**Does Reddit, Inc. make money, and how much of what it sells does it keep?** It earned $530 million in FY2025, 24.1% of what it sold; the median company of its sector kept 16.3%. It lost money in 3 of its 4 years in the book (FY2022, FY2023, FY2024).
 
 **Where does Reddit, Inc.'s cash go?** From FY2022 to FY2025 its operations brought in $744 million; it spent 3.9% of that on plant and equipment, and 0% on buying back its own shares.
 

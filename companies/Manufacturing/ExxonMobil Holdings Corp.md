@@ -13,9 +13,9 @@
 
 ExxonMobil Holdings Corp, as it files with the SEC (CIK 0002115436): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. The SEC's list gives XOM to CIK 0002115436; its filings before are under CIK 0000034088, and are taken from there, each filing from the CIK that filed it: ExxonMobil Holdings Corp (CIK 0002115436) became Exxon Mobil Corporation's parent in 2026 and took the ticker XOM (the SEC's list of tickers; SPY holds EXXONMOBIL HOLDINGS CORP). Exxon Mobil Corporation's filings, to its 10-Q of 2026-05-04, are under CIK 0000034088; the holding company's first 10-Q was filed 2026-08-03.
 
-**How large is ExxonMobil Holdings Corp, and how has it grown?** It sold $332.2 billion in FY2025, the 7th most of the 487 companies with a revenue for the year, and the 2nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 38.5% from FY2015 to FY2025, 3.3% a year.
+**How large is ExxonMobil Holdings Corp, and how has it grown?** It sold $332.2 billion in FY2025, the 8th most of the 488 companies with a revenue for the year, and the 2nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 38.5% from FY2015 to FY2025, 3.3% a year.
 
-**Does ExxonMobil Holdings Corp make money, and how much of what it sells does it keep?** It earned $28.8 billion in FY2025, 8.7% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 17 years in the book (FY2020).
+**Does ExxonMobil Holdings Corp make money, and how much of what it sells does it keep?** It earned $28.8 billion in FY2025, 8.7% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 17 years in the book (FY2020).
 
 **Where does ExxonMobil Holdings Corp's cash go?** From FY2016 to FY2025 its operations brought in $419.8 billion; it spent 47.1% of that on plant and equipment, and 18.2% on buying back its own shares.
 
@@ -24,7 +24,7 @@ ExxonMobil Holdings Corp, as it files with the SEC (CIK 0002115436): its fiscal 
 > [!CARD:line] ExxonMobil Holdings Corp, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 301500 | 370125 | 467029 | 451509 | 420836 | 394105 | 239854 | 200628 | 244363 | 279332 | 255583 | 178574 | 276692 |  | 344582 | 349585 | 332238 |  |
+> | Revenue |  |  |  | 301500 | 370125 | 467029 | 451509 | 420836 | 394105 | 239854 | 200628 | 244363 | 279332 | 255583 | 178574 | 276692 | 413680 | 344582 | 349585 | 332238 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  | 19280 | 30460 | 41060 | 44880 | 32580 | 32520 | 16150 | 7840 | 19710 | 20840 | 14340 | -22440 | 23040 | 55740 | 36010 | 33680 | 28844 |  |
@@ -49,7 +49,7 @@ ExxonMobil Holdings Corp, as it files with the SEC (CIK 0002115436): its fiscal 
 | FY2019 | 2019-01-01 | 2019-12-31 | 3.36 | 3.36 |
 | FY2020 | 2020-01-01 | 2020-12-31 | -5.25 | -5.25 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 5.39 | 5.39 |
-| FY2022 | 2022-01-01 |  | 13.26 | 13.26 |
+| FY2022 | 2022-01-01 | 2022-12-31 | 13.26 | 13.26 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 8.89 | 8.89 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 7.84 | 7.84 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 6.7 | 6.7 |
@@ -78,10 +78,10 @@ ExxonMobil Holdings Corp, as it files with the SEC (CIK 0002115436): its fiscal 
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 65943 |  |  | 4690 | 1.1 | 9650 | -2747 | 0 | 1.1 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 71892 |  |  | 6750 | 1.57 | 12091 | -2840 | 0 | 1.57 |
 | FY2021 Q4 | 2021 | 4 | 2021-12-31 | 81305 |  |  | 8870 | 2.08 | 17124 | -4089 | -154 | 2.08 |
-| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 87734 |  |  | 5480 | 1.28 | 14788 | -3911 | -2067 | 1.28 |
-| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 111265 |  |  | 17850 | 4.21 | 19963 | -3837 | -3919 | 4.21 |
-| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 106512 |  |  | 19660 | 4.68 | 24425 | -4876 | -4494 | 4.68 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 |  |  |  | 12750 | 3.09 | 17621 | -5783 | -4675 | 3.09 |
+| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 90500 |  |  | 5480 | 1.28 | 14788 | -3911 | -2067 | 1.28 |
+| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 115681 |  |  | 17850 | 4.21 | 19963 | -3837 | -3919 | 4.21 |
+| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 112070 |  |  | 19660 | 4.68 | 24425 | -4876 | -4494 | 4.68 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 95429 |  |  | 12750 | 3.09 | 17621 | -5783 | -4675 | 3.09 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 86564 |  |  | 11430 | 2.79 | 16341 | -5412 | -4340 | 2.79 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 82914 |  |  | 7880 | 1.94 | 9383 | -5359 | -4340 | 1.94 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 90760 |  |  | 9070 | 2.25 | 15963 | -4920 | -4412 | 2.25 |
@@ -135,8 +135,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2009 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2023 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2022 | FY2026 | us-gaap:Revenues |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -157,11 +157,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 290212000000 and 279332000000
 - Source: SEC EDGAR companyfacts
 
-### Change: ExxonMobil Holdings Corp, Revenue tag, FY2023
+### Change: ExxonMobil Holdings Corp, Revenue tag, FY2022
 
 - CIK: 0002115436
 - What: Revenue tag
-- Boundary: FY2023
+- Boundary: FY2022
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

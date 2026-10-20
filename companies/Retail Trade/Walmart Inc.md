@@ -13,7 +13,7 @@
 
 Walmart Inc., as it files with the SEC (CIK 0000104169): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2024-03-15, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Walmart Inc., and how has it grown?** It sold $674.5 billion in FY2025, the 2nd most of the 487 companies with a revenue for the year, and the 2nd of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 38.9% from FY2015 to FY2025, 3.3% a year.
+**How large is Walmart Inc., and how has it grown?** It sold $674.5 billion in FY2025, the 2nd most of the 488 companies with a revenue for the year, and the 2nd of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 38.9% from FY2015 to FY2025, 3.3% a year.
 
 **Does Walmart Inc. make money, and how much of what it sells does it keep?** It earned $19.4 billion in FY2025, 2.9% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 

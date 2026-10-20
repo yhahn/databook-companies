@@ -13,9 +13,9 @@
 
 KIMBERLY CLARK CORP, as it files with the SEC (CIK 0000055785): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is KIMBERLY CLARK CORP, and how has it grown?** It sold $16.4 billion in FY2025, the 215th most of the 487 companies with a revenue for the year, and the 89th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 11.5% from FY2015 to FY2025, −1.2% a year.
+**How large is KIMBERLY CLARK CORP, and how has it grown?** It sold $16.4 billion in FY2025, the 216th most of the 488 companies with a revenue for the year, and the 89th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 11.5% from FY2015 to FY2025, −1.2% a year.
 
-**Does KIMBERLY CLARK CORP make money, and how much of what it sells does it keep?** It earned $2.0 billion in FY2025, 12.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does KIMBERLY CLARK CORP make money, and how much of what it sells does it keep?** It earned $2.0 billion in FY2025, 12.3% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does KIMBERLY CLARK CORP's cash go?** From FY2016 to FY2025 its operations brought in $30.6 billion; it spent 30.6% of that on plant and equipment, and 19% on buying back its own shares.
 

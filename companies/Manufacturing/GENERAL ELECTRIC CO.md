@@ -13,11 +13,11 @@
 
 GENERAL ELECTRIC CO, as it files with the SEC (CIK 0000040545): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-10-26, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is GENERAL ELECTRIC CO, and how has it grown?** It sold $45.9 billion in FY2025, the 79th most of the 487 companies with a revenue for the year, and the 34th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 60.9% from FY2015 to FY2025, −9% a year.
+**How large is GENERAL ELECTRIC CO, and how has it grown?** It sold $45.9 billion in FY2025, the 80th most of the 488 companies with a revenue for the year, and the 34th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 60.9% from FY2015 to FY2025, −9% a year.
 
-**Does GENERAL ELECTRIC CO make money, and how much of what it sells does it keep?** It earned $8.7 billion in FY2025, 19% of what it sold; the median company of its sector kept 11.8%. It lost money in 5 of its 19 years in the book (FY2015, FY2017, FY2018 and 2 more).
+**Does GENERAL ELECTRIC CO make money, and how much of what it sells does it keep?** It earned $8.7 billion in FY2025, 19% of what it sold; the median company of its sector kept 11.7%. It lost money in 5 of its 19 years in the book (FY2015, FY2017, FY2018 and 2 more).
 
-**Where does GENERAL ELECTRIC CO's cash go?** From FY2016 to FY2025 its operations brought in $52.7 billion; it spent 53.9% of that on plant and equipment, and −12.9% on buying back its own shares.
+**Where does GENERAL ELECTRIC CO's cash go?** From FY2016 to FY2025 its operations brought in $52.7 billion; it spent 55.5% of that on plant and equipment, and −12.9% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ GENERAL ELECTRIC CO, as it files with the SEC (CIK 0000040545): its fiscal years
 > | Operating income |  | 25614 | 21850 | 15605 | 17250 | 20652 | 22887 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | 22208 | 17410 | 11025 | 11644 | 14151 | 13641 | 13057 | 15233 | -6126 | 7500 | -8484 | -22355 | -4979 | 5704 | -6337 | 336 | 9482 | 6556 | 8704 |  |
 > | Operating cash flow |  | 43322 | 48653 | 24417 | 36124 | 33359 | 31271 | 28510 | 27709 | 19891 | 1160 | 6554 | 4978 | 8734 | 3411 | 3481 | 5917 | 5189 | 4710 | 8537 |  |
-> | Capex |  | -17803 | -16010 | -8636 | -9800 | -12637 | -8326 | -6754 | -7134 | -7309 | -7199 | -6642 | -6627 | -2216 | -1323 | -1007 | -1061 |  | -1032 | -1273 |  |
+> | Capex |  | -17803 | -16010 | -8636 | -9800 | -12637 | -8326 | -6754 | -7134 | -7309 | -7199 | -6642 | -6627 | -2216 | -1323 | -1007 | -1061 | -862 | -1032 | -1273 |  |
 > | Buybacks |  |  |  |  |  |  | 5005 | 10225 | 2211 | 2709 | 22581 |  |  |  |  | -107 | -1048 | -1233 | -5827 | -7551 |  |
 
 #### EPS by year
@@ -119,10 +119,10 @@ GENERAL ELECTRIC CO, as it files with the SEC (CIK 0000040545): its fiscal years
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 14127 |  |  | -882 | -0.86 | 550 | -421 | -331 | -0.86 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 14470 |  |  | 161 | 0.08 | 1423 | -297 | -318 | 0.08 |
 | FY2022 Q4 | 2022 | 4 | 2022-12-31 | 16828 |  |  | 2197 | 1.9 | 4500 | -104 | -360 | 1.9 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 7836 |  |  | 7508 | 6.71 | -259 | -279 | -309 | 6.71 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 8755 |  |  | 33 | -0.02 | 485 |  | -323 | -0.02 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 9302 |  |  | 352 | 0.24 | 1823 |  | -313 | 0.24 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 9456 |  |  | 1589 | 1.44 | 3140 |  | -288 | 1.44 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 7836 |  |  | 7508 | 6.71 | -259 | -298 | -309 | 6.71 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 8755 |  |  | 33 | -0.02 | 485 | -92 | -323 | -0.02 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 9302 |  |  | 352 | 0.24 | 1823 | -222 | -313 | 0.24 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 9456 |  |  | 1589 | 1.44 | 3140 | -250 | -288 | 1.44 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 8955 |  |  | 1539 | 1.4 | 994 | -204 | -322 | 1.4 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 9094 |  |  | 1266 | 1.15 | 911 | -295 | -2301 | 1.15 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 9842 |  |  | 1852 | 1.7 | 1508 | -266 | -1536 | 1.7 |
@@ -184,18 +184,18 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2007 | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2024 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2007 | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2023 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2012 | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 | Buybacks | FY2021 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
 
-### Change: GENERAL ELECTRIC CO, Capex tag, FY2024
+### Change: GENERAL ELECTRIC CO, Capex tag, FY2023
 
 - CIK: 0000040545
 - What: Capex tag
-- Boundary: FY2024
+- Boundary: FY2023
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

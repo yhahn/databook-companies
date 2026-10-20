@@ -13,11 +13,11 @@
 
 NEWS CORP, as it files with the SEC (CIK 0001564708): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. Its shares in the S&P 500: NWSA, NWS.
 
-**How large is NEWS CORP, and how has it grown?** It sold $8.5 billion in FY2025, the 315th most of the 487 companies with a revenue for the year, and the 132nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 0.8% from FY2015 to FY2025, −0.1% a year.
+**How large is NEWS CORP, and how has it grown?** It sold $8.5 billion in FY2025, the 316th most of the 488 companies with a revenue for the year, and the 132nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 0.8% from FY2015 to FY2025, −0.1% a year.
 
-**Does NEWS CORP make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 15.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 5 of its 15 years in the book (FY2012, FY2015, FY2017 and 2 more).
+**Does NEWS CORP make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 15.9% of what it sold; the median company of its sector kept 11.7%. It lost money in 5 of its 15 years in the book (FY2012, FY2015, FY2017 and 2 more).
 
-**Where does NEWS CORP's cash go?** From FY2016 to FY2025 its operations brought in $8.6 billion; it spent 38.2% of that on plant and equipment, and 6.3% on buying back its own shares.
+**Where does NEWS CORP's cash go?** From FY2016 to FY2025 its operations brought in $9.6 billion; it spent 38.5% of that on plant and equipment, and 7.2% on buying back its own shares.
 
 ## Annual
 
@@ -28,7 +28,7 @@ NEWS CORP, as it files with the SEC (CIK 0001564708): its fiscal years and quart
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  | -2075 | 506 | 239 | -147 | 179 | -738 | -1514 | 155 | -1269 | 330 | 760 | 187 | 354 | 1340 | 743 |
-> | Operating cash flow |  |  |  |  |  |  | 851 | 501 | 1029 | 988 | 878 | 494 | 757 | 928 | 780 | 1237 | 1354 | 1092 | 1098 |  | 1237 |
+> | Operating cash flow |  |  |  |  |  |  | 851 | 501 | 1029 | 988 | 878 | 494 | 757 | 928 | 780 | 1237 | 1354 | 1092 | 1098 | 978 | 1237 |
 > | Capex |  |  |  |  |  |  | -375 | -332 | -358 | -308 | -256 | -256 | -364 | -572 | -438 | -390 | -310 | -347 | -357 | -407 | -426 |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | -179 | -243 | -117 | -150 | -641 |
 
@@ -104,10 +104,10 @@ NEWS CORP, as it files with the SEC (CIK 0001564708): its fiscal years and quart
 | FY2024 Q2 | 2024 | 2 | 2023-12-31 | 2135 |  |  | 156 | 0.27 | 360 | -30 | -27 | 0.27 |
 | FY2024 Q3 | 2024 | 3 | 2024-03-31 | 1994 |  |  | 30 | 0.05 | 539 | -92 | -27 | 0.05 |
 | FY2024 Q4 | 2024 | 4 | 2024-06-30 | 2092 |  |  | 50 | 0.09 | 254 | -111 | -34 | 0.09 |
-| FY2025 Q1 | 2025 | 1 | 2024-09-30 | 2096 |  |  | 119 | 0.21 | 64 | -75 | -38 | 0.21 |
-| FY2025 Q2 | 2025 | 2 | 2024-12-31 | 2238 |  |  | 215 | 0.38 |  | -82 | -40 | 0.38 |
-| FY2025 Q3 | 2025 | 3 | 2025-03-31 | 2009 |  |  | 103 | 0.18 |  | -93 | -36 | 0.18 |
-| FY2025 Q4 | 2025 | 4 | 2025-06-30 | 2109 |  |  | 743 | 1.31 |  | -157 | -36 | 1.31 |
+| FY2025 Q1 | 2025 | 1 | 2024-09-30 | 2096 |  |  | 119 | 0.21 | 26 | -75 | -38 | 0.21 |
+| FY2025 Q2 | 2025 | 2 | 2024-12-31 | 2238 |  |  | 215 | 0.38 | 252 | -82 | -40 | 0.38 |
+| FY2025 Q3 | 2025 | 3 | 2025-03-31 | 2009 |  |  | 103 | 0.18 | 511 | -93 | -36 | 0.18 |
+| FY2025 Q4 | 2025 | 4 | 2025-06-30 | 2109 |  |  | 743 | 1.31 | 189 | -157 | -36 | 1.31 |
 | FY2026 Q1 | 2026 | 1 | 2025-09-30 | 2144 |  |  | 112 | 0.2 | 85 | -81 | -92 | 0.2 |
 | FY2026 Q2 | 2026 | 2 | 2025-12-31 | 2362 |  |  | 193 | 0.34 | 231 | -99 | -172 | 0.34 |
 | FY2026 Q3 | 2026 | 3 | 2026-03-31 | 2185 |  |  | 89 | 0.16 | 499 | -100 | -192 | 0.16 |
@@ -221,8 +221,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | EPS diluted | FY2016 | FY2016 | us-gaap:EarningsPerShareBasicAndDiluted |
 | EPS diluted | FY2017 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2012 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2016 | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2026 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2016 | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2025 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Capex | FY2012 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2020 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -268,11 +268,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2016 under both: 952000000 and 878000000
 - Source: SEC EDGAR companyfacts
 
-### Change: NEWS CORP, Operating cash flow tag, FY2026
+### Change: NEWS CORP, Operating cash flow tag, FY2025
 
 - CIK: 0001564708
 - What: Operating cash flow tag
-- Boundary: FY2026
+- Boundary: FY2025
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none

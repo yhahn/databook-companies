@@ -13,7 +13,7 @@
 
 CVS HEALTH Corp, as it files with the SEC (CIK 0000064803): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CVS HEALTH Corp, and how has it grown?** It sold $402.1 billion in FY2025, the 5th most of the 487 companies with a revenue for the year, and the 3rd of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 162.3% from FY2015 to FY2025, 10.1% a year.
+**How large is CVS HEALTH Corp, and how has it grown?** It sold $402.1 billion in FY2025, the 6th most of the 488 companies with a revenue for the year, and the 3rd of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 162.3% from FY2015 to FY2025, 10.1% a year.
 
 **Does CVS HEALTH Corp make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 0.4% of what it sold; the median company of its sector kept 8.6%. It lost money in 1 of its 19 years in the book (FY2018).
 
@@ -24,7 +24,7 @@ CVS HEALTH Corp, as it files with the SEC (CIK 0000064803): its fiscal years and
 > [!CARD:line] CVS HEALTH Corp, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 76330 | 87472 | 98215 | 95778 | 107080 | 123120 | 126761 | 139367 | 153290 | 177546 | 184786 | 193919 |  | 268706 | 292111 | 322467 | 357776 | 372809 | 402067 |  |
+> | Revenue |  | 76330 | 87472 | 98215 | 95778 | 107080 | 123120 | 126761 | 139367 | 153290 | 177546 | 184786 | 193919 | 256776 | 268706 | 292111 | 322467 | 357776 | 372809 | 402067 |  |
 > | Gross profit |  | 16108 | 18290 | 20358 | 20219 | 20562 | 22488 | 23783 | 25367 | 26528 | 28857 | 28545 |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 4794 | 6046 | 6425 | 6137 | 6331 | 7210 | 8037 | 8799 | 9475 | 10386 | 9538 | 4021 | 11987 | 13911 | 13310 | 7954 | 13743 | 8516 | 4660 |  |
 > | Net income |  | 2637 | 3198 | 3696 | 3427 | 3458 | 3862 | 4592 | 4644 | 5237 | 5317 | 6622 | -594 | 6634 | 7179 | 8001 | 4311 | 8344 | 4614 | 1768 |  |
@@ -48,7 +48,7 @@ CVS HEALTH Corp, as it files with the SEC (CIK 0000064803): its fiscal years and
 | FY2016 | 2016-01-01 | 2016-12-31 | 4.9 | 4.9 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 6.44 | 6.44 |
 | FY2018 | 2018-01-01 | 2018-12-31 | -0.57 | -0.57 |
-| FY2019 | 2019-01-01 |  | 5.08 | 5.08 |
+| FY2019 | 2019-01-01 | 2019-12-31 | 5.08 | 5.08 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 5.46 | 5.46 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 6.02 | 6.02 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 3.26 | 3.26 |
@@ -103,10 +103,10 @@ CVS HEALTH Corp, as it files with the SEC (CIK 0000064803): its fiscal years and
 | FY2018 Q2 | 2018 | 2 | 2018-06-30 | 46708 | 7201 | -1373 | -2563 | -2.52 | 2934 | -430 |  | -2.52 |
 | FY2018 Q3 | 2018 | 3 | 2018-09-30 | 47269 | 7328 | 2574 | 1390 | 1.36 | 1097 | -540 |  | 1.36 |
 | FY2018 Q4 | 2018 | 4 | 2018-12-31 | 54249 |  | 824 | -419 | -0.37 | 2479 | -585 |  | -0.37 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 61397 |  | 2690 | 1421 | 1.09 | 1948 | -716 |  | 1.09 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 63138 |  | 3332 | 1936 | 1.49 | 5338 | -573 |  | 1.49 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 64547 |  | 2928 | 1530 | 1.17 | 2928 | -601 |  | 1.17 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 |  |  | 3037 | 1747 | 1.33 | 2634 | -567 |  | 1.33 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 61646 |  | 2690 | 1421 | 1.09 | 1948 | -716 |  | 1.09 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 63431 |  | 3332 | 1936 | 1.49 | 5338 | -573 |  | 1.49 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 64810 |  | 2928 | 1530 | 1.17 | 2928 | -601 |  | 1.17 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 66889 |  | 3037 | 1747 | 1.33 | 2634 | -567 |  | 1.33 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 66755 |  | 3458 | 2007 | 1.53 | 3305 | -742 |  | 1.53 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 65341 |  | 4680 | 2975 | 2.26 | 7119 | -448 |  | 2.26 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 67056 |  | 3249 | 1224 | 0.93 | 1874 | -534 |  | 0.93 |
@@ -188,8 +188,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2007 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2020 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2019 | FY2026 | us-gaap:Revenues |
 | Gross profit | FY2007 | FY2018 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2010 | us-gaap:NetIncomeLoss |
@@ -212,11 +212,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 194579000000 and 193919000000
 - Source: SEC EDGAR companyfacts
 
-### Change: CVS HEALTH Corp, Revenue tag, FY2020
+### Change: CVS HEALTH Corp, Revenue tag, FY2019
 
 - CIK: 0000064803
 - What: Revenue tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

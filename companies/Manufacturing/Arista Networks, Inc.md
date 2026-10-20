@@ -13,11 +13,11 @@
 
 Arista Networks, Inc., as it files with the SEC (CIK 0001596532): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2022-02-15 and 2025-02-19, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Arista Networks, Inc., and how has it grown?** It sold $9.0 billion in FY2025, the 305th most of the 487 companies with a revenue for the year, and the 127th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 975.2% from FY2015 to FY2025, 26.8% a year.
+**How large is Arista Networks, Inc., and how has it grown?** It sold $9.0 billion in FY2025, the 306th most of the 488 companies with a revenue for the year, and the 127th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 975.2% from FY2015 to FY2025, 26.8% a year.
 
-**Does Arista Networks, Inc. make money, and how much of what it sells does it keep?** It earned $0 million in FY2025, 0% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 14 years in the book.
+**Does Arista Networks, Inc. make money, and how much of what it sells does it keep?** It earned $0 million in FY2025, 0% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 14 years in the book.
 
-**Where does Arista Networks, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $14.6 billion; it spent 2.5% of that on plant and equipment, and 26.5% on buying back its own shares.
+**Where does Arista Networks, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $14.6 billion; it spent 2.6% of that on plant and equipment, and 26.5% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ Arista Networks, Inc., as it files with the SEC (CIK 0001596532): its fiscal yea
 > | Operating income |  |  |  |  |  |  | 39.897 | 66.148 | 125.513 | 149.308 | 243.409 | 470.272 | 273.347 | 805.774 | 699.684 | 924.739 | 1527.106 | 2257.3 | 2944.6 | 3856.1 |  |
 > | Net income |  |  |  |  |  |  | 21.349 | 42.46 | 86.85 | 121.102 | 184.189 | 423.201 | 328.115 | 859.867 | 634.557 | 0.000841 | 0.001352 | 0.002087 | 0.002852 | 0.003511 |  |
 > | Operating cash flow |  |  |  |  |  |  | 26.306 | 34.648 | 131.875 | 237.784 | 174.295 | 631.627 | 503.119 | 963.034 | 735.114 | 1015.856 | 492.813 | 2034 | 3708.2 | 4371.9 |  |
-> | Capex |  |  |  |  |  |  | -3.312 | -20.316 | -13.134 | -19.989 | -21.419 | -15.279 | -23.83 | -15.751 |  | -64.736 | -44.644 | -34.4 | -32 | -119.5 |  |
+> | Capex |  |  |  |  |  |  | -3.312 | -20.316 | -13.134 | -19.989 | -21.419 | -15.279 | -23.83 | -15.751 | -15.384 | -64.736 | -44.644 | -34.4 | -32 | -119.5 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | -266.142 | -395.173 | -411.645 | -670.287 | -112.3 | -423.6 | -1603.1 |  |
 
 #### EPS by year
@@ -177,8 +177,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2012 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2012 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2012 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2012 | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2021 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2012 | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2020 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2017 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -193,11 +193,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 1646186000 and 1646186000
 - Source: SEC EDGAR companyfacts
 
-### Change: Arista Networks, Inc., Capex tag, FY2021
+### Change: Arista Networks, Inc., Capex tag, FY2020
 
 - CIK: 0001596532
 - What: Capex tag
-- Boundary: FY2021
+- Boundary: FY2020
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

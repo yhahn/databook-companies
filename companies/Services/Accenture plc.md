@@ -13,9 +13,9 @@
 
 Accenture plc, as it files with the SEC (CIK 0001467373): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Accenture plc, and how has it grown?** It sold $69.7 billion in FY2025, the 51st most of the 487 companies with a revenue for the year, and the 5th of 74 in [Services](../Services.md). Its sales rose 111.7% from FY2015 to FY2025, 7.8% a year.
+**How large is Accenture plc, and how has it grown?** It sold $69.7 billion in FY2025, the 52nd most of the 488 companies with a revenue for the year, and the 6th of 75 in [Services](../Services.md). Its sales rose 111.7% from FY2015 to FY2025, 7.8% a year.
 
-**Does Accenture plc make money, and how much of what it sells does it keep?** It earned $7.7 billion in FY2025, 11% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 18 years in the book.
+**Does Accenture plc make money, and how much of what it sells does it keep?** It earned $7.7 billion in FY2025, 11% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 18 years in the book.
 
 **Where does Accenture plc's cash go?** From FY2016 to FY2025 its operations brought in $79.2 billion; it spent 7.3% of that on plant and equipment, and 44% on buying back its own shares.
 

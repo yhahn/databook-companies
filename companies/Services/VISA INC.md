@@ -13,9 +13,9 @@
 
 VISA INC., as it files with the SEC (CIK 0001403161): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VISA INC., and how has it grown?** It sold $40.0 billion in FY2025, the 90th most of the 487 companies with a revenue for the year, and the 9th of 74 in [Services](../Services.md). Its sales rose 188.2% from FY2015 to FY2025, 11.2% a year.
+**How large is VISA INC., and how has it grown?** It sold $40.0 billion in FY2025, the 91st most of the 488 companies with a revenue for the year, and the 10th of 75 in [Services](../Services.md). Its sales rose 188.2% from FY2015 to FY2025, 11.2% a year.
 
-**Does VISA INC. make money, and how much of what it sells does it keep?** It earned $20.1 billion in FY2025, 50.1% of what it sold; the median company of its sector kept 16.1%. It lost money in 1 of its 19 years in the book (FY2007).
+**Does VISA INC. make money, and how much of what it sells does it keep?** It earned $20.1 billion in FY2025, 50.1% of what it sold; the median company of its sector kept 16.3%. It lost money in 1 of its 19 years in the book (FY2007).
 
 **Where does VISA INC.'s cash go?** From FY2016 to FY2025 its operations brought in $148.9 billion; it spent 6% of that on plant and equipment, and 66% on buying back its own shares.
 

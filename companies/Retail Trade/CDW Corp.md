@@ -13,7 +13,7 @@
 
 CDW Corp, as it files with the SEC (CIK 0001402057): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CDW Corp, and how has it grown?** It sold $22.4 billion in FY2025, the 164th most of the 487 companies with a revenue for the year, and the 16th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 72.6% from FY2015 to FY2025, 5.6% a year.
+**How large is CDW Corp, and how has it grown?** It sold $22.4 billion in FY2025, the 165th most of the 488 companies with a revenue for the year, and the 16th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 72.6% from FY2015 to FY2025, 5.6% a year.
 
 **Does CDW Corp make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 4.8% of what it sold; the median company of its sector kept 8.6%. It lost money in 2 of its 17 years in the book (FY2009, FY2010).
 
@@ -24,7 +24,7 @@ CDW Corp, as it files with the SEC (CIK 0001402057): its fiscal years and quarte
 > [!CARD:line] CDW Corp, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 7162.6 | 8801.2 | 9602.4 | 10128.2 | 10768.6 |  | 12988.7 | 13981.9 | 14832.9 | 16240.5 | 18032.4 | 18467.5 | 20820.8 | 23748.7 | 21376 | 20998.7 | 22424.1 |  |
+> | Revenue |  |  |  | 7162.6 | 8801.2 | 9602.4 | 10128.2 | 10768.6 | 12074.5 | 12988.7 | 13981.9 | 14832.9 | 16240.5 | 18032.4 | 18467.5 | 20820.8 | 23748.7 | 21376 | 20998.7 | 22424.1 |  |
 > | Gross profit |  |  |  | 1132.9 | 1390.8 | 1583.5 | 1669.6 | 1760.3 | 1921.3 | 2115.8 | 2328.3 | 2450.2 | 2706.9 | 3039.9 | 3210.1 | 3568.5 | 4686.6 | 4652.4 | 4602.4 | 4873.4 |  |
 > | Operating income |  |  |  | -31.9 | 352.7 | 470.7 | 510.6 | 508.6 | 673 | 742 | 820 | 866.5 | 987.3 | 1133.6 | 1179.2 | 1419 | 1735.2 | 1680.9 | 1651.3 | 1655.6 |  |
 > | Net income |  |  |  | -373.4 | -29.2 | 17.1 | 119 | 132.8 | 244.9 | 403.1 | 425.1 | 523.1 | 643 | 736.8 | 788.5 | 988.6 | 1114.5 | 1104.3 | 1077.8 | 1066.6 |  |
@@ -41,7 +41,7 @@ CDW Corp, as it files with the SEC (CIK 0001402057): its fiscal years and quarte
 | FY2011 | 2011-01-01 | 2011-12-31 | 0.12 | 0.12 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 0.82 | 0.82 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 0.84 | 0.84 |
-| FY2014 | 2014-01-01 |  | 1.42 | 1.42 |
+| FY2014 | 2014-01-01 | 2014-12-31 | 1.42 | 1.42 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 2.35 | 2.35 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 2.56 | 2.56 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 3.31 | 3.31 |
@@ -74,9 +74,9 @@ CDW Corp, as it files with the SEC (CIK 0001402057): its fiscal years and quarte
 | FY2013 Q3 | 2013 | 3 | 2013-09-30 | 2864.3 | 458.4 | 92.9 | -2.2 | -0.01 | 163.7 | -10.5 | 0 | -0.01 |
 | FY2013 Q4 | 2013 | 4 | 2013-12-31 | 2713.3 | 448.3 | 142 | 60 | 0.35 | -4.5 | -16.6 | -0.1 | 0.35 |
 | FY2014 Q1 | 2014 | 1 | 2014-03-31 | 2652.3 | 425.2 | 135.8 | 50.9 | 0.3 | 246.3 |  | 0 | 0.3 |
-| FY2014 Q2 | 2014 | 2 | 2014-06-30 |  | 496.9 | 188.2 | 86.6 | 0.5 | -70.4 |  | 0 | 0.5 |
-| FY2014 Q3 | 2014 | 3 | 2014-09-30 |  | 507.3 | 184.7 | 55.6 | 0.32 | 174.6 |  | 0 | 0.32 |
-| FY2014 Q4 | 2014 | 4 | 2014-12-31 |  | 491.9 | 164.3 | 51.8 | 0.3 | 84.5 | -20.6 | 0 | 0.3 |
+| FY2014 Q2 | 2014 | 2 | 2014-06-30 | 3106 | 496.9 | 188.2 | 86.6 | 0.5 | -70.4 |  | 0 | 0.5 |
+| FY2014 Q3 | 2014 | 3 | 2014-09-30 | 3266.1 | 507.3 | 184.7 | 55.6 | 0.32 | 174.6 |  | 0 | 0.32 |
+| FY2014 Q4 | 2014 | 4 | 2014-12-31 | 3050.1 | 491.9 | 164.3 | 51.8 | 0.3 | 84.5 | -20.6 | 0 | 0.3 |
 | FY2015 Q1 | 2015 | 1 | 2015-03-31 | 2755.2 | 456.5 | 151.6 | 54.7 | 0.32 | 177.8 | -10 | 0 | 0.32 |
 | FY2015 Q2 | 2015 | 2 | 2015-06-30 | 3314 | 534.5 | 205.9 | 108.2 | 0.63 | -78.7 | -12.9 | -91.7 | 0.63 |
 | FY2015 Q3 | 2015 | 3 | 2015-09-30 | 3501.1 | 567.2 | 204.6 | 150.9 | 0.88 | 195.8 | -21 | -101.6 | 0.88 |
@@ -258,8 +258,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2009 | FY2010 | us-gaap:SalesRevenueNet |
-| Revenue | FY2011 | FY2014 | us-gaap:Revenues |
-| Revenue | FY2015 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2011 | FY2013 | us-gaap:Revenues |
+| Revenue | FY2014 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -282,11 +282,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2011 under both: 9602400000 and 9602400000
 - Source: SEC EDGAR companyfacts
 
-### Change: CDW Corp, Revenue tag, FY2015
+### Change: CDW Corp, Revenue tag, FY2014
 
 - CIK: 0001402057
 - What: Revenue tag
-- Boundary: FY2015
+- Boundary: FY2014
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

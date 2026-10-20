@@ -13,9 +13,9 @@
 
 L3HARRIS TECHNOLOGIES, INC., as it files with the SEC (CIK 0000202058): its fiscal years and quarters from its XBRL filings, FY2008 to FY2025 (FY2025 through Q4). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is L3HARRIS TECHNOLOGIES, INC., and how has it grown?** It sold $38.1 billion in FY2025, the 94th most of the 487 companies with a revenue for the year, and the 43rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 880.2% from FY2015 to FY2025, 25.6% a year.
+**How large is L3HARRIS TECHNOLOGIES, INC., and how has it grown?** It sold $38.1 billion in FY2025, the 95th most of the 488 companies with a revenue for the year, and the 43rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 880.2% from FY2015 to FY2025, 25.6% a year.
 
-**Does L3HARRIS TECHNOLOGIES, INC. make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 4.2% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
+**Does L3HARRIS TECHNOLOGIES, INC. make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 4.2% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 18 years in the book.
 
 **Where does L3HARRIS TECHNOLOGIES, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $18.8 billion; it spent 14.9% of that on plant and equipment, and 55.5% on buying back its own shares.
 

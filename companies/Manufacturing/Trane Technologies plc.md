@@ -13,23 +13,23 @@
 
 Trane Technologies plc, as it files with the SEC (CIK 0001466258): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Trane Technologies plc, and how has it grown?** It sold $21.3 billion in FY2025, the 171st most of the 487 companies with a revenue for the year, and the 76th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 60.3% from FY2015 to FY2025, 4.8% a year.
+**How large is Trane Technologies plc, and how has it grown?** It sold $21.3 billion in FY2025, the 172nd most of the 488 companies with a revenue for the year, and the 76th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 60.3% from FY2015 to FY2025, 4.8% a year.
 
-**Does Trane Technologies plc make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 13.7% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2008).
+**Does Trane Technologies plc make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 13.7% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 19 years in the book (FY2008).
 
-**Where does Trane Technologies plc's cash go?** From FY2016 to FY2025 its operations brought in $19.6 billion; it spent 11.3% of that on plant and equipment, and 45.3% on buying back its own shares.
+**Where does Trane Technologies plc's cash go?** From FY2016 to FY2025 its operations brought in $19.6 billion; it spent 13.3% of that on plant and equipment, and 45.3% on buying back its own shares.
 
 ## Annual
 
 > [!CARD:line] Trane Technologies plc, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 8763.1 | 13045 | 13101.8 | 14079.1 | 14782 |  | 12350.5 | 12891.4 | 13300.7 | 13508.9 | 14197.6 | 12343.8 | 13075.9 | 12454.7 | 14136.4 | 15991.7 | 17677.6 | 19838.2 | 21321.9 |  |
+> | Revenue |  | 8763.1 | 13045 | 13101.8 | 14079.1 | 14782 | 11988.3 | 12350.5 | 12891.4 | 13300.7 | 13508.9 | 14197.6 | 12343.8 | 13075.9 | 12454.7 | 14136.4 | 15991.7 | 17677.6 | 19838.2 | 21321.9 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 1057.8 | -2521.4 | 872.3 | 1247.5 | 438.7 | 1071.9 | 1105 | 1404.7 | 1491.7 | 1603.2 | 1665.3 | 1512.1 | 1670.1 | 1532.8 | 2023.3 | 2418.9 | 2894 | 3500.1 | 3967.4 |  |
 > | Net income |  | 3966.7 | -2624.8 | 451.3 | 642.2 | 343.2 | 1018.6 | 618.8 | 931.7 | 664.6 | 1476.2 | 1302.6 | 1337.6 | 1410.9 | 854.9 | 1423.4 | 1756.5 | 2023.9 | 2567.9 | 2918.6 |  |
 > | Operating cash flow |  | 826.3 | 423.5 | 1764.9 | 756.3 | 1222.6 | 1195.4 | 1091.5 | 973.2 | 888.4 | 1521.9 | 1523.5 | 1407.8 | 1919.5 | 1435 | 1588.3 | 1504 | 2389.6 | 3145.6 | 3194.5 |  |
-> | Capex |  | -119.7 | -305 | -204.1 | -179.5 | -217.1 | -243.1 | -242.2 | -233.5 | -249.6 | -182.7 | -221.3 | -284.7 | -205.4 | -146.2 | -223 | -291.8 | -300.7 | -370.6 |  |  |
+> | Capex |  | -119.7 | -305 | -204.1 | -179.5 | -217.1 | -243.1 | -242.2 | -233.5 | -249.6 | -182.7 | -221.3 | -284.7 | -205.4 | -146.2 | -223 | -291.8 | -300.7 | -370.6 | -383 |  |
 > | Buybacks |  | -1999.9 | 2 | 0 | 0 | -1157.5 | -839.8 | -1213.2 | -1374.9 | -250.1 | -250.1 | -1016.9 | -900.2 | -750.1 | -250 | -1100.3 | -1200.2 | -669.3 | -1280.8 | -1481.3 |  |
 
 #### EPS by year
@@ -41,7 +41,7 @@ Trane Technologies plc, as it files with the SEC (CIK 0001466258): its fiscal ye
 | FY2009 | 2009-01-01 | 2009-12-31 | 1.37 | 1.37 |
 | FY2010 | 2010-01-01 | 2010-12-31 | 1.89 | 1.89 |
 | FY2011 | 2010-12-31 | 2011-12-31 | 1.01 | 1.01 |
-| FY2012 | 2012-01-01 |  | 3.28 | 3.28 |
+| FY2012 | 2012-01-01 | 2012-12-31 | 3.28 | 3.28 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 2.07 | 2.07 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 3.4 | 3.4 |
 | FY2015 | 2015-01-01 | 2015-12-31 | 2.48 | 2.48 |
@@ -77,8 +77,8 @@ Trane Technologies plc, as it files with the SEC (CIK 0001466258): its fiscal ye
 | FY2011 Q4 | 2011 | 4 | 2011-12-31 | 3453.8 |  | -82.3 | 242.3 | 0.72 | 481.8 | -88 | -581.9 | 0.72 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 3150.7 |  | 212 | 95.6 | 0.31 | 16.4 | -52.9 |  | 0.31 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 3821.3 |  | 477.9 | 365.8 | 1.16 | 289.2 | -60.9 |  | 1.16 |
-| FY2012 Q3 | 2012 | 3 | 2012-09-30 |  |  | 447.8 | 321.6 | 1.03 | 429.9 |  | -339.9 | 1.03 |
-| FY2012 Q4 | 2012 | 4 | 2012-12-31 |  |  | -65.8 | 235.6 | 0.78 | 459.9 |  | -464.9 | 0.78 |
+| FY2012 Q3 | 2012 | 3 | 2012-09-30 | 3592.8 |  | 447.8 | 321.6 | 1.03 | 429.9 |  | -339.9 | 1.03 |
+| FY2012 Q4 | 2012 | 4 | 2012-12-31 | 1423.6 |  | -65.8 | 235.6 | 0.78 | 459.9 |  | -464.9 | 0.78 |
 | FY2013 Q1 | 2013 | 1 | 2013-03-31 | 2639 |  | 120 | 88 | 0.29 | 4.9 | -67.1 | 0 | 0.29 |
 | FY2013 Q2 | 2013 | 2 | 2013-06-30 | 3398.4 |  | 387.5 | 317.2 | 1.05 | 431.2 | -64.5 | -477.6 | 1.05 |
 | FY2013 Q3 | 2013 | 3 | 2013-09-30 | 3214.2 |  | 379.5 | 165.9 | 0.56 | 445.9 | -43.9 | -317.6 | 0.56 |
@@ -171,8 +171,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2012 | us-gaap:Revenues |
-| Revenue | FY2013 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2011 | us-gaap:Revenues |
+| Revenue | FY2012 | FY2017 | us-gaap:SalesRevenueNet |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
@@ -181,16 +181,17 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2011 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2012 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Capex | FY2013 | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets |
-| Capex | FY2020 | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2020 | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2025 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
 
-### Change: Trane Technologies plc, Revenue tag, FY2013
+### Change: Trane Technologies plc, Revenue tag, FY2012
 
 - CIK: 0001466258
 - What: Revenue tag
-- Boundary: FY2013
+- Boundary: FY2012
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none
@@ -234,4 +235,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: FY2020 under both: 146200000 and 146200000
+- Source: SEC EDGAR companyfacts
+
+### Change: Trane Technologies plc, Capex tag, FY2025
+
+- CIK: 0001466258
+- What: Capex tag
+- Boundary: FY2025
+- Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
+- Now: us-gaap:PaymentsToAcquireProductiveAssets
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts

@@ -13,9 +13,9 @@
 
 LABCORP HOLDINGS INC., as it files with the SEC (CIK 0000920148): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is LABCORP HOLDINGS INC., and how has it grown?** It sold $14.0 billion in FY2025, the 244th most of the 487 companies with a revenue for the year, and the 27th of 74 in [Services](../Services.md). Its sales rose 60.7% from FY2015 to FY2025, 4.9% a year.
+**How large is LABCORP HOLDINGS INC., and how has it grown?** It sold $14.0 billion in FY2025, the 245th most of the 488 companies with a revenue for the year, and the 28th of 75 in [Services](../Services.md). Its sales rose 60.7% from FY2015 to FY2025, 4.9% a year.
 
-**Does LABCORP HOLDINGS INC. make money, and how much of what it sells does it keep?** It earned $877 million in FY2025, 6.3% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does LABCORP HOLDINGS INC. make money, and how much of what it sells does it keep?** It earned $877 million in FY2025, 6.3% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does LABCORP HOLDINGS INC.'s cash go?** From FY2016 to FY2025 its operations brought in $17.2 billion; it spent 23.2% of that on plant and equipment, and 35.5% on buying back its own shares.
 

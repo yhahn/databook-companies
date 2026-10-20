@@ -13,9 +13,9 @@
 
 NETFLIX INC, as it files with the SEC (CIK 0001065280): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-07-17 and 2026-01-23, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NETFLIX INC, and how has it grown?** It sold $45.2 billion in FY2025, the 81st most of the 487 companies with a revenue for the year, and the 8th of 74 in [Services](../Services.md). Its sales rose 566.5% from FY2015 to FY2025, 20.9% a year.
+**How large is NETFLIX INC, and how has it grown?** It sold $45.2 billion in FY2025, the 82nd most of the 488 companies with a revenue for the year, and the 9th of 75 in [Services](../Services.md). Its sales rose 566.5% from FY2015 to FY2025, 20.9% a year.
 
-**Does NETFLIX INC make money, and how much of what it sells does it keep?** It earned $11.0 billion in FY2025, 24.3% of what it sold; the median company of its sector kept 16.1%. It lost money in none of its 19 years in the book.
+**Does NETFLIX INC make money, and how much of what it sells does it keep?** It earned $11.0 billion in FY2025, 24.3% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 19 years in the book.
 
 **Where does NETFLIX INC's cash go?** From FY2016 to FY2025 its operations brought in $20.8 billion; it spent 17.4% of that on plant and equipment, and 105.9% on buying back its own shares.
 

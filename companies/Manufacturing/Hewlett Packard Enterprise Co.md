@@ -13,9 +13,9 @@
 
 Hewlett Packard Enterprise Co, as it files with the SEC (CIK 0001645590): its fiscal years and quarters from its XBRL filings, FY2013 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Hewlett Packard Enterprise Co, and how has it grown?** It sold $34.3 billion in FY2025, the 104th most of the 487 companies with a revenue for the year, and the 50th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 10.4% from FY2015 to FY2025, 1% a year.
+**How large is Hewlett Packard Enterprise Co, and how has it grown?** It sold $34.3 billion in FY2025, the 105th most of the 488 companies with a revenue for the year, and the 50th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 10.4% from FY2015 to FY2025, 1% a year.
 
-**Does Hewlett Packard Enterprise Co make money, and how much of what it sells does it keep?** It earned $57 million in FY2025, 0.2% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 13 years in the book (FY2020).
+**Does Hewlett Packard Enterprise Co make money, and how much of what it sells does it keep?** It earned $57 million in FY2025, 0.2% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 13 years in the book (FY2020).
 
 **Where does Hewlett Packard Enterprise Co's cash go?** From FY2016 to FY2025 its operations brought in $37.7 billion; it spent 73.5% of that on plant and equipment, and 34.1% on buying back its own shares.
 

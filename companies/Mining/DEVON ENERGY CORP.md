@@ -13,11 +13,11 @@
 
 DEVON ENERGY CORP, as it files with the SEC (CIK 0001090012): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DEVON ENERGY CORP, and how has it grown?** It sold $16.8 billion in FY2025, the 211th most of the 487 companies with a revenue for the year, and the 7th of 12 in [Mining](../Mining.md). Its sales rose 27.7% from FY2015 to FY2025, 2.5% a year.
+**How large is DEVON ENERGY CORP, and how has it grown?** It sold $16.8 billion in FY2025, the 212th most of the 488 companies with a revenue for the year, and the 7th of 12 in [Mining](../Mining.md). Its sales rose 27.7% from FY2015 to FY2025, 2.5% a year.
 
 **Does DEVON ENERGY CORP make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 15.7% of what it sold; the median company of its sector kept 14.3%. It lost money in 8 of its 19 years in the book (FY2008, FY2009, FY2012 and 5 more).
 
-**Where does DEVON ENERGY CORP's cash go?** From FY2016 to FY2025 its operations brought in $42.1 billion; it spent 39.5% of that on plant and equipment, and 21.9% on buying back its own shares.
+**Where does DEVON ENERGY CORP's cash go?** From FY2016 to FY2025 its operations brought in $42.1 billion; it spent 42.2% of that on plant and equipment, and 21.9% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ DEVON ENERGY CORP, as it files with the SEC (CIK 0001090012): its fiscal years a
 > | Operating income |  |  |  |  |  | 4632 | 74 | 567 | 4698 | -20727 | -2895 |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | 3606 | -2148 | -2479 | 4550 | 4704 | -206 | -20 | 1607 | -12896 | -1056 | 898 | 3064 | -355 | -2680 | 2808 | 6031 | 3739 | 2893 | 2642 |  |
 > | Operating cash flow |  | 6651 | 9408 | 4737 | 5478 | 6224 | 4956 | 5436 | 6021 | 5373 | 834 | 2909 | 1583 | 2043 | 1464 | 4899 | 8530 | 6544 | 6600 | 6711 |  |
-> | Capex |  | -5710 | -8843 | -4879 | -6476 | -7534 | -8225 | -6502 | -6462 | -1107 | -849 | -44 | -55 | -31 |  | -1989 | -2542 | -3883 | -3645 | -3592 |  |
+> | Capex |  | -5710 | -8843 | -4879 | -6476 | -7534 | -8225 | -6502 | -6462 | -1107 | -849 | -44 | -55 | -31 | -1153 | -1989 | -2542 | -3883 | -3645 | -3592 |  |
 > | Buybacks |  | -326 | -665 | 0 | -1168 | -2332 |  |  |  |  |  |  | -2956 | -1849 | -38 | -589 | -718 | -979 | -1057 | -1050 |  |
 
 #### EPS by year
@@ -109,7 +109,7 @@ DEVON ENERGY CORP, as it files with the SEC (CIK 0001090012): its fiscal years a
 | FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1705 |  |  | -642 | -1.7 | 579 | -3 | -103 | -1.7 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 1367 |  |  | -1816 | -4.82 | 529 | -425 | -38 | -4.82 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 755 |  |  | -670 | -1.78 | 150 | -307 | 0 | -1.78 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 1154 |  |  | -92 | -0.25 | 427 | -204 | 0 | -0.25 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 1154 |  |  | -92 | -0.25 | 427 |  | 0 | -0.25 |
 | FY2020 Q4 | 2020 | 4 | 2020-12-31 | 1397 |  |  | -102 | -0.27 | 358 |  | 0 | -0.27 |
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 2578 |  |  | 213 | 0.32 | 592 | -499 | 0 | 0.32 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 3120 |  |  | 256 | 0.38 | 1093 | -504 | 0 | 0.38 |
@@ -175,8 +175,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2021 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2010 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Capex | FY2011 | FY2013 | us-gaap:PaymentsToAcquireProductiveAssets |
-| Capex | FY2014 | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2021 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2014 | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2020 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 | Buybacks | FY2018 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -252,11 +252,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2014 under both: 6988000000 and 6462000000
 - Source: SEC EDGAR companyfacts
 
-### Change: DEVON ENERGY CORP, Capex tag, FY2021
+### Change: DEVON ENERGY CORP, Capex tag, FY2020
 
 - CIK: 0001090012
 - What: Capex tag
-- Boundary: FY2021
+- Boundary: FY2020
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

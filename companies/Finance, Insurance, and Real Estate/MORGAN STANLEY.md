@@ -13,7 +13,7 @@
 
 MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MORGAN STANLEY, and how has it grown?** It sold $70.6 billion in FY2025, the 50th most of the 487 companies with a revenue for the year, and the 11th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 104% from FY2016 to FY2025, 8.2% a year.
+**How large is MORGAN STANLEY, and how has it grown?** It sold $70.6 billion in FY2025, the 51st most of the 488 companies with a revenue for the year, and the 11th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 101% from FY2015 to FY2025, 7.2% a year.
 
 **Does MORGAN STANLEY make money, and how much of what it sells does it keep?** It earned $16.9 billion in FY2025, 23.9% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and 
 > [!CARD:line] MORGAN STANLEY, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 26478 | 22140 | 23280 | 31230 | 32227 | 26178 | 32493 | 34275 |  | 34631 | 37945 | 40107 | 41538 | 48757 | 59755 | 53668 | 54143 | 61761 | 70645 |  |
+> | Revenue |  | 26478 | 22140 | 23280 | 31230 | 32227 | 26178 | 32493 | 34275 | 35155 | 34631 | 37945 | 40107 | 41538 | 48757 | 59755 | 53668 | 54143 | 61761 | 70645 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | 3209 | 1707 | 1346 | 4703 | 4110 | 68 | 2932 | 3467 | 6127 | 5979 | 6111 | 8748 | 9042 | 10996 | 15034 | 11029 | 9087 | 13390 | 16861 |  |
@@ -44,7 +44,7 @@ MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and 
 | FY2012 | 2012-01-01 | 2012-12-31 | -0.02 | -0.02 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 1.36 | 1.36 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 1.6 | 1.6 |
-| FY2015 | 2015-01-01 |  | 2.9 | 2.9 |
+| FY2015 | 2015-01-01 | 2015-12-31 | 2.9 | 2.9 |
 | FY2016 | 2016-01-01 | 2016-12-31 | 2.92 | 2.92 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 3.07 | 3.07 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 4.73 | 4.73 |
@@ -86,8 +86,8 @@ MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and 
 | FY2014 Q4 | 2014 | 4 | 2014-12-31 | 7764 |  |  | -1630 | -0.91 | -6605 |  |  | -0.91 |
 | FY2015 Q1 | 2015 | 1 | 2015-03-31 | 9907 |  |  | 2394 | 1.18 | -13055 |  |  | 1.18 |
 | FY2015 Q2 | 2015 | 2 | 2015-06-30 | 9743 |  |  | 1807 | 0.85 | 4602 |  |  | 0.85 |
-| FY2015 Q3 | 2015 | 3 | 2015-09-30 |  |  |  | 1018 | 0.48 | 490 |  |  | 0.48 |
-| FY2015 Q4 | 2015 | 4 | 2015-12-31 |  |  |  | 908 | 0.39 | 11637 |  |  | 0.39 |
+| FY2015 Q3 | 2015 | 3 | 2015-09-30 | 7767 |  |  | 1018 | 0.48 | 490 |  |  | 0.48 |
+| FY2015 Q4 | 2015 | 4 | 2015-12-31 | 7738 |  |  | 908 | 0.39 | 11637 |  |  | 0.39 |
 | FY2016 Q1 | 2016 | 1 | 2016-03-31 | 7792 |  |  | 1134 | 0.55 |  |  |  | 0.55 |
 | FY2016 Q2 | 2016 | 2 | 2016-06-30 | 8909 |  |  | 1582 | 0.75 |  |  |  | 0.75 |
 | FY2016 Q3 | 2016 | 3 | 2016-09-30 | 8909 |  |  | 1597 | 0.81 |  |  |  | 0.81 |
@@ -192,8 +192,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2015 | us-gaap:Revenues |
-| Revenue | FY2016 | FY2026 | us-gaap:RevenuesNetOfInterestExpense |
+| Revenue | FY2007 | FY2014 | us-gaap:Revenues |
+| Revenue | FY2015 | FY2026 | us-gaap:RevenuesNetOfInterestExpense |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -203,11 +203,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: MORGAN STANLEY, Revenue tag, FY2016
+### Change: MORGAN STANLEY, Revenue tag, FY2015
 
 - CIK: 0000895421
 - What: Revenue tag
-- Boundary: FY2016
+- Boundary: FY2015
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenuesNetOfInterestExpense
 - Crosswalk: none

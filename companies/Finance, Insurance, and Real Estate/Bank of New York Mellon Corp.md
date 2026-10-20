@@ -13,7 +13,7 @@
 
 Bank of New York Mellon Corp, as it files with the SEC (CIK 0001390777): its fiscal years and quarters from its XBRL filings, FY2008 to FY2025. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Bank of New York Mellon Corp, and how has it grown?** It sold $20.1 billion in FY2025, the 179th most of the 487 companies with a revenue for the year, and the 26th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 32.8% from FY2015 to FY2025, 2.9% a year.
+**How large is Bank of New York Mellon Corp, and how has it grown?** It sold $20.1 billion in FY2025, the 180th most of the 488 companies with a revenue for the year, and the 26th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 32.8% from FY2015 to FY2025, 2.9% a year.
 
 **Does Bank of New York Mellon Corp make money, and how much of what it sells does it keep?** It earned $5.5 billion in FY2025, 27.6% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 18 years in the book (FY2009).
 

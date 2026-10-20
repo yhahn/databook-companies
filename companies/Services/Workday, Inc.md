@@ -13,9 +13,9 @@
 
 Workday, Inc., as it files with the SEC (CIK 0001327811): its fiscal years and quarters from its XBRL filings, FY2010 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Workday, Inc., and how has it grown?** It sold $8.4 billion in FY2025, the 316th most of the 487 companies with a revenue for the year, and the 37th of 74 in [Services](../Services.md). Its sales rose 972% from FY2015 to FY2025, 26.8% a year.
+**How large is Workday, Inc., and how has it grown?** It sold $8.4 billion in FY2025, the 317th most of the 488 companies with a revenue for the year, and the 38th of 75 in [Services](../Services.md). Its sales rose 972% from FY2015 to FY2025, 26.8% a year.
 
-**Does Workday, Inc. make money, and how much of what it sells does it keep?** It earned $526 million in FY2025, 6.2% of what it sold; the median company of its sector kept 16.1%. It lost money in 12 of its 16 years in the book (FY2010, FY2012, FY2013 and 9 more).
+**Does Workday, Inc. make money, and how much of what it sells does it keep?** It earned $526 million in FY2025, 6.2% of what it sold; the median company of its sector kept 16.3%. It lost money in 12 of its 16 years in the book (FY2010, FY2012, FY2013 and 9 more).
 
 **Where does Workday, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $11.7 billion; it spent 12.5% of that on plant and equipment, and 10.2% on buying back its own shares.
 

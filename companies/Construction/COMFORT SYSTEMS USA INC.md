@@ -13,7 +13,7 @@
 
 COMFORT SYSTEMS USA INC, as it files with the SEC (CIK 0001035983): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is COMFORT SYSTEMS USA INC, and how has it grown?** It sold $1.8 billion in FY2025, the 467th most of the 487 companies with a revenue for the year, and the 8th of 8 in [Construction](../Construction.md). Its sales rose 15.9% from FY2015 to FY2025, 1.5% a year.
+**How large is COMFORT SYSTEMS USA INC, and how has it grown?** It sold $1.8 billion in FY2025, the 468th most of the 488 companies with a revenue for the year, and the 8th of 8 in [Construction](../Construction.md). Its sales rose 15.9% from FY2015 to FY2025, 1.5% a year.
 
 **Does COMFORT SYSTEMS USA INC make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 55.8% of what it sold; the median company of its sector kept 9%. It lost money in 1 of its 17 years in the book (FY2011).
 
@@ -24,7 +24,7 @@ COMFORT SYSTEMS USA INC, as it files with the SEC (CIK 0001035983): its fiscal y
 > [!CARD:line] COMFORT SYSTEMS USA INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 1128.907 | 1063.52 | 1216.654 | 1331.185 | 1357.272 | 1410.795 | 1580.519 | 1634.34 | 1787.922 | 2182.879 | 2615.277 | 2856.659 |  | 4140.364 | 5206.76 | 7027.476 | 1831.286 |  |
+> | Revenue |  |  |  | 1128.907 | 1063.52 | 1216.654 | 1331.185 | 1357.272 | 1410.795 | 1580.519 | 1634.34 | 1787.922 | 2182.879 | 2615.277 | 2856.659 | 3073.636 | 4140.364 | 5206.76 | 7027.476 | 1831.286 |  |
 > | Gross profit |  |  |  | 225.55 | 189.931 | 181.53 | 207.621 | 239.883 | 249.771 | 318.129 | 344.009 | 366.281 | 446.279 | 501.943 | 546.983 | 563.207 | 741.608 | 990.509 | 1476.411 | 403.416 |  |
 > | Operating income |  |  |  | 56.633 | 31.442 | -42.641 | 22.303 | 46.258 | 42.222 | 90.044 | 101.569 | 99.26 | 150.238 | 163.639 | 190.651 | 188.438 | 253.849 | 418.388 | 749.369 | 209.098 |  |
 > | Net income |  |  |  | 34.182 | 14.74 | -36.492 | 11.849 | 28.556 | 23.063 | 49.364 | 64.896 | 55.272 | 112.903 | 114.324 | 150.139 | 143.348 | 245.947 | 323.398 | 522.433 | 1022.558 |  |
@@ -48,7 +48,7 @@ COMFORT SYSTEMS USA INC, as it files with the SEC (CIK 0001035983): its fiscal y
 | FY2018 | 2018-01-01 | 2018-12-31 | 3 | 3 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 3.08 | 3.08 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 4.09 | 4.09 |
-| FY2021 | 2021-01-01 |  | 3.93 | 3.93 |
+| FY2021 | 2021-01-01 | 2021-12-31 | 3.93 | 3.93 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 6.82 | 6.82 |
 | FY2023 | 2023-01-01 | 2023-12-31 | 9.01 | 9.01 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 14.6 | 14.6 |
@@ -102,9 +102,9 @@ COMFORT SYSTEMS USA INC, as it files with the SEC (CIK 0001035983): its fiscal y
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 714.099 | 147.196 | 56.685 | 50.088 | 1.36 | 52.614 | -4.92 | -7.771 | 1.36 |
 | FY2020 Q4 | 2020 | 4 | 2020-12-31 | 698.961 | 136.999 | 48.281 | 42.84 | 1.17 | 70.11 | -4.672 | -11.343 | 1.17 |
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 669.761 | 123.469 | 35.605 | 26.491 | 0.73 | 84.647 | -4.812 | -0.885 | 0.73 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 |  | 126.455 | 39.397 | 32.965 | 0.9 | 25.422 | -5.95 | -2.162 | 0.9 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 |  | 159.212 | 64.105 | 46.297 | 1.27 | 42.585 | -5.102 | -22.484 | 1.27 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 |  | 154.071 | 49.331 | 37.595 | 1.03 | 27.497 | -6.466 | -1.523 | 1.03 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 713.895 | 126.455 | 39.397 | 32.965 | 0.9 | 25.422 | -5.95 | -2.162 | 0.9 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 833.896 | 159.212 | 64.105 | 46.297 | 1.27 | 42.585 | -5.102 | -22.484 | 1.27 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 856.084 | 154.071 | 49.331 | 37.595 | 1.03 | 27.497 | -6.466 | -1.523 | 1.03 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 885.216 | 153.144 | 35.691 | 86.762 | 2.4 | 63.729 | -9.192 | -14.097 | 2.4 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 1017.948 | 174.992 | 56.651 | 42.246 | 1.17 | 44.563 | -11.023 | -18.757 | 1.17 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 1120.012 | 202.224 | 81.436 | 61.515 | 1.71 | 61.232 | -14.578 | -3.573 | 1.71 |
@@ -203,8 +203,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | --- | --- | --- | --- |
 | Revenue | FY2009 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2022 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2021 | FY2026 | us-gaap:Revenues |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2009 | FY2013 | us-gaap:ProfitLoss |
@@ -236,11 +236,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 2182879000 and 2182879000
 - Source: SEC EDGAR companyfacts
 
-### Change: COMFORT SYSTEMS USA INC, Revenue tag, FY2022
+### Change: COMFORT SYSTEMS USA INC, Revenue tag, FY2021
 
 - CIK: 0001035983
 - What: Revenue tag
-- Boundary: FY2022
+- Boundary: FY2021
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

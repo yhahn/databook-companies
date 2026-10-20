@@ -13,9 +13,9 @@
 
 BIO-TECHNE Corp, as it files with the SEC (CIK 0000842023): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2023-02-07, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BIO-TECHNE Corp, and how has it grown?** It sold $1.2 billion in FY2025, the 477th most of the 487 companies with a revenue for the year, and the 202nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 169.7% from FY2015 to FY2025, 10.4% a year.
+**How large is BIO-TECHNE Corp, and how has it grown?** It sold $1.2 billion in FY2025, the 478th most of the 488 companies with a revenue for the year, and the 202nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 169.7% from FY2015 to FY2025, 10.4% a year.
 
-**Does BIO-TECHNE Corp make money, and how much of what it sells does it keep?** It earned $73 million in FY2025, 6% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 17 years in the book.
+**Does BIO-TECHNE Corp make money, and how much of what it sells does it keep?** It earned $73 million in FY2025, 6% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 18 years in the book.
 
 **Where does BIO-TECHNE Corp's cash go?** From FY2016 to FY2025 its operations brought in $2.4 billion; it spent 14.9% of that on plant and equipment, and 27.3% on buying back its own shares.
 
@@ -27,7 +27,7 @@ BIO-TECHNE Corp, as it files with the SEC (CIK 0000842023): its fiscal years and
 > | Revenue |  |  |  | 263.956 | 269.047 | 289.962 | 314.56 | 310.575 | 357.763 | 452.246 | 499.023 | 563.003 | 642.993 | 714.006 | 738.691 | 931.032 | 1105.599 | 1136.702 | 1159.06 | 1219.635 | 1215.039 |
 > | Gross profit |  |  |  | 208.033 | 214.149 | 224.937 | 235.804 | 231.11 | 251.411 | 307.277 | 336.659 | 374.541 | 432.143 | 473.491 | 483.194 | 632.85 | 756.496 | 769.815 | 769.725 | 790.272 | 799.071 |
 > | Operating income |  |  |  | 150.78 | 156.328 | 163.055 | 166.209 | 0.158469 | 159.75 | 147.023 | 150.593 | 120.584 | 136.178 | 146.719 | 157.419 | 237.296 | 296.59 | 298.944 | 206.686 | 102.255 | 251.89 |
-> | Net income |  |  |  | 105.242 | 109.776 | 112.302 | 112.331 | 112.561 | 110.948 | 107.735 | 104.476 | 76.086 | 126.15 | 96.072 | 229.296 | 140.41 | 272.051 | 285.263 | 168.105 | 73.4 |  |
+> | Net income |  |  |  | 105.242 | 109.776 | 112.302 | 112.331 | 112.561 | 110.948 | 107.735 | 104.476 | 76.086 | 126.15 | 96.072 | 229.296 | 140.41 | 272.051 | 285.263 | 168.105 | 73.4 | 181.862 |
 > | Operating cash flow |  |  |  | 111.321 | 111.26 | 127.194 | 126.746 | 123.562 | 136.762 | 139.359 | 143.87 | 143.721 | 170.367 | 181.619 | 205.217 | 352.164 | 325.272 | 254.393 | 298.981 | 287.556 | 292.073 |
 > | Capex |  |  |  | -6.556 | -4.644 | -3.63 | -6.017 | -22.454 | -13.821 | -19.905 | -16.898 | -15.179 | -20.934 | -25.411 | -51.744 | -44.301 | -44.908 | -38.244 | -62.877 | -31.006 | -28.85 |
 > | Buybacks |  |  |  | -90.629 | -14.973 | -1.94 | -23.598 | -1.821 | 0 | 0 |  |  | 0 | -15.405 | -50.112 | -43.178 | -160.95 | -19.562 | -80.042 | -275.731 | -41.675 |
@@ -126,7 +126,7 @@ BIO-TECHNE Corp, as it files with the SEC (CIK 0000842023): its fiscal years and
 | FY2026 Q1 | 2026 | 1 | 2025-09-30 | 286.555 | 188.112 | 47.658 | 38.185 | 0.24 | 27.585 | -5.363 | -0.024 | 0.24 |
 | FY2026 Q2 | 2026 | 2 | 2025-12-31 | 295.877 | 191.277 | 54.461 | 38.009 | 0.24 | 82.411 | -5.921 | 0 | 0.24 |
 | FY2026 Q3 | 2026 | 3 | 2026-03-31 | 311.415 | 208.288 | 75.495 | 51.047 | 0.32 | 86.661 | -9.086 | 0 | 0.32 |
-| FY2026 Q4 | 2026 | 4 | 2026-06-30 | 321.192 | 211.394 | 74.276 |  | 0.35 | 95.416 | -8.48 | -41.651 | 0.35 |
+| FY2026 Q4 | 2026 | 4 | 2026-06-30 | 321.192 | 211.394 | 74.276 | 54.621 | 0.35 | 95.416 | -8.48 | -41.651 | 0.35 |
 
 ## Segments
 
@@ -244,7 +244,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2009 | FY2026 | us-gaap:NetIncomeLoss |
+| Net income | FY2009 | FY2025 | us-gaap:NetIncomeLoss |
+| Net income | FY2026 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2009 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2009 | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2014 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
@@ -273,6 +274,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 642993000 and 642993000
+- Source: SEC EDGAR companyfacts
+
+### Change: BIO-TECHNE Corp, Net income tag, FY2026
+
+- CIK: 0000842023
+- What: Net income tag
+- Boundary: FY2026
+- Was: us-gaap:NetIncomeLoss
+- Now: us-gaap:ProfitLoss
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
 ### Change: BIO-TECHNE Corp, Operating cash flow tag, FY2014

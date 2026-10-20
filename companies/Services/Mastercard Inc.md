@@ -13,9 +13,9 @@
 
 Mastercard Inc, as it files with the SEC (CIK 0001141391): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2014-02-14, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Mastercard Inc, and how has it grown?** It sold $32.8 billion in FY2025, the 112th most of the 487 companies with a revenue for the year, and the 12th of 74 in [Services](../Services.md). Its sales rose 239.2% from FY2015 to FY2025, 13% a year.
+**How large is Mastercard Inc, and how has it grown?** It sold $32.8 billion in FY2025, the 113th most of the 488 companies with a revenue for the year, and the 13th of 75 in [Services](../Services.md). Its sales rose 239.2% from FY2015 to FY2025, 13% a year.
 
-**Does Mastercard Inc make money, and how much of what it sells does it keep?** It earned $15.0 billion in FY2025, 45.6% of what it sold; the median company of its sector kept 16.1%. It lost money in 1 of its 19 years in the book (FY2008).
+**Does Mastercard Inc make money, and how much of what it sells does it keep?** It earned $15.0 billion in FY2025, 45.6% of what it sold; the median company of its sector kept 16.3%. It lost money in 1 of its 19 years in the book (FY2008).
 
 **Where does Mastercard Inc's cash go?** From FY2016 to FY2025 its operations brought in $97.0 billion; it spent 3.9% of that on plant and equipment, and 71.7% on buying back its own shares.
 

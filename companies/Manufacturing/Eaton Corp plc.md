@@ -13,9 +13,9 @@
 
 Eaton Corp plc, as it files with the SEC (CIK 0001551182): its fiscal years and quarters from its XBRL filings, FY2010 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Eaton Corp plc, and how has it grown?** It sold $27.4 billion in FY2025, the 129th most of the 487 companies with a revenue for the year, and the 62nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 31.6% from FY2015 to FY2025, 2.8% a year.
+**How large is Eaton Corp plc, and how has it grown?** It sold $27.4 billion in FY2025, the 130th most of the 488 companies with a revenue for the year, and the 62nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 31.6% from FY2015 to FY2025, 2.8% a year.
 
-**Does Eaton Corp plc make money, and how much of what it sells does it keep?** It earned $4.1 billion in FY2025, 14.9% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 16 years in the book.
+**Does Eaton Corp plc make money, and how much of what it sells does it keep?** It earned $4.1 billion in FY2025, 14.9% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 16 years in the book.
 
 **Where does Eaton Corp plc's cash go?** From FY2016 to FY2025 its operations brought in $31.4 billion; it spent 19.8% of that on plant and equipment, and 32.6% on buying back its own shares.
 

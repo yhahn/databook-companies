@@ -13,9 +13,9 @@
 
 OCCIDENTAL PETROLEUM CORP, as it files with the SEC (CIK 0000797468): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is OCCIDENTAL PETROLEUM CORP, and how has it grown?** It sold $21.6 billion in FY2025, the 170th most of the 487 companies with a revenue for the year, and the 6th of 12 in [Mining](../Mining.md). Its sales rose 72.8% from FY2015 to FY2025, 5.6% a year.
+**How large is OCCIDENTAL PETROLEUM CORP, and how has it grown?** It sold $21.6 billion in FY2025, the 171st most of the 488 companies with a revenue for the year, and the 6th of 12 in [Mining](../Mining.md). Its sales rose 72.8% from FY2015 to FY2025, 5.6% a year.
 
-**Does OCCIDENTAL PETROLEUM CORP make money, and how much of what it sells does it keep?** It earned $2.4 billion in FY2025, 11% of what it sold; the median company of its sector kept 14.3%. It lost money in 4 of its 18 years in the book (FY2015, FY2016, FY2019, FY2020).
+**Does OCCIDENTAL PETROLEUM CORP make money, and how much of what it sells does it keep?** It earned $2.4 billion in FY2025, 11% of what it sold; the median company of its sector kept 14.3%. It lost money in 4 of its 19 years in the book (FY2015, FY2016, FY2019, FY2020).
 
 **Where does OCCIDENTAL PETROLEUM CORP's cash go?** From FY2016 to FY2025 its operations brought in $88.8 billion; it spent 51.8% of that on plant and equipment, and 7.3% on buying back its own shares.
 
@@ -27,7 +27,7 @@ OCCIDENTAL PETROLEUM CORP, as it files with the SEC (CIK 0000797468): its fiscal
 > | Revenue |  | 18784 | 23713 | 14814 | 19045 | 23939 | 20100 | 20170 | 19312 | 12480 | 10090 | 12508 | 15560 | 19192 | 17130 | 25959 | 36234 | 23230 | 22710 | 21569 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Net income |  | 5400 | 6857 | 2915 | 4530 | 6771 | 4598 | 5903 | 616 | -7829 | -574 | 1311 | 4131 | -985 | -14831 | 2322 | 13304 | 4696 |  | 2369 |  |
+> | Net income |  | 5400 | 6857 | 2915 | 4530 | 6771 | 4598 | 5903 | 616 | -7829 | -574 | 1311 | 4131 | -985 | -14831 | 2322 | 13304 | 4696 | 3078 | 2369 |  |
 > | Operating cash flow |  | 6798 | 10654 | 5946 | 9566 | 12281 | 11299 | 12778 | 11068 | 3351 | 3384 | 4861 | 7669 | 7375 | 3955 | 10434 | 16810 | 12308 | 11439 | 10532 |  |
 > | Capex |  | -3360 | -4126 | -3245 | -3940 | -7518 | -7874 | -7357 | -8930 | -5272 | -2717 | -3599 | -4975 | -6367 | -2535 | -2870 | -4497 | -5696 | -6263 | -6427 |  |
 > | Buybacks |  | -1129 | -1511 | -40 | -67 | -274 | -583 | -943 | -2500 | -593 | -22 | -25 | -1248 | -237 | -12 | -8 | -3099 | -1798 | -27 | 0 |  |
@@ -124,9 +124,9 @@ OCCIDENTAL PETROLEUM CORP, as it files with the SEC (CIK 0000797468): its fiscal
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 7271 |  |  | 1375 | 1.2 | 3129 | -1619 | -434 | 1.2 |
 | FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2243 |  |  | 1198 | 1.07 | 3239 | -970 | -187 | 1.07 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 6731 |  |  | 888 | 0.75 | 2007 | -1783 | 0 | 0.75 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 6802 |  |  |  | 1.03 | 2394 | -1771 | -9 | 1.03 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 7020 |  |  |  | 0.98 | 3682 | -1683 | 0 | 0.98 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2157 |  |  |  | -0.33 | 3356 | -1026 | -18 | -0.33 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 6802 |  |  | 1170 | 1.03 | 2394 | -1771 | -9 | 1.03 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 7020 |  |  | 1140 | 0.98 | 3682 | -1683 | 0 | 0.98 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2157 |  |  | -120 | -0.33 | 3356 | -1026 | -18 | -0.33 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 6911 |  |  | 945 | 0.77 | 2148 | -1682 | 0 | 0.77 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 6318 |  |  | 468 | 0.26 | 2960 | -1705 | 0 | 0.26 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 6682 |  |  | 842 | 0.65 | 2790 | -2287 | 0 | 0.65 |
@@ -147,8 +147,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2007 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2017 | us-gaap:Revenues |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Net income | FY2007 | FY2024 | us-gaap:NetIncomeLoss |
-| Net income | FY2025 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2007 | FY2023 | us-gaap:NetIncomeLoss |
+| Net income | FY2024 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
@@ -176,11 +176,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 17824000000 and 15560000000
 - Source: SEC EDGAR companyfacts
 
-### Change: OCCIDENTAL PETROLEUM CORP, Net income tag, FY2025
+### Change: OCCIDENTAL PETROLEUM CORP, Net income tag, FY2024
 
 - CIK: 0000797468
 - What: Net income tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

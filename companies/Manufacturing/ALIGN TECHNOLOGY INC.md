@@ -13,9 +13,9 @@
 
 ALIGN TECHNOLOGY INC, as it files with the SEC (CIK 0001097149): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ALIGN TECHNOLOGY INC, and how has it grown?** It sold $4.0 billion in FY2025, the 424th most of the 487 companies with a revenue for the year, and the 183rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 377.2% from FY2015 to FY2025, 16.9% a year.
+**How large is ALIGN TECHNOLOGY INC, and how has it grown?** It sold $4.0 billion in FY2025, the 425th most of the 488 companies with a revenue for the year, and the 183rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 377.2% from FY2015 to FY2025, 16.9% a year.
 
-**Does ALIGN TECHNOLOGY INC make money, and how much of what it sells does it keep?** It earned $410 million in FY2025, 10.2% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 18 years in the book (FY2009).
+**Does ALIGN TECHNOLOGY INC make money, and how much of what it sells does it keep?** It earned $410 million in FY2025, 10.2% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 18 years in the book (FY2009).
 
 **Where does ALIGN TECHNOLOGY INC's cash go?** From FY2016 to FY2025 its operations brought in $6.5 billion; it spent 28.9% of that on plant and equipment, and 48% on buying back its own shares.
 
@@ -24,7 +24,7 @@ ALIGN TECHNOLOGY INC, as it files with the SEC (CIK 0001097149): its fiscal year
 > [!CARD:line] ALIGN TECHNOLOGY INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 303.976 | 312.333 | 387.126 |  | 560.041 | 660.206 | 761.653 | 845.486 | 1079.874 | 1473.413 | 1966.492 | 2406.796 | 2471.941 | 3952.584 | 3734.635 | 3862.26 | 3999.012 | 4034.964 |  |
+> | Revenue |  |  | 303.976 | 312.333 | 387.126 | 479.741 | 560.041 | 660.206 | 761.653 | 845.486 | 1079.874 | 1473.413 | 1966.492 | 2406.796 | 2471.941 | 3952.584 | 3734.635 | 3862.26 | 3999.012 | 4034.964 |  |
 > | Gross profit |  |  | 225.126 | 233.492 | 303.417 | 361.283 | 416.388 | 498.106 | 578.443 | 640.11 | 815.294 | 1116.947 | 1447.867 | 1743.897 | 1763.235 | 2935.355 | 2633.775 | 2706.863 | 2799.159 | 2711.013 |  |
 > | Operating income |  |  | 15.514 | -34.012 | 102.734 | 90.36 | 85.592 | 94.212 | 193.576 | 188.634 | 248.921 | 353.611 | 466.564 | 542.493 | 387.171 | 976.4 | 642.595 | 643.338 | 607.628 | 545.755 |  |
 > | Net income |  |  | 79.987 | -31.269 | 74.253 | 66.716 | 58.691 | 64.295 | 145.832 | 144.02 | 189.682 | 231.418 | 400.235 | 442.776 | 1775.888 | 772 | 362 | 445 | 421 | 410 |  |
@@ -39,7 +39,7 @@ ALIGN TECHNOLOGY INC, as it files with the SEC (CIK 0001097149): its fiscal year
 | FY2008 | 2008-01-01 | 2008-12-31 | 1.18 | 1.18 |
 | FY2009 | 2009-01-01 | 2009-12-31 | -0.45 | -0.45 |
 | FY2010 | 2010-01-01 | 2010-12-31 | 0.95 | 0.95 |
-| FY2011 | 2011-01-01 |  | 0.83 | 0.83 |
+| FY2011 | 2011-01-01 | 2011-12-31 | 0.83 | 0.83 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 0.71 | 0.71 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 0.78 | 0.78 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 1.77 | 1.77 |
@@ -67,9 +67,9 @@ ALIGN TECHNOLOGY INC, as it files with the SEC (CIK 0001097149): its fiscal year
 | FY2010 Q3 | 2010 | 3 | 2010-09-30 | 95.947 | 74.933 | 21.923 | 16.815 | 0.22 | 35.763 | -3.083 |  | 0.22 |
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 92.893 | 71.756 | 14.77 | 9.905 | 0.12 | 32.525 | -6.099 |  | 0.12 |
 | FY2011 Q1 | 2011 | 1 | 2011-03-31 | 104.856 | 82.226 | 21.023 | 15.841 | 0.2 | 15.18 | -2.825 |  | 0.2 |
-| FY2011 Q2 | 2011 | 2 | 2011-06-30 |  | 91.137 | 16.595 | 11.162 | 0.14 | 26.39 | -5.697 |  | 0.14 |
+| FY2011 Q2 | 2011 | 2 | 2011-06-30 | 120.086 | 91.137 | 16.595 | 11.162 | 0.14 | 26.39 | -5.697 |  | 0.14 |
 | FY2011 Q3 | 2011 | 3 | 2011-09-30 | 125.894 | 92.37 | 26.312 | 19.264 | 0.24 | 40.921 | -12.507 | 0 | 0.24 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 |  | 95.55 | 26.43 | 20.449 | 0.25 | 47.978 | -9.375 | -7.754 | 0.25 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 128.905 | 95.55 | 26.43 | 20.449 | 0.25 | 47.978 | -9.375 | -7.754 | 0.25 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 135.079 | 100.76 | 28.006 | 20.984 | 0.26 | 7.381 | -12.559 | -2.524 | 0.26 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 145.626 | 108.8 | 36.012 | 28.492 | 0.34 | 35.374 | -13.219 | 0 | 0.34 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 136.496 | 100.35 | 4.503 | -0.344 | 0 | 40.265 | -5.707 | -7.272 | 0 |
@@ -178,8 +178,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2008 | FY2011 | us-gaap:Revenues |
-| Revenue | FY2012 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2008 | FY2010 | us-gaap:Revenues |
+| Revenue | FY2011 | FY2017 | us-gaap:SalesRevenueNet |
 | Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2008 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -192,11 +192,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: ALIGN TECHNOLOGY INC, Revenue tag, FY2012
+### Change: ALIGN TECHNOLOGY INC, Revenue tag, FY2011
 
 - CIK: 0001097149
 - What: Revenue tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

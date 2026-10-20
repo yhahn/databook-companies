@@ -13,9 +13,9 @@
 
 Avery Dennison Corp, as it files with the SEC (CIK 0000008818): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Avery Dennison Corp, and how has it grown?** It sold $8.9 billion in FY2025, the 307th most of the 487 companies with a revenue for the year, and the 129th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 48.4% from FY2015 to FY2025, 4% a year.
+**How large is Avery Dennison Corp, and how has it grown?** It sold $8.9 billion in FY2025, the 308th most of the 488 companies with a revenue for the year, and the 129th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 48.4% from FY2015 to FY2025, 4% a year.
 
-**Does Avery Dennison Corp make money, and how much of what it sells does it keep?** It earned $688 million in FY2025, 7.8% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 14 years in the book (FY2009).
+**Does Avery Dennison Corp make money, and how much of what it sells does it keep?** It earned $688 million in FY2025, 7.8% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 14 years in the book (FY2009).
 
 **Where does Avery Dennison Corp's cash go?** From FY2016 to FY2025 its operations brought in $7.8 billion; it spent 28% of that on plant and equipment, and 33.7% on buying back its own shares.
 

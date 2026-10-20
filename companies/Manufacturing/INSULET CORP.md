@@ -13,9 +13,9 @@
 
 INSULET CORP, as it files with the SEC (CIK 0001145197): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INSULET CORP, and how has it grown?** It sold $2.7 billion in FY2025, the 455th most of the 487 companies with a revenue for the year, and the 198th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 926.2% from FY2015 to FY2025, 26.2% a year.
+**How large is INSULET CORP, and how has it grown?** It sold $2.7 billion in FY2025, the 456th most of the 488 companies with a revenue for the year, and the 198th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 926.2% from FY2015 to FY2025, 26.2% a year.
 
-**Does INSULET CORP make money, and how much of what it sells does it keep?** It earned $247 million in FY2025, 9.1% of what it sold; the median company of its sector kept 11.8%. It lost money in 9 of its 17 years in the book (FY2009, FY2010, FY2011 and 6 more).
+**Does INSULET CORP make money, and how much of what it sells does it keep?** It earned $247 million in FY2025, 9.1% of what it sold; the median company of its sector kept 11.7%. It lost money in 9 of its 17 years in the book (FY2009, FY2010, FY2011 and 6 more).
 
 **Where does INSULET CORP's cash go?** From FY2016 to FY2025 its operations brought in $1.5 billion; it spent 79.7% of that on plant and equipment, and 4% on buying back its own shares.
 
@@ -24,7 +24,7 @@ INSULET CORP, as it files with the SEC (CIK 0001145197): its fiscal years and qu
 > [!CARD:line] INSULET CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 66.032 | 96.966 | 152.255 | 211.369 | 185.139 | 231.321 | 263.893 | 366.989 | 463.8 | 563.8 | 738.2 | 904.4 | 1040.6 | 1055.4 |  | 2071.6 | 2708.1 |  |
+> | Revenue |  |  |  | 66.032 | 96.966 | 152.255 | 211.369 | 185.139 | 231.321 | 263.893 | 366.989 | 463.8 | 563.8 | 738.2 | 904.4 | 1040.6 | 1055.4 | 1697.1 | 2071.6 | 2708.1 |  |
 > | Gross profit |  |  |  | 18.297 | 43.726 | 66.712 | 92.336 | 89.775 | 127.126 | 133.271 | 211.086 | 277.2 | 370.2 | 480.3 | 582.3 | 752.1 | 805.6 | 1159.9 | 1445.7 | 1939.9 |  |
 > | Operating income |  |  |  | -59.359 | -38.633 | -42.467 | -35.971 | -26.675 | -8.874 | -48.736 | -10.704 | -7.4 | 27.4 | 50 | 51.5 | 126 | 37.6 | 220.1 | 308.9 | 473.8 |  |
 > | Net income |  |  |  | -72.344 | -61.159 | -45.831 | -51.867 | -44.974 | -51.5 | -73.52 | -28.879 | -26.8 | 3.3 | 11.6 | 6.8 | 16.8 | 4.6 | 206.3 | 418.3 | 247.1 |  |
@@ -43,14 +43,14 @@ INSULET CORP, as it files with the SEC (CIK 0001145197): its fiscal years and qu
 | FY2013 | 2013-01-01 | 2013-12-31 | -0.83 | -0.83 |
 | FY2014 | 2014-01-01 | 2014-12-31 | -0.93 | -0.93 |
 | FY2015 | 2015-01-01 | 2015-12-31 | -1.29 | -1.29 |
-| FY2016 | 2016-01-01 | 2016-12-31 |  |  |
+| FY2016 | 2016-01-01 | 2016-12-31 | -0.48 | -0.48 |
 | FY2017 | 2017-01-01 | 2017-12-31 | -0.46 | -0.46 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 0.05 | 0.05 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 0.19 | 0.19 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 0.1 | 0.1 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 0.24 | 0.24 |
 | FY2022 | 2022-01-01 | 2022-12-31 | 0.07 | 0.07 |
-| FY2023 | 2023-01-01 |  | 2.94 | 2.94 |
+| FY2023 | 2023-01-01 | 2023-12-31 | 2.94 | 2.94 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 5.78 | 5.78 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.48 | 3.48 |
 
@@ -110,10 +110,10 @@ INSULET CORP, as it files with the SEC (CIK 0001145197): its fiscal years and qu
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 243.9 | 190.3 | -26.7 | -35 | -0.5 | 25.3 | -14.6 |  | -0.5 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 281.9 | 188.3 | 2.9 | -5.2 | -0.08 | 56.7 | -31.1 |  | -0.08 |
 | FY2022 Q4 | 2022 | 4 | 2022-12-31 | 282.6 | 217.3 | 23.5 | 17 | 0.25 | 50.7 | -64.4 |  | 0.25 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 261.3 | 240.5 | 27.7 | 23.8 | 0.34 | 0.5 | -10.5 |  | 0.34 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 |  | 264.9 | 31.1 | 27.3 | 0.39 | 44 | -15.7 |  | 0.39 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 |  | 293.3 | 54.8 | 51.9 | 0.74 | 56 | -20.1 |  | 0.74 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 |  | 361.2 | 106.5 | 103.3 | 1.47 | 45.2 | -29.3 |  | 1.47 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 358.1 | 240.5 | 27.7 | 23.8 | 0.34 | 0.5 | -10.5 |  | 0.34 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 396.5 | 264.9 | 31.1 | 27.3 | 0.39 | 44 | -15.7 |  | 0.39 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 432.7 | 293.3 | 54.8 | 51.9 | 0.74 | 56 | -20.1 |  | 0.74 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 509.8 | 361.2 | 106.5 | 103.3 | 1.47 | 45.2 | -29.3 |  | 1.47 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 441.7 | 306.8 | 56.9 | 51.5 | 0.73 | 87.6 | -22.1 |  | 0.73 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 488.5 | 330.9 | 54.5 | 188.6 | 2.59 | 86.8 | -22.5 |  | 2.59 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 543.9 | 377.1 | 88.1 | 77.5 | 1.08 | 108.3 | -26.7 | 0 | 1.08 |
@@ -180,13 +180,13 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | --- | --- | --- | --- |
 | Revenue | FY2009 | FY2014 | us-gaap:SalesRevenueNet |
 | Revenue | FY2015 | FY2016 | us-gaap:Revenues |
-| Revenue | FY2017 | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2024 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2017 | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2023 | FY2026 | us-gaap:Revenues |
 | Gross profit | FY2009 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2009 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2009 | FY2026 | us-gaap:NetIncomeLoss |
-| EPS diluted | FY2009 | FY2016 | us-gaap:EarningsPerShareBasicAndDiluted |
-| EPS diluted | FY2017 | FY2026 | us-gaap:EarningsPerShareDiluted |
+| EPS diluted | FY2009 | FY2015 | us-gaap:EarningsPerShareBasicAndDiluted |
+| EPS diluted | FY2016 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2009 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2009 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2023 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
@@ -213,21 +213,21 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 463768000 and 463800000
 - Source: SEC EDGAR companyfacts
 
-### Change: INSULET CORP, Revenue tag, FY2024
+### Change: INSULET CORP, Revenue tag, FY2023
 
 - CIK: 0001145197
 - What: Revenue tag
-- Boundary: FY2024
+- Boundary: FY2023
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: INSULET CORP, EPS diluted tag, FY2017
+### Change: INSULET CORP, EPS diluted tag, FY2016
 
 - CIK: 0001145197
 - What: EPS diluted tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:EarningsPerShareBasicAndDiluted
 - Now: us-gaap:EarningsPerShareDiluted
 - Crosswalk: none

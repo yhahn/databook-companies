@@ -13,9 +13,9 @@
 
 Keysight Technologies, Inc., as it files with the SEC (CIK 0001601046): its fiscal years and quarters from its XBRL filings, FY2013 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Keysight Technologies, Inc., and how has it grown?** It sold $5.4 billion in FY2025, the 385th most of the 487 companies with a revenue for the year, and the 164th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 88.2% from FY2015 to FY2025, 6.5% a year.
+**How large is Keysight Technologies, Inc., and how has it grown?** It sold $5.4 billion in FY2025, the 386th most of the 488 companies with a revenue for the year, and the 164th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 88.2% from FY2015 to FY2025, 6.5% a year.
 
-**Does Keysight Technologies, Inc. make money, and how much of what it sells does it keep?** It earned $850 million in FY2025, 15.8% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 13 years in the book.
+**Does Keysight Technologies, Inc. make money, and how much of what it sells does it keep?** It earned $850 million in FY2025, 15.8% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 13 years in the book.
 
 **Where does Keysight Technologies, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $9.7 billion; it spent 14.2% of that on plant and equipment, and 39.3% on buying back its own shares.
 
@@ -24,7 +24,7 @@ Keysight Technologies, Inc., as it files with the SEC (CIK 0001601046): its fisc
 > [!CARD:line] Keysight Technologies, Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  | 2888 | 2933 | 2856 | 2918 | 3189 |  | 4303 | 4221 | 4941 | 5420 | 5464 | 4979 | 5375 |  |
+> | Revenue |  |  |  |  |  |  |  | 2888 | 2933 | 2856 | 2918 | 3189 | 3878 | 4303 | 4221 | 4941 | 5420 | 5464 | 4979 | 5375 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  | 496 | 469 | 431 | 375 | 148 | -394 | 711 | 765 | 1080 | 1334 | 1358 | 833 | 876 |  |
 > | Net income |  |  |  |  |  |  |  | 457 | 392 | 513 | 335 | 102 | 165 | 621 | 627 | 894 | 1124 | 1057 | 614 | 850 |  |
@@ -41,7 +41,7 @@ Keysight Technologies, Inc., as it files with the SEC (CIK 0001601046): its fisc
 | FY2015 | 2014-11-01 | 2015-10-31 | 3 | 3 |
 | FY2016 | 2015-11-01 | 2016-10-31 | 1.95 | 1.95 |
 | FY2017 | 2016-11-01 | 2017-10-31 | 0.56 | 0.56 |
-| FY2018 | 2017-11-01 |  | 0.86 | 0.86 |
+| FY2018 | 2017-11-01 | 2018-10-31 | 0.86 | 0.86 |
 | FY2019 | 2018-11-01 | 2019-10-31 | 3.25 | 3.25 |
 | FY2020 | 2019-11-01 | 2020-10-31 | 3.31 | 3.31 |
 | FY2021 | 2020-11-01 | 2021-10-31 | 4.78 | 4.78 |
@@ -147,7 +147,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2013 | FY2018 | us-gaap:SalesRevenueNet |
+| Revenue | FY2013 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2018 | FY2018 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Revenue | FY2019 | FY2022 | us-gaap:Revenues |
 | Revenue | FY2023 | FY2025 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Revenue | FY2026 | FY2026 | us-gaap:Revenues |
@@ -161,14 +162,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
+### Change: Keysight Technologies, Inc., Revenue tag, FY2018
+
+- CIK: 0001601046
+- What: Revenue tag
+- Boundary: FY2018
+- Was: us-gaap:SalesRevenueNet
+- Now: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
 ### Change: Keysight Technologies, Inc., Revenue tag, FY2019
 
 - CIK: 0001601046
 - What: Revenue tag
 - Boundary: FY2019
-- Was: us-gaap:SalesRevenueNet
+- Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Now: us-gaap:Revenues
-- Crosswalk: none
+- Crosswalk: FY2019 under both: 4303000000 and 4303000000
 - Source: SEC EDGAR companyfacts
 
 ### Change: Keysight Technologies, Inc., Revenue tag, FY2023

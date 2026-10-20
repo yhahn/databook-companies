@@ -13,7 +13,7 @@
 
 DOMINOS PIZZA INC, as it files with the SEC (CIK 0001286681): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DOMINOS PIZZA INC, and how has it grown?** It sold $4.9 billion in FY2025, the 398th most of the 487 companies with a revenue for the year, and the 10th of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 122.9% from FY2015 to FY2025, 8.3% a year.
+**How large is DOMINOS PIZZA INC, and how has it grown?** It sold $4.9 billion in FY2025, the 399th most of the 488 companies with a revenue for the year, and the 10th of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 122.9% from FY2015 to FY2025, 8.3% a year.
 
 **Does DOMINOS PIZZA INC make money, and how much of what it sells does it keep?** It earned $602 million in FY2025, 12.2% of what it sold; the median company of its sector kept 2.7%. It lost money in none of its 17 years in the book.
 

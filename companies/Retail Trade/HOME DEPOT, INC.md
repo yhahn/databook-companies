@@ -13,7 +13,7 @@
 
 HOME DEPOT, INC., as it files with the SEC (CIK 0000354950): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HOME DEPOT, INC., and how has it grown?** It sold $164.7 billion in FY2025, the 21st most of the 487 companies with a revenue for the year, and the 5th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 86% from FY2015 to FY2025, 6.4% a year.
+**How large is HOME DEPOT, INC., and how has it grown?** It sold $164.7 billion in FY2025, the 22nd most of the 488 companies with a revenue for the year, and the 5th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 86% from FY2015 to FY2025, 6.4% a year.
 
 **Does HOME DEPOT, INC. make money, and how much of what it sells does it keep?** It earned $14.2 billion in FY2025, 8.6% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 
@@ -24,7 +24,7 @@ HOME DEPOT, INC., as it files with the SEC (CIK 0000354950): its fiscal years an
 > [!CARD:line] HOME DEPOT, INC., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 77349 | 71288 | 66176 |  | 70395 | 74754 | 78812 | 83176 | 88519 | 94595 | 100904 | 108203 | 110225 | 132110 | 151157 | 157403 | 152669 | 159514 | 164683 |  |
+> | Revenue |  | 77349 | 71288 | 66176 | 67997 | 70395 | 74754 | 78812 | 83176 | 88519 | 94595 | 100904 | 108203 | 110225 | 132110 | 151157 | 157403 | 152669 | 159514 | 164683 |  |
 > | Gross profit |  | 25997 | 23990 | 22412 | 23304 | 24262 | 25395 | 26915 | 28389 | 30265 | 32313 | 34356 | 37160 | 37572 | 44853 | 50832 | 52778 | 50960 | 53308 | 54865 |  |
 > | Operating income |  | 7242 | 4359 | 4803 | 5839 | 6661 | 7766 | 9166 | 10469 | 11774 | 13427 | 14681 | 15530 | 15843 | 18278 | 23040 | 24039 | 21689 | 21526 | 20890 |  |
 > | Net income |  | 4395 | 2260 | 2661 | 3338 | 3883 | 4535 | 5385 | 6345 | 7009 | 7957 | 8630 | 11121 | 11242 | 12866 | 16430 | 17110 | 15140 | 14810 | 14160 |  |
@@ -39,7 +39,7 @@ HOME DEPOT, INC., as it files with the SEC (CIK 0000354950): its fiscal years an
 | FY2007 | 2007-01-29 | 2008-02-03 | 2.37 | 2.37 |
 | FY2008 | 2008-02-04 | 2009-02-01 | 1.34 | 1.34 |
 | FY2009 | 2009-02-02 | 2010-01-31 | 1.57 | 1.57 |
-| FY2010 | 2010-02-01 |  | 2.01 | 2.01 |
+| FY2010 | 2010-02-01 | 2011-01-30 | 2.01 | 2.01 |
 | FY2011 | 2011-01-31 | 2012-01-29 | 2.47 | 2.47 |
 | FY2012 | 2012-01-30 | 2013-02-03 | 3 | 3 |
 | FY2013 | 2013-02-04 | 2014-02-02 | 3.76 | 3.76 |
@@ -70,7 +70,7 @@ HOME DEPOT, INC., as it files with the SEC (CIK 0000354950): its fiscal years an
 | FY2010 Q1 | 2010 | 1 | 2010-05-02 | 16863 | 5794 | 1305 | 725 | 0.43 | 2039 | -167 | -508 | 0.43 |
 | FY2010 Q2 | 2010 | 2 | 2010-08-01 | 19410 | 6582 | 2049 | 1192 | 0.72 | 1324 | -240 | -701 | 0.72 |
 | FY2010 Q3 | 2010 | 3 | 2010-10-31 | 16598 | 5685 | 1448 | 834 | 0.51 | 623 | -282 | -765 | 0.51 |
-| FY2010 Q4 | 2010 | 4 | 2011-01-30 |  | 5243 | 1037 | 587 | 0.36 | 599 | -407 | -634 | 0.36 |
+| FY2010 Q4 | 2010 | 4 | 2011-01-30 | 15126 | 5243 | 1037 | 587 | 0.36 | 599 | -407 | -634 | 0.36 |
 | FY2011 Q1 | 2011 | 1 | 2011-05-01 | 16823 | 5828 | 1422 | 812 | 0.5 | 2098 | -199 | -1301 | 0.5 |
 | FY2011 Q2 | 2011 | 2 | 2011-07-31 | 20232 | 6876 | 2294 | 1363 | 0.86 | 2389 | -270 | -950 | 0.86 |
 | FY2011 Q3 | 2011 | 3 | 2011-10-30 | 17326 | 5961 | 1615 | 934 | 0.6 | 1204 | -351 | -805 | 0.6 |
@@ -195,8 +195,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2010 | us-gaap:Revenues |
-| Revenue | FY2011 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2009 | us-gaap:Revenues |
+| Revenue | FY2010 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Gross profit | FY2007 | FY2026 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
@@ -208,11 +208,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: HOME DEPOT, INC., Revenue tag, FY2011
+### Change: HOME DEPOT, INC., Revenue tag, FY2010
 
 - CIK: 0000354950
 - What: Revenue tag
-- Boundary: FY2011
+- Boundary: FY2010
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

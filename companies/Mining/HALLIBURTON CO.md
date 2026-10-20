@@ -13,7 +13,7 @@
 
 HALLIBURTON CO, as it files with the SEC (CIK 0000045012): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HALLIBURTON CO, and how has it grown?** It sold $22.2 billion in FY2025, the 165th most of the 487 companies with a revenue for the year, and the 5th of 12 in [Mining](../Mining.md). Its sales fell 6.1% from FY2015 to FY2025, −0.6% a year.
+**How large is HALLIBURTON CO, and how has it grown?** It sold $22.2 billion in FY2025, the 166th most of the 488 companies with a revenue for the year, and the 5th of 12 in [Mining](../Mining.md). Its sales fell 6.1% from FY2015 to FY2025, −0.6% a year.
 
 **Does HALLIBURTON CO make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 5.8% of what it sold; the median company of its sector kept 14.3%. It lost money in 5 of its 19 years in the book (FY2015, FY2016, FY2017 and 2 more).
 
@@ -24,7 +24,7 @@ HALLIBURTON CO, as it files with the SEC (CIK 0000045012): its fiscal years and 
 > [!CARD:line] HALLIBURTON CO, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 15264 | 18279 | 14675 | 17973 |  | 28503 | 29402 | 32870 | 23633 | 15887 | 20620 | 23995 | 22408 | 14445 | 15295 | 20297 | 23018 | 22944 | 22184 |  |
+> | Revenue |  | 15264 | 18279 | 14675 | 17973 | 24829 | 28503 | 29402 | 32870 | 23633 | 15887 | 20620 | 23995 | 22408 | 14445 | 15295 | 20297 | 23018 | 22944 | 22184 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 3498 | 4010 | 1994 | 3009 | 4737 | 4159 | 3138 | 5097 | -165 | -6770 | 1374 | 2467 | -448 | -2436 | 1800 | 2707 | 4083 | 3822 | 2260 |  |
 > | Net income |  | 3486 | 2224 | 1145 | 1835 | 2839 | 2635 | 2125 | 3500 | -671 | -5763 | -463 | 1656 | -1131 | -2945 | 1457 | 1572 | 2638 | 2501 | 1283 |  |
@@ -40,7 +40,7 @@ HALLIBURTON CO, as it files with the SEC (CIK 0000045012): its fiscal years and 
 | FY2008 | 2008-01-01 | 2008-12-31 | 2.45 | 2.45 |
 | FY2009 | 2009-01-01 | 2009-12-31 | 1.27 | 1.27 |
 | FY2010 | 2010-01-01 | 2010-12-31 | 2.01 | 2.01 |
-| FY2011 | 2011-01-01 |  | 3.08 | 3.08 |
+| FY2011 | 2011-01-01 | 2011-12-31 | 3.08 | 3.08 |
 | FY2012 | 2012-01-01 | 2012-12-31 | 2.84 | 2.84 |
 | FY2013 | 2013-01-01 | 2013-12-31 | 2.36 | 2.36 |
 | FY2014 | 2014-01-01 | 2014-12-31 | 4.11 | 4.11 |
@@ -73,8 +73,8 @@ HALLIBURTON CO, as it files with the SEC (CIK 0000045012): its fiscal years and 
 | FY2010 Q4 | 2010 | 4 | 2010-12-31 | 5160 |  | 980 | 605 | 0.66 | 850 | -657 |  | 0.66 |
 | FY2011 Q1 | 2011 | 1 | 2011-03-31 | 5282 |  | 814 | 511 | 0.56 | 565 | -704 |  | 0.56 |
 | FY2011 Q2 | 2011 | 2 | 2011-06-30 | 5935 |  | 1161 | 739 | 0.8 | 823 | -719 |  | 0.8 |
-| FY2011 Q3 | 2011 | 3 | 2011-09-30 |  |  | 1332 | 683 | 0.74 | 978 | -741 |  | 0.74 |
-| FY2011 Q4 | 2011 | 4 | 2011-12-31 |  |  | 1430 | 906 | 0.98 | 1318 | -789 |  | 0.98 |
+| FY2011 Q3 | 2011 | 3 | 2011-09-30 | 6548 |  | 1332 | 683 | 0.74 | 978 | -741 |  | 0.74 |
+| FY2011 Q4 | 2011 | 4 | 2011-12-31 | 7064 |  | 1430 | 906 | 0.98 | 1318 | -789 |  | 0.98 |
 | FY2012 Q1 | 2012 | 1 | 2012-03-31 | 6868 |  | 1023 | 627 | 0.68 | 734 | -782 |  | 0.68 |
 | FY2012 Q2 | 2012 | 2 | 2012-06-30 | 7234 |  | 1201 | 737 | 0.79 | 401 | -869 |  | 0.79 |
 | FY2012 Q3 | 2012 | 3 | 2012-09-30 | 7111 |  | 954 | 602 | 0.65 | 778 | -868 | 0 | 0.65 |
@@ -211,8 +211,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2011 | us-gaap:Revenues |
-| Revenue | FY2012 | FY2016 | us-gaap:SalesRevenueNet |
+| Revenue | FY2007 | FY2010 | us-gaap:Revenues |
+| Revenue | FY2011 | FY2016 | us-gaap:SalesRevenueNet |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
@@ -224,11 +224,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: HALLIBURTON CO, Revenue tag, FY2012
+### Change: HALLIBURTON CO, Revenue tag, FY2011
 
 - CIK: 0000045012
 - What: Revenue tag
-- Boundary: FY2012
+- Boundary: FY2011
 - Was: us-gaap:Revenues
 - Now: us-gaap:SalesRevenueNet
 - Crosswalk: none

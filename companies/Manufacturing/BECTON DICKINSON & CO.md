@@ -13,11 +13,11 @@
 
 BECTON DICKINSON & CO, as it files with the SEC (CIK 0000010795): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BECTON DICKINSON & CO, and how has it grown?** It sold $21.8 billion in FY2025, the 167th most of the 487 companies with a revenue for the year, and the 74th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 112.4% from FY2015 to FY2025, 7.8% a year.
+**How large is BECTON DICKINSON & CO, and how has it grown?** It sold $21.8 billion in FY2025, the 168th most of the 488 companies with a revenue for the year, and the 74th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 112.4% from FY2015 to FY2025, 7.8% a year.
 
-**Does BECTON DICKINSON & CO make money, and how much of what it sells does it keep?** It earned $1.7 billion in FY2025, 7.7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does BECTON DICKINSON & CO make money, and how much of what it sells does it keep?** It earned $1.7 billion in FY2025, 7.7% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
-**Where does BECTON DICKINSON & CO's cash go?** From FY2016 to FY2025 its operations brought in $29.8 billion; it spent 25.5% of that on plant and equipment, and 11.7% on buying back its own shares.
+**Where does BECTON DICKINSON & CO's cash go?** From FY2016 to FY2025 its operations brought in $32.2 billion; it spent 26.6% of that on plant and equipment, and 12.3% on buying back its own shares.
 
 ## Annual
 
@@ -28,7 +28,7 @@ BECTON DICKINSON & CO, as it files with the SEC (CIK 0000010795): its fiscal yea
 > | Gross profit |  |  |  |  |  |  |  |  | 4301 | 4695 | 5991 | 5942 | 7269 | 8288 | 7577 |  |  |  |  |  |  |
 > | Operating income |  | 1184.664 | 1488.144 | 1589.682 | 1582.378 | 1666 | 1558 | 1254 | 1606 | 1074 | 1430 | 1522 | 1509 | 1760 | 912 | 2250 | 2282 | 2111 | 2397 | 2579 |  |
 > | Net income |  | 890.033 | 1126.996 | 1231.603 | 1317.61 | 1271 | 1170 | 1293 | 1185 | 695 | 976 | 1100 | 311 | 1233 | 874 | 2092 | 1779 | 1484 | 1705 | 1678 |  |
-> | Operating cash flow |  | 1229.947 | 1617.787 | 1658.486 | 1586.859 | 1638 | 1693 | 1717 | 1746 | 1730 | 2559 | 2550 | 2865 | 3330 | 3539 | 4647 |  | 2990 | 3844 | 3430 |  |
+> | Operating cash flow |  | 1229.947 | 1617.787 | 1658.486 | 1586.859 | 1638 | 1693 | 1717 | 1746 | 1730 | 2559 | 2550 | 2865 | 3330 | 3539 | 4647 | 2471 | 2990 | 3844 | 3430 |  |
 > | Capex |  | -556.287 | -595.811 | -585.196 | -530.969 | -509 | -487 | -522 | -592 | -596 | -693 | -727 | -895 | -957 | -769 | -1194 | -973 | -874 | -725 | -760 |  |
 > | Buybacks |  | -450.124 | -450.001 | -550.006 | -750 | -1500 | -1500 | -450 | -400 | 0 | 0 | -220 | 0 | 0 | 0 | -1750 | -500 | 0 | -500 | -1000 |  |
 
@@ -114,10 +114,10 @@ BECTON DICKINSON & CO, as it files with the SEC (CIK 0000010795): its fiscal yea
 | FY2021 Q2 | 2021 | 2 | 2021-03-31 | 4907 |  | 434 | 299 | 0.94 | 1188 | -253 |  | 0.94 |
 | FY2021 Q3 | 2021 | 3 | 2021-06-30 | 4607 |  | 492 | 525 | 1.72 | 975 | -243 |  | 1.72 |
 | FY2021 Q4 | 2021 | 4 | 2021-09-30 | 4849 |  | 380 | 265 | 0.85 | 951 | -452 | -750 | 0.85 |
-| FY2022 Q1 | 2022 | 1 | 2021-12-31 | 4718 |  | 692 | 677 | 2.28 | 674 | -183 |  | 2.28 |
-| FY2022 Q2 | 2022 | 2 | 2022-03-31 | 4750 |  | 564 | 454 | 1.5 | 444 | -222 |  | 1.5 |
-| FY2022 Q3 | 2022 | 3 | 2022-06-30 | 4641 |  | 537 | 360 | 1.18 |  | -253 |  | 1.18 |
-| FY2022 Q4 | 2022 | 4 | 2022-09-30 | 4761 |  | 489 | 288 | 0.93 |  | -315 | -500 | 0.93 |
+| FY2022 Q1 | 2022 | 1 | 2021-12-31 | 4718 |  | 692 | 677 | 2.28 | 530 | -183 |  | 2.28 |
+| FY2022 Q2 | 2022 | 2 | 2022-03-31 | 4750 |  | 564 | 454 | 1.5 | 290 | -222 |  | 1.5 |
+| FY2022 Q3 | 2022 | 3 | 2022-06-30 | 4641 |  | 537 | 360 | 1.18 | 678 | -253 |  | 1.18 |
+| FY2022 Q4 | 2022 | 4 | 2022-09-30 | 4761 |  | 489 | 288 | 0.93 | 973 | -315 | -500 | 0.93 |
 | FY2023 Q1 | 2023 | 1 | 2022-12-31 | 4586 |  | 585 | 509 | 1.7 | 399 | -208 | 0 | 1.7 |
 | FY2023 Q2 | 2023 | 2 | 2023-03-31 | 4821 |  | 628 | 460 | 1.53 | 185 | -181 | 0 | 1.53 |
 | FY2023 Q3 | 2023 | 3 | 2023-06-30 | 4878 |  | 549 | 407 | 1.36 | 1081 | -191 | 0 | 1.36 |
@@ -206,8 +206,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2013 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2015 | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2023 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2015 | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2022 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -253,11 +253,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2015 under both: 1730000000 and 1730000000
 - Source: SEC EDGAR companyfacts
 
-### Change: BECTON DICKINSON & CO, Operating cash flow tag, FY2023
+### Change: BECTON DICKINSON & CO, Operating cash flow tag, FY2022
 
 - CIK: 0000010795
 - What: Operating cash flow tag
-- Boundary: FY2023
+- Boundary: FY2022
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none

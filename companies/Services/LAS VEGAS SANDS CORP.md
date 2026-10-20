@@ -13,9 +13,9 @@
 
 LAS VEGAS SANDS CORP, as it files with the SEC (CIK 0001300514): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is LAS VEGAS SANDS CORP, and how has it grown?** It sold $13.0 billion in FY2025, the 253rd most of the 487 companies with a revenue for the year, and the 31st of 74 in [Services](../Services.md). Its sales rose 11.4% from FY2015 to FY2025, 1.1% a year.
+**How large is LAS VEGAS SANDS CORP, and how has it grown?** It sold $13.0 billion in FY2025, the 254th most of the 488 companies with a revenue for the year, and the 32nd of 75 in [Services](../Services.md). Its sales rose 11.4% from FY2015 to FY2025, 1.1% a year.
 
-**Does LAS VEGAS SANDS CORP make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 12.5% of what it sold; the median company of its sector kept 16.1%. It lost money in 4 of its 18 years in the book (FY2008, FY2009, FY2020, FY2021).
+**Does LAS VEGAS SANDS CORP make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 12.5% of what it sold; the median company of its sector kept 16.3%. It lost money in 4 of its 18 years in the book (FY2008, FY2009, FY2020, FY2021).
 
 **Where does LAS VEGAS SANDS CORP's cash go?** From FY2016 to FY2025 its operations brought in $23.3 billion; it spent 45.8% of that on plant and equipment, and 27.9% on buying back its own shares.
 

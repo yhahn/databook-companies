@@ -13,7 +13,7 @@
 
 US BANCORP DE, as it files with the SEC (CIK 0000036104): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is US BANCORP DE, and how has it grown?** It sold $28.7 billion in FY2025, the 123rd most of the 487 companies with a revenue for the year, and the 20th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 41.1% from FY2015 to FY2025, 3.5% a year.
+**How large is US BANCORP DE, and how has it grown?** It sold $28.7 billion in FY2025, the 124th most of the 488 companies with a revenue for the year, and the 20th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 41.1% from FY2015 to FY2025, 3.5% a year.
 
 **Does US BANCORP DE make money, and how much of what it sells does it keep?** It earned $7.6 billion in FY2025, 26.4% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 14 years in the book.
 

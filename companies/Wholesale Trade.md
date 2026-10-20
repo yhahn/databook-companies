@@ -8,11 +8,11 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Wholesale Trade among the S&P 500?** Its 10 companies with a revenue and a net income for FY2025 sold $1.09 trillion, 6.6% of the sales of all the 500's, and kept $14.7 billion as net income, 0.8% of theirs. It kept 1.3% of what it sold; all the companies together, 11.8%.
+**How large is Wholesale Trade among the S&P 500?** Its 10 companies with a revenue and a net income for FY2025 sold $1.09 trillion, 6.4% of the sales of all the 500's, and kept $14.7 billion as net income, 0.7% of theirs. It kept 1.3% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Wholesale Trade grown?** Its 7 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 111.3% more in FY2025 than in FY2015, 7.8% a year, and their net income went from $6.4 billion to $11.0 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Wholesale Trade grown?** Its 7 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 111.3% more in FY2025 than in FY2015, 7.8% a year, and their net income went from $6.4 billion to $11.0 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
 The rise in revenue since FY2015, each year, in percent: the sector's 7 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
@@ -20,7 +20,7 @@ The rise in revenue since FY2015, each year, in percent: the sector's 7 companie
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Wholesale Trade | 0 | 9.3 | 14.8 | 21.8 | 27.7 | 35.2 | 45.7 | 61.9 | 75.3 | 94.5 | 111.3 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared

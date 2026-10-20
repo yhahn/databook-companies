@@ -13,11 +13,11 @@
 
 Expedia Group, Inc., as it files with the SEC (CIK 0001324424): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-02-10, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Expedia Group, Inc., and how has it grown?** It sold $14.7 billion in FY2025, the 237th most of the 487 companies with a revenue for the year, and the 37th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 120.8% from FY2015 to FY2025, 8.2% a year.
+**How large is Expedia Group, Inc., and how has it grown?** It sold $14.7 billion in FY2025, the 238th most of the 488 companies with a revenue for the year, and the 37th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 120.8% from FY2015 to FY2025, 8.2% a year.
 
 **Does Expedia Group, Inc. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 8.8% of what it sold; the median company of its sector kept 12.9%. It lost money in 2 of its 18 years in the book (FY2008, FY2020).
 
-**Where does Expedia Group, Inc.'s cash go?** From FY2017 to FY2025 its operations brought in $19.6 billion; it spent 37% of that on plant and equipment, and 46.3% on buying back its own shares.
+**Where does Expedia Group, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $21.1 billion; it spent 37.8% of that on plant and equipment, and 45.1% on buying back its own shares.
 
 ## Annual
 
@@ -28,7 +28,7 @@ Expedia Group, Inc., as it files with the SEC (CIK 0001324424): its fiscal years
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  | -2428.953 | 397.743 | 500.787 | 479.609 | 431.724 | 366.06 | 517.764 | 413.566 | 462 | 625 | 714 | 903 | -2719 | 186 | 1085 | 1033 | 1319 | 1871 |  |
 > | Net income |  |  | -2517.763 | 299.526 | 421.5 | 472.294 | 280.171 | 232.85 | 398.097 | 764.465 | 282 | 378 | 406 | 565 | -2612 | 15 | 343 | 688 | 1224 | 1301 |  |
-> | Operating cash flow |  |  | 520.688 | 676.004 | 777.483 | 825.729 | 1237.182 | 763.2 | 1366.959 | 1368.045 |  | 1845 | 1975 | 2767 | -3834 | 3748 | 3440 | 2690 | 3085 | 3880 |  |
+> | Operating cash flow |  |  | 520.688 | 676.004 | 777.483 | 825.729 | 1237.182 | 763.2 | 1366.959 | 1368.045 | 1549 | 1845 | 1975 | 2767 | -3834 | 3748 | 3440 | 2690 | 3085 | 3880 |  |
 > | Capex |  |  | -159.827 | -78.842 | -136.376 | -207.837 | -235.697 | -308.581 | -328.387 | -787.041 | -749 | -710 | -878 | -1160 | -797 | -673 | -662 | -846 | -756 | -770 |  |
 > | Buybacks |  |  | -12.865 | -7.963 | -501.993 | -294.027 | -417.571 | -522.9 | -537.861 | -60.546 | -456 | -312 | -923 | -743 | -425 | -165 | -607 | -2137 | -1839 | -1930 |  |
 
@@ -209,8 +209,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2011 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2011 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2008 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2008 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -246,11 +246,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: Expedia Group, Inc., Operating cash flow tag, FY2017
+### Change: Expedia Group, Inc., Operating cash flow tag, FY2016
 
 - CIK: 0001324424
 - What: Operating cash flow tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: none

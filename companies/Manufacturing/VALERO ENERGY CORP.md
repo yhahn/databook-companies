@@ -13,11 +13,11 @@
 
 VALERO ENERGY CORP, as it files with the SEC (CIK 0001035002): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VALERO ENERGY CORP, and how has it grown?** It sold $122.7 billion in FY2025, the 29th most of the 487 companies with a revenue for the year, and the 9th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 62.2% from FY2016 to FY2025, 5.5% a year.
+**How large is VALERO ENERGY CORP, and how has it grown?** It sold $122.7 billion in FY2025, the 30th most of the 488 companies with a revenue for the year, and the 9th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 62.2% from FY2016 to FY2025, 5.5% a year.
 
-**Does VALERO ENERGY CORP make money, and how much of what it sells does it keep?** It earned $2.3 billion in FY2025, 1.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 10 years in the book (FY2020).
+**Does VALERO ENERGY CORP make money, and how much of what it sells does it keep?** It earned $2.3 billion in FY2025, 1.9% of what it sold; the median company of its sector kept 11.7%. It lost money in 1 of its 10 years in the book (FY2020).
 
-**Where does VALERO ENERGY CORP's cash go?** From FY2016 to FY2025 its operations brought in $61.3 billion; it spent 27.9% of that on plant and equipment, and 33.5% on buying back its own shares.
+**Where does VALERO ENERGY CORP's cash go?** From FY2016 to FY2025 its operations brought in $61.3 billion; it spent 33.4% of that on plant and equipment, and 33.5% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ VALERO ENERGY CORP, as it files with the SEC (CIK 0001035002): its fiscal years 
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 3534 | 3563 | 4572 | 3836 | -1579 | 2130 | 15690 | 11858 | 3755 | 3181 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 2289 | 4065 | 3122 | 2422 | -1421 | 930 | 11528 | 8835 | 2770 | 2348 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 4820 | 5482 | 4371 | 5531 | 948 | 5859 | 12574 | 9229 | 6683 | 5826 |  |
-> | Capex |  |  |  |  |  |  |  |  |  |  | -1278 | -1353 |  | -2846 | -2436 | -2458 | -2737 | -1916 | -2057 |  |  |
+> | Capex |  |  |  |  |  |  |  |  |  |  | -1278 | -1353 | -3376 | -2846 | -2436 | -2458 | -2737 | -1916 | -2057 |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | -1336 | -1372 | -1708 | -777 | -156 | -27 | -4577 | -5136 | -2875 | -2598 |  |
 
 #### EPS by year
@@ -133,8 +133,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2012 | us-gaap:PaymentsToAcquireProductiveAssets |
-| Capex | FY2013 | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2019 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2013 | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2018 | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -149,11 +149,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2013 under both: 2755000000 and 2121000000
 - Source: SEC EDGAR companyfacts
 
-### Change: VALERO ENERGY CORP, Capex tag, FY2019
+### Change: VALERO ENERGY CORP, Capex tag, FY2018
 
 - CIK: 0001035002
 - What: Capex tag
-- Boundary: FY2019
+- Boundary: FY2018
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

@@ -8,24 +8,24 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Manufacturing among the S&P 500?** Its 201 companies with a revenue and a net income for FY2025 sold $5.75 trillion, 34.9% of the sales of all the 500's, and kept $724.3 billion as net income, 37.3% of theirs. It kept 12.6% of what it sold; all the companies together, 11.8%.
+**How large is Manufacturing among the S&P 500?** Its 202 companies with a revenue and a net income for FY2025 sold $5.93 trillion, 34.8% of the sales of all the 500's, and kept $716.1 billion as net income, 34.7% of theirs. It kept 12.1% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Manufacturing grown?** Its 147 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 47.9% more in FY2025 than in FY2015, 4% a year, and their net income went from $300.1 billion to $561.0 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Manufacturing grown?** Its 154 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 46.5% more in FY2025 than in FY2015, 3.9% a year, and their net income went from $326.3 billion to $587.6 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
-The rise in revenue since FY2015, each year, in percent: the sector's 147 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
+The rise in revenue since FY2015, each year, in percent: the sector's 154 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Manufacturing | 0 | -2.4 | -0.7 | 9.4 | 9 | 2.7 | 23.8 | 37.5 | 35.6 | 38.5 | 47.9 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | Manufacturing | 0 | -2.8 | 0.4 | 10.2 | 9.1 | 0.2 | 22 | 38.7 | 35.7 | 38.7 | 46.5 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared
 
-**Who leads Manufacturing, and who lost money?** [Apple Inc.](./Manufacturing/Apple%20Inc.md) sold the most in FY2025 ($416.2 billion) and [Apple Inc.](./Manufacturing/Apple%20Inc.md) earned the most ($112.0 billion); 19 of its 201 companies with a net income for the year lost money. Every company is a row of the grid below, the largest first.
+**Who leads Manufacturing, and who lost money?** [Apple Inc.](./Manufacturing/Apple%20Inc.md) sold the most in FY2025 ($416.2 billion) and [Apple Inc.](./Manufacturing/Apple%20Inc.md) earned the most ($112.0 billion); 20 of its 202 companies with a net income for the year lost money. Every company is a row of the grid below, the largest first.
 
 Each company by its ticker, the largest by its revenue in FY2025 first: its net income over its revenue each year, in percent, a loss in red (blank where the book has not both); at the right its revenue in FY2025, in billions, and its revenue's rise since FY2015, in percent.
 
@@ -33,8 +33,8 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | Ticker | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Revenue | Rise |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | AAPL | 22.8 | 21.2 | 21.1 | 22.4 | 21.2 | 20.9 | 25.9 | 25.3 | 25.3 | 24 | 26.9 | 416.2 | 78.1 |
-> | XOM | 6.7 | 3.9 | 8.1 | 7.5 | 5.6 | -12.6 | 8.3 |  | 10.5 | 9.6 | 8.7 | 332.2 | 38.5 |
-> | F | 4.9 | 3 | 4.9 | 2.3 | 0.1 | -1 | 13.1 | -1.3 | 2.5 | 3.2 |  | 187.3 | 25.2 |
+> | XOM | 6.7 | 3.9 | 8.1 | 7.5 | 5.6 | -12.6 | 8.3 | 13.5 | 10.5 | 9.6 | 8.7 | 332.2 | 38.5 |
+> | F | 4.9 | 3 | 4.9 | 2.3 | 0.1 | -1 | 13.1 | -1.3 | 2.5 | 3.2 | -4.4 | 187.3 | 25.2 |
 > | CVX | 3.3 | -0.4 | 6.8 | 9.3 | 2.1 | -5.9 | 10 | 15.1 | 10.9 | 9.2 | 6.7 | 184.4 | 33.2 |
 > | GM | 7.1 | 6.3 | -2.7 | 5.4 | 5.5 | 5.9 | 8.8 | 6.7 | 6.2 | 3.5 | 1.7 | 168 | 23.8 |
 > | MPC | 4 | 1.9 | 4.6 | 3.2 | 2.4 | -14.1 | 8.1 | 8.2 | 6.5 | 2.5 | 3 | 132.7 | 84.2 |
@@ -72,7 +72,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | QCOM | 20.8 | 24.2 | 11 | -22 | 18.1 | 22.1 | 26.9 | 29.3 | 20.2 | 26 | 12.5 | 44.3 | 75.2 |
 > | NOC | 8.5 | 8.3 | 11 | 10.7 | 6.6 | 8.7 | 19.6 | 13.4 | 5.2 | 10.2 | 10 | 42 | 78.3 |
 > | PM | 9.3 | 9.3 | 21 | 26.7 | 24.1 | 28.1 | 29 | 28.5 | 22.2 | 18.6 | 27.9 | 40.6 | -45 |
-> | DOW |  | 11.9 | 1.4 | 9.4 |  | 3.4 | 11.7 | 8.2 | 1.5 | 2.8 | -6.1 | 40 |  |
+> | DOW |  | 11.9 | 1.4 | 9.4 | -3 | 3.4 | 11.7 | 8.2 | 1.5 | 2.8 | -6.1 | 40 |  |
 > | MDLZ | 24.5 | 6.3 | 10.9 | 12.8 | 15.2 | 13.4 | 15 | 8.6 | 13.8 | 12.7 | 6.4 | 38.5 | 30 |
 > | LHX | 8.6 | 5.4 | 9.2 | 11.3 | 10.4 | 6.2 | 10.4 | 6.2 | 6.3 | 7 | 4.2 | 38.1 | 880.2 |
 > | GEV |  |  |  |  |  |  |  | -9.2 | -1.3 | 4.4 | 12.8 | 38.1 |  |
@@ -101,7 +101,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | KHC |  | 13.7 | 42 | -38.8 | 7.7 | 1.4 | 3.9 | 8.9 | 10.7 | 10.6 | -23.4 | 24.9 |  |
 > | DHR | 23.3 | 15.1 | 13.6 | 15.5 | 16.8 | 16.4 | 25.9 | 27.1 | 19.9 | 16.3 | 14.7 | 24.6 | 70.2 |
 > | IP | 4.5 | 4.6 | 9.9 | 8.6 | 6.7 | 2.7 | 9 | 7.1 | 1.8 | 3.5 | -14.9 | 23.6 | 14.3 |
-> | JCI | 15.8 |  | 5.3 | 9.2 | 23.7 | 2.8 | 6.9 | 7.4 | 8.3 | 7.4 | 13.9 | 23.6 | 138.3 |
+> | JCI | 15.8 | -4.2 | 5.3 | 9.2 | 23.7 | 2.8 | 6.9 | 7.4 | 8.3 | 7.4 | 13.9 | 23.6 | 138.3 |
 > | MO | 20.6 | 55.3 | 40 | 27.5 | -5.1 | 17.1 | 9.5 | 23 | 33.2 | 46.9 | 29.8 | 23.3 | -8.5 |
 > | APH |  | 13.1 | 9.3 | 14.7 | 14 | 14 | 14.6 | 15.1 | 15.4 | 15.9 | 18.5 | 23.1 |  |
 > | SMCI | 4.6 | 3.2 | 2.7 | 1.4 | 2.1 | 2.5 | 3.1 | 5.5 | 9 | 7.7 | 4.8 | 22 | 1003.5 |
@@ -128,7 +128,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | SWK | 7.9 | 8.5 | 9.5 | 4.3 | 7.4 | 9.7 | 11.1 | 6.3 | -2 | 1.9 | 2.7 | 15.1 | 35.4 |
 > | KVUE |  |  |  |  |  |  | 13.8 | 13.8 | 10.8 | 6.7 | 9.7 | 15.1 |  |
 > | AMCR |  |  | 6.2 | 6.2 | 4.5 | 4.9 | 7.3 | 5.5 | 5.9 | 5.1 | 3.4 | 15 |  |
-> | TXT | 5.2 | 7 | 2.2 | 8.7 | 6 |  | 6 | 6.7 | 6.7 | 6 | 6.2 | 14.8 | 10.3 |
+> | TXT | 5.2 | 7 | 2.2 | 8.7 | 6 | 2.7 | 6 | 6.7 | 6.7 | 6 | 6.2 | 14.8 | 10.3 |
 > | OTIS |  |  |  | 8.1 | 8.5 | 7.1 | 8.7 | 9.2 | 9.9 | 11.5 | 9.6 | 14.4 |  |
 > | REGN | 15.5 | 18.4 | 20.4 | 47.5 | 32.3 | 41.3 | 50.2 | 35.6 | 30.1 | 31.1 | 31.4 | 14.3 | 249.5 |
 > | EL | 10.1 | 9.9 | 10.6 | 8.1 | 12 | 4.8 | 17.7 | 13.6 | 6.3 | 2.6 | -7.9 | 14.3 | 32.9 |
@@ -147,7 +147,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | WAB | 12.1 | 10.4 | 6.8 | 6.8 | 4 | 5.5 | 7.1 | 7.6 | 8.4 | 10.2 | 10.5 | 11.2 | 237.6 |
 > | LULU | 12.9 | 12.9 | 9.8 | 14.7 | 16.2 | 13.4 | 15.6 | 10.5 | 16.1 | 17.1 | 14.2 | 11.1 | 438.8 |
 > | ADI | 20.3 | 25.2 | 15.8 | 24.2 | 22.8 | 21.8 | 19 | 22.9 | 26.9 | 17.3 | 20.6 | 11 | 220.8 |
-> | IFF |  | 13 | 8.7 | 8.5 |  | 7.2 | 2.4 | -15 | -22.5 | 2.3 | -3.3 | 10.9 |  |
+> | IFF |  | 13 | 8.7 | 8.5 | 8.9 | 7.2 | 2.4 | -15 | -22.5 | 2.3 | -3.3 | 10.9 |  |
 > | CTAS | 9.9 | 14.5 | 9 | 13 | 12.8 | 12.4 | 15.6 | 15.7 | 15.3 | 16.4 | 17.5 | 10.3 | 136.6 |
 > | VRT |  |  |  |  | -3.2 | -7.5 | 2.4 | 1.3 | 6.7 | 6.2 | 13 | 10.2 |  |
 > | STZ |  |  | 20.9 | 30.4 | 42.3 | -0.1 | 23.2 | -0.5 | -0.8 | 17.3 | -0.8 | 10.2 |  |
@@ -195,7 +195,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | VLTO |  |  |  |  |  |  | 18.3 | 17.4 | 16.7 | 16 | 17.1 | 5.5 |  |
 > | STE |  |  | 4.2 | 11.1 | 10.9 | 13.5 | 12.8 | 5.8 | 2.4 | 7.4 | 11.3 | 5.5 |  |
 > | ZBRA | -4.3 | -3.8 | 0.5 | 10 | 12.1 | 11.3 | 14.9 | 8 | 6.5 | 10.6 | 7.8 | 5.4 | 47.8 |
-> | KEYS | 18 | 11.5 | 3.2 |  | 14.4 | 14.9 | 18.1 | 20.7 | 19.3 | 12.3 | 15.8 | 5.4 | 88.2 |
+> | KEYS | 18 | 11.5 | 3.2 | 4.3 | 14.4 | 14.9 | 18.1 | 20.7 | 19.3 | 12.3 | 15.8 | 5.4 | 88.2 |
 > | FSLR | 14.4 | -14.3 | -5.6 | 6.4 | -3.8 | 14.7 | 16 | -1.7 | 25 | 30.7 | 29.3 | 5.2 | 26.9 |
 > | LII | 5.4 | 7.6 | 8 | 9.2 | 10.7 | 9.8 | 11.1 | 10.5 | 11.9 | 15.2 | 15.5 | 5.2 | 49.8 |
 > | RMD | 21 | 19.2 | 16.6 | 13.5 | 15.5 | 21 | 14.8 | 21.8 | 21.3 | 21.8 | 27.2 | 5.1 | 206.5 |
@@ -227,9 +227,9 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | WST | 6.8 | 9.5 | 9.4 | 12 | 13.1 | 16.1 | 23.4 | 20.3 | 20.1 | 17 | 16.1 | 3.1 | 119.6 |
 > | RVTY | 10.1 | 11.1 | 13 | 8.6 | 7.9 | 27.3 | 24.6 | 17.2 | 25.2 | 9.8 | 8.4 | 2.9 | 35.7 |
 > | NDSN | 12.5 | 15 | 14.3 | 16.7 | 15.4 | 11.8 | 19.2 | 19.8 | 18.5 | 17.4 | 17.4 | 2.8 | 65.3 |
-> | MPWR | 10.6 |  | 13.8 | 18.1 | 17.3 | 19.5 | 20 | 24.4 | 23.5 | 72.1 | 22.3 | 2.8 | 737.8 |
+> | MPWR | 10.6 | 13.6 | 13.8 | 18.1 | 17.3 | 19.5 | 20 | 24.4 | 23.5 | 72.1 | 22.3 | 2.8 | 737.8 |
 > | AXON | 10.1 | 6.4 | 1.5 | 7 | 0.2 | -0.3 | -6.5 | 12.4 | 11.3 | 18.1 | 4.5 | 2.8 | 1304.6 |
-> | PODD | -27.9 | -7.9 | -5.8 | 0.6 | 1.6 | 0.8 | 1.6 | 0.4 |  | 20.2 | 9.1 | 2.7 | 926.2 |
+> | PODD | -27.9 | -7.9 | -5.8 | 0.6 | 1.6 | 0.8 | 1.6 | 0.4 | 12.2 | 20.2 | 9.1 | 2.7 | 926.2 |
 > | BE |  | -134.1 | -75.6 | -43.2 | -42 | -21.5 | -18.1 | -26.6 | -24.3 | -1.9 | -4.4 | 2 |  |
 > | MRNA |  | -199.5 | -124.3 | -284.8 | -853.7 | -93 | 66.1 | 43.4 | -68.8 | -110 | -145.2 | 1.9 |  |
 > | LITE | -0.4 | 1 | -10.2 | 19.9 | -2.3 | 8.1 | 22.8 | 11.6 | -7.4 | -40.2 | 1.6 | 1.6 | 96.5 |

@@ -13,9 +13,9 @@
 
 Gen Digital Inc., as it files with the SEC (CIK 0000849399): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Gen Digital Inc., and how has it grown?** It sold $3.9 billion in FY2025, the 430th most of the 487 companies with a revenue for the year, and the 60th of 74 in [Services](../Services.md). Its sales fell 0.5% from FY2015 to FY2025, −0.1% a year.
+**How large is Gen Digital Inc., and how has it grown?** It sold $3.9 billion in FY2025, the 431st most of the 488 companies with a revenue for the year, and the 61st of 75 in [Services](../Services.md). Its sales fell 0.5% from FY2015 to FY2025, −0.1% a year.
 
-**Does Gen Digital Inc. make money, and how much of what it sells does it keep?** It earned $643 million in FY2025, 16.3% of what it sold; the median company of its sector kept 16.1%. It lost money in 2 of its 19 years in the book (FY2009, FY2017).
+**Does Gen Digital Inc. make money, and how much of what it sells does it keep?** It earned $643 million in FY2025, 16.3% of what it sold; the median company of its sector kept 16.3%. It lost money in 2 of its 19 years in the book (FY2009, FY2017).
 
 **Where does Gen Digital Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $7.9 billion; it spent 10.5% of that on plant and equipment, and 77.3% on buying back its own shares.
 

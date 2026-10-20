@@ -13,11 +13,11 @@
 
 CBRE GROUP, INC., as it files with the SEC (CIK 0001138118): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CBRE GROUP, INC., and how has it grown?** It sold $39.9 billion in FY2025, the 92nd most of the 487 companies with a revenue for the year, and the 18th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 267.5% from FY2015 to FY2025, 13.9% a year.
+**How large is CBRE GROUP, INC., and how has it grown?** It sold $39.9 billion in FY2025, the 93rd most of the 488 companies with a revenue for the year, and the 18th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 267.5% from FY2015 to FY2025, 13.9% a year.
 
 **Does CBRE GROUP, INC. make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 2.9% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 18 years in the book (FY2008).
 
-**Where does CBRE GROUP, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $13.3 billion; it spent 17.3% of that on plant and equipment, and 36.4% on buying back its own shares.
+**Where does CBRE GROUP, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $13.3 billion; it spent 19.6% of that on plant and equipment, and 36.4% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ CBRE GROUP, INC., as it files with the SEC (CIK 0001138118): its fiscal years an
 > | Operating income |  |  | -788.469 | 241.842 | 446.379 | 462.862 | 585.081 | 616.128 | 792.254 | 835.944 | 816.831 | 1078.682 | 1087.989 | 1259.875 | 969.759 | 1637 | 1512 | 1117 | 1413 | 1753 |  |
 > | Net income |  |  | -1012.066 | 33.341 | 200.345 | 239.162 | 315.555 | 316.538 | 484.503 | 547.132 | 573.079 | 697.109 | 1063.219 | 1282.357 | 751.989 | 1837 | 1407 | 986 | 968 | 1157 |  |
 > | Operating cash flow |  |  | -130.373 | 213.645 | 616.587 | 361.219 | 291.081 | 745.108 | 661.78 | 651.897 | 450.315 | 894.411 | 1131.249 | 1223.38 | 1830.779 | 2364 | 1629 | 480 | 1708 | 1559 |  |
-> | Capex |  |  | -51.471 | -28.2 | -68.464 | -147.98 | -150.232 | -156.358 | -171.242 | -139.464 | -191.205 | -178.042 | -227.803 | -293.514 | -266.575 | -209.851 | -260.14 |  | -307 | -366 |  |
+> | Capex |  |  | -51.471 | -28.2 | -68.464 | -147.98 | -150.232 | -156.358 | -171.242 | -139.464 | -191.205 | -178.042 | -227.803 | -293.514 | -266.575 | -209.851 | -260.14 | -305 | -307 | -366 |  |
 > | Buybacks |  |  |  |  |  |  |  | 16.628 |  |  |  |  | -161.034 | -145.137 | -50.028 | -369 | -1850 | -665 | -627 | -968 |  |
 
 #### EPS by year
@@ -114,10 +114,10 @@ CBRE GROUP, INC., as it files with the SEC (CIK 0001138118): its fiscal years an
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 7604.491 |  | 516.937 | 487.322 | 1.48 | 454.423 | -54.666 | -625.906 | 1.48 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 7378.494 |  | 374.35 | 446.639 | 1.38 | 753.893 | -64.274 | -410.625 | 1.38 |
 | FY2022 Q4 | 2022 | 4 | 2022-12-31 | 8022.604 |  | 243.761 | 80.742 | 0.28 | 814.191 | -99.144 | -445.606 | 0.28 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 7302 |  | 37 | 117 | 0.37 | -745 | -60.284 | -130 | 0.37 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 7599 |  | 306 | 201 | 0.64 | -11 | -74.728 | 0 | 0.64 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 7730 |  | 269 | 191 | 0.61 | 383 |  | -516 | 0.61 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 8873 |  | 504 | 477 | 1.53 | 853 |  | -19 | 1.53 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 7302 |  | 37 | 117 | 0.37 | -745 | -60 | -130 | 0.37 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 7599 |  | 306 | 201 | 0.64 | -11 | -75 | 0 | 0.64 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 7730 |  | 269 | 191 | 0.61 | 383 | -76 | -516 | 0.61 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 8873 |  | 504 | 477 | 1.53 | 853 | -94 | -19 | 1.53 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 7822 |  | 204 | 126 | 0.41 | -492 | -68 | 0 | 0.41 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 8258 |  | 246 | 130 | 0.42 | 287 | -67 | -47 | 0.42 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 8857 |  | 368 | 225 | 0.73 | 573 | -79 | -63 | 0.73 |
@@ -204,8 +204,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2008 | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2014 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2008 | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2024 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2008 | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2023 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2013 | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 | Buybacks | FY2018 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
@@ -241,11 +241,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 710505000 and 894411000
 - Source: SEC EDGAR companyfacts
 
-### Change: CBRE GROUP, INC., Capex tag, FY2024
+### Change: CBRE GROUP, INC., Capex tag, FY2023
 
 - CIK: 0001138118
 - What: Capex tag
-- Boundary: FY2024
+- Boundary: FY2023
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

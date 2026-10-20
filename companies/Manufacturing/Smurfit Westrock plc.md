@@ -13,9 +13,9 @@
 
 Smurfit Westrock plc, as it files with the SEC (CIK 0002005951): its fiscal years and quarters from its XBRL filings, FY2022 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Smurfit Westrock plc, and how has it grown?** It sold $31.2 billion in FY2025, the 116th most of the 487 companies with a revenue for the year, and the 55th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 130.8% from FY2022 to FY2025, 32.2% a year.
+**How large is Smurfit Westrock plc, and how has it grown?** It sold $31.2 billion in FY2025, the 117th most of the 488 companies with a revenue for the year, and the 55th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 130.8% from FY2022 to FY2025, 32.2% a year.
 
-**Does Smurfit Westrock plc make money, and how much of what it sells does it keep?** It earned $699 million in FY2025, 2.2% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 4 years in the book.
+**Does Smurfit Westrock plc make money, and how much of what it sells does it keep?** It earned $699 million in FY2025, 2.2% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 4 years in the book.
 
 **Where does Smurfit Westrock plc's cash go?** From FY2022 to FY2025 its operations brought in $7.9 billion; it spent 70.1% of that on plant and equipment, and 1.1% on buying back its own shares.
 

@@ -13,9 +13,9 @@
 
 Invesco Ltd., as it files with the SEC (CIK 0000914208): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Invesco Ltd., and how has it grown?** It sold $6.4 billion in FY2025, the 357th most of the 487 companies with a revenue for the year, and the 53rd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 24.5% from FY2015 to FY2025, 2.2% a year.
+**How large is Invesco Ltd., and how has it grown?** It sold $6.4 billion in FY2025, the 358th most of the 488 companies with a revenue for the year, and the 53rd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 24.5% from FY2015 to FY2025, 2.2% a year.
 
-**Does Invesco Ltd. make money, and how much of what it sells does it keep?** The book does not hold both a revenue and a net income of its for FY2025; it lost money in 1 of its 18 years in the book (FY2023).
+**Does Invesco Ltd. make money, and how much of what it sells does it keep?** It earned −$175 million in FY2025, −2.7% of what it sold; the median company of its sector kept 21.5%. It lost money in 2 of its 19 years in the book (FY2023, FY2025).
 
 **Where does Invesco Ltd.'s cash go?** From FY2016 to FY2025 its operations brought in $10.8 billion; it spent 11.3% of that on plant and equipment, and 13% on buying back its own shares.
 
@@ -27,7 +27,7 @@ Invesco Ltd., as it files with the SEC (CIK 0000914208): its fiscal years and qu
 > | Revenue |  | 3878.9 | 3307.6 | 2627.3 | 3385.9 | 3982.3 | 4050.4 | 4644.6 | 5147.1 | 5122.9 | 4734.4 | 5160.3 | 5314.1 | 6117.4 | 6145.6 | 6894.5 | 6048.9 | 5716.4 | 6067 | 6377.1 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 994.3 | 747.8 | 484.3 | 579.4 | 882.1 | 842.6 | 1120.2 | 1276.9 | 1358.4 | 1152.4 | 1279.1 | 1204.9 | 808.2 | 920.4 | 1788.2 | 1317.7 | -434.8 | 832.1 | -695.7 |  |
-> | Net income |  | 673.6 | 481.7 | 322.5 | 465.7 | 729.7 | 677.1 | 940.3 | 988.1 | 968.1 | 854.2 | 1127.3 | 882.8 | 564.7 | 524.8 | 1393 | 683.9 | -333.7 | 538 |  |  |
+> | Net income |  | 673.6 | 481.7 | 322.5 | 465.7 | 729.7 | 677.1 | 940.3 | 988.1 | 968.1 | 854.2 | 1127.3 | 882.8 | 564.7 | 524.8 | 1393 | 683.9 | -333.7 | 538 | -174.8 |  |
 > | Operating cash flow |  | 915.5 | 525.5 | 362.7 | 379.2 | 964.8 | 819.3 | 780.2 | 1200.4 | 1128.4 | 654 | 1157.8 | 828.8 | 1116.6 | 1230.3 | 1078.1 | 703.2 | 1300.8 | 1190 | 1525.3 |  |
 > | Capex |  | -36.7 | -84.1 | -39.5 | -89.6 | -107 | -99.3 | -88.2 | -133.2 | -124.5 | -147.7 | -111.7 | -102.5 | -124.3 | -115 | -108.8 | -192.9 | -164.3 | -69.1 | -84.3 |  |
 > | Buybacks |  | -716 | -313.4 | 0 | -192.2 | -436.5 | -265 | -470.5 | -269.6 | -623.7 | -535 | -63.8 | 0 | -110.8 |  | -60.9 | -244.7 | -187.5 | -79.3 | -123.6 |  |
@@ -127,10 +127,10 @@ Invesco Ltd., as it files with the SEC (CIK 0000914208): its fiscal years and qu
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1483.3 |  | 206.8 | 132.2 | 0.29 | 489.1 | -26.7 | -2.7 | 0.29 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1515.4 |  | 100.5 | 55 | 0.12 | 438.4 | -28.4 | -30.2 | 0.12 |
 | FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1593 |  | 311.7 | 209.3 | 0.46 | 316.9 | 7 | -26 | 0.46 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1529.2 |  | 277.3 | 171.1 | 0.38 | -84.6 | -23.4 | -43.1 | 0.38 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1515.5 |  | 214.2 |  | -0.03 | 547.9 | -17.5 | -25.5 | -0.03 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1640.4 |  | 270.9 |  | 0.66 | 606.2 | -19.8 | -29.2 | 0.66 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1692 |  | -1458.1 |  | -2.61 | 455.8 | -23.6 | -25.8 | -2.61 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1529.2 |  | 277.3 | 267.3 | 0.38 | -84.6 | -23.4 | -43.1 | 0.38 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1515.5 |  | 214.2 | 197.4 | -0.03 | 547.9 | -17.5 | -25.5 | -0.03 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1640.4 |  | 270.9 | 356.4 | 0.66 | 606.2 | -19.8 | -29.2 | 0.66 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1692 |  | -1458.1 | -995.9 | -2.61 | 455.8 | -23.6 | -25.8 | -2.61 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 1744.5 |  | 333.2 | 219.1 | 0.51 | 212.6 | -14.2 | -69.2 | 0.51 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 1825.6 |  | 364.2 | 338.9 | 0.76 | 734.2 | -30.5 | -50.4 | 0.76 |
 
@@ -212,8 +212,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2007 | FY2016 | us-gaap:Revenues |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2007 | FY2025 | us-gaap:NetIncomeLoss |
-| Net income | FY2026 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2007 | FY2024 | us-gaap:NetIncomeLoss |
+| Net income | FY2025 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
@@ -232,11 +232,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 5160300000 and 5160300000
 - Source: SEC EDGAR companyfacts
 
-### Change: Invesco Ltd., Net income tag, FY2026
+### Change: Invesco Ltd., Net income tag, FY2025
 
 - CIK: 0000914208
 - What: Net income tag
-- Boundary: FY2026
+- Boundary: FY2025
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none

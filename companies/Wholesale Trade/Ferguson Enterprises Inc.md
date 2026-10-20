@@ -13,11 +13,11 @@
 
 Ferguson Enterprises Inc., as it files with the SEC (CIK 0002011641): its fiscal years and quarters from its XBRL filings, FY2020 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. The SEC's list gives FERG to CIK 0002011641; its filings before are under CIK 0001832433, and are taken from there, each filing from the CIK that filed it: Ferguson Enterprises Inc. (CIK 0002011641) became the parent of Ferguson plc in 2024, moving its home from Jersey to Delaware, and took the ticker FERG; Ferguson plc's filings, its 10-Ks from 2022 to its 10-Q of 2024-06-05, are under CIK 0001832433 (named Ferguson (Jersey) Ltd since; the SEC's submissions).
 
-**How large is Ferguson Enterprises Inc., and how has it grown?** It sold $30.8 billion in FY2025, the 117th most of the 487 companies with a revenue for the year, and the 5th of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 54.3% from FY2020 to FY2025, 9.1% a year.
+**How large is Ferguson Enterprises Inc., and how has it grown?** It sold $30.8 billion in FY2025, the 118th most of the 488 companies with a revenue for the year, and the 5th of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 54.3% from FY2020 to FY2025, 9.1% a year.
 
 **Does Ferguson Enterprises Inc. make money, and how much of what it sells does it keep?** It earned $1.9 billion in FY2025, 6% of what it sold; the median company of its sector kept 2.7%. It lost money in none of its 6 years in the book.
 
-**Where does Ferguson Enterprises Inc.'s cash go?** From FY2020 to FY2025 its operations brought in $10.6 billion; it spent 14.7% of that on plant and equipment, and 46.2% on buying back its own shares.
+**Where does Ferguson Enterprises Inc.'s cash go?** From FY2020 to FY2025 its operations brought in $10.6 billion; it spent 18.3% of that on plant and equipment, and 46.2% on buying back its own shares.
 
 ## Annual
 
@@ -29,7 +29,7 @@ Ferguson Enterprises Inc., as it files with the SEC (CIK 0002011641): its fiscal
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1372 | 1950 | 2820 | 2659 | 2652 | 2606 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 961 | 1472 | 2122 | 1889 | 1735 | 1856 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1545 | 1382 | 1149 | 2723 | 1873 | 1908 |  |
-> | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -283 | -241 | -290 | -441 |  | -305 |  |
+> | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -283 | -241 | -290 | -441 | -372 | -305 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -451 | -400 | -1545 | -908 | -634 | -948 |  |
 
 #### EPS by year
@@ -99,17 +99,17 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2020 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2020 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2020 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Capex | FY2020 | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
-| Capex | FY2025 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
+| Capex | FY2020 | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
+| Capex | FY2024 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2020 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
 
-### Change: Ferguson Enterprises Inc., Capex tag, FY2025
+### Change: Ferguson Enterprises Inc., Capex tag, FY2024
 
 - CIK: 0002011641
 - What: Capex tag
-- Boundary: FY2025
+- Boundary: FY2024
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none

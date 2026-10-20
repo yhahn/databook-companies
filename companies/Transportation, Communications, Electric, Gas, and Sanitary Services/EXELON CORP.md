@@ -13,7 +13,7 @@
 
 EXELON CORP, as it files with the SEC (CIK 0001109357): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is EXELON CORP, and how has it grown?** It sold $24.3 billion in FY2025, the 149th most of the 487 companies with a revenue for the year, and the 21st of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales fell 17.6% from FY2015 to FY2025, −1.9% a year.
+**How large is EXELON CORP, and how has it grown?** It sold $24.3 billion in FY2025, the 150th most of the 488 companies with a revenue for the year, and the 21st of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales fell 17.6% from FY2015 to FY2025, −1.9% a year.
 
 **Does EXELON CORP make money, and how much of what it sells does it keep?** It earned $2.8 billion in FY2025, 11.4% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 18 years in the book.
 
@@ -24,7 +24,7 @@ EXELON CORP, as it files with the SEC (CIK 0001109357): its fiscal years and qua
 > [!CARD:line] EXELON CORP, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 18859 | 17318 | 18644 | 19063 | 23489 | 24888 | 27429 | 29447 | 31366 | 207 | -62 |  | 16663 | 17938 | 19078 | 21727 | 23028 | 24258 |  |
+> | Revenue |  |  | 18859 | 17318 | 18644 | 19063 | 23489 | 24888 | 27429 | 29447 | 31366 | 207 | -62 | 16725 | 16663 | 17938 | 19078 | 21727 | 23028 | 24258 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  | 5299 | 4750 | 4726 | 4479 | 2373 | 3669 | 3096 | 4409 | 3212 | 4388 | 3891 | 2656 | 2191 | 2682 | 3315 | 4023 | 4319 | 5148 |  |
 > | Net income |  |  | 2737 | 2707 | 2563 | 2499 | 1171 | 1729 | 1820 | 2250 | 1196 | 3869 | 2079 | 3028 | 1954 | 1829 | 2171 | 2328 | 2460 | 2768 |  |
@@ -47,7 +47,7 @@ EXELON CORP, as it files with the SEC (CIK 0001109357): its fiscal years and qua
 | FY2016 | 2016-01-01 | 2016-12-31 | 1.21 | 1.21 |
 | FY2017 | 2017-01-01 | 2017-12-31 | 3.98 | 3.98 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 2.07 | 2.07 |
-| FY2019 | 2019-01-01 |  | 3.01 | 3.01 |
+| FY2019 | 2019-01-01 | 2019-12-31 | 3.01 | 3.01 |
 | FY2020 | 2020-01-01 | 2020-12-31 | 2.01 | 2.01 |
 | FY2021 | 2021-01-01 | 2021-12-31 | 1.74 | 1.74 |
 | FY2022 | 2022-01-01 | 2022-12-31 |  |  |
@@ -99,10 +99,10 @@ EXELON CORP, as it files with the SEC (CIK 0001109357): its fiscal years and qua
 | FY2018 Q2 | 2018 | 2 | 2018-06-30 | -26 |  | 940 | 542 | 0.55 | 2367 | -1927 |  | 0.55 |
 | FY2018 Q3 | 2018 | 3 | 2018-09-30 | -25 |  | 1144 | 800 | 0.75 | 2806 | -1690 |  | 0.75 |
 | FY2018 Q4 | 2018 | 4 | 2018-12-31 | -21 |  | 706 | 100 | 0.16 | 1969 | -2097 |  | 0.16 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | -5 |  | 1218 | 966 | 0.93 | 1044 | -1873 |  | 0.93 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 |  |  | 841 | 494 | 0.5 | 1854 | -1702 |  | 0.5 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 |  |  | 1353 | 760 | 0.79 | 2501 | -1687 |  | 0.79 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 |  |  | 962 | 808 | 0.79 | 1260 | -1989 |  | 0.79 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 9477 |  | 1218 | 966 | 0.93 | 1044 | -1873 |  | 0.93 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 7689 |  | 841 | 494 | 0.5 | 1854 | -1702 |  | 0.5 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 8929 |  | 1353 | 760 | 0.79 | 2501 | -1687 |  | 0.79 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 8343 |  | 962 | 808 | 0.79 | 1260 | -1989 |  | 0.79 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 8747 |  | 1220 | 376 | 0.6 | 1080 | -2016 |  | 0.6 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 7322 |  | 565 | 574 | 0.53 | 1600 | -1757 |  | 0.53 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 8853 |  | 769 | 569 | 0.51 | 1542 | -1833 |  | 0.51 |
@@ -215,8 +215,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2008 | FY2016 | us-gaap:Revenues |
-| Revenue | FY2017 | FY2019 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
-| Revenue | FY2020 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2017 | FY2018 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
+| Revenue | FY2019 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2008 | FY2012 | us-gaap:NetIncomeLoss |
 | Net income | FY2013 | FY2026 | us-gaap:ProfitLoss |
@@ -237,11 +237,11 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2017 under both: 33558000000 and 207000000
 - Source: SEC EDGAR companyfacts
 
-### Change: EXELON CORP, Revenue tag, FY2020
+### Change: EXELON CORP, Revenue tag, FY2019
 
 - CIK: 0001109357
 - What: Revenue tag
-- Boundary: FY2020
+- Boundary: FY2019
 - Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: none

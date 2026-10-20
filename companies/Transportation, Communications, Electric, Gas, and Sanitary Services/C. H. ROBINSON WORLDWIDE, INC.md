@@ -13,7 +13,7 @@
 
 C. H. ROBINSON WORLDWIDE, INC., as it files with the SEC (CIK 0001043277): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is C. H. ROBINSON WORLDWIDE, INC., and how has it grown?** It sold $16.2 billion in FY2025, the 218th most of the 487 companies with a revenue for the year, and the 32nd of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 20.5% from FY2015 to FY2025, 1.9% a year.
+**How large is C. H. ROBINSON WORLDWIDE, INC., and how has it grown?** It sold $16.2 billion in FY2025, the 219th most of the 488 companies with a revenue for the year, and the 32nd of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 20.5% from FY2015 to FY2025, 1.9% a year.
 
 **Does C. H. ROBINSON WORLDWIDE, INC. make money, and how much of what it sells does it keep?** It earned $587 million in FY2025, 3.6% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 

@@ -8,47 +8,48 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Services among the S&P 500?** Its 74 companies with a revenue and a net income for FY2025 sold $1.60 trillion, 9.7% of the sales of all the 500's, and kept $344.9 billion as net income, 17.8% of theirs. It kept 21.5% of what it sold; all the companies together, 11.8%.
+**How large is Services among the S&P 500?** Its 75 companies with a revenue and a net income for FY2025 sold $2.00 trillion, 11.7% of the sales of all the 500's, and kept $477.1 billion as net income, 23.1% of theirs. It kept 23.8% of what it sold; all the companies together, 12.1%.
 
 ## Growth
 
-**How has Services grown?** Its 51 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 190% more in FY2025 than in FY2015, 11.2% a year, and their net income went from $54.4 billion to $274.4 billion; all the 500's such companies sold 73.5% more, and earned 143.2% more.
+**How has Services grown?** Its 56 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 229.5% more in FY2025 than in FY2015, 12.7% a year, and their net income went from $72.9 billion to $416.3 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
 
-The rise in revenue since FY2015, each year, in percent: the sector's 51 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
+The rise in revenue since FY2015, each year, in percent: the sector's 56 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Services | 0 | 5.6 | 21.9 | 36.3 | 51.2 | 54.1 | 84.3 | 107.3 | 131.8 | 158.5 | 190 |
-> | All companies | 0 | 2.1 | 6 | 12.6 | 16.5 | 15.5 | 35.1 | 48 | 53.3 | 61.7 | 73.5 |
+> | Services | 0 | 8.1 | 26.1 | 43.8 | 62.3 | 70.4 | 111.3 | 136 | 161.7 | 192.7 | 229.5 |
+> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
 > - Unit: percent
 
 ## Compared
 
-**Who leads Services, and who lost money?** [MICROSOFT CORP](./Services/MICROSOFT%20CORP.md) sold the most in FY2025 ($281.7 billion) and [Alphabet Inc.](./Services/Alphabet%20Inc.md) earned the most ($132.2 billion); 4 of its 75 companies with a net income for the year lost money. Every company is a row of the grid below, the largest first.
+**Who leads Services, and who lost money?** [Alphabet Inc.](./Services/Alphabet%20Inc.md) sold the most in FY2025 ($402.8 billion) and [Alphabet Inc.](./Services/Alphabet%20Inc.md) earned the most ($132.2 billion); 4 of its 75 companies with a net income for the year lost money. Every company is a row of the grid below, the largest first.
 
 Each company by its ticker, the largest by its revenue in FY2025 first: its net income over its revenue each year, in percent, a loss in red (blank where the book has not both); at the right its revenue in FY2025, in billions, and its revenue's rise since FY2015, in percent.
 
 > [!CARD:grid] Net income over revenue, a company a row
 > | Ticker | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Revenue | Rise |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | GOOGL | 21.8 | 21.6 | 11.4 | 22.5 | 21.2 | 22.1 | 29.5 | 21.2 | 24 | 28.6 | 32.8 | 402.8 | 437.2 |
 > | MSFT | 13 | 24.1 | 26.4 | 15 | 31.2 | 31 | 36.5 | 36.7 | 34.1 | 36 | 36.1 | 281.7 | 201.1 |
 > | META | 20.6 | 37 | 39.2 | 39.6 | 26.1 | 33.9 | 33.4 | 19.9 | 29 | 37.9 | 30.1 | 201 | 1021 |
 > | DIS |  | 16.9 | 16.3 | 21.2 | 15.9 | -4.4 | 3 | 3.8 | 2.6 | 5.4 | 13.1 | 94.4 |  |
-> | HCA |  | 7 | 5.1 | 8.1 | 6.8 | 7.3 |  | 9.4 | 8.1 | 8.2 | 9 | 75.6 |  |
+> | HCA |  | 7 | 5.1 | 8.1 | 6.8 | 7.3 | 11.8 | 9.4 | 8.1 | 8.2 | 9 | 75.6 |  |
 > | ACN | 9.3 | 11.8 | 9.5 | 9.9 | 11.1 | 11.5 | 11.7 | 11.2 | 10.7 | 11.2 | 11 | 69.7 | 111.7 |
 > | ORCL | 26 | 24 | 25 | 9.1 | 28.1 | 25.9 | 34 | 15.8 | 17 | 19.8 | 21.7 | 57.4 | 50.2 |
 > | UBER |  |  | -50.8 | 9.6 | -65.4 | -60.8 | -2.8 | -28.7 | 5.1 | 22.4 | 19.3 | 52 |  |
 > | NFLX | 1.8 | 2.1 | 4.8 | 7.7 | 9.3 | 11 | 17.2 | 14.2 | 16 | 22.3 | 24.3 | 45.2 | 566.5 |
 > | V | 45.6 | 39.7 | 36.5 | 50 | 52.6 | 49.7 | 51.1 | 51 | 52.9 | 55 | 50.1 | 40 | 188.2 |
 > | CRM | -4.9 | -0.7 | 3.8 | 3.4 | 8.4 | 0.7 | 19.2 | 5.5 | 0.7 | 11.9 | 16.4 | 37.9 | 605.2 |
-> | PYPL | 13.3 | 12.9 | 13.7 | 13.3 | 13.8 |  | 16.4 | 8.8 | 14.3 | 13 | 15.8 | 33.2 | 258.7 |
+> | PYPL | 13.3 | 12.9 | 13.7 | 13.3 | 13.8 | 19.6 | 16.4 | 8.8 | 14.3 | 13 | 15.8 | 33.2 | 258.7 |
 > | MA | 39.4 | 37.7 | 31.3 | 26.8 | 32.5 | 27.1 | 29.1 |  | 44.6 | 45.7 | 45.6 | 32.8 | 239.2 |
 > | MAR | 5.9 | 5.2 | 7.1 | 9.2 | 6.1 | -2.5 | 7.9 | 11.4 | 13 | 9.5 | 9.9 | 26.2 | 80.8 |
 > | LYV | -0.4 | 0 | -0.1 | 0.6 | 0.6 | -92.7 | -10.4 | 1.6 | 2.5 | 3.9 | 2 | 25.2 | 247.8 |
 > | XYZ | -14.2 | -10 | -2.8 | -1.2 | 8 | 2.2 | 0.9 | -3.1 | 0 | 12 | 5.4 | 24.2 | 1809.3 |
 > | ADBE | 13.1 | 20 | 23.2 | 28.7 | 26.4 | 40.9 | 30.5 | 27 | 28 | 25.9 | 30 | 23.8 | 395.7 |
-> | FISV | 13.6 | 16.9 | 21.9 | 20.4 | 8.8 | 6.5 | 8.2 |  | 16.1 | 15.3 | 16.4 | 21.2 | 303.4 |
+> | FISV | 13.6 | 16.9 | 21.9 | 20.4 | 8.8 | 6.5 | 8.2 | 14.3 | 16.1 | 15.3 | 16.4 | 21.2 | 303.4 |
 > | CTSH | 13.1 | 11.5 | 10.2 | 13 | 11 | 8.4 | 11.5 | 11.8 | 11 | 11.3 | 10.6 | 21.1 | 70 |
 > | ADP | 13.3 | 12.8 | 14.5 | 14.2 | 16.2 | 16.9 | 17.3 | 17.9 | 18.9 | 19.5 | 19.8 | 20.6 | 88 |
 > | INTU | 8.7 | 20.9 | 19 | 22.1 | 23 | 23.8 | 21.4 | 16.2 | 16.6 | 18.2 | 20.5 | 18.8 | 349.2 |
@@ -74,7 +75,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | WYNN | 4.8 | 5.6 | 12.3 | 8.5 | 1.9 | -98.6 | -20.1 | -11.3 | 11.2 | 7 | 4.6 | 7.1 | 75.1 |
 > | SNPS | 10.1 | 11 | 5 | 13.9 | 15.8 | 18 | 18 | 21.3 | 23.1 | 36.9 | 18.9 | 7.1 | 214.6 |
 > | BR | 10.7 | 10.6 | 7.9 | 9.9 | 11.1 | 10.2 | 11 | 9.4 | 10.4 | 10.7 | 12.2 | 6.9 | 155.7 |
-> | IT |  | 7.9 | 0.1 | 3.1 | 5.5 | 6.5 | 16.8 | 14.8 | 14.9 | 20 | 11.2 | 6.5 |  |
+> | IT | 8.1 | 7.9 | 0.1 | 3.1 | 5.5 | 6.5 | 16.8 | 14.8 | 14.9 | 20 | 11.2 | 6.5 | 200.4 |
 > | ADSK | 3.3 | -13.2 | -28.7 | -27.6 | -3.1 | 6.6 | 31.9 | 11.3 | 16.4 | 16.5 | 18.1 | 6.1 | 144 |
 > | EFX |  | 15.5 | 17.5 | 9.1 | -11 | 12.6 | 15.1 | 13.6 | 10.4 | 10.6 | 10.9 | 6.1 |  |
 > | TTWO | -25.8 | -0.6 | 3.8 | 9.7 | 12.5 | 13.1 | 17.5 | 11.9 | -21 | -70 | -79.5 | 5.6 | 420.2 |
@@ -101,12 +102,11 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | VEEV | 12.9 | 13.3 | 14.1 | 21.9 | 26.7 | 27.3 | 25.9 | 23.1 | 22.6 | 22.2 | 26 | 2.7 | 776.9 |
 > | PTC | 3.8 | -4.8 | 0.5 | 4.2 | -2.2 | 9 | 26.4 | 16.2 | 11.7 | 16.4 | 26.8 | 2.7 | 118.2 |
 > | JKHY | 16.8 | 18.4 | 16 | 24.8 | 17.5 | 17.5 | 17.7 | 18.7 | 17.6 | 17.2 | 19.2 | 2.4 | 89.1 |
-> | TYL |  | 15 | 20.2 | 15.8 | 13.5 | 17.4 | 10.1 | 8.9 | 8.5 | 12.3 | 13.5 | 2.3 |  |
+> | TYL | 11 | 15 | 20.2 | 15.8 | 13.5 | 17.4 | 10.1 | 8.9 | 8.5 | 12.3 | 13.5 | 2.3 | 294.6 |
 > | FDS | 23.9 | 30.1 | 21.1 | 19.8 | 24.6 | 25 | 25.1 | 21.5 | 22.4 | 24.4 | 25.7 | 2.3 | 130.6 |
 > | RDDT |  |  |  |  |  |  |  | -23.8 | -11.3 | -37.2 | 24.1 | 2.2 |  |
 > | FICO | 10.3 | 12.4 | 14.3 | 12.6 | 16.6 | 18.3 | 29.8 | 27.1 | 28.4 | 29.9 | 32.7 | 2 | 137.4 |
 > | VRSN | 35.4 | 38.6 | 39.2 | 47.9 | 49.7 | 64.4 | 59.1 | 47.3 | 54.8 | 50.4 | 49.8 | 1.7 | 56.4 |
-> | GOOGL | 21.8 | 21.6 | 11.4 | 22.5 | 21.2 | 22.1 | 29.5 | 21.2 | 24 | 28.6 |  |  |  |
 > - Gutter: Revenue
 > - Gutter: Rise
 > - Top: 30

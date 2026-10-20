@@ -13,9 +13,9 @@
 
 BIOGEN INC., as it files with the SEC (CIK 0000875045): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BIOGEN INC., and how has it grown?** It sold $9.9 billion in FY2025, the 293rd most of the 487 companies with a revenue for the year, and the 121st of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 8.1% from FY2015 to FY2025, −0.8% a year.
+**How large is BIOGEN INC., and how has it grown?** It sold $9.9 billion in FY2025, the 294th most of the 488 companies with a revenue for the year, and the 121st of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 8.1% from FY2015 to FY2025, −0.8% a year.
 
-**Does BIOGEN INC. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 13.1% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
+**Does BIOGEN INC. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 13.1% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 19 years in the book.
 
 **Where does BIOGEN INC.'s cash go?** From FY2016 to FY2025 its operations brought in $38.3 billion; it spent 11.2% of that on plant and equipment, and 57% on buying back its own shares.
 
