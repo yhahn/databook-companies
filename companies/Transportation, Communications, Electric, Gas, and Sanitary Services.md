@@ -8,19 +8,19 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Transportation, Communications, Electric, Gas, and Sanitary Services among the S&P 500?** Its 59 companies with a revenue and a net income for FY2025 sold $1.64 trillion, 9.6% of the sales of all the 500's, and kept $196.2 billion as net income, 9.5% of theirs. It kept 12% of what it sold; all the companies together, 12.1%.
+**How large is Transportation, Communications, Electric, Gas, and Sanitary Services among the S&P 500?** Its 59 companies with a revenue and a net income for FY2025 sold $1.64 trillion, 9.4% of the sales of all the 500's, and kept $187.4 billion as net income, 9% of theirs. It kept 11.4% of what it sold; all the companies together, 11.8%.
 
 ## Growth
 
-**How has Transportation, Communications, Electric, Gas, and Sanitary Services grown?** Its 46 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 46.4% more in FY2025 than in FY2015, 3.9% a year, and their net income went from $87.2 billion to $164.0 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
+**How has Transportation, Communications, Electric, Gas, and Sanitary Services grown?** Its 46 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 46.4% more in FY2025 than in FY2015, 3.9% a year, and their net income went from $87.2 billion to $155.2 billion; all the 500's such companies sold 81.8% more, and earned 154.2% more.
 
 The rise in revenue since FY2015, each year, in percent: the sector's 46 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Transportation, Communications, Electric, Gas, and Sanitary Services | 0 | 4.1 | 6 | 12.5 | 18 | 5 | 23.3 | 38.2 | 36.7 | 39.9 | 46.4 |
-> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
+> | Transportation, Communications, Electric, Gas, and Sanitary Services | 0 | 4.1 | 9.4 | 16.1 | 18 | 5 | 23.3 | 38.2 | 36.7 | 39.9 | 46.4 |
+> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.8 |
 > - Unit: percent
 
 ## Compared
@@ -32,12 +32,12 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > [!CARD:grid] Net income over revenue, a company a row
 > | Ticker | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Revenue | Rise |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | VZ | 13.6 | 10.4 | 23.9 | 11.9 | 14.6 | 13.9 | 16.9 | 15.9 | 9 | 13.3 | 12.7 | 138.2 | 5 |
+> | VZ | 13.6 | 10.4 | 23.9 | 11.9 | 14.6 | 13.9 | 16.5 | 15.5 | 8.7 | 13 | 12.4 | 138.2 | 5 |
 > | T | 9.1 | 7.9 | 18.3 | 11.3 | 7.7 | -3.6 | 15 | -7.1 | 11.8 | 8.9 | 17.5 | 125.6 | -14.4 |
 > | CMCSA | 11 | 10.7 | 26.7 | 12.4 | 12 | 10.2 | 12.2 | 4.4 | 12.7 | 13.1 | 16.2 | 123.7 | 66 |
 > | UPS | 8.3 | 5.6 | 7.4 | 6.7 | 6 | 1.6 | 13.2 | 11.5 | 7.4 | 6.3 | 6.3 | 88.7 | 51.9 |
 > | TMUS | 2.3 | 3.9 | 11.2 | 6.7 | 7.7 | 4.5 | 3.8 | 3.3 | 10.6 | 13.9 | 12.4 | 88.3 | 172 |
-> | FDX | 2.2 | 3.6 | 5 | 7 | 0.8 | 1.9 | 6.2 | 0 | 0 | 0 | 0 | 87.9 | 85.3 |
+> | FDX | 2.2 | 3.6 | 5 | 7 | 0.8 | 1.9 | 6.2 | 4.1 | 4.4 | 4.9 | 4.7 | 87.9 | 85.3 |
 > | DAL | 11.1 | 10.6 | 7.8 | 8.9 | 10.1 | -72.4 | 0.9 | 2.6 | 7.9 | 5.6 | 7.9 | 63.4 | 55.7 |
 > | UAL | 19.4 | 6.1 | 5.7 | 5.1 | 7 | -46 | -8 | 1.6 | 4.9 | 5.5 | 5.7 | 59.1 | 56 |
 > | CHTR | -2.8 | 12.1 | 23.8 | 2.8 | 3.6 | 6.7 | 9 | 9.4 | 8.3 | 9.2 | 9.1 | 54.8 | 461.6 |
@@ -50,15 +50,15 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | CCL | 11.2 | 17 | 14.9 | 16.7 | 14.4 | -182.9 | -498 | -50.1 | -0.3 | 7.7 | 10.4 | 26.6 | 69.4 |
 > | NEE |  |  |  | 43.1 | 21.5 | 17.2 | 19 | 18 | 29.5 | 29.6 | 26.5 | 25.8 |  |
 > | WM | 5.8 | 8.7 | 13.5 | 12.9 | 10.8 | 9.8 | 10.1 | 11.4 | 11.3 | 12.4 | 10.7 | 25.2 | 94.5 |
-> | PCG | 5.3 | 8 | 9.7 | -40.8 | -44.6 | -7.1 | 0 | 8.4 | 9.2 | 10.3 | 10.8 | 24.9 | 48.1 |
+> | PCG | 5.3 | 8 | 9.7 | -40.8 | -44.6 | -7.1 | -0.4 | 8.4 | 9.2 | 10.3 | 10.8 | 24.9 | 48.1 |
 > | UNP | 21.9 | 21.2 | 50.4 | 26.1 | 27.3 | 27.4 | 29.9 | 28.1 | 26.4 | 27.8 | 29.1 | 24.5 | 12.4 |
-> | EXC | 7.6 | 3.8 | 1869.1 |  | 18.1 | 11.7 | 10.2 | 11.4 | 10.7 | 10.7 | 11.4 | 24.3 | -17.6 |
+> | EXC | 7.6 | 3.8 | 11.5 | 5.8 | 18.1 | 11.7 | 10.2 | 11.4 | 10.7 | 10.7 | 11.4 | 24.3 | -17.6 |
 > | CEG |  |  |  |  |  | 3.6 | -1.1 | -0.7 | 7.8 | 19.8 | 10.2 | 22.7 |  |
 > | AEP | 12.5 | 3.8 | 12.5 | 11.9 | 12.3 | 14.7 | 14.8 | 11.7 | 11.7 | 14.9 | 17 | 21.7 | 31.9 |
 > | EIX | 9.7 | 12 | 4.6 | -3.3 | 10.4 | 5.4 | 6.2 | 4.8 | 7.3 | 7.3 | 23.1 | 19.3 | 67.6 |
-> | RCL | 8 | 15.1 | 18.5 | 19.1 | 17.2 | -262.5 | -343.4 | -24.4 | 12.2 | 17.5 | 23.8 | 17.9 | 116.1 |
+> | RCL | 8 | 15.1 | 18.5 | 19.1 | 17.2 | -262.5 | -343.3 | -24.4 | 12.2 | 17.5 | 23.8 | 17.9 | 116.1 |
 > | VST |  |  | -4.7 | -0.6 | 8 | 5.9 | -7.2 | -7.8 | 10.8 | 18 | 5.4 | 17.6 |  |
-> | ED | 9.5 | 10.3 | 12.7 | 11.6 | 11.1 | 9.2 | 0 | 0 | 0 | 0 | 0 | 17 | 35.8 |
+> | ED | 9.5 | 10.3 | 12.7 | 11.6 | 11.1 | 9.2 | 10 | 10.7 | 17.4 | 11.8 | 11.9 | 17 | 35.8 |
 > | TRGP |  | -2.8 | 0.7 | 0 | -2.8 | -22.6 | 0.4 | 6 | 10 | 9.3 | 11.3 | 17 |  |
 > | RSG | 6.8 | 5.4 | 12.7 | 10.3 | 10.4 | 9.5 | 11.4 | 11 | 11.6 | 12.7 | 12.9 | 16.6 | 50.6 |
 > | D | 16.3 | 18.1 | 23.8 | 21.9 | 9.9 | -3.5 | 29.1 | 8.2 | 14.5 | 14.3 | 18.1 | 16.5 | 41.4 |
@@ -66,9 +66,9 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | CHRW | 3.8 | 3.9 | 3.4 | 4 | 3.8 | 3.1 | 3.7 | 3.8 | 1.8 | 2.6 | 3.6 | 16.2 | 20.5 |
 > | KMI | 1.8 | 5.4 | 1.3 | 12.1 | 18.1 | 1.2 | 11 | 14.1 | 17.5 | 19.4 | 20.1 | 15.2 | 5.5 |
 > | FE | 3.8 | -57.7 | -15.8 | 12.3 | 8.4 | 10.1 | 11.5 | 3.3 | 8.6 | 7.3 | 6.8 | 15.1 | 0.4 |
-> | ECHO | 8.3 | 9.9 | 25.7 | -2.3 | -3.9 | -2.7 | 12.7 | 13.6 | -9.6 | -0.8 | -0.3 | 15 | 711.6 |
+> | ECHO | 8.3 | 9.9 | 25.7 | -2.3 | -3.9 | -2.7 | 12.7 | 13.6 | -9.6 | -0.8 | -96.6 | 15 | 711.6 |
 > | WMB | -7.8 | -5.7 | 27.1 | -1.8 | 10.4 | 2.8 | 11.9 | 11.5 | 26.5 | 17.6 | 17.6 | 14.9 | 102.4 |
-> | EXPE | 11.5 | 3.2 | 3.8 | 3.6 | 4.7 | -50.2 | 0.2 | 2.9 | 5.4 | 8.9 | 8.8 | 14.7 | 120.8 |
+> | EXPE | 11.5 | 3.2 | 3.8 | 3.6 | 4.7 | -50.2 | 0.1 | 3 | 6.2 | 9 | 8.8 | 14.7 | 120.8 |
 > | CSX | 16.7 | 15.5 | 48 | 27 | 27.9 | 26.1 | 30.2 | 27.7 | 25 | 23.9 | 20.5 | 14.1 | 19.3 |
 > | ES | 11.1 | 12.4 | 12.8 | 12.3 | 10.8 | 13.8 | 12.5 | 11.5 | -3.7 | 6.9 | 12.6 | 13.5 | 69.6 |
 > | ETR |  | -5.4 | 3.7 | 7.7 | 11.6 | 13.9 | 9.5 | 8 | 19.4 | 8.9 | 13.7 | 12.9 |  |

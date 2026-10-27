@@ -13,9 +13,9 @@
 
 AMPHENOL CORP, as it files with the SEC (CIK 0000820313): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2014-11-05 and 2021-04-30 and 2024-07-26, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMPHENOL CORP, and how has it grown?** It sold $23.1 billion in FY2025, the 160th most of the 488 companies with a revenue for the year, and the 72nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 267.4% from FY2016 to FY2025, 15.6% a year.
+**How large is AMPHENOL CORP, and how has it grown?** It sold $23.1 billion in FY2025, the 165th most of the 487 companies with a revenue for the year, and the 73rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 267.4% from FY2016 to FY2025, 15.6% a year.
 
-**Does AMPHENOL CORP make money, and how much of what it sells does it keep?** It earned $4.3 billion in FY2025, 18.5% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 10 years in the book.
+**Does AMPHENOL CORP make money, and how much of what it sells does it keep?** It earned $4.3 billion in FY2025, 18.5% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 10 years in the book.
 
 **Where does AMPHENOL CORP's cash go?** From FY2016 to FY2025 its operations brought in $20.9 billion; it spent 19.6% of that on plant and equipment, and 30.9% on buying back its own shares.
 
@@ -27,7 +27,7 @@ AMPHENOL CORP, as it files with the SEC (CIK 0000820313): its fiscal years and q
 > | Revenue |  |  |  |  |  |  |  |  |  |  | 6286.4 | 7011.3 | 8202 | 8225.4 | 8598.9 | 10876.3 | 12623 | 12554.7 | 15222.7 | 23094.7 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  | 2040 | 2309.9 | 2654.9 | 2616 | 2664.1 | 3401.8 | 4028.2 | 4084.1 | 5139.7 | 8517.7 |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 1205.2 | 1427.6 | 1686.9 | 1619.2 | 1638.4 | 2105.1 | 2585.8 | 2559.6 | 3156.9 | 5868.6 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  | 822.9 | 650.5 | 1205 | 1155 | 1203.4 | 1590 | 1902 | 1928 | 2424 | 4270 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  | 822.9 | 650.5 | 1205 | 1155 | 1203.4 | 1590.8 | 1902.3 | 1928 | 2424 | 4270.3 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 1077.6 | 1144.2 | 1112.7 | 1502.3 | 1592 | 1540.1 | 2174.6 | 2528.7 | 2814.7 | 5374.7 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  | -190.8 | -226.6 | -310.6 | -295 | -276.8 | -360.4 | -383.8 | -372.8 | -665.4 | -996.6 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | -325.8 | -618 | -935.2 | -601.7 | -641.3 | -661.7 | -730.5 | -585.1 | -689.3 | -665.2 |  |
@@ -46,6 +46,93 @@ AMPHENOL CORP, as it files with the SEC (CIK 0000820313): its fiscal years and q
 | FY2023 | 2023-01-01 | 2023-12-31 | 1.55 | 1.55 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 1.92 | 1.92 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.34 | 3.34 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Gross profit | FY2016 | us-gaap:GrossProfit | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-02-13 | 0001558370-19-000636 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-12 | 0001558370-20-000728 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-10 | 0001558370-21-000881 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-09 | 0001558370-22-000961 | yes | 3.75 | 10-K | 2020-02-12 | 0001558370-20-000728 |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-09 | 0001558370-22-000961 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-08 | 0001558370-23-001036 | yes | 3.91 | 10-K | 2021-02-10 | 0001558370-21-000881 |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-08 | 0001558370-23-001036 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-07 | 0001558370-24-000866 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-07 | 0001558370-25-000714 | yes | 3.06 | 10-K | 2023-02-08 | 0001558370-23-001036 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-07 | 0001558370-25-000714 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-11 | 0001104659-26-013549 | yes | 3.11 | 10-K | 2024-02-07 | 0001558370-24-000866 |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-11 | 0001104659-26-013549 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -70,11 +157,11 @@ AMPHENOL CORP, as it files with the SEC (CIK 0000820313): its fiscal years and q
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 2377.1 | 727.5 | 464.8 | 329.6 | 0.53 | 321 | -78.4 | -152.8 | 0.265 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 2653.9 | 843.2 | 476.2 | 369.8 | 0.59 | 387.7 | -104.9 | -167.3 | 0.295 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 2818.5 | 889.9 | 571.2 | 426.5 | 0.68 | 360.8 | -90.9 | -170.9 | 0.34 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 3026.8 | 941.2 | 592.9 | 464.2 | 0.74 | 470.6 | -86.2 | -170.7 | 0.37 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 3026.8 | 941.2 | 592.9 | 465 | 0.74 | 470.6 | -86.2 | -170.7 | 0.37 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 2951.9 | 926.6 | 589.8 | 425.7 | 0.68 | 350.8 | -78.1 | -204 | 0.34 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 3136.8 | 1004.2 | 648.8 | 472.5 | 0.76 | 542.5 | -91.1 | -185.9 | 0.38 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 3295.2 | 1060 | 681.1 | 496.6 | 0.8 | 576 | -121 | -170.2 | 0.4 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 3239.2 | 1037.5 | 666.1 | 507.2 | -0.71 | 705.3 | -93.6 | -170.4 | -0.71 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 3239.2 | 1037.5 | 666.1 | 507.5 | -0.71 | 705.3 | -93.6 | -170.4 | -0.71 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 2974 | 943.4 | 591.7 | 439.2 | 0.71 | 532.4 | -97.7 | -166.9 | 0.355 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 3053.9 | 991.7 | 619.9 | 460.5 | 0.37 | 536.4 | -95.4 | -153.6 | 0.37 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 3199.2 | 1048.5 | 657.9 | 513.9 | 0.41 | 618.1 | -74.7 | -149.3 | 0.41 |
@@ -86,7 +173,7 @@ AMPHENOL CORP, as it files with the SEC (CIK 0000820313): its fiscal years and q
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 4811 | 1644 | 1024.8 | 737.8 | 0.58 | 764.9 | -188.6 | -180.9 | 0.58 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 5650.3 | 2053.3 | 1418.8 | 1091.3 | 0.86 | 1416.8 | -297.1 | -160.1 | 0.86 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 6194.4 | 2359.3 | 1702.3 | 1245.7 | 0.97 | 1470.8 | -257.2 | -152.9 | 0.97 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 6439 | 2461.1 | 1722.7 | 1195.2 | 0.93 | 1722.2 | -253.7 | -171.3 | 0.93 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 6439 | 2461.1 | 1722.7 | 1195.5 | 0.93 | 1722.2 | -253.7 | -171.3 | 0.93 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 7620.1 | 2800.2 | 1831.8 | 933 | 0.72 | 1121.5 | -291.6 | -178 | 0.72 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 8758.1 | 3548 | 2584.6 | 1769.2 | 1.37 | 1557.2 | -355.5 | -208 | 1.37 |
 

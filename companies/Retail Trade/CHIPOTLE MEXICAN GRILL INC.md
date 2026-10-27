@@ -13,7 +13,7 @@
 
 CHIPOTLE MEXICAN GRILL INC, as it files with the SEC (CIK 0001058090): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2024-07-25, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CHIPOTLE MEXICAN GRILL INC, and how has it grown?** It sold $11.9 billion in FY2025, the 277th most of the 488 companies with a revenue for the year, and the 25th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 205.4% from FY2016 to FY2025, 13.2% a year.
+**How large is CHIPOTLE MEXICAN GRILL INC, and how has it grown?** It sold $11.9 billion in FY2025, the 284th most of the 487 companies with a revenue for the year, and the 25th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 205.4% from FY2016 to FY2025, 13.2% a year.
 
 **Does CHIPOTLE MEXICAN GRILL INC make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 12.9% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 10 years in the book.
 
@@ -27,7 +27,7 @@ CHIPOTLE MEXICAN GRILL INC, as it files with the SEC (CIK 0001058090): its fisca
 > | Revenue |  |  |  |  |  |  |  |  |  |  | 3904.384 | 4476.412 | 4864.985 | 5586.369 | 5984.634 | 7547.061 | 8634.652 | 9871.649 | 11313.853 | 11925.601 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 34.567 | 270.794 | 258.368 | 443.958 | 290.164 | 804.943 | 1160.403 | 1557.813 | 1916.333 | 1935.798 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  | 22.938 | 176.253 | 176.553 | 350.158 | 355.766 | 653 | 899 | 1229 | 1534 | 1536 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  | 22.938 | 176.253 | 176.553 | 350.158 | 355.766 | 652.984 | 899.101 | 1228.737 | 1534.11 | 1535.761 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 349.242 | 468.216 | 621.552 | 721.632 | 663.847 | 1282.081 | 1323.179 | 1783.477 | 2105.076 | 2113.926 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  | -258.842 | -216.777 | -287.39 | -333.912 | -373.352 | -442.475 | -479.164 | -560.731 | -593.603 | -666.336 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | -836.76 | -285.218 | -160.937 | -190.617 | -54.401 | -466.462 | -830.14 | -592.349 | -1001.559 | -2425.516 |  |
@@ -46,6 +46,83 @@ CHIPOTLE MEXICAN GRILL INC, as it files with the SEC (CIK 0001058090): its fisca
 | FY2023 | 2023-01-01 | 2023-12-31 | 0.89 | 0.89 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 1.11 | 1.11 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 1.14 | 1.14 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-08 | 0001058090-19-000007 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-08 | 0001058090-19-000007 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-08 | 0001058090-19-000007 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-08 | 0001058090-19-000007 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2018-02-08 | 0001058090-18-000018 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-08 | 0001058090-19-000007 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-02-08 | 0001058090-19-000007 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-05 | 0001058090-20-000010 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-10 | 0001058090-21-000010 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-11 | 0001058090-22-000011 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-09 | 0001058090-23-000010 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-08 | 0001562762-24-000023 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-05 | 0001058090-25-000014 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-05 | 0001058090-25-000014 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-05 | 0001058090-25-000014 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-05 | 0001058090-25-000014 | yes | 32.04 | 10-K | 2023-02-09 | 0001058090-23-000010 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-05 | 0001058090-25-000014 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-05 | 0001058090-25-000014 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-05 | 0001058090-25-000014 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-04 | 0001058090-26-000009 | yes | 44.34 | 10-K | 2024-02-08 | 0001562762-24-000023 |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-04 | 0001058090-26-000009 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -70,23 +147,23 @@ CHIPOTLE MEXICAN GRILL INC, as it files with the SEC (CIK 0001058090): its fisca
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 1741.575 |  | 161.442 | 127.101 | 4.45 | 305.973 | -86.619 | -57.229 | 0.089 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 1892.538 |  | 245.525 | 187.974 | 6.6 | 256.885 | -125.504 | -145.922 | 0.132 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 1952.315 |  | 239.68 | 204.434 | 7.18 | 280.803 | -108.446 | -97.582 | 0.1436 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1960.633 |  | 158.296 | 133.491 | 4.68 | 438.42 | -121.906 | -165.729 | 0.0936 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1960.633 |  | 158.296 | 133.475 | 4.68 | 438.42 | -121.906 | -165.729 | 0.0936 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 2020.539 |  | 190.221 | 158.294 | 5.59 | 282.902 | -96.162 | -263.308 | 0.1118 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 2213.339 |  | 337.598 | 259.942 | 9.25 | 286.786 | -100.333 | -258.602 | 0.185 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 2220.175 |  | 336.253 | 257.138 | 9.2 | 351.918 | -139.023 | -107.865 | 0.184 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 2180.599 |  | 296.331 | 223.626 | -23.38 | 401.573 | -143.646 | -200.365 | -23.38 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 2180.599 |  | 296.331 | 223.727 | -23.38 | 401.573 | -143.646 | -200.365 | -23.38 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 2368.58 |  | 367.606 | 291.644 | 10.5 | 455.036 | -120.369 | -126.709 | 0.21 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 2514.801 |  | 431.81 | 341.79 | 0.25 | 582.51 | -137.232 | -95.045 | 0.25 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 2471.948 |  | 394.95 | 313.217 | 0.23 | 480.472 | -131.2 | -215.551 | 0.23 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2516.32 |  | 363.447 | 282.349 | 0.21 | 265.459 | -171.93 | -155.044 | 0.21 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2516.32 |  | 363.447 | 282.086 | 0.21 | 265.459 | -171.93 | -155.044 | 0.21 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 2701.848 |  | 441.292 | 359.287 | 0.26 | 569.234 | -132.703 | -27.005 | 0.26 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 2973.117 |  | 586.053 | 455.671 | 0.33 | 562.578 | -140.49 | -145.363 | 0.33 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 2793.576 |  | 473.256 | 387.388 | 0.28 | 446.494 | -147.525 | -490.237 | 0.28 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2845.31 |  | 415.732 | 331.654 | 0.24 | 526.77 | -172.885 | -338.954 | 0.24 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2845.31 |  | 415.732 | 331.764 | 0.24 | 526.77 | -172.885 | -338.954 | 0.24 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 2875.253 |  | 479.25 | 386.599 | 0.28 | 557.075 | -144.81 | -553.796 | 0.28 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 3063.393 |  | 559.057 | 436.127 | 0.32 | 561.327 | -160.585 | -443.259 | 0.32 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 3003.444 |  | 477.172 | 382.103 | 0.29 | 569.68 | -163.486 | -686.665 | 0.29 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 2983.511 |  | 420.319 | 331.171 | 0.25 | 425.844 | -197.455 | -741.796 | 0.25 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 2983.511 |  | 420.319 | 330.932 | 0.25 | 425.844 | -197.455 | -741.796 | 0.25 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 3088.242 |  | 397.063 | 302.824 | 0.23 | 651.35 | -180.332 | -701.027 | 0.23 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 3348.562 |  | 525.595 | 403.547 | 0.32 | 680.653 | -217.269 | -653.878 | 0.32 |
 

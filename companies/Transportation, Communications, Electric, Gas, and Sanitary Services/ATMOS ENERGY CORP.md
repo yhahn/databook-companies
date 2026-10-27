@@ -13,7 +13,7 @@
 
 ATMOS ENERGY CORP, as it files with the SEC (CIK 0000731802): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ATMOS ENERGY CORP, and how has it grown?** It sold $4.7 billion in FY2025, the 406th most of the 488 companies with a revenue for the year, and the 58th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 91.6% from FY2016 to FY2025, 7.5% a year.
+**How large is ATMOS ENERGY CORP, and how has it grown?** It sold $4.7 billion in FY2025, the 415th most of the 487 companies with a revenue for the year, and the 58th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 91.6% from FY2016 to FY2025, 7.5% a year.
 
 **Does ATMOS ENERGY CORP make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 25.5% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 10 years in the book.
 
@@ -46,6 +46,74 @@ ATMOS ENERGY CORP, as it files with the SEC (CIK 0000731802): its fiscal years a
 | FY2023 | 2022-10-01 | 2023-09-30 | 6.1 | 6.1 |
 | FY2024 | 2023-10-01 | 2024-09-30 | 6.83 | 6.83 |
 | FY2025 | 2024-10-01 | 2025-09-30 | 7.46 | 7.46 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2018-11-13 | 0000731802-18-000039 |  |  |  |  |  |
+| Gross profit | FY2016 | us-gaap:GrossProfit | 8-K | 2017-04-12 | 0000731802-17-000015 | yes | 1744.896 | 10-K | 2016-11-14 | 0000731802-16-000066 |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2018-11-13 | 0000731802-18-000039 | yes | 668.018 | 10-K | 2016-11-14 | 0000731802-16-000066 |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2018-11-13 | 0000731802-18-000039 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 8-K | 2017-04-12 | 0000731802-17-000015 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-11-13 | 0000731802-18-000039 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2018-11-13 | 0000731802-18-000039 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2019-11-12 | 0000731802-19-000037 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2019-11-12 | 0000731802-19-000037 | yes | 727.546 | 10-K | 2017-11-13 | 0000731802-17-000041 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2019-11-12 | 0000731802-19-000037 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareBasicAndDiluted | 10-K | 2018-11-13 | 0000731802-18-000039 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-11-12 | 0000731802-19-000037 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-11-12 | 0000731802-19-000037 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2020-11-13 | 0000731802-20-000040 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2020-11-13 | 0000731802-20-000040 | yes | 723.134 | 10-K | 2018-11-13 | 0000731802-18-000039 |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2020-11-13 | 0000731802-20-000040 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-11-13 | 0000731802-20-000040 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-11-13 | 0000731802-20-000040 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2020-11-13 | 0000731802-20-000040 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2021-11-12 | 0000731802-21-000040 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2021-11-12 | 0000731802-21-000040 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2021-11-12 | 0000731802-21-000040 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-11-12 | 0000731802-21-000040 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-11-12 | 0000731802-21-000040 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2021-11-12 | 0000731802-21-000040 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2022-11-14 | 0000731802-22-000037 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2022-11-14 | 0000731802-22-000037 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2022-11-14 | 0000731802-22-000037 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-11-14 | 0000731802-22-000037 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-11-14 | 0000731802-22-000037 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2022-11-14 | 0000731802-22-000037 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2023-11-14 | 0000731802-23-000028 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2023-11-14 | 0000731802-23-000028 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2023-11-14 | 0000731802-23-000028 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-11-14 | 0000731802-23-000028 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-11-14 | 0000731802-23-000028 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2023-11-14 | 0000731802-23-000028 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2024-11-18 | 0000731802-24-000030 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2024-11-18 | 0000731802-24-000030 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2024-11-18 | 0000731802-24-000030 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-11-18 | 0000731802-24-000030 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-11-18 | 0000731802-24-000030 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2024-11-18 | 0000731802-24-000030 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-14 | 0000731802-25-000056 |  |  |  |  |  |
 
 ## Quarterly
 

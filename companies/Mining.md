@@ -8,11 +8,11 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Mining among the S&P 500?** Its 12 companies with a revenue and a net income for FY2025 sold $216.6 billion, 1.3% of the sales of all the 500's, and kept $31.6 billion as net income, 1.5% of theirs. It kept 14.6% of what it sold; all the companies together, 12.1%.
+**How large is Mining among the S&P 500?** Its 12 companies with a revenue and a net income for FY2025 sold $216.6 billion, 1.2% of the sales of all the 500's, and kept $33.6 billion as net income, 1.6% of theirs. It kept 15.5% of what it sold; all the companies together, 11.8%.
 
 ## Growth
 
-**How has Mining grown?** Its 9 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 49.3% more in FY2025 than in FY2015, 4.1% a year, and their net income went from −$35.2 billion to $26.2 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
+**How has Mining grown?** Its 9 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 49.3% more in FY2025 than in FY2015, 4.1% a year, and their net income went from −$35.2 billion to $28.1 billion; all the 500's such companies sold 81.8% more, and earned 154.2% more.
 
 The rise in revenue since FY2015, each year, in percent: the sector's 9 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
@@ -20,7 +20,7 @@ The rise in revenue since FY2015, each year, in percent: the sector's 9 companie
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Mining | 0 | -19.8 | -7.2 | 9.7 | 9.2 | -12.6 | 17.4 | 47.6 | 37.7 | 47.3 | 49.3 |
-> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
+> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.8 |
 > - Unit: percent
 
 ## Compared
@@ -33,13 +33,13 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | Ticker | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Revenue | Rise |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | SLB | 5.8 | -6.1 | -4.9 | 6.5 | -30.8 | -44.6 | 8.2 | 12.2 | 12.7 | 12.3 | 9.4 | 35.7 | 0.7 |
-> | FCX | -82.8 | -27.1 | 13.2 | 15.3 | -1.3 | 6.2 | 23.9 | 19.2 | 16.5 | 17.5 | 8.8 | 25.2 | 72.4 |
+> | FCX | -82.8 | -27.1 | 13.2 | 15.3 | -1.3 | 6.2 | 23.9 | 19.2 | 16.5 | 17.5 | 16.5 | 25.2 | 72.4 |
 > | NEM | 3.4 | -9.4 | -1.5 | 4.7 | 28.8 | 24.6 | 9.5 | -3.6 | -21.1 | 17.9 | 31.3 | 22.7 | 272.5 |
 > | EOG | -51.7 | -14.3 | 23 | 19.8 | 15.7 | -5.5 | 25 | 30.2 | 31.4 | 27 | 22 | 22.6 | 158.4 |
 > | HAL | -2.8 | -36.3 | -2.2 | 6.9 | -5 | -20.4 | 9.5 | 7.7 | 11.5 | 10.9 | 5.8 | 22.2 | -6.1 |
 > | OXY | -62.7 | -5.7 | 10.5 | 26.5 | -5.1 | -86.6 | 8.9 | 36.7 | 20.2 | 13.6 | 11 | 21.6 | 72.8 |
-> | DVN | -98.1 | -15.6 | 13.8 | 36.3 | -5.3 | -57.4 | 20.4 | 30.4 | 24.7 | 18.2 | 15.7 | 16.8 | 27.7 |
-> | FANG |  | -31.3 | 40 | 38.9 | 6.2 | -163.9 | 33.7 | 47.7 | 39.7 | 33.4 | 10.3 | 15 |  |
+> | DVN | -98.1 | -15.6 | 13.8 | 36.3 | -5.3 | -57.4 | 20.5 | 30.4 | 24.7 | 18.2 | 15.7 | 16.8 | 27.7 |
+> | FANG |  | -31.3 | 40 | 38.9 | 6.2 | -163.9 | 32.3 | 45.8 | 37.4 | 30.2 | 11.1 | 15 |  |
 > | EXE | -114.1 | -40.1 | -5 | 4.4 | -6.8 | -354.6 |  | 42 | 27.7 | -16.9 | 15 | 12.1 | -5 |
 > | EQT |  | -32.7 | 48.8 | -47.7 | -32.2 | -36.2 | -16.8 | 14.6 | 34.4 | 4.4 | 23.6 | 8.6 |  |
 > | VMC | 6.5 | 11.7 | 15.5 | 11.8 | 12.5 | 12 | 12.1 | 7.9 | 12 | 12.3 | 13.6 | 7.9 | 132 |

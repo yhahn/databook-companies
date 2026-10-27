@@ -8,19 +8,19 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Services among the S&P 500?** Its 75 companies with a revenue and a net income for FY2025 sold $2.00 trillion, 11.7% of the sales of all the 500's, and kept $477.1 billion as net income, 23.1% of theirs. It kept 23.8% of what it sold; all the companies together, 12.1%.
+**How large is Services among the S&P 500?** Its 75 companies with a revenue and a net income for FY2025 sold $2.02 trillion, 11.5% of the sales of all the 500's, and kept $476.4 billion as net income, 23% of theirs. It kept 23.6% of what it sold; all the companies together, 11.8%.
 
 ## Growth
 
-**How has Services grown?** Its 56 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 229.5% more in FY2025 than in FY2015, 12.7% a year, and their net income went from $72.9 billion to $416.3 billion; all the 500's such companies sold 76.7% more, and earned 152.9% more.
+**How has Services grown?** Its 56 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 232% more in FY2025 than in FY2015, 12.7% a year, and their net income went from $72.9 billion to $416.3 billion; all the 500's such companies sold 81.8% more, and earned 154.2% more.
 
 The rise in revenue since FY2015, each year, in percent: the sector's 56 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
 > [!CARD:line] Revenue, rise since FY2015
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Services | 0 | 8.1 | 26.1 | 43.8 | 62.3 | 70.4 | 111.3 | 136 | 161.7 | 192.7 | 229.5 |
-> | All companies | 0 | 2.1 | 6.5 | 13.3 | 18.1 | 16.3 | 37.1 | 51.5 | 56.4 | 65.1 | 76.7 |
+> | Services | 0 | 8.1 | 26.1 | 43.8 | 62.3 | 71.7 | 112.8 | 137.8 | 163.9 | 195.1 | 232 |
+> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.8 |
 > - Unit: percent
 
 ## Compared
@@ -58,10 +58,11 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | OMC | 7.2 | 7.5 | 7.1 | 8.7 | 9 | 7.2 | 9.9 | 9.2 | 9.5 | 9.4 | -0.3 | 17.3 | 14.1 |
 > | LDOS | -6.4 | 3.5 | 3.6 | 5.7 | 6.1 | 5.1 | 5.5 | 4.8 | 1.3 | 7.6 | 8.5 | 17.1 | 237.9 |
 > | IQV | 6.7 | 1 | 13.2 | 2.5 | 1.7 | 2.5 | 7 | 7.6 | 9.1 | 8.9 | 8.3 | 16.3 | 184.3 |
+> | URI | 10.1 | 9.8 | 20.3 | 13.6 | 12.6 | 10.4 | 14.3 | 18.1 | 16.9 | 16.8 | 15.5 | 16.1 | 176.8 |
 > | SPGI | 21.8 | 37.2 | 24.7 | 31.3 | 31.7 | 31.4 | 36.4 | 29 | 21 | 27.1 | 29.2 | 15.3 | 188.7 |
 > | LH | 5 | 7.5 | 11.9 | 7.8 | 7.1 | 11.1 | 18.1 | 10.8 | 3.4 | 5.7 | 6.3 | 14 | 60.7 |
 > | DASH |  |  |  | -70.1 | -75.4 | -16 | -9.6 | -20.7 | -6.5 | 1.1 | 6.8 | 13.7 |  |
-> | DVA |  | 9 | 6.6 | 1.5 | 7.4 | 6.7 | 10.4 | 6.7 | 7.9 | 9.8 | 7.9 | 13.6 |  |
+> | DVA |  | 9 | 6.6 | 1.5 | 7.4 | 6.7 | 8.4 | 4.8 | 5.7 | 7.3 | 5.5 | 13.6 |  |
 > | NOW | -19.7 | -29.8 | -6.1 | -1 | 18.1 | 2.6 | 3.9 | 4.5 | 19.3 | 13 | 13.2 | 13.3 | 1220.6 |
 > | LVS | 16.8 | 14.7 | 22.1 | 17.6 | 22.2 | -57.3 | -22.7 | 44.6 | 11.8 | 12.8 | 12.5 | 13 | 11.4 |
 > | ABNB |  |  |  |  | -14 | -135.7 | -5.9 | 22.5 | 48.3 | 23.9 | 20.5 | 12.2 |  |
@@ -79,22 +80,21 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | ADSK | 3.3 | -13.2 | -28.7 | -27.6 | -3.1 | 6.6 | 31.9 | 11.3 | 16.4 | 16.5 | 18.1 | 6.1 | 144 |
 > | EFX |  | 15.5 | 17.5 | 9.1 | -11 | 12.6 | 15.1 | 13.6 | 10.4 | 10.6 | 10.9 | 6.1 |  |
 > | TTWO | -25.8 | -0.6 | 3.8 | 9.7 | 12.5 | 13.1 | 17.5 | 11.9 | -21 | -70 | -79.5 | 5.6 | 420.2 |
-> | APP |  |  |  |  | 12 | -8.6 | 1.3 | -6.9 | 19.4 | 49 | 60.8 | 5.5 |  |
+> | APP |  |  |  |  | 12 | -8.6 | 1.3 | -6.8 | 19.4 | 49 | 60.8 | 5.5 |  |
 > | PAYX | 24.6 |  |  |  |  |  |  | 30.6 | 31.7 | 32.9 | 30.6 | 5.4 | 97.5 |
 > | CDNS | 14.8 | 11.2 | 10.5 | 16.2 | 42.3 | 22 | 23.3 | 23.8 | 25.5 | 22.7 | 20.9 | 5.3 | 211.2 |
 > | INCY |  | 9.4 | -20.4 | 5.8 | 20.7 | -11.1 | 31.8 | 10 | 16.2 | 0.8 | 25 | 5.1 | 582.1 |
-> | TWLO | -21.3 | -14.9 | -16 | -18.8 | -27.1 | -27.9 | -33.4 | -32.8 | -24.4 | -2.4 | 0.7 | 5.1 | 2935.7 |
+> | TWLO | -21.3 | -14.9 | -16 | -18.8 | -27.1 | -27.9 | -33.4 | -32.8 | -24.4 | -2.5 | 0.7 | 5.1 | 2935.7 |
 > | GDDY |  | -0.9 | 6.1 | 2.9 | 4.6 | -14.9 | 6.4 | 8.6 | 32.3 | 20.5 | 17.7 | 5 |  |
-> | TKO |  |  |  |  |  |  | 26.5 | 13.4 | 5.4 | 0.1 | 11.5 | 4.7 |  |
+> | TKO |  |  |  |  |  |  | 26.5 | 13.4 | -1.1 | 0.2 | 4.1 | 4.7 |  |
 > | CPAY | 21.3 | 24.7 | 32.9 | 33.3 | 33.8 | 29.5 | 29.6 | 27.8 | 26.1 | 25.3 | 23.6 | 4.5 | 165.9 |
 > | PLTR |  |  |  | -97.4 | -78.1 | -106.7 | -33.7 | -19.6 | 9.4 | 16.1 | 36.3 | 4.5 |  |
 > | AKAM | 14.6 | 13.7 | 8.9 | 11 | 16.5 | 17.4 | 18.8 | 14.5 | 14.4 | 12.7 | 10.7 | 4.2 | 91.5 |
-> | ALLE | 7.4 | 10.2 | 11.3 | 15.9 | 14.1 | 11.6 | 16.9 | 14 | 14.8 | 15.8 | 15.8 | 4.1 | 96.7 |
+> | ALLE | 7.4 | 10.2 | 11.3 | 15.9 | 14.1 | 11.6 | 16.8 | 14 | 14.8 | 15.8 | 15.8 | 4.1 | 96.7 |
 > | CRL | 11 | 9.2 | 6.6 | 10 | 9.6 | 12.5 | 11 | 12.2 | 11.5 | 0.5 | -3.6 | 4 | 194.5 |
-> | CRWD |  |  |  | -114.1 | -56.1 | -29.5 | -10.6 | -16 | -8.1 | 2.4 | -0.3 | 4 |  |
+> | CRWD |  |  |  | -114.1 | -56.1 | -29.5 | -10.6 | -16.2 | -8.2 | 2.4 | -0.4 | 4 |  |
 > | GEN | 22.2 | 69.1 | -2.6 | 44.5 | 1.3 | 156.1 | 21.7 | 29.9 | 40.2 | 16 | 16.3 | 3.9 | -0.5 |
 > | ROL |  |  |  |  | 10.1 | 12.3 | 14.7 | 13.7 | 14.2 | 13.8 | 14 | 3.8 |  |
-> | URI | 10.1 | 9.8 | 20.3 | 13.6 | 12.6 | 44.6 | 61.4 | 84.2 | 71.4 | 71.8 | 67.5 | 3.7 | -36.5 |
 > | DDOG |  |  | -2.6 | -5.4 | -4.6 | -4.1 | -2 | -3 | 2.3 | 6.8 | 3.1 | 3.4 |  |
 > | CSGP | -0.5 | 10.2 | 12.7 | 20 | 22.5 | 13.7 | 15.1 | 16.9 | 15.3 | 5.1 | 0.2 | 3.2 | 356.2 |
 > | MSCI | 20.8 | 22.7 | 23.9 | 35.4 | 36.2 | 35.5 | 35.5 | 38.7 | 45.4 | 38.8 | 38.4 | 3.1 | 191.6 |

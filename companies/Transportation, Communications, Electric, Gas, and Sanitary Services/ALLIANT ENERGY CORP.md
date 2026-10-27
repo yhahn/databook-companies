@@ -13,7 +13,7 @@
 
 ALLIANT ENERGY CORP, as it files with the SEC (CIK 0000352541): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2016-08-02, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ALLIANT ENERGY CORP, and how has it grown?** It sold $4.4 billion in FY2025, the 414th most of the 488 companies with a revenue for the year, and the 59th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 34.1% from FY2015 to FY2025, 3% a year.
+**How large is ALLIANT ENERGY CORP, and how has it grown?** It sold $4.4 billion in FY2025, the 423rd most of the 487 companies with a revenue for the year, and the 59th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 34.1% from FY2015 to FY2025, 3% a year.
 
 **Does ALLIANT ENERGY CORP make money, and how much of what it sells does it keep?** It earned $810 million in FY2025, 18.6% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 18 years in the book.
 
@@ -54,6 +54,117 @@ ALLIANT ENERGY CORP, as it files with the SEC (CIK 0000352541): its fiscal years
 | FY2023 | 2023-01-01 | 2023-12-31 | 2.78 | 2.78 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 2.69 | 2.69 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.14 | 3.14 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K | 2011-02-28 | 0001193125-11-049662 |  |  |  |  |  |
+| Operating income | FY2008 | us-gaap:OperatingIncomeLoss | 10-K | 2011-02-28 | 0001193125-11-049662 |  |  |  |  |  |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K | 2011-02-28 | 0001193125-11-049662 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 10-K | 2011-02-28 | 0001193125-11-049662 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2011-02-28 | 0001193125-11-049662 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Operating income | FY2009 | us-gaap:OperatingIncomeLoss | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Capex | FY2009 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2013-02-26 | 0000352541-13-000007 | yes | 3416.1 | 10-K | 2011-02-28 | 0001193125-11-049662 |
+| Operating income | FY2010 | us-gaap:OperatingIncomeLoss | 10-K | 2013-02-26 | 0000352541-13-000007 | yes | 556.1 | 10-K | 2011-02-28 | 0001193125-11-049662 |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2013-02-26 | 0000352541-13-000007 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-02-26 | 0000352541-13-000007 |  |  |  |  |  |
+| Capex | FY2010 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2013-02-26 | 0000352541-13-000007 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 10-K | 2014-02-25 | 0000352541-14-000006 | yes | 3665.3 | 10-K | 2012-02-27 | 0001193125-12-081622 |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 10-K | 2014-02-25 | 0000352541-14-000006 | yes | 478.4 | 10-K | 2012-02-27 | 0001193125-12-081622 |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2014-02-25 | 0000352541-14-000006 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-27 | 0001193125-12-081622 |  |  |  |  |  |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2014-02-25 | 0000352541-14-000006 |  |  |  |  |  |
+| Capex | FY2011 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2014-02-25 | 0000352541-14-000006 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-02-25 | 0000352541-15-000005 |  |  |  |  |  |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2015-02-25 | 0000352541-15-000005 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-02-25 | 0000352541-15-000005 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareBasicAndDiluted | 10-K | 2015-02-25 | 0000352541-15-000005 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-02-25 | 0000352541-15-000005 |  |  |  |  |  |
+| Capex | FY2012 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2015-02-25 | 0000352541-15-000005 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-24 | 0000352541-16-000076 |  |  |  |  |  |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 10-K | 2016-02-24 | 0000352541-16-000076 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-24 | 0000352541-16-000076 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareBasicAndDiluted | 10-K | 2016-02-24 | 0000352541-16-000076 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2016-02-24 | 0000352541-16-000076 |  |  |  |  |  |
+| Capex | FY2013 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2016-02-24 | 0000352541-16-000076 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-24 | 0000352541-17-000017 |  |  |  |  |  |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 10-K | 2017-02-24 | 0000352541-17-000017 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-24 | 0000352541-17-000017 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareBasicAndDiluted | 10-K | 2017-02-24 | 0000352541-17-000017 | yes | 3.46 | 10-K | 2015-02-25 | 0000352541-15-000005 |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-02-24 | 0000352541-17-000017 |  |  |  |  |  |
+| Capex | FY2014 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2017-02-24 | 0000352541-17-000017 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-02-23 | 0000352541-18-000019 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-23 | 0000352541-18-000019 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-23 | 0000352541-18-000019 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareBasicAndDiluted | 10-K | 2018-02-23 | 0000352541-18-000019 | yes | 3.36 | 10-K | 2016-02-24 | 0000352541-16-000076 |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-02-23 | 0000352541-18-000019 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2018-02-23 | 0000352541-18-000019 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-22 | 0000352541-19-000013 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-22 | 0000352541-19-000013 | yes | 537 | 10-K | 2017-02-24 | 0000352541-17-000017 |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-22 | 0000352541-19-000013 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareBasicAndDiluted | 10-K | 2019-02-22 | 0000352541-19-000013 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-22 | 0000352541-19-000013 | yes | 859.6 | 10-K | 2017-02-24 | 0000352541-17-000017 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-22 | 0000352541-19-000013 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-21 | 0000352541-20-000021 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-21 | 0000352541-20-000021 | yes | 653.4 | 10-K | 2018-02-23 | 0000352541-18-000019 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-21 | 0000352541-20-000021 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-21 | 0000352541-20-000021 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-21 | 0000352541-20-000021 | yes | 983.4 | 10-K | 2018-02-23 | 0000352541-18-000019 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-21 | 0000352541-20-000021 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-02-19 | 0000352541-21-000022 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-19 | 0000352541-21-000022 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-19 | 0000352541-21-000022 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-19 | 0000352541-21-000022 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-19 | 0000352541-21-000022 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-02-19 | 0000352541-21-000022 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-18 | 0000352541-22-000020 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-18 | 0000352541-22-000020 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-18 | 0000352541-22-000020 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-18 | 0000352541-22-000020 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-18 | 0000352541-22-000020 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-02-18 | 0000352541-22-000020 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-16 | 0000352541-24-000014 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-16 | 0000352541-24-000014 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-16 | 0000352541-24-000014 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-16 | 0000352541-24-000014 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-16 | 0000352541-24-000014 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-21 | 0000352541-25-000014 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-21 | 0000352541-25-000014 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-21 | 0000352541-25-000014 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-21 | 0000352541-25-000014 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-21 | 0000352541-25-000014 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-24 | 0000352541-23-000017 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-20 | 0000352541-26-000007 |  |  |  |  |  |
 
 ## Quarterly
 

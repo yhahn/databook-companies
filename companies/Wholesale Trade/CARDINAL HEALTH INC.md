@@ -13,9 +13,9 @@
 
 CARDINAL HEALTH INC, as it files with the SEC (CIK 0000721371): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CARDINAL HEALTH INC, and how has it grown?** It sold $222.6 billion in FY2025, the 14th most of the 488 companies with a revenue for the year, and the 3rd of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 117.1% from FY2015 to FY2025, 8.1% a year.
+**How large is CARDINAL HEALTH INC, and how has it grown?** It sold $222.6 billion in FY2025, the 14th most of the 487 companies with a revenue for the year, and the 3rd of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 117.1% from FY2015 to FY2025, 8.1% a year.
 
-**Does CARDINAL HEALTH INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 0.7% of what it sold; the median company of its sector kept 2.7%. It lost money in 2 of its 19 years in the book (FY2020, FY2022).
+**Does CARDINAL HEALTH INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 0.7% of what it sold; the median company of its sector kept 2.6%. It lost money in 2 of its 19 years in the book (FY2020, FY2022).
 
 **Where does CARDINAL HEALTH INC's cash go?** From FY2016 to FY2025 its operations brought in $26.2 billion; it spent 16.3% of that on plant and equipment, and 28.5% on buying back its own shares.
 
@@ -55,6 +55,163 @@ CARDINAL HEALTH INC, as it files with the SEC (CIK 0000721371): its fiscal years
 | FY2024 | 2023-07-01 | 2024-06-30 | 3.45 | 3.45 |
 | FY2025 | 2024-07-01 | 2025-06-30 | 6.45 | 6.45 |
 | FY2026 | 2025-07-01 | 2026-06-30 | 7.23 | 7.23 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K/A | 2010-09-02 | 0001193125-10-203886 |  |  |  |  |  |
+| Gross profit | FY2008 | us-gaap:GrossProfit | 10-K/A | 2010-09-02 | 0001193125-10-203886 |  |  |  |  |  |
+| Operating income | FY2008 | us-gaap:OperatingIncomeLoss | 10-K/A | 2010-09-02 | 0001193125-10-203886 |  |  |  |  |  |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K/A | 2010-09-02 | 0001193125-10-203886 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K/A | 2010-09-02 | 0001193125-10-203886 |  |  |  |  |  |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K/A | 2010-09-02 | 0001193125-10-203886 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Gross profit | FY2009 | us-gaap:GrossProfit | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Operating income | FY2009 | us-gaap:OperatingIncomeLoss | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Capex | FY2009 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Buybacks | FY2009 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K/A | 2011-11-04 | 0001193125-11-296273 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Gross profit | FY2010 | us-gaap:GrossProfit | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Operating income | FY2010 | us-gaap:OperatingIncomeLoss | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Capex | FY2010 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2012-08-22 | 0000721371-12-000069 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Gross profit | FY2011 | us-gaap:GrossProfit | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Capex | FY2011 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Buybacks | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2013-08-20 | 0000721371-13-000154 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| Gross profit | FY2012 | us-gaap:GrossProfit | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| Capex | FY2012 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2014-08-13 | 0000721371-14-000181 | yes | 263 | 10-K | 2012-08-22 | 0000721371-12-000069 |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-08-13 | 0000721371-14-000181 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Gross profit | FY2013 | us-gaap:GrossProfit | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Capex | FY2013 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2015-08-13 | 0000721371-15-000107 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Gross profit | FY2014 | us-gaap:GrossProfit | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Capex | FY2014 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Buybacks | FY2014 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2016-08-12 | 0000721371-16-000277 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Gross profit | FY2015 | us-gaap:GrossProfit | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Buybacks | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-08-10 | 0000721371-17-000083 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Gross profit | FY2016 | us-gaap:GrossProfit | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2018-08-22 | 0000721371-18-000077 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-08-20 | 0000721371-19-000090 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-08-13 | 0000721371-20-000089 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-08-16 | 0000721371-21-000080 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-08-11 | 0000721371-22-000058 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-08-15 | 0000721371-23-000060 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2024-08-14 | 0000721371-24-000056 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2024-08-14 | 0000721371-24-000056 | yes | 6545 | 10-K | 2022-08-11 | 0000721371-22-000058 |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2024-08-14 | 0000721371-24-000056 | yes | -596 | 10-K | 2022-08-11 | 0000721371-22-000058 |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2024-08-14 | 0000721371-24-000056 | yes | -933 | 10-K | 2022-08-11 | 0000721371-22-000058 |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-08-14 | 0000721371-24-000056 | yes | -3.35 | 10-K | 2022-08-11 | 0000721371-22-000058 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-08-14 | 0000721371-24-000056 | yes | 3122 | 10-K | 2022-08-11 | 0000721371-22-000058 |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-08-14 | 0000721371-24-000056 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-08-14 | 0000721371-24-000056 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2025-08-12 | 0000721371-25-000079 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2025-08-12 | 0000721371-25-000079 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2025-08-12 | 0000721371-25-000079 | yes | 727 | 10-K | 2023-08-15 | 0000721371-23-000060 |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2025-08-12 | 0000721371-25-000079 | yes | 261 | 10-K | 2023-08-15 | 0000721371-23-000060 |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-08-12 | 0000721371-25-000079 | yes | 1 | 10-K | 2023-08-15 | 0000721371-23-000060 |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-08-12 | 0000721371-25-000079 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-08-12 | 0000721371-25-000079 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-08-12 | 0000721371-25-000079 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Revenue | FY2026 | us-gaap:Revenues | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Gross profit | FY2026 | us-gaap:GrossProfit | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Operating income | FY2026 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Net income | FY2026 | us-gaap:NetIncomeLoss | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| EPS diluted | FY2026 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Operating cash flow | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
+| Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-11 | 0000721371-26-000038 |  |  |  |  |  |
 
 ## Quarterly
 

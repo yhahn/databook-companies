@@ -13,9 +13,9 @@
 
 Solventum Corp, as it files with the SEC (CIK 0001964738): its fiscal years and quarters from its XBRL filings, FY2022 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Solventum Corp, and how has it grown?** It sold $8.3 billion in FY2025, the 319th most of the 488 companies with a revenue for the year, and the 134th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 2.4% from FY2022 to FY2025, 0.8% a year.
+**How large is Solventum Corp, and how has it grown?** It sold $8.3 billion in FY2025, the 327th most of the 487 companies with a revenue for the year, and the 134th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 2.4% from FY2022 to FY2025, 0.8% a year.
 
-**Does Solventum Corp make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 18.7% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 4 years in the book.
+**Does Solventum Corp make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 18.7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 4 years in the book.
 
 **Where does Solventum Corp's cash go?** From FY2022 to FY2025 its operations brought in $5.1 billion; it spent 25.3% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -40,6 +40,41 @@ Solventum Corp, as it files with the SEC (CIK 0001964738): its fiscal years and 
 | FY2023 | 2023-01-01 | 2023-12-31 | 7.79 | 7.79 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 2.76 | 2.76 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 8.88 | 8.88 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-28 | 0001964738-25-000019 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-27 | 0001964738-26-000007 |  |  |  |  |  |
 
 ## Quarterly
 

@@ -13,9 +13,9 @@
 
 Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Invitation Homes Inc., and how has it grown?** It sold $2.7 billion in FY2025, the 455th most of the 488 companies with a revenue for the year, and the 72nd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 4484.4% from FY2015 to FY2025, 46.6% a year.
+**How large is Invitation Homes Inc., and how has it grown?** It sold $2.7 billion in FY2025, the 466th most of the 487 companies with a revenue for the year, and the 83rd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 4484.4% from FY2015 to FY2025, 46.6% a year.
 
-**Does Invitation Homes Inc. make money, and how much of what it sells does it keep?** It earned $588 million in FY2025, 21.5% of what it sold; the median company of its sector kept 21.5%. It lost money in 4 of its 11 years in the book (FY2015, FY2016, FY2017, FY2018).
+**Does Invitation Homes Inc. make money, and how much of what it sells does it keep?** It earned $588 million in FY2025, 21.5% of what it sold; the median company of its sector kept 19.2%. It lost money in 4 of its 11 years in the book (FY2015, FY2016, FY2017, FY2018).
 
 **Where does Invitation Homes Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $7.8 billion; it spent 0.2% of that on plant and equipment, and 0.7% on buying back its own shares.
 
@@ -24,7 +24,7 @@ Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal yea
 > [!CARD:line] Invitation Homes Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  | 59.535 | 44.596 | 1054.456 | 1722.962 | 1764.685 | 1822.828 | 1996.615 | 2238.121 | 2432.278 | 2618.942 | 2729.296 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  | 59.535 | 922.587 | 1054.456 | 1722.962 | 1764.685 | 1822.828 | 1996.615 | 2238.121 | 2432.278 | 2618.942 | 2729.296 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  | 114.377 | 190.777 | 118.207 |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  | -160.208 | -78.239 | -105.337 | -4.927 | 145.463 | 196.212 | 261.425 | 383.329 | 519.47 | 453.917 | 587.924 |  |
@@ -47,6 +47,64 @@ Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal yea
 | FY2023 | 2023-01-01 | 2023-12-31 | 0.85 | 0.85 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 0.74 | 0.74 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 0.96 | 0.96 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2015 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2018-03-29 | 0001687229-18-000018 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-03-29 | 0001687229-18-000018 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-03-29 | 0001687229-18-000018 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2018-03-29 | 0001687229-18-000018 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2018-03-29 | 0001687229-18-000018 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-28 | 0001687229-19-000014 | yes | 250.126 | 10-K | 2018-03-29 | 0001687229-18-000018 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2018-03-29 | 0001687229-18-000018 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-19 | 0001687229-20-000004 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-19 | 0001687229-20-000004 | yes | 259.789 | 10-K | 2018-03-29 | 0001687229-18-000018 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-19 | 0001687229-21-000005 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-19 | 0001687229-21-000005 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-19 | 0001687229-21-000005 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-28 | 0001687229-19-000014 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-22 | 0001687229-22-000002 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-22 | 0001687229-22-000002 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-22 | 0001687229-22-000002 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-22 | 0001687229-22-000002 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-22 | 0001687229-23-000029 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-22 | 0001687229-23-000029 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-22 | 0001687229-23-000029 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-22 | 0001687229-23-000029 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-21 | 0001687229-24-000013 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-21 | 0001687229-24-000013 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-21 | 0001687229-24-000013 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-21 | 0001687229-24-000013 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-27 | 0001687229-25-000008 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-27 | 0001687229-25-000008 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-27 | 0001687229-25-000008 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-27 | 0001687229-25-000008 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001687229-26-000016 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -101,8 +159,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2015 | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2017 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2015 | FY2015 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2016 | FY2026 | us-gaap:Revenues |
 | Operating income | FY2015 | FY2018 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2015 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2018 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -112,12 +170,22 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Invitation Homes Inc., Revenue tag, FY2017
+### Change: Invitation Homes Inc., Revenue tag, FY2016
 
 - CIK: 0001687229
 - What: Revenue tag
-- Boundary: FY2017
+- Boundary: FY2016
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
-- Crosswalk: none
+- Crosswalk: FY2016 under both: 44596000 and 922587000; the new tag's figure is under half or over twice the old, or of the other sign: a different line, not the same renamed
+- Source: SEC EDGAR companyfacts
+
+### Change: Invitation Homes Inc., Revenue tag kept, FY2016
+
+- CIK: 0001687229
+- What: Revenue tag kept
+- Boundary: FY2016
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2016 under both: 922587000 and 44596000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

@@ -13,9 +13,9 @@
 
 QUANTA SERVICES, INC., as it files with the SEC (CIK 0001050915): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is QUANTA SERVICES, INC., and how has it grown?** It sold $28.5 billion in FY2025, the 125th most of the 488 companies with a revenue for the year, and the 3rd of 8 in [Construction](../Construction.md). Its sales rose 272.2% from FY2016 to FY2025, 15.7% a year.
+**How large is QUANTA SERVICES, INC., and how has it grown?** It sold $28.5 billion in FY2025, the 130th most of the 487 companies with a revenue for the year, and the 3rd of 8 in [Construction](../Construction.md). Its sales rose 272.2% from FY2016 to FY2025, 15.7% a year.
 
-**Does QUANTA SERVICES, INC. make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 3.7% of what it sold; the median company of its sector kept 9%. It lost money in none of its 10 years in the book.
+**Does QUANTA SERVICES, INC. make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 3.6% of what it sold; the median company of its sector kept 9%. It lost money in none of its 10 years in the book.
 
 **Where does QUANTA SERVICES, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $10.4 billion; it spent 36% of that on plant and equipment, and 10.5% on buying back its own shares.
 
@@ -27,7 +27,7 @@ QUANTA SERVICES, INC., as it files with the SEC (CIK 0001050915): its fiscal yea
 > | Revenue |  |  |  |  |  |  |  |  |  |  | 7651.319 | 9466.478 | 11171.423 | 12112.153 | 11202.672 | 12980.213 | 17073.903 | 20882.206 | 23672.795 | 28479.697 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  | 1013.8 | 1241.86 | 1479.964 | 1600.252 | 1660.847 | 1953.259 | 2529.155 | 2937.086 | 3510.761 | 4275.081 |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 320.813 | 378.849 | 540.269 | 554.874 | 611.371 | 663.521 | 872.058 | 1127.976 | 1346.468 | 1611.509 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  | 200.098 | 318.225 | 293.346 | 402.044 | 445.596 | 491.983 | 511.643 | 750.689 | 927.283 | 1041.917 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  | 200.098 | 318.225 | 293.346 | 402.044 | 445.596 | 485.956 | 491.189 | 744.689 | 904.824 | 1028.378 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 390.749 | 371.891 | 358.789 | 526.551 | 1115.977 | 582.39 | 1130.312 | 1575.952 | 2081.196 | 2229.97 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  | -212.555 | -244.651 | -293.595 | -261.762 | -260.052 | -385.852 | -427.63 | -434.803 | -604.078 | -609.154 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | 0 | -50 | -443.152 | -20.092 | -247.249 | -66.687 | -127.762 | -0.35 | 0 | -134.555 |  |
@@ -46,6 +46,93 @@ QUANTA SERVICES, INC., as it files with the SEC (CIK 0001050915): its fiscal yea
 | FY2023 | 2023-01-01 | 2023-12-31 | 5 | 5 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 6.03 | 6.03 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 6.8 | 6.8 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| Gross profit | FY2016 | us-gaap:GrossProfit | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:ProfitLoss | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2019-02-28 | 0001050915-19-000014 | yes | 381.176 | 10-K | 2017-03-01 | 0001193125-17-064821 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-02-28 | 0001050915-19-000014 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:ProfitLoss | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-28 | 0001050915-20-000020 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-03-01 | 0001050915-21-000009 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-25 | 0001050915-22-000008 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-23 | 0001050915-23-000010 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-22 | 0001050915-24-000009 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-20 | 0001050915-25-000005 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001050915-26-000006 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -70,23 +157,23 @@ QUANTA SERVICES, INC., as it files with the SEC (CIK 0001050915): its fiscal yea
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 2703.581 | 372.89 | 113.729 | 89.761 | 0.62 | 125.613 | -83.486 | -19.474 | 0.62 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 2999.816 | 447.711 | 161.651 | 117.033 | 0.81 | 188.948 | -74.898 | -29.449 | 0.81 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 3353.278 | 534.676 | 248.077 | 174.365 | 1.21 | 17.876 | -74.612 | -17.764 | 1.21 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 3923.538 | 597.982 | 140.064 | 110.824 | 0.7 | 249.953 | -152.856 | 0 | 0.7 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 3923.538 | 597.982 | 140.064 | 104.797 | 0.7 | 249.953 | -152.856 | 0 | 0.7 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 3965.525 | 548.171 | 117.516 | 84.641 | 0.57 | 85.09 | -109.937 | -9.479 | 0.57 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 4232.003 | 624.59 | 208.356 | 88.02 | 0.59 | 118.731 | -121.574 | -84.9 | 0.59 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 4459.757 | 688.83 | 286.791 | 155.956 | 1.06 | 343.362 | -105.958 | -20.8 | 1.06 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 4416.618 | 667.564 | 259.395 | 183.026 | 1.1 | 583.129 | -90.161 | -12.647 | 1.1 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 4416.618 | 667.564 | 259.395 | 162.572 | 1.1 | 583.129 | -90.161 | -12.647 | 1.1 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 4428.826 | 573.195 | 125.86 | 95.046 | 0.64 | 38.409 | -80.319 | 0 | 0.64 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 5048.61 | 724.099 | 279.273 | 165.899 | 1.12 | 127.413 | -105.278 | 0 | 1.12 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 5620.822 | 847.324 | 400.329 | 272.836 | 1.83 | 406.592 | -139.8 | 0 | 1.83 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 5783.948 | 792.468 | 322.514 | 216.908 | 1.41 | 1003.538 | -109.406 | -0.35 | 1.41 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 5783.948 | 792.468 | 322.514 | 210.908 | 1.41 | 1003.538 | -109.406 | -0.35 | 1.41 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 5031.819 | 623.494 | 155.354 | 118.36 | 0.79 | 237.955 | -83.139 | 0 | 0.79 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 5594.387 | 811.331 | 307.23 | 188.159 | 1.26 | 391.312 | -161.456 | 0 | 1.26 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 6493.167 | 1012.57 | 431.161 | 293.185 | 1.95 | 739.914 | -212.498 | 0 | 1.95 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 6553.422 | 1063.366 | 452.723 | 327.579 | 2.03 | 712.015 | -146.985 | 0 | 2.03 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 6553.422 | 1063.366 | 452.723 | 305.12 | 2.03 | 712.015 | -146.985 | 0 | 2.03 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 6233.334 | 834.037 | 239.081 | 144.258 | 0.96 | 243.198 | -132.762 | -118.568 | 0.96 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 6773.007 | 1007.574 | 370.282 | 229.25 | 1.52 | 295.711 | -140.349 | -16 | 1.52 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 7631.408 | 1216.434 | 517.217 | 339.42 | 2.24 | 563.496 | -142.449 | 0 | 2.24 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 7841.948 | 1217.036 | 484.929 | 328.989 | 2.08 | 1127.565 | -193.594 | 0 | 2.08 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 7841.948 | 1217.036 | 484.929 | 315.45 | 2.08 | 1127.565 | -193.594 | 0 | 2.08 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 7874.787 | 1107.329 | 338.779 | 220.625 | 1.45 | 391.744 | -220.093 | 0 | 1.45 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 9556.997 | 1545.178 | 694.834 | 451.381 | 2.96 | 1095.444 | -230.955 | 0 | 2.96 |
 

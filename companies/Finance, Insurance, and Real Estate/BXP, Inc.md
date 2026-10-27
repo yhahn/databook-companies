@@ -13,9 +13,9 @@
 
 BXP, Inc., as it files with the SEC (CIK 0001037540): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BXP, Inc., and how has it grown?** It sold $3.5 billion in FY2025, the 436th most of the 488 companies with a revenue for the year, and the 69th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 39.8% from FY2015 to FY2025, 3.4% a year.
+**How large is BXP, Inc., and how has it grown?** It sold $3.5 billion in FY2025, the 445th most of the 487 companies with a revenue for the year, and the 78th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 39.8% from FY2015 to FY2025, 3.4% a year.
 
-**Does BXP, Inc. make money, and how much of what it sells does it keep?** It earned $277 million in FY2025, 7.9% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
+**Does BXP, Inc. make money, and how much of what it sells does it keep?** It earned $277 million in FY2025, 7.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
 
 **Where does BXP, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $11.6 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -27,7 +27,7 @@ BXP, Inc., as it files with the SEC (CIK 0001037540): its fiscal years and quart
 > | Revenue |  | 1482.289 | 1469.442 | 1518.19 | 1550.804 | 1722.792 | 1847.186 | 2135.539 | 2396.998 | 2490.821 | 2550.82 | 2602.076 | 2717.076 | 2960.562 | 2765.686 | 2888.621 | 3108.581 | 3273.569 | 3407.719 | 3482.279 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  | 1605.435 | 1649.314 | 1826.123 | 1694.075 | 1814.288 | 1929.527 | 1998.776 | 2041.045 | 2058.649 |  |
 > | Operating income |  | 336.375 | 577.39 | 567.531 | 610.514 | 605.166 | 640.321 | 678.12 | 801.822 | 849.365 | 825.784 | 908.11 |  |  |  |  |  |  |  |  |  |
-> | Net income |  | 1310.106 | 105.27 | 231.014 | 159.072 | 272.679 | 289.65 | 749.811 | 443.611 | 583.106 | 512.785 | 462.439 | 582.847 | 521.534 | 872.727 | 496.2 | 848.9 | 190.2 | 14.3 | 276.8 |  |
+> | Net income |  | 1310.106 | 105.27 | 231.014 | 159.072 | 272.679 | 289.65 | 749.811 | 443.611 | 583.106 | 512.785 | 462.439 | 582.847 | 521.534 | 872.727 | 505.195 | 848.947 | 190.215 | 14.272 | 276.8 |  |
 > | Operating cash flow |  | 631.654 | 565.311 | 617.376 | 375.893 | 606.328 | 642.949 | 777.926 | 695.553 | 799.411 | 1034.548 | 911.979 | 1150.245 | 1181.165 | 1156.84 | 1133.227 | 1282.399 | 1301.52 | 1234.501 | 1245.157 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -55,6 +55,109 @@ BXP, Inc., as it files with the SEC (CIK 0001037540): its fiscal years and quart
 | FY2023 | 2023-01-01 | 2023-12-31 | 1.21 | 1.21 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 0.09 | 0.09 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 1.74 | 1.74 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2007 | us-gaap:Revenues | 10-K | 2010-02-25 | 0001193125-10-040826 |  |  |  |  |  |
+| Operating income | FY2007 | us-gaap:OperatingIncomeLoss | 10-K | 2010-02-25 | 0001193125-10-040826 |  |  |  |  |  |
+| Net income | FY2007 | us-gaap:NetIncomeLoss | 10-K | 2010-02-25 | 0001193125-10-040826 |  |  |  |  |  |
+| EPS diluted | FY2007 | us-gaap:EarningsPerShareDiluted | 10-K | 2010-02-25 | 0001193125-10-040826 |  |  |  |  |  |
+| Operating cash flow | FY2007 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2010-02-25 | 0001193125-10-040826 |  |  |  |  |  |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K | 2011-02-25 | 0001193125-11-047496 | yes | 1488.4 | 10-K | 2010-02-25 | 0001193125-10-040826 |
+| Operating income | FY2008 | us-gaap:OperatingIncomeLoss | 10-K | 2011-02-25 | 0001193125-11-047496 | yes | 279.401 | 10-K | 2010-02-25 | 0001193125-10-040826 |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K | 2011-02-25 | 0001193125-11-047496 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 10-K | 2011-02-25 | 0001193125-11-047496 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2011-02-25 | 0001193125-11-047496 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Operating income | FY2009 | us-gaap:OperatingIncomeLoss | 10-K | 2012-02-28 | 0001193125-12-085764 | yes | 250.681 | 10-K | 2010-02-25 | 0001193125-10-040826 |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Operating income | FY2010 | us-gaap:OperatingIncomeLoss | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2012-02-28 | 0001193125-12-085764 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 8-K | 2014-06-03 | 0001193125-14-224052 | yes | 1759.526 | 10-K | 2012-02-28 | 0001193125-12-085764 |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 8-K | 2014-06-03 | 0001193125-14-224052 | yes | 618.64 | 10-K | 2012-02-28 | 0001193125-12-085764 |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 8-K | 2014-06-03 | 0001193125-14-224052 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 8-K | 2014-06-03 | 0001193125-14-224052 |  |  |  |  |  |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2014-06-03 | 0001193125-14-224052 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-03-02 | 0001193125-15-073115 | yes | 1876.267 | 10-K | 2013-02-28 | 0001193125-13-084781 |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2015-03-02 | 0001193125-15-073115 | yes | 651.681 | 10-K | 2013-02-28 | 0001193125-13-084781 |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-03-02 | 0001193125-15-073115 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-03-02 | 0001193125-15-073115 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-03-02 | 0001193125-15-073115 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-29 | 0001656423-16-000013 |  |  |  |  |  |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 10-K | 2016-02-29 | 0001656423-16-000013 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-29 | 0001656423-16-000013 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-29 | 0001656423-16-000013 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2016-02-29 | 0001656423-16-000013 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-28 | 0001656423-17-000003 |  |  |  |  |  |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 10-K | 2017-02-28 | 0001656423-17-000003 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-28 | 0001656423-17-000003 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-28 | 0001656423-17-000003 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-02-28 | 0001656423-17-000003 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-28 | 0001656423-19-000006 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-28 | 0001656423-19-000006 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-28 | 0001656423-19-000006 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-28 | 0001656423-19-000006 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-03-02 | 0001656423-20-000007 |  |  |  |  |  |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2020-03-02 | 0001656423-20-000007 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-28 | 0001656423-18-000004 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-03-02 | 0001656423-20-000007 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-03-02 | 0001656423-20-000007 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-03-02 | 0001656423-20-000007 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-26 | 0001656423-21-000006 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2021-02-26 | 0001656423-21-000006 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-26 | 0001656423-21-000006 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-26 | 0001656423-21-000006 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-26 | 0001656423-21-000006 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-25 | 0001656423-22-000013 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2022-02-25 | 0001656423-22-000013 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-25 | 0001656423-22-000013 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-25 | 0001656423-22-000013 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-25 | 0001656423-22-000013 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-27 | 0001656423-23-000013 |  |  |  |  |  |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2023-02-27 | 0001656423-23-000013 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-27 | 0001656423-23-000013 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-27 | 0001656423-23-000013 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-27 | 0001656423-23-000013 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-27 | 0001656423-24-000007 |  |  |  |  |  |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2024-02-27 | 0001656423-24-000007 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-27 | 0001656423-24-000007 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-27 | 0001656423-24-000007 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-27 | 0001656423-24-000007 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-27 | 0001656423-25-000009 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2025-02-27 | 0001656423-25-000009 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-27 | 0001656423-25-000009 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-27 | 0001656423-25-000009 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-27 | 0001656423-25-000009 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001037540-26-000006 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -114,19 +217,19 @@ BXP, Inc., as it files with the SEC (CIK 0001037540): its fiscal years and quart
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 713.695 | 443.947 |  | 100.596 | 0.59 | 152.063 |  |  | 0.59 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 713.807 | 453.169 |  | 111.703 | 0.71 | 408.413 |  |  | 0.71 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 730.056 | 458.729 |  | 108.297 | 0.69 | 226.383 |  |  | 0.69 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 731.063 | 458.443 |  | 175.548 | 1.18 | 346.368 |  |  | 1.18 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 731.063 | 458.443 |  | 184.543 | 1.18 | 346.368 |  |  | 1.18 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 754.307 | 469.316 |  | 143.047 | 0.91 | 219.49 |  |  | 0.91 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 773.927 | 484.042 |  | 222.989 | 1.42 | 397.149 |  |  | 1.42 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 790.523 | 488.908 |  | 360.977 | 2.29 | 295.764 |  |  | 2.29 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 789.824 | 487.261 |  | 121.756 | 0.78 | 369.996 |  |  | 0.78 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 789.824 | 487.261 |  | 121.803 | 0.78 | 369.996 |  |  | 0.78 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 803.2 | 491.006 |  | 77.89 | 0.5 | 234.01 |  |  | 0.5 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 817.153 | 503.489 |  | 104.299 | 0.66 | 379.173 |  |  | 0.66 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 824.283 | 501.881 |  | -111.826 | -0.71 | 301.189 |  |  | -0.71 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 828.933 | 502.4 |  | 119.91 | 0.76 | 387.148 |  |  | 0.76 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 828.933 | 502.4 |  | 119.925 | 0.76 | 387.148 |  |  | 0.76 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 839.439 | 508.82 |  | 79.883 | 0.51 | 197.595 |  |  | 0.51 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 850.482 | 508.717 |  | 79.615 | 0.51 | 367.064 |  |  | 0.51 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 859.227 | 511.078 |  | 83.628 | 0.53 | 286.096 |  |  | 0.53 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 858.571 | 512.43 |  | -228.826 | -1.45 | 383.746 |  |  | -1.45 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 858.571 | 512.43 |  | -228.854 | -1.45 | 383.746 |  |  | -1.45 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 865.215 | 511.798 |  | 61.177 | 0.39 | 210.036 |  |  | 0.39 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 868.457 | 514.08 |  | 88.977 | 0.56 | 353.145 |  |  | 0.56 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 871.51 | 517.008 |  | -121.712 | -0.77 | 274.224 |  |  | -0.77 |

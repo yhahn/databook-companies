@@ -45,6 +45,7 @@ const table = (heads, rows, quote = '') => [row(heads), row(heads.map(() => '---
 function company({ facts, fsdsRows, exchange, ticker, tickers, span, name, before, page: pageName, sic: code, industry, sector, reading: opening }) {
   const l = ledger(facts);
   if (l.skip) return { skip: l.skip };
+  if (l.stops.length) throw new Error(`a figure far from its neighbours, not written:\n  ${l.stops.join('\n  ')}`);
   l.name = name;
   const page = pageName || safe(name);
   const seg = fsdsRows ? fsds.segments(fsdsRows, l.spans) : { rows: [], subtotals: [], changes: [] };
@@ -80,6 +81,20 @@ function company({ facts, fsdsRows, exchange, ticker, tickers, span, name, befor
   const eps = COLUMNS.findIndex(([n]) => n === 'EPS diluted');
   L.push('#### EPS by year', '');
   L.push(table(['Fiscal year', 'Started', 'Ended', 'EPS diluted', 'EPS adjusted'], l.annual.map((a) => [`FY${a.year}`, a.start || '', a.end || '', a.values[eps] === null ? '' : String(a.values[eps]), a.epsAdjusted === null ? '' : String(a.epsAdjusted)])), '');
+
+  // where each annual figure came from (B10): the filing that gave it, and
+  // the one that first gave the period where it was filed again with another value
+  const src = [];
+  for (const a of l.annual) {
+    COLUMNS.forEach(([n], i) => {
+      const f = a.sources[i];
+      if (!f) return;
+      src.push([n, `FY${a.year}`, `us-gaap:${f.tag}`, f.form, f.filed, f.accn, f.restated ? 'yes' : '', f.restated ? cell(n, f.firstVal) : '', f.restated ? f.firstForm : '', f.restated ? f.firstFiled : '', f.restated ? f.firstAccn : '']);
+    });
+  }
+  L.push('#### Annual figures, filed', '');
+  L.push('Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.', '');
+  L.push(table(['Line item', 'Fiscal year', 'Tag', 'Form', 'Filed', 'Accession', 'Restated', 'First value', 'First form', 'First filed', 'First accession'], src), '');
 
   L.push('## Quarterly', '');
   L.push(table(['Quarter', 'Fiscal year', 'Fiscal quarter', 'Ended', ...COLUMNS.map(([n]) => n), 'EPS adjusted'],
@@ -342,14 +357,16 @@ function main() {
   // the first pass: the annual card's years, every company's, one span; and
   // each company's years for the reading pages
   let lo = Infinity, hi = -Infinity;
-  const yearsBy = new Map();
+  const yearsBy = new Map(), stops = [];
   for (const m of members.members) {
     const facts = load(m);
     const l = facts && ledger(facts);
     if (!l || l.skip) continue;
+    stops.push(...l.stops);
     for (const a of l.annual) { lo = Math.min(lo, a.year); hi = Math.max(hi, a.year); }
     yearsBy.set(m.cik, yearsOf(l));
   }
+  if (stops.length) throw new Error(`${stops.length} figures far from their neighbours, nothing written (a unit gone wrong: DECISIONS 35):\n  ${stops.join('\n  ')}`);
   const span = [];
   for (let y = lo; y <= hi; y++) span.push(y);
 

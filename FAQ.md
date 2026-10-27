@@ -281,12 +281,12 @@ us-gaap:EarningsPerShareDiluted, each fiscal year of Intel's, latest filed (Inte
 
 - Tier: Analysis
 - Ask: Which companies in this book raised their operating margin (operating income over revenue) in every fiscal year from 2021 to 2025? Give their tickers.
-- Answer: ANET, CCL, CME, CRH, CTAS, DELL, EXC, FICO, FIX, FTNT, GDDY, HUBB, HWM, NCLH, NI, NOW, PANW, PLTR, RCL, TDG, TT, TWLO, UBER, WAB
+- Answer: ANET, CCI, CCL, CME, CRH, CTAS, DELL, EXC, FICO, FIX, FTNT, GDDY, HUBB, HWM, NCLH, NI, NOW, PANW, PLTR, RCL, TDG, TT, TWLO, UBER, WAB
 - Type: set
 - Tolerance:
 - Look in: [companies/Manufacturing/Arista Networks, Inc](./companies/Manufacturing/Arista%20Networks,%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Carnival Corp Ltd](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/Carnival%20Corp%20Ltd.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/CHARTER COMMUNICATIONS, INC](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/CHARTER%20COMMUNICATIONS,%20INC.md), [companies/Finance, Insurance, and Real Estate/CME GROUP INC](./companies/Finance,%20Insurance,%20and%20Real%20Estate/CME%20GROUP%20INC.md), [companies/Manufacturing/CRH PUBLIC LTD CO](./companies/Manufacturing/CRH%20PUBLIC%20LTD%20CO.md), [companies/Manufacturing/CINTAS CORP](./companies/Manufacturing/CINTAS%20CORP.md), [companies/Manufacturing/Dell Technologies Inc](./companies/Manufacturing/Dell%20Technologies%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/EXELON CORP](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/EXELON%20CORP.md), [companies/Services/FAIR ISAAC CORP](./companies/Services/FAIR%20ISAAC%20CORP.md), [companies/Construction/COMFORT SYSTEMS USA INC](./companies/Construction/COMFORT%20SYSTEMS%20USA%20INC.md), [companies/Manufacturing/Fortinet, Inc](./companies/Manufacturing/Fortinet,%20Inc.md), [companies/Services/GoDaddy Inc](./companies/Services/GoDaddy%20Inc.md), [companies/Manufacturing/HUBBELL INC](./companies/Manufacturing/HUBBELL%20INC.md), [companies/Manufacturing/Howmet Aerospace Inc](./companies/Manufacturing/Howmet%20Aerospace%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/Norwegian Cruise Line Holdings Ltd](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/Norwegian%20Cruise%20Line%20Holdings%20Ltd.md), [companies/Services/ServiceNow, Inc](./companies/Services/ServiceNow,%20Inc.md), [companies/Manufacturing/Palo Alto Networks Inc](./companies/Manufacturing/Palo%20Alto%20Networks%20Inc.md), [companies/Services/Palantir Technologies Inc](./companies/Services/Palantir%20Technologies%20Inc.md), [companies/Transportation, Communications, Electric, Gas, and Sanitary Services/ROYAL CARIBBEAN CRUISES LTD](./companies/Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services/ROYAL%20CARIBBEAN%20CRUISES%20LTD.md), [companies/Manufacturing/TransDigm Group INC](./companies/Manufacturing/TransDigm%20Group%20INC.md), [companies/Manufacturing/Trane Technologies plc](./companies/Manufacturing/Trane%20Technologies%20plc.md), [companies/Services/TWILIO INC](./companies/Services/TWILIO%20INC.md), [companies/Services/Uber Technologies, Inc](./companies/Services/Uber%20Technologies,%20Inc.md), [companies/Manufacturing/WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP](./companies/Manufacturing/WESTINGHOUSE%20AIR%20BRAKE%20TECHNOLOGIES%20CORP.md)
 
-Operating income (us-gaap:OperatingIncomeLoss) over revenue (the first of the revenue tags filed for the year and in its 10-Qs), each year FY2021 to FY2025 as each company names it; of 365 companies with all five, 24 rose every year.
+Operating income (us-gaap:OperatingIncomeLoss) over revenue (the first of the revenue tags filed for the year and in its 10-Qs), each year FY2021 to FY2025 as each company names it; of 365 companies with all five, 25 rose every year.
 
 ### Question: co-analysis-3
 
@@ -352,13 +352,13 @@ SEC Financial Statement Data Sets 2025q1, Apple's 10-Q 0000320193-25-000008: Rev
 - Tolerance: 0
 - Look in: [README](./README.md)
 
-495 companies; FY2025, the latest year in which at least 95 of every 100 with a revenue the year before have one (487 with a revenue for it). Revenue, the first of the revenue tags filed for the year and in its 10-Qs; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.
+495 companies; FY2025, the latest year in which at least 95 of every 100 with a revenue the year before have one (486 with a revenue for it). Revenue, the first of the revenue tags filed for the year and in its 10-Qs; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.
 
 ### Question: co-reading-2
 
 - Tier: Analysis
 - Ask: Taking the S&P 500's companies with a revenue and a net income in every one of the ten years to the latest fiscal year nearly all have closed (as co-reading-1), by what percent did their revenue summed, and their net income summed, rise over the ten years, and in which year did their summed net income fall the most from the year before?
-- Answer: 373 companies: revenue up 76.2%, net income up 153.8% from FY2015 to FY2025; their net income fell most in FY2020
+- Answer: 372 companies: revenue up 81.3%, net income up 155.1% from FY2015 to FY2025; their net income fell most in FY2020
 - Type: list
 - Tolerance: 1
 - Look in: [README](./README.md)
@@ -369,12 +369,12 @@ The companies with a revenue and a net income for every fiscal year FY2015 to FY
 
 - Tier: Across
 - Ask: Of the S&P 500's companies whose SEC industry code falls in division H of the Standard Industrial Classification (Finance, Insurance, and Real Estate, major groups 60 to 67), how many had both a revenue and a net income for the latest fiscal year nearly all have closed (as co-reading-1), what were those summed, in millions of dollars, and which company had the greatest revenue and which the greatest net income?
-- Answer: 93 companies, revenue 2989233, net income 442048.2 ($ millions); the most revenue UNH, the most net income BRK-B
+- Answer: 92 companies, revenue 3329235.9, net income 448525.6 ($ millions); the most revenue UNH, the most net income BRK-B
 - Type: list
 - Tolerance: 1
 - Look in: [companies/Finance, Insurance, and Real Estate](./companies/Finance,%20Insurance,%20and%20Real%20Estate.md)
 
-The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major groups 60 to 67: 95; with both a revenue and a net income for FY2025: 93.
+The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major groups 60 to 67: 95; with both a revenue and a net income for FY2025: 92.
 
 ### Question: co-reading-4
 
@@ -385,4 +385,4 @@ The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major g
 - Tolerance: 0.1
 - Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
-companyfacts CIK0000320193: revenue (the first revenue tag filed for the year and in its 10-Qs), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the 487 members with a revenue for FY2025.
+companyfacts CIK0000320193: revenue (the first revenue tag filed for the year and in its 10-Qs), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the 486 members with a revenue for FY2025.

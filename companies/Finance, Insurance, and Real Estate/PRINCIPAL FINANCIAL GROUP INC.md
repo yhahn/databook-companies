@@ -13,9 +13,9 @@
 
 PRINCIPAL FINANCIAL GROUP INC, as it files with the SEC (CIK 0001126328): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PRINCIPAL FINANCIAL GROUP INC, and how has it grown?** It sold $15.6 billion in FY2025, the 226th most of the 488 companies with a revenue for the year, and the 34th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 30.6% from FY2015 to FY2025, 2.7% a year.
+**How large is PRINCIPAL FINANCIAL GROUP INC, and how has it grown?** It sold $15.6 billion in FY2025, the 232nd most of the 487 companies with a revenue for the year, and the 39th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 30.6% from FY2015 to FY2025, 2.7% a year.
 
-**Does PRINCIPAL FINANCIAL GROUP INC make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 8% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
+**Does PRINCIPAL FINANCIAL GROUP INC make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 7.6% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
 
 **Where does PRINCIPAL FINANCIAL GROUP INC's cash go?** From FY2016 to FY2025 its operations brought in $41.8 billion; it spent 0% of that on plant and equipment, and 16.9% on buying back its own shares.
 
@@ -27,7 +27,7 @@ PRINCIPAL FINANCIAL GROUP INC, as it files with the SEC (CIK 0001126328): its fi
 > | Revenue |  | 10906.5 | 9935.9 | 8849.1 | 9198.2 | 8670.7 | 9215.1 | 9289.5 | 10477.6 | 11964.4 | 12394.1 | 14093.2 | 14237.2 | 16222.1 | 14741.7 | 14427.8 | 17536.1 | 13665.8 | 16127.7 | 15625.5 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Net income |  | 860.3 | 458.1 | 622.7 | 662.9 | 638.3 | 806.6 | 912.7 | 1144.1 | 1234 | 1316.5 | 2310.4 | 1546.5 | 1394.2 | 1395.8 | 1757.4 | 4852.2 | 670.1 | 1597.9 | 1255.5 |  |
+> | Net income |  | 860.3 | 458.1 | 622.7 | 662.9 | 638.3 | 806.6 | 912.7 | 1144.1 | 1234 | 1316.5 | 2310.4 | 1546.5 | 1394.2 | 1395.8 | 1580.2 | 4756.9 | 623.2 | 1571 | 1185.1 |  |
 > | Operating cash flow |  | 2960 | 2224.8 | 2243 | 2791.7 | 2713.3 | 3080.8 | 2221.2 | 3102.9 | 4377.1 | 3857.8 | 4188 | 5156.5 | 5493.2 | 3709.3 | 3254.4 | 3172.9 | 3792.4 | 4602.9 | 4536.7 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  | -756.3 | -6.4 | -4.1 | -2.6 | -556.4 | -272.7 | -153.6 | -222.7 | -300.6 | -277.3 | -220.4 | -671.6 | -281 | -307 | -937.2 | -1661.1 | -740.4 | -1042.4 | -902.7 |  |
@@ -55,6 +55,108 @@ PRINCIPAL FINANCIAL GROUP INC, as it files with the SEC (CIK 0001126328): its fi
 | FY2023 | 2023-01-01 | 2023-12-31 | 2.55 | 2.55 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 6.68 | 6.68 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 5.25 | 5.25 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2007 | us-gaap:Revenues | 10-K | 2010-02-17 | 0001047469-10-000948 |  |  |  |  |  |
+| Net income | FY2007 | us-gaap:NetIncomeLoss | 10-K | 2010-02-17 | 0001047469-10-000948 |  |  |  |  |  |
+| EPS diluted | FY2007 | us-gaap:EarningsPerShareDiluted | 10-K | 2010-02-17 | 0001047469-10-000948 |  |  |  |  |  |
+| Operating cash flow | FY2007 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2010-02-17 | 0001047469-10-000948 |  |  |  |  |  |
+| Buybacks | FY2007 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2010-02-17 | 0001047469-10-000948 |  |  |  |  |  |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K | 2011-02-16 | 0001047469-11-000974 |  |  |  |  |  |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K | 2011-02-16 | 0001047469-11-000974 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 10-K | 2011-02-16 | 0001047469-11-000974 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2011-02-16 | 0001047469-11-000974 |  |  |  |  |  |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2011-02-16 | 0001047469-11-000974 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 10-K | 2012-02-15 | 0001047469-12-001065 |  |  |  |  |  |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K | 2012-02-15 | 0001047469-12-001065 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-15 | 0001047469-12-001065 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2012-02-15 | 0001047469-12-001065 |  |  |  |  |  |
+| Buybacks | FY2009 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2012-02-15 | 0001047469-12-001065 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2013-02-13 | 0001047469-13-000940 |  |  |  |  |  |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2013-02-13 | 0001047469-13-000940 | yes | 699.3 | 10-K | 2011-02-16 | 0001047469-11-000974 |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2013-02-13 | 0001047469-13-000940 | yes | 2.06 | 10-K | 2011-02-16 | 0001047469-11-000974 |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2013-02-13 | 0001047469-13-000940 |  |  |  |  |  |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2013-02-13 | 0001047469-13-000940 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 10-K | 2014-02-12 | 0001047469-14-000817 |  |  |  |  |  |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2014-02-12 | 0001047469-14-000817 | yes | 715 | 10-K | 2012-02-15 | 0001047469-12-001065 |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-02-12 | 0001047469-14-000817 | yes | 2.15 | 10-K | 2012-02-15 | 0001047469-12-001065 |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2014-02-12 | 0001047469-14-000817 |  |  |  |  |  |
+| Buybacks | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-02-12 | 0001047469-14-000817 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-02-11 | 0001047469-15-000727 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-02-11 | 0001047469-15-000727 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-02-11 | 0001047469-15-000727 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2015-02-11 | 0001047469-15-000727 |  |  |  |  |  |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2015-02-11 | 0001047469-15-000727 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-10 | 0001047469-16-010094 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-10 | 0001047469-16-010094 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-10 | 0001047469-16-010094 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2016-02-10 | 0001047469-16-010094 |  |  |  |  |  |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2016-02-10 | 0001047469-16-010094 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| Buybacks | FY2014 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-02-09 | 0001047469-18-000695 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-09 | 0001047469-18-000695 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-02-09 | 0001047469-18-000695 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| Buybacks | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2018-02-09 | 0001047469-18-000695 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-13 | 0001047469-19-000469 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-13 | 0001047469-19-000469 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-13 | 0001047469-19-000469 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2017-02-08 | 0001047469-17-000589 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-02-13 | 0001047469-19-000469 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-14 | 0001104659-20-021174 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-14 | 0001104659-20-021174 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-14 | 0001104659-20-021174 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-14 | 0001104659-20-021174 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-14 | 0001104659-20-021174 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-12 | 0001104659-21-022074 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-12 | 0001104659-21-022074 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-12 | 0001104659-21-022074 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-12 | 0001104659-21-022074 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-12 | 0001104659-21-022074 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-11 | 0001104659-22-020401 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-11 | 0001104659-22-020401 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-11 | 0001104659-22-020401 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-11 | 0001104659-22-020401 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-11 | 0001104659-22-020401 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-16 | 0001104659-23-022860 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-16 | 0001104659-23-022860 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-16 | 0001104659-23-022860 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-16 | 0001104659-23-022860 | yes | 3738.6 | 10-K | 2021-02-12 | 0001104659-21-022074 |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-16 | 0001104659-23-022860 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-20 | 0001104659-24-025516 | yes | 14262.7 | 10-K | 2022-02-11 | 0001104659-22-020401 |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-20 | 0001104659-24-025516 | yes | 1710.6 | 10-K | 2022-02-11 | 0001104659-22-020401 |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-20 | 0001104659-24-025516 | yes | 6.27 | 10-K | 2022-02-11 | 0001104659-22-020401 |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-20 | 0001104659-24-025516 | yes | 3218.8 | 10-K | 2022-02-11 | 0001104659-22-020401 |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-20 | 0001104659-24-025516 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-19 | 0001410578-25-000160 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-19 | 0001410578-25-000160 | yes | 4811.6 | 10-K | 2023-02-16 | 0001104659-23-022860 |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-19 | 0001410578-25-000160 | yes | 18.85 | 10-K | 2023-02-16 | 0001104659-23-022860 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-19 | 0001410578-25-000160 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-19 | 0001410578-25-000160 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-18 | 0001104659-26-017031 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -114,23 +216,23 @@ PRINCIPAL FINANCIAL GROUP INC, as it files with the SEC (CIK 0001126328): its fi
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 3208.5 |  |  | 517.1 | 1.87 | 140.8 |  | -115.5 | 1.87 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 3539.4 |  |  | 361.8 | 1.32 | 992.8 |  | -266.1 | 1.32 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 3423.7 |  |  | 359.9 | 1.32 | 973.4 |  | -203.5 | 1.32 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 4256.2 |  |  | 518.6 | 1.28 | 1147.4 |  | -352.1 | 1.28 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 4256.2 |  |  | 341.4 | 1.28 | 1147.4 |  | -352.1 | 1.28 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 3095.5 |  |  | 338.7 | 1.28 | 31.5 |  | -754.1 | 1.28 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 6664.5 |  |  | 3118.7 | 12.17 | 807.2 |  | -197.2 | 12.17 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 4625.3 |  |  | 1315.7 | 5.22 | 1171 |  | -459.4 | 5.22 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 3150.8 |  |  | 79.1 | 0.08 | 1163.2 |  | -250.4 | 0.08 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 3150.8 |  |  | -16.2 | 0.08 | 1163.2 |  | -250.4 | 0.08 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 2819 |  |  | -140.1 | -0.58 | 695.3 |  | -188.5 | -0.58 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 3557.3 |  |  | 388.8 | 1.58 | 1102.5 |  | -100.4 | 1.58 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 4598.7 |  |  | 1246.2 | 5.1 | 1050.6 |  | -200.8 | 5.1 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2690.8 |  |  | -824.8 | -3.53 | 944 |  | -250.7 | -3.53 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2690.8 |  |  | -871.7 | -3.53 | 944 |  | -250.7 | -3.53 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 4053.3 |  |  | 532.5 | 2.22 | 584.2 |  | -234.2 | 2.22 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 4310.8 |  |  | 353.1 | 1.49 | 1431.7 |  | -250.3 | 1.49 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 3011.6 |  |  | -220 | -0.95 | 1128 |  | -251.8 | -0.95 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 4752 |  |  | 932.3 | 3.87 | 1459 |  | -306.1 | 3.87 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 4752 |  |  | 905.4 | 3.87 | 1459 |  | -306.1 | 3.87 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 3695.9 |  |  | 48.1 | 0.21 | 977.3 |  | -240.3 | 0.21 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 3671.3 |  |  | 406.2 | 1.79 | 811.9 |  | -159.3 | 1.79 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 3681.6 |  |  | 213.8 | 0.95 | 1003.8 |  | -227.7 | 0.95 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 4576.7 |  |  | 587.4 | 2.3 | 1743.7 |  | -275.4 | 2.3 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 4576.7 |  |  | 517 | 2.3 | 1743.7 |  | -275.4 | 2.3 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 3529.1 |  |  | 424.6 | 1.93 | 187.1 |  | -235 | 1.93 |
 
 ## Segments

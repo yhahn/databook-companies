@@ -13,9 +13,9 @@
 
 Dell Technologies Inc., as it files with the SEC (CIK 0001571996): its fiscal years and quarters from its XBRL filings, FY2015 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Dell Technologies Inc., and how has it grown?** It sold $95.6 billion in FY2025, the 33rd most of the 488 companies with a revenue for the year, and the 10th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 76.5% from FY2015 to FY2025, 5.8% a year.
+**How large is Dell Technologies Inc., and how has it grown?** It sold $95.6 billion in FY2025, the 34th most of the 487 companies with a revenue for the year, and the 10th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 76.5% from FY2015 to FY2025, 5.8% a year.
 
-**Does Dell Technologies Inc. make money, and how much of what it sells does it keep?** It earned $4.6 billion in FY2025, 4.8% of what it sold; the median company of its sector kept 11.7%. It lost money in 5 of its 12 years in the book (FY2015, FY2016, FY2017 and 2 more).
+**Does Dell Technologies Inc. make money, and how much of what it sells does it keep?** It earned $4.6 billion in FY2025, 4.8% of what it sold; the median company of its sector kept 11.8%. It lost money in 5 of its 12 years in the book (FY2015, FY2016, FY2017 and 2 more).
 
 **Where does Dell Technologies Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $66.1 billion; it spent 29.9% of that on plant and equipment, and 37.4% on buying back its own shares.
 
@@ -27,7 +27,7 @@ Dell Technologies Inc., as it files with the SEC (CIK 0001571996): its fiscal ye
 > | Revenue |  |  |  |  |  |  |  |  |  | 54142 | 50911 | 62164 | 79040 | 90621 | 84815 | 86670 | 101197 | 102301 | 88425 | 95567 | 113538 |
 > | Gross profit |  |  |  |  |  |  |  |  |  | 8896 | 8387 | 13649 | 20537 | 25053 | 20639 | 20140 | 21891 | 22686 | 21069 | 21250 | 22707 |
 > | Operating income |  |  |  |  |  |  |  |  |  | -316 | -514 | -2390 | -2416 | -191 | 2366 | 3685 | 4659 | 5771 | 5411 | 6237 | 8149 |
-> | Net income |  |  |  |  |  |  |  |  |  | -1221 | -1104 | -1167 | -2849 | -2310 | 4616 | 3250 | 5707 | 2422 | 3372 | 4576 | 5936 |
+> | Net income |  |  |  |  |  |  |  |  |  | -1221 | -1104 | -1167 | -2849 | -2310 | 4616 | 3250 | 5563 | 2442 | 3388 | 4592 | 5936 |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  | 2551 | 2162 | 2367 | 6843 | 6991 | 9291 | 11407 | 10307 | 3565 | 8676 | 4521 | 11185 |
 > | Capex |  |  |  |  |  |  |  |  |  | -478 | -482 | -699 | -1212 | -1497 | -2576 | -2082 | -2796 | -3003 | -2756 | -2652 | -2633 |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  | -611 | -724 | -14075 | -8 | -241 | -1496 | -2883 | -2080 | -2588 | -6014 |
@@ -48,6 +48,101 @@ Dell Technologies Inc., as it files with the SEC (CIK 0001571996): its fiscal ye
 | FY2024 | 2023-02-04 | 2024-02-02 | 4.6 | 4.6 |
 | FY2025 | 2024-02-03 | 2025-01-31 | 6.38 | 6.38 |
 | FY2026 | 2025-02-01 | 2026-01-30 | 8.68 | 8.68 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2015 | us-gaap:SalesRevenueNet | 10-K | 2017-03-31 | 0001571996-17-000004 |  |  |  |  |  |
+| Gross profit | FY2015 | us-gaap:GrossProfit | 10-K | 2017-03-31 | 0001571996-17-000004 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2017-03-31 | 0001571996-17-000004 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2017-03-31 | 0001571996-17-000004 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-03-31 | 0001571996-17-000004 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2017-03-31 | 0001571996-17-000004 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:SalesRevenueNet | 10-K | 2018-03-29 | 0001571996-18-000004 |  |  |  |  |  |
+| Gross profit | FY2016 | us-gaap:GrossProfit | 10-K | 2018-03-29 | 0001571996-18-000004 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2018-03-29 | 0001571996-18-000004 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2018-03-29 | 0001571996-18-000004 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-03-29 | 0001571996-18-000004 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2018-03-29 | 0001571996-18-000004 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:SalesRevenueNet | 8-K | 2018-08-06 | 0001571996-18-000027 | yes | 61642 | 10-K | 2017-03-31 | 0001571996-17-000004 |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2019-03-29 | 0001571996-19-000008 | yes | 12959 | 10-K | 2017-03-31 | 0001571996-17-000004 |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2019-03-29 | 0001571996-19-000008 | yes | -3252 | 10-K | 2017-03-31 | 0001571996-17-000004 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2019-03-29 | 0001571996-19-000008 | yes | -1672 | 10-K | 2017-03-31 | 0001571996-17-000004 |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-03-29 | 0001571996-19-000008 | yes | 2222 | 10-K | 2017-03-31 | 0001571996-17-000004 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-03-29 | 0001571996-19-000008 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-03-29 | 0001571996-19-000008 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2020-03-27 | 0001571996-20-000017 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2020-03-27 | 0001571996-20-000017 | yes | 20054 | 10-K | 2018-03-29 | 0001571996-18-000004 |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2020-03-27 | 0001571996-20-000017 | yes | -3333 | 10-K | 2018-03-29 | 0001571996-18-000004 |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2020-03-27 | 0001571996-20-000017 | yes | -3728 | 10-K | 2018-03-29 | 0001571996-18-000004 |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-03-27 | 0001571996-20-000017 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-03-27 | 0001571996-20-000017 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-03-29 | 0001571996-19-000008 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-03-26 | 0001571996-21-000007 | yes | 1158 | 10-K | 2019-03-29 | 0001571996-19-000008 |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-03-26 | 0001571996-21-000007 | yes | 56 | 10-K | 2019-03-29 | 0001571996-19-000008 |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2022-03-24 | 0001571996-22-000009 | yes | 92154 | 10-K | 2020-03-27 | 0001571996-20-000017 |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2022-03-24 | 0001571996-22-000009 | yes | 28933 | 10-K | 2020-03-27 | 0001571996-20-000017 |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2022-03-24 | 0001571996-22-000009 | yes | 2622 | 10-K | 2020-03-27 | 0001571996-20-000017 |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2022-03-24 | 0001571996-22-000009 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-03-24 | 0001571996-22-000009 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-03-24 | 0001571996-22-000009 | yes | 2241 | 10-K | 2020-03-27 | 0001571996-20-000017 |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-03-24 | 0001571996-22-000009 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2023-03-30 | 0001571996-23-000007 | yes | 94224 | 10-K | 2021-03-26 | 0001571996-21-000007 |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2023-03-30 | 0001571996-23-000007 | yes | 29417 | 10-K | 2021-03-26 | 0001571996-21-000007 |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2023-03-30 | 0001571996-23-000007 | yes | 5144 | 10-K | 2021-03-26 | 0001571996-21-000007 |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2023-03-30 | 0001571996-23-000007 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-03-26 | 0001571996-21-000007 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-03-30 | 0001571996-23-000007 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-03-30 | 0001571996-23-000007 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-03-30 | 0001571996-23-000007 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2024-03-25 | 0001571996-24-000036 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2024-03-25 | 0001571996-24-000036 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2024-03-25 | 0001571996-24-000036 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2024-03-25 | 0001571996-24-000036 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-03-25 | 0001571996-24-000036 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-03-25 | 0001571996-24-000036 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-03-25 | 0001571996-24-000036 | yes | 663 | 10-K | 2022-03-24 | 0001571996-22-000009 |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-03-25 | 0001571996-25-000034 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-03-25 | 0001571996-25-000034 | yes | 3272 | 10-K | 2023-03-30 | 0001571996-23-000007 |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-03-16 | 0001571996-26-000008 | yes | 20869 | 10-K | 2024-03-25 | 0001571996-24-000036 |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-03-16 | 0001571996-26-000008 | yes | 5211 | 10-K | 2024-03-25 | 0001571996-24-000036 |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-03-16 | 0001571996-26-000008 | yes | 3211 | 10-K | 2024-03-25 | 0001571996-24-000036 |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Revenue | FY2026 | us-gaap:Revenues | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Gross profit | FY2026 | us-gaap:GrossProfit | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Operating income | FY2026 | us-gaap:OperatingIncomeLoss | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Net income | FY2026 | us-gaap:NetIncomeLoss | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| EPS diluted | FY2026 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Operating cash flow | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
+| Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-16 | 0001571996-26-000008 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -84,7 +179,7 @@ Dell Technologies Inc., as it files with the SEC (CIK 0001571996): its fiscal ye
 | FY2023 Q1 | 2023 | 1 | 2022-04-29 | 26116 | 5784 | 1550 | 1072 | 1.37 | -269 | -690 | -1436 | 1.37 |
 | FY2023 Q2 | 2023 | 2 | 2022-07-29 | 26425 | 5439 | 1270 | 511 | 0.68 | 724 | -807 | -682 | 0.68 |
 | FY2023 Q3 | 2023 | 3 | 2022-10-28 | 24721 | 5707 | 1762 | 245 | 0.33 | 396 | -747 | -600 | 0.33 |
-| FY2023 Q4 | 2023 | 4 | 2023-02-03 | 25039 | 5756 | 1189 | 594 | 0.83 | 2714 | -759 | -165 | 0.83 |
+| FY2023 Q4 | 2023 | 4 | 2023-02-03 | 25039 | 5756 | 1189 | 614 | 0.83 | 2714 | -759 | -165 | 0.83 |
 | FY2024 Q1 | 2024 | 1 | 2023-05-05 | 20922 | 5080 | 1131 | 637 | 0.86 | 1777 | -701 | -240 | 0.86 |
 | FY2024 Q2 | 2024 | 2 | 2023-08-04 | 22934 | 5416 | 1194 | 489 | 0.66 | 3214 | -624 | -260 | 0.66 |
 | FY2024 Q3 | 2024 | 3 | 2023-11-03 | 22251 | 5201 | 1539 | 1052 | 1.42 | 2152 | -704 | -702 | 1.42 |

@@ -13,9 +13,9 @@
 
 Howmet Aerospace Inc., as it files with the SEC (CIK 0000004281): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2016-11-09, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Howmet Aerospace Inc., and how has it grown?** It sold $8.3 billion in FY2025, the 323rd most of the 488 companies with a revenue for the year, and the 136th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 33.4% from FY2016 to FY2025, −4.4% a year.
+**How large is Howmet Aerospace Inc., and how has it grown?** It sold $8.3 billion in FY2025, the 331st most of the 487 companies with a revenue for the year, and the 136th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 33.4% from FY2016 to FY2025, −4.4% a year.
 
-**Does Howmet Aerospace Inc. make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 18.3% of what it sold; the median company of its sector kept 11.7%. It lost money in 2 of its 10 years in the book (FY2016, FY2017).
+**Does Howmet Aerospace Inc. make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 18.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 10 years in the book (FY2016, FY2017).
 
 **Where does Howmet Aerospace Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $6.0 billion; it spent 79.6% of that on plant and equipment, and 58.3% on buying back its own shares.
 
@@ -24,7 +24,7 @@ Howmet Aerospace Inc., as it files with the SEC (CIK 0000004281): its fiscal yea
 > [!CARD:line] Howmet Aerospace Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 12394 | 12960 | 6778 | 7098 | 5259 | 4972 | 5663 | 6640 | 7430 | 8252 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 12394 | 12960 | 14014 | 7098 | 5259 | 4972 | 5663 | 6640 | 7430 | 8252 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 954 | 480 | 775 | 579 | 626 | 748 | 919 | 1203 | 1633 | 2046 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | -941 | -74 | 642 | 470 | 261 | 258 | 469 | 765 | 1155 | 1508 |  |
@@ -47,6 +47,81 @@ Howmet Aerospace Inc., as it files with the SEC (CIK 0000004281): its fiscal yea
 | FY2024 | 2024-01-01 | 2024-12-31 | 2.81 | 2.81 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.71 | 3.71 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-21 | 0000004281-19-000031 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-21 | 0000004281-19-000031 | yes | 819 | 10-K | 2018-02-26 | 0000004281-18-000042 |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-21 | 0000004281-19-000031 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-21 | 0000004281-19-000031 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-21 | 0000004281-19-000031 | yes | 870 | 10-K | 2017-02-28 | 0001193125-17-062657 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-21 | 0000004281-19-000031 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-27 | 0000004281-20-000038 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-27 | 0000004281-20-000038 | yes | 326 | 10-K | 2018-02-26 | 0000004281-18-000042 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-27 | 0000004281-20-000038 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-21 | 0000004281-19-000031 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-27 | 0000004281-20-000038 | yes | 701 | 10-K | 2018-02-26 | 0000004281-18-000042 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-27 | 0000004281-20-000038 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-27 | 0000004281-20-000038 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax | 10-K | 2019-02-21 | 0000004281-19-000031 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-16 | 0000004281-21-000049 | yes | 1325 | 10-K | 2019-02-21 | 0000004281-19-000031 |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-16 | 0000004281-21-000049 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-27 | 0000004281-20-000038 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-16 | 0000004281-21-000049 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-02-16 | 0000004281-21-000049 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-16 | 0000004281-21-000049 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-14 | 0000004281-22-000004 | yes | 14192 | 10-K | 2020-02-27 | 0000004281-20-000038 |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-14 | 0000004281-22-000004 | yes | 1035 | 10-K | 2020-02-27 | 0000004281-20-000038 |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-14 | 0000004281-22-000004 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-27 | 0000004281-20-000038 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-14 | 0000004281-22-000004 | yes | 406 | 10-K | 2020-02-27 | 0000004281-20-000038 |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-02-14 | 0000004281-22-000004 | yes | 586 | 10-K | 2020-02-27 | 0000004281-20-000038 |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-14 | 0000004281-22-000004 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-14 | 0000004281-23-000004 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-14 | 0000004281-23-000004 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-14 | 0000004281-23-000004 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-14 | 0000004281-23-000004 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-14 | 0000004281-23-000004 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-14 | 0000004281-23-000004 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-13 | 0000004281-24-000007 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-14 | 0000004281-25-000011 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0000004281-26-000012 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -55,10 +130,10 @@ Howmet Aerospace Inc., as it files with the SEC (CIK 0000004281): its fiscal yea
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 3261 |  | 320 | 212 | 0.43 | 79 | -126 |  | 0.43 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 3236 |  | 310 | 119 | 0.22 | -57 | -131 |  | 0.22 |
 | FY2017 Q4 | 2017 | 4 | 2017-12-31 | 3271 |  | -433 | -727 | -1.51 | 334 | -236 |  | -1.51 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 3445 |  | 333 | 143 | 0.29 | -436 | -117 | 0 | 0.29 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 3573 |  | 324 | 120 | 0.24 | 176 | -171 | 0 | 0.24 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 3524 |  | 345 | 161 | 0.32 | 51 | -209 | 0 | 0.32 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 3472 |  | -227 | 218 | 0.44 | 426 | -271 | 0 | 0.44 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 |  |  | 333 | 143 | 0.29 | -436 | -117 | 0 | 0.29 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 |  |  | 324 | 120 | 0.24 | 176 | -171 | 0 | 0.24 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 |  |  | 345 | 161 | 0.32 | 51 | -209 | 0 | 0.32 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 |  |  | -227 | 218 | 0.44 | 426 | -271 | 0 | 0.44 |
 | FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1752 |  | 374 | 187 | 0.39 | -258 | -168 | -700 | 0.39 |
 | FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1818 |  | -176 | -121 | -0.27 | 106 | -136 | -200 | -0.27 |
 | FY2019 Q3 | 2019 | 3 | 2019-09-30 | 1794 |  | 256 | 95 | 0.21 | 169 | -127 | -200 | 0.21 |
@@ -167,7 +242,9 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2016 | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2018 | FY2018 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
+| Revenue | FY2019 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2015 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2019 | us-gaap:EarningsPerShareDiluted |
@@ -178,6 +255,36 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Buybacks | FY2017 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
+
+### Change: Howmet Aerospace Inc., Revenue tag, FY2018
+
+- CIK: 0000004281
+- What: Revenue tag
+- Boundary: FY2018
+- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Now: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
+- Crosswalk: FY2018 under both: 6778000000 and 14014000000; the new tag's figure is under half or over twice the old, or of the other sign: a different line, not the same renamed
+- Source: SEC EDGAR companyfacts
+
+### Change: Howmet Aerospace Inc., Revenue tag, FY2019
+
+- CIK: 0000004281
+- What: Revenue tag
+- Boundary: FY2019
+- Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Howmet Aerospace Inc., Revenue tag kept, FY2018
+
+- CIK: 0000004281
+- What: Revenue tag kept
+- Boundary: FY2018
+- Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 14014000000 and 6778000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
 
 ### Change: Howmet Aerospace Inc., Shares split, filings from 2016-11-09
 

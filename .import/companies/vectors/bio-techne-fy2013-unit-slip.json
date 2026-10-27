@@ -1,0 +1,362 @@
+{
+ "rule": "D8",
+ "about": "Bio-Techne's operating income for the year ended 2013-06-30: 158,469,000 in its 10-Ks of 2013 and 2014; 158,469 in that of 2015-08-31, a thousandth (the 10-K gives its figures in thousands there, and the facts carry the scale lost). A row a thousandth or a millionth of another row's for the same period is a unit slip and is not read: FY2013 is 158.469, not 0.158469.",
+ "input": {
+  "facts": {
+   "cik": 842023,
+   "entityName": "BIO-TECHNE Corp",
+   "facts": {
+    "us-gaap": {
+     "Revenues": {
+      "units": {}
+     },
+     "SalesRevenueNet": {
+      "units": {
+       "USD": [
+        {
+         "start": "2012-07-01",
+         "end": "2012-09-30",
+         "val": 75025000,
+         "accn": "0001193125-12-461957",
+         "fy": 2013,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2012-11-09"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2012-09-30",
+         "val": 75025000,
+         "accn": "0001193125-13-437178",
+         "fy": 2014,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2013-11-12"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2012-12-31",
+         "val": 150108000,
+         "accn": "0001193125-13-047585",
+         "fy": 2013,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2013-02-11"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2012-12-31",
+         "val": 150108000,
+         "accn": "0001193125-14-034304",
+         "fy": 2014,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2014-02-04"
+        },
+        {
+         "start": "2012-10-01",
+         "end": "2012-12-31",
+         "val": 75083000,
+         "accn": "0001193125-13-047585",
+         "fy": 2013,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2013-02-11"
+        },
+        {
+         "start": "2012-10-01",
+         "end": "2012-12-31",
+         "val": 75083000,
+         "accn": "0001193125-14-034304",
+         "fy": 2014,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2014-02-04"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-03-31",
+         "val": 231100000,
+         "accn": "0001193125-13-212837",
+         "fy": 2013,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2013-05-10"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-03-31",
+         "val": 231100000,
+         "accn": "0001193125-14-193933",
+         "fy": 2014,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2014-05-12"
+        },
+        {
+         "start": "2013-01-01",
+         "end": "2013-03-31",
+         "val": 80992000,
+         "accn": "0001193125-13-212837",
+         "fy": 2013,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2013-05-10"
+        },
+        {
+         "start": "2013-01-01",
+         "end": "2013-03-31",
+         "val": 80992000,
+         "accn": "0001193125-14-193933",
+         "fy": 2014,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2014-05-12"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-06-30",
+         "val": 310575000,
+         "accn": "0001193125-13-351961",
+         "fy": 2013,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-08-29"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-06-30",
+         "val": 310575000,
+         "accn": "0001193125-14-327566",
+         "fy": 2014,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2014-08-29"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-06-30",
+         "val": 310575000,
+         "accn": "0001437749-15-016645",
+         "fy": 2015,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2015-08-31"
+        }
+       ]
+      }
+     },
+     "OperatingIncomeLoss": {
+      "units": {
+       "USD": [
+        {
+         "start": "2012-07-01",
+         "end": "2012-09-30",
+         "val": 37803000,
+         "accn": "0001193125-12-461957",
+         "fy": 2013,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2012-11-09"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2012-09-30",
+         "val": 37803000,
+         "accn": "0001193125-13-437178",
+         "fy": 2014,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2013-11-12"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2012-12-31",
+         "val": 74707000,
+         "accn": "0001193125-13-047585",
+         "fy": 2013,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2013-02-11"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2012-12-31",
+         "val": 74707000,
+         "accn": "0001193125-14-034304",
+         "fy": 2014,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2014-02-04"
+        },
+        {
+         "start": "2012-10-01",
+         "end": "2012-12-31",
+         "val": 36904000,
+         "accn": "0001193125-13-047585",
+         "fy": 2013,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2013-02-11"
+        },
+        {
+         "start": "2012-10-01",
+         "end": "2012-12-31",
+         "val": 36904000,
+         "accn": "0001193125-14-034304",
+         "fy": 2014,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2014-02-04"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-03-31",
+         "val": 118653000,
+         "accn": "0001193125-13-212837",
+         "fy": 2013,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2013-05-10"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-03-31",
+         "val": 118653000,
+         "accn": "0001193125-14-193933",
+         "fy": 2014,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2014-05-12"
+        },
+        {
+         "start": "2013-01-01",
+         "end": "2013-03-31",
+         "val": 43946000,
+         "accn": "0001193125-13-212837",
+         "fy": 2013,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2013-05-10"
+        },
+        {
+         "start": "2013-01-01",
+         "end": "2013-03-31",
+         "val": 43946000,
+         "accn": "0001193125-14-193933",
+         "fy": 2014,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2014-05-12"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-06-30",
+         "val": 158469000,
+         "accn": "0001193125-13-351961",
+         "fy": 2013,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2013-08-29"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-06-30",
+         "val": 158469000,
+         "accn": "0001193125-14-327566",
+         "fy": 2014,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2014-08-29"
+        },
+        {
+         "start": "2012-07-01",
+         "end": "2013-06-30",
+         "val": 158469,
+         "accn": "0001437749-15-016645",
+         "fy": 2015,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2015-08-31"
+        }
+       ]
+      }
+     },
+     "StockholdersEquityNoteStockSplitConversionRatio1": {
+      "units": {
+       "pure": [
+        {
+         "end": "2022-11-01",
+         "val": 4,
+         "accn": "0001558370-24-012430",
+         "fy": 2024,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2024-08-22"
+        },
+        {
+         "end": "2022-11-01",
+         "val": 4,
+         "accn": "0001558370-25-011716",
+         "fy": 2025,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2025-08-22"
+        },
+        {
+         "end": "2022-11-29",
+         "val": 4,
+         "accn": "0001558370-23-000979",
+         "fy": 2023,
+         "fp": "Q2",
+         "form": "10-Q",
+         "filed": "2023-02-07"
+        },
+        {
+         "end": "2022-11-29",
+         "val": 4,
+         "accn": "0001558370-23-008540",
+         "fy": 2023,
+         "fp": "Q3",
+         "form": "10-Q",
+         "filed": "2023-05-08"
+        },
+        {
+         "end": "2022-11-29",
+         "val": 4,
+         "accn": "0001558370-23-015226",
+         "fy": 2023,
+         "fp": "FY",
+         "form": "10-K",
+         "filed": "2023-08-23"
+        },
+        {
+         "end": "2022-11-29",
+         "val": 4,
+         "accn": "0001558370-23-018018",
+         "fy": 2024,
+         "fp": "Q1",
+         "form": "10-Q",
+         "filed": "2023-11-07"
+        }
+       ]
+      }
+     }
+    }
+   }
+  },
+  "fsdsRows": [],
+  "exchange": "Nasdaq",
+  "ticker": "TECH",
+  "name": "BIO-TECHNE Corp",
+  "span": [
+   2013
+  ],
+  "sic": "2836",
+  "industry": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
+  "sector": "Manufacturing"
+ },
+ "output": {
+  "companies/Manufacturing/BIO-TECHNE Corp.md": "# Company: BIO-TECHNE Corp\n\n- CIK: 0000842023\n- Ticker: TECH\n- Exchange: Nasdaq\n- SIC: 2836\n- Industry: BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)\n- Sector: Manufacturing\n- First year: FY2013\n- Last quarter: FY2013 Q4\n- Last quarter ended: 2013-06-30\n- CIK before: \n\nBIO-TECHNE Corp, as it files with the SEC (CIK 0000842023): its fiscal years and quarters from its XBRL filings, FY2013 to FY2013. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.\n\n## Annual\n\n> [!CARD:line] BIO-TECHNE Corp, by fiscal year, $ millions\n> | Line item | FY2013 |\n> | --- | --- |\n> | Revenue | 310.575 |\n> | Gross profit |  |\n> | Operating income | 158.469 |\n> | Net income |  |\n> | Operating cash flow |  |\n> | Capex |  |\n> | Buybacks |  |\n\n#### EPS by year\n\n| Fiscal year | Started | Ended | EPS diluted | EPS adjusted |\n| --- | --- | --- | --- | --- |\n| FY2013 | 2012-07-01 | 2013-06-30 |  |  |\n\n#### Annual figures, filed\n\nEach annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.\n\n| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Revenue | FY2013 | us-gaap:SalesRevenueNet | 10-K | 2015-08-31 | 0001437749-15-016645 |  |  |  |  |  |\n| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 10-K | 2014-08-29 | 0001193125-14-327566 |  |  |  |  |  |\n\n## Quarterly\n\n| Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| FY2013 Q1 | 2013 | 1 | 2012-09-30 | 75.025 |  | 37.803 |  |  |  |  |  |  |\n| FY2013 Q2 | 2013 | 2 | 2012-12-31 | 75.083 |  | 36.904 |  |  |  |  |  |  |\n| FY2013 Q3 | 2013 | 3 | 2013-03-31 | 80.992 |  | 43.946 |  |  |  |  |  |  |\n| FY2013 Q4 | 2013 | 4 | 2013-06-30 | 79.475 |  | 39.816 |  |  |  |  |  |  |\n\n## Segments\n\nBIO-TECHNE Corp files no revenue by segment, product or geography in the Financial Statement Data Sets cached.\n\n## Tags\n\nThe us-gaap tag each line item was taken from, its years in runs: a line item moves between tags over the years, and each move is a change below.\n\n| Line item | From | To | Tag |\n| --- | --- | --- | --- |\n| Revenue | FY2013 | FY2013 | us-gaap:SalesRevenueNet |\n| Operating income | FY2013 | FY2013 | us-gaap:OperatingIncomeLoss |\n"
+ }
+}

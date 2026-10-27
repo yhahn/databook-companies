@@ -13,9 +13,9 @@
 
 Reddit, Inc., as it files with the SEC (CIK 0001713445): its fiscal years and quarters from its XBRL filings, FY2022 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Reddit, Inc., and how has it grown?** It sold $2.2 billion in FY2025, the 463rd most of the 488 companies with a revenue for the year, and the 73rd of 75 in [Services](../Services.md). Its sales rose 230.4% from FY2022 to FY2025, 48.9% a year.
+**How large is Reddit, Inc., and how has it grown?** It sold $2.2 billion in FY2025, the 472nd most of the 487 companies with a revenue for the year, and the 73rd of 75 in [Services](../Services.md). Its sales rose 230.4% from FY2022 to FY2025, 48.9% a year.
 
-**Does Reddit, Inc. make money, and how much of what it sells does it keep?** It earned $530 million in FY2025, 24.1% of what it sold; the median company of its sector kept 16.3%. It lost money in 3 of its 4 years in the book (FY2022, FY2023, FY2024).
+**Does Reddit, Inc. make money, and how much of what it sells does it keep?** It earned $530 million in FY2025, 24.1% of what it sold; the median company of its sector kept 15.8%. It lost money in 3 of its 4 years in the book (FY2022, FY2023, FY2024).
 
 **Where does Reddit, Inc.'s cash go?** From FY2022 to FY2025 its operations brought in $744 million; it spent 3.9% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -27,7 +27,7 @@ Reddit, Inc., as it files with the SEC (CIK 0001713445): its fiscal years and qu
 > | Revenue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 666.701 | 804.029 | 1300.205 | 2202.506 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -172.162 | -140.161 | -560.568 | 441.984 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -158.55 | -90.824 | -484 | 530 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -158.55 | -90.824 | -484.276 | 529.721 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -94.021 | -75.114 | 222.068 | 690.875 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -6.233 | -9.724 | -6.248 | -6.706 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -41,6 +41,37 @@ Reddit, Inc., as it files with the SEC (CIK 0001713445): its fiscal years and qu
 | FY2024 | 2024-01-01 | 2024-12-31 | -3.33 | -3.33 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 2.62 | 2.62 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-13 | 0001713445-25-000018 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-13 | 0001713445-25-000018 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-13 | 0001713445-25-000018 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-13 | 0001713445-25-000018 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-13 | 0001713445-25-000018 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-13 | 0001713445-25-000018 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-06 | 0001713445-26-000022 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -52,11 +83,11 @@ Reddit, Inc., as it files with the SEC (CIK 0001713445): its fiscal years and qu
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 242.963 |  | -589.255 | -575.066 | -8.19 | 32.064 | -2.851 |  | -8.19 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 281.184 |  | -31.039 | -10.099 | -0.06 | 28.385 | -1.202 |  | -0.06 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 348.351 |  | 6.854 | 29.853 | 0.16 | 71.622 | -1.353 |  | 0.16 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 427.707 |  | 52.872 | 71.312 | 0.79 | 89.997 | -0.842 |  | 0.79 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 427.707 |  | 52.872 | 71.036 | 0.79 | 89.997 | -0.842 |  | 0.79 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 392.361 |  | 3.903 | 26.158 | 0.13 | 127.578 | -0.979 |  | 0.13 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 499.627 |  | 67.711 | 89.297 | 0.45 | 111.331 | -0.505 |  | 0.45 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 584.911 |  | 138.542 | 162.663 | 0.8 | 185.159 | -2.058 |  | 0.8 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 725.607 |  | 231.828 | 251.882 | 1.24 | 266.807 | -3.164 |  | 1.24 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 725.607 |  | 231.828 | 251.603 | 1.24 | 266.807 | -3.164 |  | 1.24 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 663.411 |  | 182.912 | 203.981 | 1.01 | 312.253 | -1.09 |  | 1.01 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 804.905 |  | 231.716 | 252.848 | 1.25 | 261.876 | -1.134 |  | 1.25 |
 

@@ -13,9 +13,9 @@
 
 Johnson Controls International plc, as it files with the SEC (CIK 0000833444): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Johnson Controls International plc, and how has it grown?** It sold $23.6 billion in FY2025, the 156th most of the 488 companies with a revenue for the year, and the 70th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.3% from FY2015 to FY2025, 9.1% a year.
+**How large is Johnson Controls International plc, and how has it grown?** It sold $23.6 billion in FY2025, the 161st most of the 487 companies with a revenue for the year, and the 71st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.3% from FY2015 to FY2025, 9.1% a year.
 
-**Does Johnson Controls International plc make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 13.9% of what it sold; the median company of its sector kept 11.7%. It lost money in 3 of its 19 years in the book (FY2007, FY2009, FY2016).
+**Does Johnson Controls International plc make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 13.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 19 years in the book (FY2007, FY2009, FY2016).
 
 **Where does Johnson Controls International plc's cash go?** From FY2016 to FY2025 its operations brought in $17.8 billion; it spent 34.3% of that on plant and equipment, and 113.8% on buying back its own shares.
 
@@ -28,7 +28,7 @@ Johnson Controls International plc, as it files with the SEC (CIK 0000833444): i
 > | Gross profit |  |  |  |  |  |  |  |  | 4312 | 4531 | 5654 | 7530 | 7667 | 7693 | 7411 | 8059 | 7090 | 7804 | 8077 | 8592 |  |
 > | Operating income |  | -1732 | 1896 | -1506 | 615 | 887 | 578 | 712 | 700 | 884 |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | -1742 | 1553 | -1798 | 1130 | 1719 | 472 | 536 | 1215 | 1563 | -868 | 1611 | 2162 | 5674 | 631 | 1637 | 1532 | 1849 | 1705 | 3291 |  |
-> | Operating cash flow |  | 1814 | -912 | 2387 | 871 | 491 | 556 | 701 | 2395 | 1600 | 1908 | 371 | 1520 | 1743 | 2479 | 2551 | 1237 | 1856 | 1568 | 2554 |  |
+> | Operating cash flow |  | 1814 | -912 | 2387 | 871 | 491 | 556 | 701 | 829 | 542 | 1908 | 371 | 1520 | 1743 | 2479 | 2551 | 1237 | 1856 | 1568 | 2554 |  |
 > | Capex |  | -666 | -722 | -702 | -351 | -273 | -295 | -269 | -1199 | -1135 | -1249 | -760 | -645 | -586 | -443 | -552 | -487 | -446 | -494 | -434 |  |
 > | Buybacks |  |  | -192 |  | -900 | -1300 | -500 | -300 | -1249 | -1362 | -501 | -651 | -300 | -5983 | -2204 | -1307 | -1441 | -625 | -1246 | -5991 |  |
 
@@ -55,6 +55,146 @@ Johnson Controls International plc, as it files with the SEC (CIK 0000833444): i
 | FY2023 | 2022-10-01 | 2023-09-30 | 2.69 | 2.69 |
 | FY2024 | 2023-10-01 | 2024-09-30 | 2.52 | 2.52 |
 | FY2025 | 2024-10-01 | 2025-09-30 | 5.03 | 5.03 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2007 | us-gaap:Revenues | 10-K | 2009-11-17 | 0001047469-09-010234 |  |  |  |  |  |
+| Operating income | FY2007 | us-gaap:OperatingIncomeLoss | 10-K | 2009-11-17 | 0001047469-09-010234 |  |  |  |  |  |
+| Net income | FY2007 | us-gaap:NetIncomeLoss | 10-K | 2009-11-17 | 0001047469-09-010234 |  |  |  |  |  |
+| EPS diluted | FY2007 | us-gaap:EarningsPerShareDiluted | 10-K | 2009-11-17 | 0001047469-09-010234 |  |  |  |  |  |
+| Operating cash flow | FY2007 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2009-11-17 | 0001047469-09-010234 |  |  |  |  |  |
+| Capex | FY2007 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2009-11-17 | 0001047469-09-010234 |  |  |  |  |  |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K | 2010-11-12 | 0001047469-10-009627 | yes | 20199 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Operating income | FY2008 | us-gaap:OperatingIncomeLoss | 10-K | 2010-11-12 | 0001047469-10-009627 | yes | 1941 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K | 2010-11-12 | 0001047469-10-009627 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 10-K | 2010-11-12 | 0001047469-10-009627 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2010-11-12 | 0001047469-10-009627 | yes | -872 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Capex | FY2008 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2010-11-12 | 0001047469-10-009627 | yes | 734 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2010-11-12 | 0001047469-10-009627 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 10-K | 2011-11-16 | 0001047469-11-009619 | yes | 17237 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Operating income | FY2009 | us-gaap:OperatingIncomeLoss | 10-K | 2011-11-16 | 0001047469-11-009619 | yes | -1487 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K | 2011-11-16 | 0001047469-11-009619 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K | 2011-11-16 | 0001047469-11-009619 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2011-11-16 | 0001047469-11-009619 | yes | 2429 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Capex | FY2009 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2011-11-16 | 0001047469-11-009619 | yes | 709 | 10-K | 2009-11-17 | 0001047469-09-010234 |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2012-11-16 | 0001047469-12-010665 | yes | 17016 | 10-K | 2010-11-12 | 0001047469-10-009627 |
+| Operating income | FY2010 | us-gaap:OperatingIncomeLoss | 10-K | 2012-11-16 | 0001047469-12-010665 | yes | 1598 | 10-K | 2010-11-12 | 0001047469-10-009627 |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2012-11-16 | 0001047469-12-010665 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-11-16 | 0001047469-12-010665 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2012-11-16 | 0001047469-12-010665 | yes | 2630 | 10-K | 2010-11-12 | 0001047469-10-009627 |
+| Capex | FY2010 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2012-11-16 | 0001047469-12-010665 | yes | 718 | 10-K | 2010-11-12 | 0001047469-10-009627 |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2012-11-16 | 0001047469-12-010665 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 8-K | 2014-05-16 | 0000833444-14-000065 | yes | 17355 | 10-K | 2011-11-16 | 0001047469-11-009619 |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 8-K | 2014-05-16 | 0000833444-14-000065 | yes | 2119 | 10-K | 2011-11-16 | 0001047469-11-009619 |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 8-K | 2014-05-16 | 0000833444-14-000065 | yes | 1733 | 10-K | 2011-11-16 | 0001047469-11-009619 |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 8-K | 2014-05-16 | 0000833444-14-000065 | yes | 3.62 | 10-K | 2011-11-16 | 0001047469-11-009619 |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 8-K | 2014-05-16 | 0000833444-14-000065 | yes | 2437 | 10-K | 2011-11-16 | 0001047469-11-009619 |
+| Capex | FY2011 | us-gaap:PaymentsToAcquireProductiveAssets | 8-K | 2014-05-16 | 0000833444-14-000065 | yes | 788 | 10-K | 2011-11-16 | 0001047469-11-009619 |
+| Buybacks | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2014-05-16 | 0000833444-14-000065 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2014-11-14 | 0000833444-14-000124 | yes | 10403 | 10-K | 2012-11-16 | 0001047469-12-010665 |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2014-11-14 | 0000833444-14-000124 | yes | 685 | 10-K | 2012-11-16 | 0001047469-12-010665 |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2014-11-14 | 0000833444-14-000124 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-11-14 | 0000833444-14-000124 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2014-11-14 | 0000833444-14-000124 | yes | 701 | 10-K | 2012-11-16 | 0001047469-12-010665 |
+| Capex | FY2012 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2014-11-14 | 0000833444-14-000124 | yes | 406 | 10-K | 2012-11-16 | 0001047469-12-010665 |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-11-14 | 0000833444-14-000124 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 8-K | 2016-03-11 | 0000833444-16-000133 | yes | 10647 | 10-K | 2013-11-14 | 0000833444-13-000045 |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 8-K | 2016-03-11 | 0000833444-16-000133 | yes | 809 | 10-K | 2013-11-14 | 0000833444-13-000045 |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 8-K | 2016-03-11 | 0000833444-16-000133 | yes | 841 | 10-K | 2013-11-14 | 0000833444-13-000045 |
+| Capex | FY2013 | us-gaap:PaymentsToAcquireProductiveAssets | 8-K | 2016-03-11 | 0000833444-16-000133 | yes | 377 | 10-K | 2013-11-14 | 0000833444-13-000045 |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Gross profit | FY2014 | us-gaap:GrossProfit | 8-K | 2017-02-23 | 0000833444-17-000010 | yes | 6305 | 10-K | 2016-11-23 | 0000833444-16-000216 |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 8-K | 2017-02-23 | 0000833444-17-000010 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 8-K | 2017-02-23 | 0000833444-17-000010 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Capex | FY2014 | us-gaap:PaymentsToAcquireProductiveAssets | 8-K | 2017-02-23 | 0000833444-17-000010 |  |  |  |  |  |
+| Buybacks | FY2014 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2017-02-23 | 0000833444-17-000010 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Gross profit | FY2015 | us-gaap:GrossProfit | 10-K | 2017-11-21 | 0000833444-17-000060 | yes | 6447 | 10-K | 2016-11-23 | 0000833444-16-000216 |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2017-11-21 | 0000833444-17-000060 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-11-21 | 0000833444-17-000060 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 8-K | 2016-03-11 | 0000833444-16-000133 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2017-11-21 | 0000833444-17-000060 |  |  |  |  |  |
+| Buybacks | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-11-21 | 0000833444-17-000060 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:SalesRevenueNet | 10-K | 2018-11-20 | 0000833444-18-000053 | yes | 37674 | 10-K | 2016-11-23 | 0000833444-16-000216 |
+| Gross profit | FY2016 | us-gaap:GrossProfit | 10-K | 2018-11-20 | 0000833444-18-000053 | yes | 7314 | 10-K | 2016-11-23 | 0000833444-16-000216 |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2018-11-20 | 0000833444-18-000053 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-11-20 | 0000833444-18-000053 | yes | -1.3 | 10-K | 2016-11-23 | 0000833444-16-000216 |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-11-20 | 0000833444-18-000053 | yes | 1895 | 10-K | 2016-11-23 | 0000833444-16-000216 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2018-11-20 | 0000833444-18-000053 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2018-11-20 | 0000833444-18-000053 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:SalesRevenueNet | 10-K | 2018-11-20 | 0000833444-18-000053 |  |  |  |  |  |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2019-11-21 | 0000833444-19-000051 | yes | 9339 | 10-K | 2017-11-21 | 0000833444-17-000060 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2019-11-21 | 0000833444-19-000051 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-11-21 | 0000833444-19-000051 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-11-21 | 0000833444-19-000051 | yes | 12 | 10-K | 2017-11-21 | 0000833444-17-000060 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-11-21 | 0000833444-19-000051 | yes | 1343 | 10-K | 2017-11-21 | 0000833444-17-000060 |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-11-21 | 0000833444-19-000051 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-11-16 | 0000833444-20-000048 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2020-11-16 | 0000833444-20-000048 | yes | 9380 | 10-K | 2018-11-20 | 0000833444-18-000053 |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2020-11-16 | 0000833444-20-000048 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-11-16 | 0000833444-20-000048 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-11-16 | 0000833444-20-000048 | yes | 2513 | 10-K | 2018-11-20 | 0000833444-18-000053 |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2020-11-16 | 0000833444-20-000048 | yes | 1030 | 10-K | 2018-11-20 | 0000833444-18-000053 |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-11-16 | 0000833444-20-000048 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-11-15 | 0000833444-21-000046 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-11-15 | 0000833444-22-000043 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-12-14 | 0000833444-23-000048 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-11-19 | 0000833444-24-000064 | yes | 25299 | 10-K | 2022-11-15 | 0000833444-22-000043 |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2024-11-19 | 0000833444-24-000064 | yes | 8343 | 10-K | 2022-11-15 | 0000833444-22-000043 |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2024-11-19 | 0000833444-24-000064 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-11-19 | 0000833444-24-000064 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2024-11-19 | 0000833444-24-000064 | yes | 1990 | 10-K | 2022-11-15 | 0000833444-22-000043 |
+| Capex | FY2022 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2024-11-19 | 0000833444-24-000064 | yes | 592 | 10-K | 2022-11-15 | 0000833444-22-000043 |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-11-19 | 0000833444-24-000064 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-11-14 | 0000833444-25-000097 | yes | 26793 | 10-K | 2023-12-14 | 0000833444-23-000048 |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2025-11-14 | 0000833444-25-000097 | yes | 8971 | 10-K | 2023-12-14 | 0000833444-23-000048 |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2025-11-14 | 0000833444-25-000097 | yes | 2221 | 10-K | 2023-12-14 | 0000833444-23-000048 |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-14 | 0000833444-25-000097 | yes | 539 | 10-K | 2023-12-14 | 0000833444-23-000048 |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-11-14 | 0000833444-25-000097 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -87,11 +227,11 @@ Johnson Controls International plc, as it files with the SEC (CIK 0000833444): i
 | FY2014 Q1 | 2014 | 1 | 2013-12-27 | 2493 |  | 344 | 270 | 0.57 | 100 | -63 | -250 | 0.57 |
 | FY2014 Q2 | 2014 | 2 | 2014-03-28 | 2480 |  | 259 | 207 | 0.44 | 266 | -72 | 0 | 0.44 |
 | FY2014 Q3 | 2014 | 3 | 2014-06-27 | 2660 |  | 297 | 1450 | 3.11 | 152 | -75 | -556 | 3.11 |
-| FY2014 Q4 | 2014 | 4 | 2014-09-26 | 2703 |  | -199 | -712 | -2.31 | 1877 | -989 | -443 | -2.31 |
+| FY2014 Q4 | 2014 | 4 | 2014-09-26 | 2703 |  | -199 | -712 | -2.31 | 311 | -989 | -443 | -2.31 |
 | FY2015 Q1 | 2015 | 1 | 2014-12-26 | 2478 |  | 199 | 162 | 0.38 | 95 | -66 | -417 | 0.38 |
 | FY2015 Q2 | 2015 | 2 | 2015-03-27 | 2430 |  | 221 | 167 | 0.39 | 167 | -57 | 0 | 0.39 |
 | FY2015 Q3 | 2015 | 3 | 2015-06-26 | 2489 |  | 253 | 156 | 0.37 | 249 | -60 | 0 | 0.37 |
-| FY2015 Q4 | 2015 | 4 | 2015-09-25 | 2505 |  | 211 | 1078 | 1.22 | 1089 | -952 | -945 | 1.22 |
+| FY2015 Q4 | 2015 | 4 | 2015-09-25 | 2505 |  | 211 | 1078 | 1.22 | 31 | -952 | -945 | 1.22 |
 | FY2016 Q1 | 2016 | 1 | 2015-12-31 | 4696 | 1257 | 293 | 450 | 0.69 | -13 | -282 | 0 | 0.69 |
 | FY2016 Q2 | 2016 | 2 | 2016-03-31 | 4733 | 1287 | 225 | -530 | -0.81 | 634 | -261 | 0 | -0.81 |
 | FY2016 Q3 | 2016 | 3 | 2016-06-30 | 5154 | 1422 | 236 | 383 | 0.59 | 75 | -279 | -475 | 0.59 |
@@ -201,8 +341,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating income | FY2007 | FY2016 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
-| Operating cash flow | FY2007 | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2014 | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2007 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2016 | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2020 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
 | Buybacks | FY2008 | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock |
@@ -230,14 +370,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: FY2018 under both: 31400000000 and 23400000000
 - Source: SEC EDGAR companyfacts
 
-### Change: Johnson Controls International plc, Operating cash flow tag, FY2014
+### Change: Johnson Controls International plc, Operating cash flow tag, FY2016
 
 - CIK: 0000833444
 - What: Operating cash flow tag
-- Boundary: FY2014
+- Boundary: FY2016
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
-- Crosswalk: FY2014 under both: 829000000 and 2395000000
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
 ### Change: Johnson Controls International plc, Operating cash flow tag, FY2020
@@ -248,6 +388,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: FY2020 under both: 2479000000 and 2479000000
+- Source: SEC EDGAR companyfacts
+
+### Change: Johnson Controls International plc, Operating cash flow tag kept, FY2014
+
+- CIK: 0000833444
+- What: Operating cash flow tag kept
+- Boundary: FY2014
+- Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
+- Crosswalk: FY2014 under both: 829000000 and 2395000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts
 
 ### Change: Johnson Controls International plc, Segment members, 2025-08-06

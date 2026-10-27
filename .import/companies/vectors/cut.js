@@ -44,7 +44,7 @@ function splitVector(file, rule, about, facts) {
 
 // each vector's company's SIC code, as the FSDS cached give it (sic.js), its
 // title and its sector (SIC division); the foreign filer, none
-const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911', GOOGL: '7370', F: '3711', EQIX: '6798' };
+const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911', GOOGL: '7370', F: '3711', EQIX: '6798', MET: '6311', ED: '4931', ERIE: '6411', ARES: '6282', CCI: '6798', BKNG: '4700', MTB: '6021', TECH: '2836' };
 const titles = sic.titles();
 function vector(file, rule, about, input) {
   const code = SIC[input.ticker];
@@ -111,6 +111,50 @@ vector('equinix-fy2011-capex.json', 'V2',
   "Equinix's capex, FY2011: `PaymentsToAcquirePropertyPlantAndEquipment` files 495,515 for its first nine months (refiled in the 10-Qs of 2012) and no year; `PaymentsToAcquireProductiveAssets` files the year, 28,066 (10-K of 2013-02-26), less than nine months of the other. Not one line moved but another line: the year is not taken from it, and FY2011's capex stays blank, its quarters the first tag's (175,115, 188,875, 131,525). (FY2010's -14,861 under the first tag is as filed, and as small: Equinix's capex tags are muddled, and the book says no more than they do.)",
   { facts: trim(facts('0001101239'), ['Revenues', 'SalesRevenueNet', 'PaymentsToAcquirePropertyPlantAndEquipment', 'PaymentsToAcquireProductiveAssets'], '2010-01-01', '2011-12-31'),
     fsdsRows: [], exchange: 'Nasdaq', ticker: 'EQIX', name: 'EQUINIX INC', span: [2010, 2011] });
+
+// The mend (DECISIONS 34-36, 10-27): the four faults a break hunt found in
+// the importer's own pages, and one more of the same kind.
+const REV = ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'];
+vector('metlife-revenue-sliver.json', 'D5',
+  "MetLife's revenue: `Revenues` files 62,308 for FY2017 and 67,941 for FY2018 (total revenues, its 10-Ks); the ASC 606 tag, `RevenueFromContractWithCustomerExcludingAssessedTax`, files FY2018 as 1,256, a sliver of it (contract revenue only), and from then on. The cascade used to move to the new tag and the line fell to 1,256. Now the new tag's figure, under half the old in the boundary year filed under both, is not taken: the line stays on `Revenues` (FY2018 67,941; FY2019 69,620), and a Change, `Revenue tag kept`, says it with both figures. Checked against MetLife's 10-K for 2018 (total revenues 67,941).",
+  { facts: trim(facts('0001099219'), [...REV, 'NetIncomeLoss'], '2016-01-01', '2019-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'MET', name: 'METLIFE INC', span: [2016, 2017, 2018, 2019] });
+
+const conEd = trim(facts('0001047862'), ['Revenues', 'NetIncomeLoss', 'ProfitLoss'], '2020-01-01', '2022-12-31');
+vector('con-edison-proxy-scale.json', 'D8',
+  "Con Edison's net income for 2021: its 10-K files 1,346,000,000 (and again in the 10-Ks of 2023 and 2024); its proxy statement (DEF 14A, 2026-04-08) files the same year as 1,346,000, a thousandth. As the latest filed the proxy won, and the card read 1.346 beside FY2020's 1,101. A proxy statement is not read where a 10-K gives the period: FY2021 is 1,346, FY2022 1,660. Checked against Con Edison's 10-K for 2021 (net income for common stock 1,346).",
+  { facts: conEd, fsdsRows: [], exchange: 'NYSE', ticker: 'ED', name: 'CONSOLIDATED EDISON INC', span: [2020, 2021, 2022] });
+
+vector('erie-fy2013-restated.json', 'B10',
+  "Erie Indemnity's revenue for FY2013: 6,271 in the 10-K of 2014-02-27, 1,297.331 in that of 2016-02-25 (the Erie Insurance Exchange no longer in its books); FY2014 likewise, 6,124 then 1,407.119. The card takes the latest, and the page's `Annual figures, filed` table says which filing gave each figure (form, filed, accession), flags the restated ones, and keeps the first value, form, date and accession beside them: FY2012 (5,512, never restated) and FY2013 stand on two bases. Net income is not restated. Checked against companyfacts' own rows.",
+  { facts: trim(facts('0000922621'), ['Revenues', 'NetIncomeLoss'], '2012-01-01', '2014-12-31'),
+    fsdsRows: [], exchange: 'Nasdaq', ticker: 'ERIE', name: 'ERIE INDEMNITY CO', span: [2012, 2013, 2014] });
+
+vector('ares-net-income-tags.json', 'D5',
+  "Ares Management's net income: `ProfitLoss` (all the income, with the funds it consolidates) to FY2013 where `NetIncomeLoss` (the part for Ares) is not filed, 545.662 for FY2014; `NetIncomeLoss` files FY2014 as 34.988. The line is the parent's where it is filed, so FY2014 is 34.988, and the Change says the move: both figures, and that they differ by more than half (a stop, said). The seam FY2013 to FY2014 is the book's, named, and not mended: no figure fills FY2012-13 for the parent's. Checked against Ares' 10-K for 2014 (net income 545.7, attributable to Ares 35.0).",
+  { facts: trim(facts('0001176948'), [...REV, 'NetIncomeLoss', 'ProfitLoss'], '2012-01-01', '2015-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'ARES', name: 'Ares Management Corp', span: [2012, 2013, 2014, 2015] });
+
+const cci = facts('0001051470');
+vector('crown-castle-revenue-sliver.json', 'D5',
+  "Crown Castle's revenue: `SalesRevenueNet` to FY2017 (4,355.605); the ASC 606 tag files FY2017 as 521 (contract revenue only, a sliver) and FY2018 on as less than the total, which is under `Revenues` (5,423 in the 10-K of 2019-02-25, 5,370 as the 10-K of 2021 restates it). FY2017 stays on `SalesRevenueNet`, and a Change, `Revenue tag kept`, says the sliver; from FY2018 the old tag is not filed, and the line is held against the other tags of the cascade: a figure under half another tag's whole year is a sliver of it, so the line takes `Revenues`, and the move is a Change (Crosswalk none). Before, the line fell to 215 million by FY2025. Checked against Crown Castle's 10-K for 2018 (revenues 5,423).",
+  { facts: trim(cci, [...REV, 'SalesRevenueNet'], '2016-01-01', '2019-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'CCI', name: 'CROWN CASTLE INC', span: [2016, 2017, 2018, 2019] });
+
+vector('m-and-t-revenue-sliver-blank.json', 'D6',
+  "M&T Bank's revenue: `Revenues` files FY2022 as 8,179 and FY2023 as 9,643; the ASC 606 tag files FY2023 as 1,484 and FY2024 and FY2025 as 1,657 and so on, and no total after FY2023 under any tag the book reads. The line stays on `Revenues` in FY2023 and a Change says the sliver; FY2024 and FY2025 are blank (the new tag's sliver is not the revenue, and nothing is filled across, D6); net income, filed whole, is written. Checked against M&T's 10-K for 2023 (total revenue 9,643).",
+  { facts: trim(facts('0000036270'), [...REV, 'NetIncomeLoss'], '2021-01-01', '2025-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'MTB', name: 'M&T BANK CORP', span: [2022, 2023, 2024, 2025] });
+
+vector('booking-proxy-only.json', 'D8',
+  "Booking Holdings' net income for 2021 and 2022: no 10-K files it under `NetIncomeLoss` or `ProfitLoss`; its proxy statements (PRE 14A 2026-04-10, DEF 14A 2026-04-21) do, 1,165 and 3,058, in the scale of dollars. A proxy's row is read only where no other filing gives the period, so these two are written, and the page's `Annual figures, filed` table says DEF 14A is the filing that gave them. Before the mend (all proxies skipped) they were blank.",
+  { facts: trim(facts('0001075531'), ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax', 'NetIncomeLoss'], '2021-01-01', '2022-12-31'),
+    fsdsRows: [], exchange: 'Nasdaq', ticker: 'BKNG', name: 'Booking Holdings Inc.', span: [2021, 2022] });
+
+vector('bio-techne-fy2013-unit-slip.json', 'D8',
+  "Bio-Techne's operating income for the year ended 2013-06-30: 158,469,000 in its 10-Ks of 2013 and 2014; 158,469 in that of 2015-08-31, a thousandth (the 10-K gives its figures in thousands there, and the facts carry the scale lost). A row a thousandth or a millionth of another row's for the same period is a unit slip and is not read: FY2013 is 158.469, not 0.158469.",
+  { facts: trim(facts('0000842023'), ['Revenues', 'SalesRevenueNet', 'OperatingIncomeLoss'], '2012-07-01', '2013-06-30'),
+    fsdsRows: [], exchange: 'Nasdaq', ticker: 'TECH', name: 'BIO-TECHNE Corp', span: [2013] });
 
 // The splits, after the FAQ (10-15): one period restated is no split; a
 // split the EPS of one period and its shares agree on is one.

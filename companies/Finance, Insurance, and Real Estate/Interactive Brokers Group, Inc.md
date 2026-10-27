@@ -13,22 +13,22 @@
 
 Interactive Brokers Group, Inc., as it files with the SEC (CIK 0001381197): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2025-08-06, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Interactive Brokers Group, Inc., and how has it grown?** It sold $2.4 billion in FY2025, the 457th most of the 488 companies with a revenue for the year, and the 73rd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 94.3% from FY2015 to FY2025, 6.9% a year.
+**How large is Interactive Brokers Group, Inc., and how has it grown?** It sold $6.2 billion in FY2025, the 369th most of the 487 companies with a revenue for the year, and the 63rd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 394% from FY2015 to FY2025, 17.3% a year.
 
-**Does Interactive Brokers Group, Inc. make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 178.6% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 18 years in the book (FY2010).
+**Does Interactive Brokers Group, Inc. make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 70.2% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 18 years in the book (FY2010).
 
-**Where does Interactive Brokers Group, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $53.6 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
+**Where does Interactive Brokers Group, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $52.7 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
 ## Annual
 
 > [!CARD:line] Interactive Brokers Group, Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  | 2182.325 | 1169.773 | 988.317 | 1444.568 | 1192.47 | 1128 | 1115 | 1256 | 1475 | 1927 | 925 | 847 | 1287 | 1568 | 1506 | 1557 | 1977 | 2440 |  |
+> | Revenue |  |  | 2182.325 | 1169.773 | 988.317 | 1444.568 | 1192.47 | 1128 | 1115 | 1256 | 1475 | 1927 | 2366 | 2580 | 1287 | 1568 | 3067 | 4340 | 5185 | 6205 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  | 93.047 | 35.789 | -9.55 | 61.858 | 41.776 | 37.003 | 459 | 415 | 699 | 793 | 1125 | 1089 | 1179 | 1636 | 1842 | 2812 | 3407 | 4357 |  |
-> | Operating cash flow |  |  | 2092.324 | 150.653 | 1693.344 | 991.548 | 725.464 | 140.9 | 416.966 | 725 | 544 | 1065 | 2356 | 2666 | 8068 | 5896 | 3968 | 4544 | 8724 | 15811 |  |
+> | Operating cash flow |  |  | 2092.324 | 150.653 | 1693.344 | 991.548 | 725.464 | 140.9 | 416.966 | 725 | 544 | 142 | 2356 | 2666 | 8068 | 5896 | 3968 | 4544 | 8724 | 15811 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  |  | -0.866 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -54,6 +54,88 @@ Interactive Brokers Group, Inc., as it files with the SEC (CIK 0001381197): its 
 | FY2023 | 2023-01-01 | 2023-12-31 | 1.42 | 1.42 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 1.73 | 1.73 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 2.22 | 2.22 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 10-K/A | 2012-08-31 | 0001047469-12-008631 |  |  |  |  |  |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K/A | 2012-08-31 | 0001047469-12-008631 | yes | 36.202 | 10-K | 2011-02-28 | 0001047469-11-001557 |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K/A | 2012-08-31 | 0001047469-12-008631 | yes | 0.87 | 10-K | 2011-02-28 | 0001047469-11-001557 |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K/A | 2012-08-31 | 0001047469-12-008631 |  |  |  |  |  |
+| Buybacks | FY2009 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2013-03-08 | 0001047469-13-002439 |  |  |  |  |  |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2013-03-08 | 0001047469-13-002439 | yes | -9.316 | 10-K | 2011-02-28 | 0001047469-11-001557 |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2013-03-08 | 0001047469-13-002439 | yes | -0.22 | 10-K | 2011-02-28 | 0001047469-11-001557 |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-03-08 | 0001047469-13-002439 |  |  |  |  |  |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2011-02-28 | 0001047469-11-001557 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 10-K | 2014-03-03 | 0001047469-14-001697 |  |  |  |  |  |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2014-03-03 | 0001047469-14-001697 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-03-03 | 0001047469-14-001697 | yes | 1.39 | 10-K | 2012-02-29 | 0001047469-12-001916 |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2014-03-03 | 0001047469-14-001697 | yes | 1085.873 | 10-K | 2012-02-29 | 0001047469-12-001916 |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-03-02 | 0001047469-15-001520 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-03-02 | 0001047469-15-001520 | yes | 40.668 | 10-K | 2013-03-08 | 0001047469-13-002439 |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-03-02 | 0001047469-15-001520 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-03-02 | 0001047469-15-001520 | yes | 558.368 | 10-K | 2013-03-08 | 0001047469-13-002439 |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-29 | 0001047469-16-010549 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2015-03-02 | 0001047469-15-001520 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-29 | 0001047469-16-010549 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-03-02 | 0001047469-15-001520 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-28 | 0001047469-17-001069 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:ProfitLoss | 10-K | 2017-02-28 | 0001047469-17-001069 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-28 | 0001047469-17-001069 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-03-02 | 0001047469-15-001520 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-03-01 | 0001047469-18-001166 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:ProfitLoss | 10-K | 2018-03-01 | 0001047469-18-001166 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-03-01 | 0001047469-18-001166 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2018-03-01 | 0001047469-18-001166 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-28 | 0001140361-19-004097 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:ProfitLoss | 10-K | 2019-02-28 | 0001140361-19-004097 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-28 | 0001140361-19-004097 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2018-03-01 | 0001047469-18-001166 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-28 | 0001381197-20-000006 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:ProfitLoss | 10-K | 2020-02-28 | 0001381197-20-000006 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-28 | 0001381197-20-000006 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2018-03-01 | 0001047469-18-001166 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2020-02-28 | 0001381197-20-000006 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:ProfitLoss | 10-K | 2021-03-01 | 0001381197-21-000008 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-03-01 | 0001381197-21-000008 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-03-01 | 0001381197-21-000008 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2020-02-28 | 0001381197-20-000006 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:ProfitLoss | 10-K | 2022-02-25 | 0001381197-22-000010 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-25 | 0001381197-22-000010 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-25 | 0001381197-22-000010 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-24 | 0001381197-23-000014 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:ProfitLoss | 10-K | 2023-02-24 | 0001381197-23-000014 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-24 | 0001381197-23-000014 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-24 | 0001381197-23-000014 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-27 | 0001381197-24-000083 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:ProfitLoss | 10-K | 2024-02-27 | 0001381197-24-000083 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-27 | 0001381197-24-000083 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-27 | 0001381197-24-000083 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2025-02-27 | 0001381197-25-000036 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:ProfitLoss | 10-K | 2025-02-27 | 0001381197-25-000036 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-27 | 0001381197-25-000036 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-27 | 0001381197-25-000036 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:ProfitLoss | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001381197-26-000062 | yes | 5.67 | 10-K | 2024-02-27 | 0001381197-24-000083 |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:ProfitLoss | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001381197-26-000062 | yes | 6.93 | 10-K | 2025-02-27 | 0001381197-25-000036 |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:ProfitLoss | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001381197-26-000062 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -90,18 +172,18 @@ Interactive Brokers Group, Inc., as it files with the SEC (CIK 0001381197): its 
 | FY2016 Q2 | 2016 | 2 | 2016-06-30 | 387 |  |  | 200 | 0.4 | -110 |  |  | 0.1 |
 | FY2016 Q3 | 2016 | 3 | 2016-09-30 | 366 |  |  | 168 | 0.3 | 102 |  |  | 0.075 |
 | FY2016 Q4 | 2016 | 4 | 2016-12-31 | 215 |  |  | 21 | 0.05 | 430 |  |  | 0.0125 |
-| FY2017 Q1 | 2017 | 1 | 2017-03-31 | 409 |  |  | 195 | 0.34 | 779 |  |  | 0.085 |
-| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 438 |  |  | 187 | 0.32 | 807 |  |  | 0.08 |
-| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 487 |  |  | 247 | 0.43 | 709 |  |  | 0.1075 |
-| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 593 |  |  | 164 | -0.03 | -1230 |  |  | -0.0075 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 256 |  |  | 319 | 0.63 | 1201 |  |  | 0.1575 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 221 |  |  | 258 | 0.57 | 931 |  |  | 0.1425 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 204 |  |  | 258 | 0.51 | 632 |  |  | 0.1275 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 244 |  |  | 290 | 0.57 | -408 |  |  | 0.1425 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 208 |  |  | 324 | 0.64 | 603 |  |  | 0.16 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 213 |  |  | 210 | 0.43 | 1442 |  |  | 0.1075 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 222 |  |  | 261 | 0.45 | 133 |  |  | 0.1125 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 204 |  |  | 294 | 0.58 | 488 |  |  | 0.145 |
+| FY2017 Q1 | 2017 | 1 | 2017-03-31 | 409 |  |  | 195 | 0.34 | -209 |  |  | 0.085 |
+| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 438 |  |  | 187 | 0.32 | 509 |  |  | 0.08 |
+| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 487 |  |  | 247 | 0.43 | 73 |  |  | 0.1075 |
+| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 593 |  |  | 164 | -0.03 | -231 |  |  | -0.0075 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 621 |  |  | 319 | 0.63 | 1201 |  |  | 0.1575 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 553 |  |  | 258 | 0.57 | 931 |  |  | 0.1425 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 558 |  |  | 258 | 0.51 | 632 |  |  | 0.1275 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 634 |  |  | 290 | 0.57 | -408 |  |  | 0.1425 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 720 |  |  | 324 | 0.64 | 603 |  |  | 0.16 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 586 |  |  | 210 | 0.43 | 1442 |  |  | 0.1075 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 643 |  |  | 261 | 0.45 | 133 |  |  | 0.1125 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 631 |  |  | 294 | 0.58 | 488 |  |  | 0.145 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 307 |  |  | 290 | 0.6 | 5203 |  |  | 0.15 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 316 |  |  | 207 | 0.4 | -1557 |  |  | 0.1 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 324 |  |  | 302 | 0.58 | -174 |  |  | 0.145 |
@@ -110,22 +192,22 @@ Interactive Brokers Group, Inc., as it files with the SEC (CIK 0001381197): its 
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 362 |  |  | 506 | 1 | 1324 |  |  | 0.25 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 360 |  |  | 206 | 0.43 | 1213 |  |  | 0.1075 |
 | FY2021 Q4 | 2021 | 4 | 2021-12-31 | 378 |  |  | 338 | 0.66 | -375 |  |  | 0.165 |
-| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 402 |  |  | 366 | 0.74 | 2125 |  |  | 0.185 |
-| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 365 |  |  | 360 | 0.72 | -541 |  |  | 0.18 |
-| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 365 |  |  | 483 | 0.97 | 2414 |  |  | 0.2425 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 374 |  |  | 633 | 1.32 | -30 |  |  | 0.33 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 400 |  |  | 700 | 1.42 | -923 |  |  | 0.355 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 369 |  |  | 601 | 1.2 | 2119 |  |  | 0.3 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 385 |  |  | 772 | 1.56 | 979 |  |  | 0.39 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 403 |  |  | 739 | -2.77 | 2369 |  |  | -2.77 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 438 |  |  | 795 | 1.61 | 1683 |  |  | 0.4025 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 474 |  |  | 809 | 0.41 | 1621 |  |  | 0.41 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 507 |  |  | 834 | 0.42 | 3582 |  |  | 0.42 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 558 |  |  | 969 | 0.49 | 1838 |  |  | 0.49 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 592 |  |  | 964 | 0.48 | 2584 |  |  | 0.48 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 578 |  |  | 1006 | 0.51 | 7139 |  |  | 0.51 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 603 |  |  | 1186 | 0.59 | 4479 |  |  | 0.59 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 667 |  |  | 1201 | 0.64 | 1609 |  |  | 0.64 |
+| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 645 |  |  | 366 | 0.74 | 2125 |  |  | 0.185 |
+| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 656 |  |  | 360 | 0.72 | -541 |  |  | 0.18 |
+| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 790 |  |  | 483 | 0.97 | 2414 |  |  | 0.2425 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 976 |  |  | 633 | 1.32 | -30 |  |  | 0.33 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 1056 |  |  | 700 | 1.42 | -923 |  |  | 0.355 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 1000 |  |  | 601 | 1.2 | 2119 |  |  | 0.3 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 1145 |  |  | 772 | 1.56 | 979 |  |  | 0.39 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 1139 |  |  | 739 | -2.77 | 2369 |  |  | -2.77 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1203 |  |  | 795 | 1.61 | 1683 |  |  | 0.4025 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1230 |  |  | 809 | 0.41 | 1621 |  |  | 0.41 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1365 |  |  | 834 | 0.42 | 3582 |  |  | 0.42 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1387 |  |  | 969 | 0.49 | 1838 |  |  | 0.49 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1427 |  |  | 964 | 0.48 | 2584 |  |  | 0.48 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1480 |  |  | 1006 | 0.51 | 7139 |  |  | 0.51 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1655 |  |  | 1186 | 0.59 | 4479 |  |  | 0.59 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1643 |  |  | 1201 | 0.64 | 1609 |  |  | 0.64 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 699 |  |  | 1171 | 0.59 | 3611 |  |  | 0.59 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 760 |  |  | 1338 | 0.69 | 6216 |  |  | 0.69 |
 
@@ -158,26 +240,48 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2008 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2008 | FY2019 | us-gaap:Revenues |
+| Revenue | FY2020 | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2022 | FY2025 | us-gaap:RevenuesNetOfInterestExpense |
+| Revenue | FY2026 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Net income | FY2008 | FY2013 | us-gaap:NetIncomeLoss |
 | Net income | FY2014 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2008 | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2015 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2015 | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2018 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Buybacks | FY2008 | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
 
-### Change: Interactive Brokers Group, Inc., Revenue tag, FY2018
+### Change: Interactive Brokers Group, Inc., Revenue tag, FY2020
 
 - CIK: 0001381197
 - What: Revenue tag
-- Boundary: FY2018
+- Boundary: FY2020
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
-- Crosswalk: FY2018 under both: 2366000000 and 925000000
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Interactive Brokers Group, Inc., Revenue tag, FY2022
+
+- CIK: 0001381197
+- What: Revenue tag
+- Boundary: FY2022
+- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Now: us-gaap:RevenuesNetOfInterestExpense
+- Crosswalk: FY2022 under both: 1506000000 and 3067000000; the new tag's figure is under half or over twice the old, or of the other sign: a different line, not the same renamed
+- Source: SEC EDGAR companyfacts
+
+### Change: Interactive Brokers Group, Inc., Revenue tag, FY2026
+
+- CIK: 0001381197
+- What: Revenue tag
+- Boundary: FY2026
+- Was: us-gaap:RevenuesNetOfInterestExpense
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
 ### Change: Interactive Brokers Group, Inc., Net income tag, FY2014
@@ -187,7 +291,7 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Boundary: FY2014
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
-- Crosswalk: FY2014 under both: 44533000 and 459000000
+- Crosswalk: FY2014 under both: 44533000 and 459000000; the new tag's figure is under half or over twice the old, or of the other sign: ProfitLoss counts the income of others in subsidiaries and consolidated funds, NetIncomeLoss only the parent's, and the line is the parent's where it is filed
 - Source: SEC EDGAR companyfacts
 
 ### Change: Interactive Brokers Group, Inc., Operating cash flow tag, FY2015
@@ -200,14 +304,44 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: Interactive Brokers Group, Inc., Operating cash flow tag, FY2017
+### Change: Interactive Brokers Group, Inc., Operating cash flow tag, FY2018
 
 - CIK: 0001381197
 - What: Operating cash flow tag
+- Boundary: FY2018
+- Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Interactive Brokers Group, Inc., Revenue tag kept, FY2018
+
+- CIK: 0001381197
+- What: Revenue tag kept
+- Boundary: FY2018
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 2366000000 and 925000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: Interactive Brokers Group, Inc., Revenue tag kept, FY2022
+
+- CIK: 0001381197
+- What: Revenue tag kept
+- Boundary: FY2022
+- Was: us-gaap:RevenuesNetOfInterestExpense
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2022 under both: 3067000000 and 1506000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:RevenuesNetOfInterestExpense for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: Interactive Brokers Group, Inc., Operating cash flow tag kept, FY2017
+
+- CIK: 0001381197
+- What: Operating cash flow tag kept
 - Boundary: FY2017
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
-- Crosswalk: FY2017 under both: 142000000 and 1065000000
+- Crosswalk: FY2017 under both: 142000000 and 1065000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts
 
 ### Change: Interactive Brokers Group, Inc., Shares split, filings from 2025-08-06

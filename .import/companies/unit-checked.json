@@ -1,0 +1,23 @@
+{
+ "about": "Annual figures the importer's unit check stopped (a figure under 1/500 or over 500 times each neighbour), looked at against the filing and found true. Each is the company's own number; add one only after reading the filing (DECISIONS 35).",
+ "checked": [
+  {
+   "cik": "0000005272",
+   "year": 2018,
+   "line": "Net income",
+   "why": "AIG: a net loss of 6 million in 2018, its 10-K says so (-6,000,000 filed 2019-02-15), between a loss of 6,084 and a gain of 3,348"
+  },
+  {
+   "cik": "0000316709",
+   "year": 2008,
+   "line": "Operating cash flow",
+   "why": "Schwab: 2008's operating cash flow is 2 million in its 10-Ks of 2010 and 2011 (2,000,000), between 1,746 (2007) and 1,437 (2009)"
+  },
+  {
+   "cik": "0001674101",
+   "year": 2017,
+   "line": "Net income",
+   "why": "Vertiv Holdings (its SPAC, GS Acquisition Holdings): a loss of 1,276 dollars in 2017, as filed (-1276), before the 2019 merger"
+  }
+ ]
+}

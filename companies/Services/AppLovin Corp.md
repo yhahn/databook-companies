@@ -13,9 +13,9 @@
 
 AppLovin Corp, as it files with the SEC (CIK 0001751008): its fiscal years and quarters from its XBRL filings, FY2019 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AppLovin Corp, and how has it grown?** It sold $5.5 billion in FY2025, the 382nd most of the 488 companies with a revenue for the year, and the 48th of 75 in [Services](../Services.md). Its sales rose 451.3% from FY2019 to FY2025, 32.9% a year.
+**How large is AppLovin Corp, and how has it grown?** It sold $5.5 billion in FY2025, the 391st most of the 487 companies with a revenue for the year, and the 49th of 75 in [Services](../Services.md). Its sales rose 451.3% from FY2019 to FY2025, 32.9% a year.
 
-**Does AppLovin Corp make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 60.8% of what it sold; the median company of its sector kept 16.3%. It lost money in 2 of its 7 years in the book (FY2020, FY2022).
+**Does AppLovin Corp make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 60.8% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 7 years in the book (FY2020, FY2022).
 
 **Where does AppLovin Corp's cash go?** From FY2019 to FY2025 its operations brought in $8.3 billion; it spent 0.2% of that on plant and equipment, and 56% on buying back its own shares.
 
@@ -27,7 +27,7 @@ AppLovin Corp, as it files with the SEC (CIK 0001751008): its fiscal years and q
 > | Revenue |  |  |  |  |  |  |  |  |  |  |  |  |  | 994.104 | 1451.086 | 2793.104 | 2817.058 | 1841.762 | 3224.058 | 5480.717 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  | 194.371 | -62.042 | 150.016 | -47.791 | 772.411 | 1910.956 | 4151.914 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  | 119.04 | -125.187 | 35 | -193 | 357 | 1580 | 3334 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  | 119.04 | -125.187 | 35.446 | -192.746 | 356.711 | 1579.776 | 3333.751 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  |  |  | 198.462 | 222.883 | 361.851 | 412.773 | 1061.51 | 2099.011 | 3971.094 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  | -3.358 | -3.241 | -1.39 | -0.662 | -4.246 | -4.776 |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  | -0.011 | -1.766 | 0 | -338.88 | -1153.593 | -981.297 | -2191.944 |  |
@@ -44,6 +44,61 @@ AppLovin Corp, as it files with the SEC (CIK 0001751008): its fiscal years and q
 | FY2024 | 2024-01-01 | 2024-12-31 | 4.53 | 4.53 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 9.75 | 9.75 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-03-11 | 0001751008-22-000005 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-28 | 0001751008-23-000006 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-26 | 0001751008-24-000012 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-19 | 0001751008-26-000010 | yes | 3283.087 | 10-K | 2024-02-26 | 0001751008-24-000012 |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001751008-26-000010 | yes | 648.207 | 10-K | 2024-02-26 | 0001751008-24-000012 |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-19 | 0001751008-26-000010 | yes | 4709.248 | 10-K | 2025-02-27 | 0001751008-25-000018 |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001751008-26-000010 | yes | 1873.459 | 10-K | 2025-02-27 | 0001751008-25-000018 |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-27 | 0001751008-25-000018 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001751008-26-000010 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -55,23 +110,23 @@ AppLovin Corp, as it files with the SEC (CIK 0001751008): its fiscal years and q
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 603.877 |  | 11.465 | -10.521 | -0.05 | 61.819 | -0.121 | 0 | -0.05 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 668.806 |  | 34.978 | 14.423 | 0.04 | 90.457 | -0.532 | 0 | 0.04 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 726.951 |  | 45.048 | 0.178 | 0 | 124.56 | -0.309 | 0 | 0 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 793.47 |  | 58.525 | 30.92 | 0.08 | 85.015 | -0.428 | 0 | 0.08 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 793.47 |  | 58.525 | 31.366 | 0.08 | 85.015 | -0.428 | 0 | 0.08 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 625.421 |  | -127.987 | -115.257 | -0.31 | -31.719 | -0.285 | -43.697 | -0.31 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 776.231 |  | 53.355 | -21.748 | -0.06 | 106.811 | -0.115 | -200.318 | -0.06 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 713.099 |  | 49.267 | 23.771 | 0.06 | 174.482 | -0.221 | -94.865 | 0.06 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 702.307 |  | -22.426 | -79.766 | -0.22 | 163.199 | -0.041 | 0 | -0.22 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 702.307 |  | -22.426 | -79.512 | -0.22 | 163.199 | -0.041 | 0 | -0.22 |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 715.405 |  | 61.047 | -4.518 | -0.01 | 288.662 | -0.07 | -64.897 | -0.01 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 750.165 |  | 131.328 | 80.357 | 0.22 | 229.794 | -3.749 | -507.204 | 0.22 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 864.256 |  | 186.318 | 108.639 | 0.3 | 199.066 | -0.183 | -581.492 | 0.3 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | -488.064 |  | 393.718 | 172.522 | 0.48 | 343.988 | -0.244 | 0 | 0.48 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | -488.064 |  | 393.718 | 172.233 | 0.48 | 343.988 | -0.244 | 0 | 0.48 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1058.115 |  | 339.559 | 236.183 | 0.67 | 392.779 |  | -752.224 | 0.67 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 711.015 |  | 384.422 | 309.969 | 0.89 | 454.527 |  | 0 | 0.89 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 835.186 |  | 534.299 | 434.42 | 1.25 | 550.702 |  | -228.448 | 1.25 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 999.487 |  | 628.334 | 599.428 | 1.72 | 701.003 |  | -0.625 | 1.72 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 999.487 |  | 628.334 | 599.204 | 1.72 | 701.003 |  | -0.625 | 1.72 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1158.974 |  | 839.982 | 576.419 | 1.67 | 831.712 |  | -1000.911 | 1.67 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1258.754 |  | 957.682 | 819.531 | 2.39 | 772.226 |  | -271.518 | 2.39 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1405.045 |  | 1079.007 | 835.545 | 2.45 | 1053.422 |  | -501.9 | 2.45 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1657.944 |  | 1275.243 | 1102.505 | 3.24 | 1313.734 |  | -417.615 | 3.24 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1657.944 |  | 1275.243 | 1102.256 | 3.24 | 1313.734 |  | -417.615 | 3.24 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 1842.449 |  | 1439.933 | 1205.613 | 3.56 | 1291.393 |  | -981.723 | 3.56 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 1923.686 |  | 1494.277 | 1266.538 | 3.76 | 869.04 |  | -551.229 | 3.76 |
 

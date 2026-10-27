@@ -13,9 +13,9 @@
 
 Qnity Electronics, Inc., as it files with the SEC (CIK 0002058873): its fiscal years and quarters from its XBRL filings, FY2023 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Qnity Electronics, Inc., and how has it grown?** It sold $4.8 billion in FY2025, the 402nd most of the 488 companies with a revenue for the year, and the 171st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 17.8% from FY2023 to FY2025, 8.5% a year.
+**How large is Qnity Electronics, Inc., and how has it grown?** It sold $4.8 billion in FY2025, the 411th most of the 487 companies with a revenue for the year, and the 171st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 17.8% from FY2023 to FY2025, 8.5% a year.
 
-**Does Qnity Electronics, Inc. make money, and how much of what it sells does it keep?** It earned $729 million in FY2025, 15.3% of what it sold; the median company of its sector kept 11.7%. It lost money in none of its 3 years in the book.
+**Does Qnity Electronics, Inc. make money, and how much of what it sells does it keep?** It earned $729 million in FY2025, 15.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 3 years in the book.
 
 **Where does Qnity Electronics, Inc.'s cash go?** From FY2023 to FY2025 its operations brought in $3.2 billion; it spent 22.3% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -40,16 +40,38 @@ Qnity Electronics, Inc., as it files with the SEC (CIK 0002058873): its fiscal y
 | FY2024 | 2024-01-01 | 2024-12-31 | 3.31 | 3.31 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.3 | 3.3 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:ProfitLoss | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:ProfitLoss | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:ProfitLoss | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-26 | 0002058873-26-000010 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1148 |  |  | 207 | 0.95 |  |  |  | 0.95 |
 | FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1101 |  |  | 221 | 1.01 | 286 | -66 |  | 1.01 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1118 |  |  |  | 0.92 | 207 | -104 |  | 0.92 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1170 |  |  |  | 0.9 | 273 | -49 |  | 0.9 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1276 |  |  | 211 | 1.01 | 302 | -61 |  | 1.01 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1190 |  |  | 137 | 0.47 | 491 | -71 |  | 0.47 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1118 |  |  | 199 | 0.92 | 207 | -104 |  | 0.92 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1170 |  |  | 198 | 0.9 | 273 | -49 |  | 0.9 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1276 |  |  | 223 | 1.01 | 302 | -61 |  | 1.01 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1190 |  |  | 109 | 0.47 | 491 | -71 |  | 0.47 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 1315 |  |  | 162 | 0.72 | 135 | -122 |  | 0.72 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 1429 |  |  | 136 | 0.59 | 241 | -90 |  | 0.59 |
 
@@ -85,31 +107,7 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
 | Revenue | FY2023 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Net income | FY2023 | FY2024 | us-gaap:ProfitLoss |
-| Net income | FY2025 | FY2025 | us-gaap:NetIncomeLoss |
-| Net income | FY2026 | FY2026 | us-gaap:ProfitLoss |
+| Net income | FY2023 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2023 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2023 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2023 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
-
-## Changes
-
-### Change: Qnity Electronics, Inc., Net income tag, FY2025
-
-- CIK: 0002058873
-- What: Net income tag
-- Boundary: FY2025
-- Was: us-gaap:ProfitLoss
-- Now: us-gaap:NetIncomeLoss
-- Crosswalk: FY2025 under both: 729000000 and 729000000
-- Source: SEC EDGAR companyfacts
-
-### Change: Qnity Electronics, Inc., Net income tag, FY2026
-
-- CIK: 0002058873
-- What: Net income tag
-- Boundary: FY2026
-- Was: us-gaap:NetIncomeLoss
-- Now: us-gaap:ProfitLoss
-- Crosswalk: none
-- Source: SEC EDGAR companyfacts

@@ -13,11 +13,11 @@
 
 MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MORGAN STANLEY, and how has it grown?** It sold $70.6 billion in FY2025, the 51st most of the 488 companies with a revenue for the year, and the 11th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 101% from FY2015 to FY2025, 7.2% a year.
+**How large is MORGAN STANLEY, and how has it grown?** It sold $70.6 billion in FY2025, the 54th most of the 487 companies with a revenue for the year, and the 13th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 101% from FY2015 to FY2025, 7.2% a year.
 
-**Does MORGAN STANLEY make money, and how much of what it sells does it keep?** It earned $16.9 billion in FY2025, 23.9% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 19 years in the book.
+**Does MORGAN STANLEY make money, and how much of what it sells does it keep?** It earned $16.9 billion in FY2025, 23.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
 
-**Where does MORGAN STANLEY's cash go?** From FY2016 to FY2025 its operations brought in $1.2 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
+**Where does MORGAN STANLEY's cash go?** The book does not say: its filings give no value this needs.
 
 ## Annual
 
@@ -28,7 +28,7 @@ MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and 
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  | 3209 | 1707 | 1346 | 4703 | 4110 | 68 | 2932 | 3467 | 6127 | 5979 | 6111 | 8748 | 9042 | 10996 | 15034 | 11029 | 9087 | 13390 | 16861 |  |
-> | Operating cash flow |  | -22249 | 73417 | -45951 | 40614 | 15892 | 24548 | 35009 | 1086 | 3674 | 5383 | -4505 | 7305 | 40773 | -25231 | 33971 | -6397 | -33536 | 1362 | -17889 |  |
+> | Operating cash flow |  | -22249 | 73417 | -45951 | 40614 | 15892 | 24548 | 35009 | 1086 | 3674 | 2447 | -4505 | 7305 | 40773 | -25231 | 33971 | -6397 | -33536 | 1362 | -17889 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  | -438 | -1117 | -50 | -317 | -317 | -227 | -691 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -55,6 +55,96 @@ MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and 
 | FY2023 | 2023-01-01 | 2023-12-31 | 5.18 | 5.18 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 7.95 | 7.95 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 10.21 | 10.21 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2007 | us-gaap:Revenues | 10-K | 2010-02-26 | 0001193125-10-042763 |  |  |  |  |  |
+| Net income | FY2007 | us-gaap:NetIncomeLoss | 10-K | 2010-02-26 | 0001193125-10-042763 |  |  |  |  |  |
+| EPS diluted | FY2007 | us-gaap:EarningsPerShareDiluted | 10-K | 2010-02-26 | 0001193125-10-042763 |  |  |  |  |  |
+| Operating cash flow | FY2007 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2010-02-26 | 0001193125-10-042763 |  |  |  |  |  |
+| Buybacks | FY2007 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2010-02-26 | 0001193125-10-042763 |  |  |  |  |  |
+| Revenue | FY2008 | us-gaap:Revenues | 10-K | 2011-02-28 | 0001193125-11-050049 |  |  |  |  |  |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K | 2011-02-28 | 0001193125-11-050049 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 10-K | 2011-02-28 | 0001193125-11-050049 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2011-02-28 | 0001193125-11-050049 |  |  |  |  |  |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2011-02-28 | 0001193125-11-050049 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 10-K | 2012-02-27 | 0001193125-12-081807 |  |  |  |  |  |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K | 2012-02-27 | 0001193125-12-081807 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-27 | 0001193125-12-081807 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2012-02-27 | 0001193125-12-081807 |  |  |  |  |  |
+| Buybacks | FY2009 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2012-02-27 | 0001193125-12-081807 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 10-K | 2013-02-26 | 0001193125-13-077191 | yes | 31622 | 10-K | 2011-02-28 | 0001193125-11-050049 |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2013-02-26 | 0001193125-13-077191 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2013-02-26 | 0001193125-13-077191 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-02-26 | 0001193125-13-077191 | yes | 40307 | 10-K | 2011-02-28 | 0001193125-11-050049 |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2013-02-26 | 0001193125-13-077191 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 10-K | 2014-02-25 | 0001193125-14-067354 | yes | 32403 | 10-K | 2012-02-27 | 0001193125-12-081807 |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2014-02-25 | 0001193125-14-067354 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-02-25 | 0001193125-14-067354 |  |  |  |  |  |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-02-26 | 0001193125-13-077191 | yes | 6684 | 10-K | 2012-02-27 | 0001193125-12-081807 |
+| Buybacks | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-02-25 | 0001193125-14-067354 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-03-02 | 0001193125-15-071980 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-03-02 | 0001193125-15-071980 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-03-02 | 0001193125-15-071980 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-02-26 | 0001193125-13-077191 |  |  |  |  |  |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-02-25 | 0001193125-14-067354 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2015-03-02 | 0001193125-15-071980 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-23 | 0001193125-16-473553 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-23 | 0001193125-16-473553 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2016-02-23 | 0001193125-16-473553 | yes | 35553 | 10-K | 2014-02-25 | 0001193125-14-067354 |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-02-25 | 0001193125-14-067354 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2015-03-02 | 0001193125-15-071980 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-27 | 0001193125-17-059212 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-27 | 0001193125-17-059212 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2017-02-27 | 0001193125-17-059212 | yes | 1131 | 10-K | 2015-03-02 | 0001193125-15-071980 |
+| Revenue | FY2015 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2018-02-27 | 0001193125-18-060831 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-27 | 0001193125-18-060831 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-02-27 | 0001193125-18-060831 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2017-02-27 | 0001193125-17-059212 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2019-02-26 | 0001193125-19-051943 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-26 | 0001193125-19-051943 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-26 | 0001193125-19-051943 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2017-02-27 | 0001193125-17-059212 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2020-02-27 | 0000895421-20-000265 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-27 | 0000895421-20-000265 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-27 | 0000895421-20-000265 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-27 | 0000895421-20-000265 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2021-02-26 | 0000895421-21-000286 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-26 | 0000895421-21-000286 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-26 | 0000895421-21-000286 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-26 | 0000895421-21-000286 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2022-02-24 | 0000895421-22-000400 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-24 | 0000895421-22-000400 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-24 | 0000895421-22-000400 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-24 | 0000895421-22-000400 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2023-02-24 | 0000895421-23-000284 | yes | 48198 | 10-K | 2021-02-26 | 0000895421-21-000286 |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-24 | 0000895421-23-000284 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-24 | 0000895421-23-000284 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-24 | 0000895421-23-000284 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2024-02-22 | 0000895421-24-000300 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-22 | 0000895421-24-000300 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-22 | 0000895421-24-000300 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-22 | 0000895421-24-000300 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2025-02-21 | 0000895421-25-000304 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-21 | 0000895421-25-000304 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-21 | 0000895421-25-000304 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-21 | 0000895421-25-000304 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenuesNetOfInterestExpense | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0000895421-26-000086 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -88,10 +178,10 @@ MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and 
 | FY2015 Q2 | 2015 | 2 | 2015-06-30 | 9743 |  |  | 1807 | 0.85 | 4602 |  |  | 0.85 |
 | FY2015 Q3 | 2015 | 3 | 2015-09-30 | 7767 |  |  | 1018 | 0.48 | 490 |  |  | 0.48 |
 | FY2015 Q4 | 2015 | 4 | 2015-12-31 | 7738 |  |  | 908 | 0.39 | 11637 |  |  | 0.39 |
-| FY2016 Q1 | 2016 | 1 | 2016-03-31 | 7792 |  |  | 1134 | 0.55 |  |  |  | 0.55 |
-| FY2016 Q2 | 2016 | 2 | 2016-06-30 | 8909 |  |  | 1582 | 0.75 |  |  |  | 0.75 |
-| FY2016 Q3 | 2016 | 3 | 2016-09-30 | 8909 |  |  | 1597 | 0.81 |  |  |  | 0.81 |
-| FY2016 Q4 | 2016 | 4 | 2016-12-31 | 9021 |  |  | 1666 | 0.81 | -2482 |  |  | 0.81 |
+| FY2016 Q1 | 2016 | 1 | 2016-03-31 | 7792 |  |  | 1134 | 0.55 | 4177 |  |  | 0.55 |
+| FY2016 Q2 | 2016 | 2 | 2016-06-30 | 8909 |  |  | 1582 | 0.75 | 12131 |  |  | 0.75 |
+| FY2016 Q3 | 2016 | 3 | 2016-09-30 | 8909 |  |  | 1597 | 0.81 | -8494 |  |  | 0.81 |
+| FY2016 Q4 | 2016 | 4 | 2016-12-31 | 9021 |  |  | 1666 | 0.81 | -5367 |  |  | 0.81 |
 | FY2017 Q1 | 2017 | 1 | 2017-03-31 | 9745 |  |  | 1930 | 1 | 90 |  |  | 1 |
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 9503 |  |  | 1757 | 0.87 | -14249 |  |  | 0.87 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 9197 |  |  | 1781 | 0.93 | 5610 |  |  | 0.93 |
@@ -197,8 +287,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
-| Operating cash flow | FY2013 | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
-| Operating cash flow | FY2016 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+| Operating cash flow | FY2013 | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
+| Operating cash flow | FY2017 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Buybacks | FY2007 | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
@@ -223,14 +313,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: MORGAN STANLEY, Operating cash flow tag, FY2016
+### Change: MORGAN STANLEY, Operating cash flow tag, FY2017
 
 - CIK: 0000895421
 - What: Operating cash flow tag
+- Boundary: FY2017
+- Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: MORGAN STANLEY, Operating cash flow tag kept, FY2016
+
+- CIK: 0000895421
+- What: Operating cash flow tag kept
 - Boundary: FY2016
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
-- Crosswalk: FY2016 under both: 2447000000 and 5383000000
+- Crosswalk: FY2016 under both: 2447000000 and 5383000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts
 
 ### Change: MORGAN STANLEY, Fiscal year end, FY2008

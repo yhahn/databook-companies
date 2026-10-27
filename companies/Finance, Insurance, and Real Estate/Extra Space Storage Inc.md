@@ -13,9 +13,9 @@
 
 Extra Space Storage Inc., as it files with the SEC (CIK 0001289490): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Extra Space Storage Inc., and how has it grown?** It sold $129 million in FY2025, the 485th most of the 488 companies with a revenue for the year, and the 90th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 225% from FY2016 to FY2025, 14% a year.
+**How large is Extra Space Storage Inc., and how has it grown?** It sold $3.4 billion in FY2025, the 448th most of the 487 companies with a revenue for the year, and the 79th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 240.5% from FY2016 to FY2025, 14.6% a year.
 
-**Does Extra Space Storage Inc. make money, and how much of what it sells does it keep?** It earned $974 million in FY2025, 752.3% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 10 years in the book.
+**Does Extra Space Storage Inc. make money, and how much of what it sells does it keep?** It earned $974 million in FY2025, 28.8% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 10 years in the book.
 
 **Where does Extra Space Storage Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $10.6 billion; it spent 22.3% of that on plant and equipment, and 2.6% on buying back its own shares.
 
@@ -24,7 +24,7 @@ Extra Space Storage Inc., as it files with the SEC (CIK 0001289490): its fiscal 
 > [!CARD:line] Extra Space Storage Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 39.842 | 1105.009 | 41.757 | 49.89 | 52.129 | 66.264 | 83.904 | 101.986 | 120.855 | 129.476 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 991.875 | 1105.009 | 1196.604 | 1308.454 | 1356.212 | 1577.362 | 1924.17 | 2560.244 | 3256.902 | 3377.542 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 458.303 | 654.394 | 619.703 | 634.958 | 666.14 | 975.953 | 1050.402 | 1170.141 | 1323.36 | 1412.691 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 366.127 | 479.013 | 415.289 | 419.967 | 481.779 | 827.649 | 860.688 | 803.198 | 854.681 | 973.999 |  |
@@ -47,6 +47,75 @@ Extra Space Storage Inc., as it files with the SEC (CIK 0001289490): its fiscal 
 | FY2024 | 2024-01-01 | 2024-12-31 | 4.03 | 4.03 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 4.59 | 4.59 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-26 | 0001628280-19-001968 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-26 | 0001628280-19-001968 | yes | 449.838 | 10-K | 2017-02-27 | 0001628280-17-001815 |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-26 | 0001628280-19-001968 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-26 | 0001628280-19-001968 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-26 | 0001628280-19-001968 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-25 | 0001628280-20-002202 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-25 | 0001628280-20-002202 | yes | 541.605 | 10-K | 2018-03-01 | 0001628280-18-002649 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-25 | 0001628280-20-002202 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-25 | 0001628280-20-002202 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-25 | 0001628280-20-002202 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-26 | 0001628280-21-003458 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-26 | 0001628280-21-003458 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-26 | 0001628280-21-003458 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-26 | 0001628280-21-003458 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-26 | 0001628280-21-003458 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-26 | 0001628280-21-003458 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-28 | 0001628280-22-004274 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-28 | 0001628280-22-004274 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-28 | 0001628280-22-004274 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-28 | 0001628280-22-004274 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-28 | 0001628280-22-004274 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-28 | 0001628280-22-004274 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-28 | 0001628280-23-005628 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-28 | 0001628280-23-005628 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-28 | 0001628280-23-005628 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-28 | 0001628280-23-005628 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-28 | 0001628280-23-005628 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-28 | 0001628280-23-005628 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2024-02-29 | 0001628280-24-008044 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-02-28 | 0001628280-25-009060 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-20 | 0001289490-26-000011 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -55,38 +124,38 @@ Extra Space Storage Inc., as it files with the SEC (CIK 0001289490): its fiscal 
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 276.003 |  | 136.407 | 87.006 | 0.69 | 175.928 |  |  | 0.69 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 284.156 |  | 139.881 | 93.742 | 0.74 | 160.58 |  |  | 0.74 |
 | FY2017 Q4 | 2017 | 4 | 2017-12-31 | 281.842 |  | 141.114 | 215.983 | 1.69 | 147.746 |  |  | 1.69 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 10.565 |  | 133.912 | 88.256 | 0.7 | 171.608 |  |  | 0.7 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 10.164 |  | 144.716 | 95.153 | 0.75 | 168.134 |  |  | 0.75 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 10.12 |  | 153.591 | 130.418 | 1.02 | 189.285 |  |  | 1.02 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 10.908 |  | 156.677 | 101.462 | 0.8 | 148.768 |  |  | 0.8 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 10.746 |  | 148.477 | 94.77 | 0.74 | 169.339 |  | 0 | 0.74 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 12.317 |  | 159.198 | 104.828 | 0.81 | 194.068 |  | 0 | 0.81 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 13 |  | 162.638 | 108.087 | 0.83 | 181.059 |  | 0 | 0.83 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 13.827 |  | 164.645 | 112.282 | 0.86 | 163.22 |  | 0 | 0.86 |
-| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 12.136 |  | 157.191 | 108.179 | 0.83 | 189.256 |  | -52.204 | 0.83 |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 12.856 |  | 149.993 | 102.911 | 0.8 | 202.817 |  | -15.615 | 0.8 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 13.307 |  | 163.207 | 114.633 | 0.88 | 191.194 |  | -0.054 | 0.88 |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 13.83 |  | 195.749 | 156.056 | 1.21 | 187.965 |  | 0 | 1.21 |
-| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 15.645 |  | 241.073 | 202.998 | 1.53 | 203.88 |  | 0 | 1.53 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 14.796 |  | 196.829 | 167.948 | 1.25 | 259.808 |  | 0 | 1.25 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 16.879 |  | 226.278 | 188.276 | 1.4 | 265.58 |  | 0 | 1.4 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 18.944 |  | 311.773 | 268.427 | 2 | 223.168 |  | 0 | 2 |
-| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 19.957 |  | 235.31 | 203.579 | 1.51 | 287.465 | -185.91 |  | 1.51 |
-| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 20.517 |  | 275.665 | 232.13 | 1.73 | 352.922 | -220.933 |  | 1.73 |
-| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 22.246 |  | 269.857 | 220.719 | 1.65 | 307.634 | -639.106 | 0 | 1.65 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 21.184 |  | 269.57 | 204.26 | 1.52 | 290.118 | -147.312 | 0 | 1.52 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 21.384 |  | 263.542 | 196.304 | 1.46 | 281.649 | -13.111 |  | 1.46 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 22.206 |  | 273.339 | 202.41 | 1.5 | 347.878 | -32.888 |  | 1.5 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 28.019 |  | 299.792 | 188.35 | 0.96 | 408.432 | -18.578 | 0 | 0.96 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 30.377 |  | 333.468 | 216.134 | 0.96 | 364.515 | -71 | 0 | 0.96 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 30.148 |  | 335.828 | 213.112 | 1.01 | 465.556 | -35.084 |  | 1.01 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 29.858 |  | 304.761 | 185.872 | 0.88 | 545.244 | -27.644 |  | 0.88 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 29.882 |  | 302.739 | 193.21 | 0.91 | 468.351 | -158.237 | 0 | 0.91 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 30.967 |  | 380.032 | 262.487 | 1.24 | 408.279 | -258.094 | 0 | 1.24 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 30.905 |  | 388.73 | 270.875 | 1.28 | 481.404 | -136.025 | 0 | 1.28 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 32.042 |  | 373.97 | 249.731 | 1.18 | 543.861 | -161.738 | -8.615 | 1.18 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 32.538 |  | 279.12 | 165.998 | 0.78 | 457.131 | -12.945 | 0 | 0.78 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 33.991 |  | 370.871 | 287.395 | 1.36 | 367.797 | -251.015 | -140.933 | 1.36 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 285.485 |  | 133.912 | 88.256 | 0.7 | 171.608 |  |  | 0.7 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 296.813 |  | 144.716 | 95.153 | 0.75 | 168.134 |  |  | 0.75 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 306.953 |  | 153.591 | 130.418 | 1.02 | 189.285 |  |  | 1.02 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 307.353 |  | 156.677 | 101.462 | 0.8 | 148.768 |  |  | 0.8 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 311.546 |  | 148.477 | 94.77 | 0.74 | 169.339 |  | 0 | 0.74 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 323.602 |  | 159.198 | 104.828 | 0.81 | 194.068 |  | 0 | 0.81 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 337.505 |  | 162.638 | 108.087 | 0.83 | 181.059 |  | 0 | 0.83 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 335.801 |  | 164.645 | 112.282 | 0.86 | 163.22 |  | 0 | 0.86 |
+| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 332.452 |  | 157.191 | 108.179 | 0.83 | 189.256 |  | -52.204 | 0.83 |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 327.246 |  | 149.993 | 102.911 | 0.8 | 202.817 |  | -15.615 | 0.8 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 343.024 |  | 163.207 | 114.633 | 0.88 | 191.194 |  | -0.054 | 0.88 |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 353.49 |  | 195.749 | 156.056 | 1.21 | 187.965 |  | 0 | 1.21 |
+| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 358.857 |  | 241.073 | 202.998 | 1.53 | 203.88 |  | 0 | 1.53 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 378.63 |  | 196.829 | 167.948 | 1.25 | 259.808 |  | 0 | 1.25 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 412.492 |  | 226.278 | 188.276 | 1.4 | 265.58 |  | 0 | 1.4 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 427.383 |  | 311.773 | 268.427 | 2 | 223.168 |  | 0 | 2 |
+| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 443.562 |  | 235.31 | 203.579 | 1.51 | 287.465 | -185.91 |  | 1.51 |
+| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 474.988 |  | 275.665 | 232.13 | 1.73 | 352.922 | -220.933 |  | 1.73 |
+| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 498.902 |  | 269.857 | 220.719 | 1.65 | 307.634 | -639.106 | 0 | 1.65 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 506.718 |  | 269.57 | 204.26 | 1.52 | 290.118 | -147.312 | 0 | 1.52 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 503.05 |  | 263.542 | 196.304 | 1.46 | 281.649 | -13.111 |  | 1.46 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 511.386 |  | 273.339 | 202.41 | 1.5 | 347.878 | -32.888 |  | 1.5 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 748.034 |  | 299.792 | 188.35 | 0.96 | 408.432 | -18.578 | 0 | 0.96 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 797.774 |  | 333.468 | 216.134 | 0.96 | 364.515 | -71 | 0 | 0.96 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 799.539 |  | 335.828 | 213.112 | 1.01 | 465.556 | -35.084 |  | 1.01 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 810.663 |  | 304.761 | 185.872 | 0.88 | 545.244 | -27.644 |  | 0.88 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 824.804 |  | 302.739 | 193.21 | 0.91 | 468.351 | -158.237 | 0 | 0.91 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 821.896 |  | 380.032 | 262.487 | 1.24 | 408.279 | -258.094 | 0 | 1.24 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 819.997 |  | 388.73 | 270.875 | 1.28 | 481.404 | -136.025 | 0 | 1.28 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 841.618 |  | 373.97 | 249.731 | 1.18 | 543.861 | -161.738 | -8.615 | 1.18 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 858.46 |  | 279.12 | 165.998 | 0.78 | 457.131 | -12.945 | 0 | 0.78 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 857.467 |  | 370.871 | 287.395 | 1.36 | 367.797 | -251.015 | -140.933 | 1.36 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 33.695 |  | 367.553 | 240.977 | 1.14 | 489.855 | -12.36 | -1.443 | 1.14 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 34.904 |  | 392.184 | 263.471 | 1.25 | 586.411 | -86.804 | 0 | 1.25 |
 
@@ -119,9 +188,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2016 | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2017 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2016 | FY2025 | us-gaap:Revenues |
+| Revenue | FY2026 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2008 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2008 | FY2026 | us-gaap:EarningsPerShareDiluted |
@@ -133,24 +201,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: Extra Space Storage Inc., Revenue tag, FY2017
+### Change: Extra Space Storage Inc., Revenue tag, FY2026
 
 - CIK: 0001289490
 - What: Revenue tag
-- Boundary: FY2017
-- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
-- Now: us-gaap:Revenues
-- Crosswalk: FY2017 under both: 39379000 and 1105009000
-- Source: SEC EDGAR companyfacts
-
-### Change: Extra Space Storage Inc., Revenue tag, FY2018
-
-- CIK: 0001289490
-- What: Revenue tag
-- Boundary: FY2018
+- Boundary: FY2026
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
-- Crosswalk: FY2018 under both: 1196604000 and 41757000
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
 ### Change: Extra Space Storage Inc., Operating cash flow tag, FY2011
@@ -171,4 +229,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Extra Space Storage Inc., Revenue tag kept, FY2016
+
+- CIK: 0001289490
+- What: Revenue tag kept
+- Boundary: FY2016
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2016 under both: 991875000 and 39842000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: Extra Space Storage Inc., Revenue tag kept, FY2018
+
+- CIK: 0001289490
+- What: Revenue tag kept
+- Boundary: FY2018
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 1196604000 and 41757000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

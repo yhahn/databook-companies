@@ -13,9 +13,9 @@
 
 Sandisk Corp, as it files with the SEC (CIK 0002023554): its fiscal years and quarters from its XBRL filings, FY2023 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Sandisk Corp, and how has it grown?** It sold $7.4 billion in FY2025, the 337th most of the 488 companies with a revenue for the year, and the 143rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 20.9% from FY2023 to FY2025, 9.9% a year.
+**How large is Sandisk Corp, and how has it grown?** It sold $7.4 billion in FY2025, the 346th most of the 487 companies with a revenue for the year, and the 143rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 20.9% from FY2023 to FY2025, 9.9% a year.
 
-**Does Sandisk Corp make money, and how much of what it sells does it keep?** It earned −$1.6 billion in FY2025, −22.3% of what it sold; the median company of its sector kept 11.7%. It lost money in 3 of its 4 years in the book (FY2023, FY2024, FY2025).
+**Does Sandisk Corp make money, and how much of what it sells does it keep?** It earned −$1.6 billion in FY2025, −22.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 4 years in the book (FY2023, FY2024, FY2025).
 
 **Where does Sandisk Corp's cash go?** The book does not say: its filings give no value this needs.
 
@@ -40,6 +40,44 @@ Sandisk Corp, as it files with the SEC (CIK 0002023554): its fiscal years and qu
 | FY2024 | 2023-07-01 | 2024-06-28 | -4.63 | -4.63 |
 | FY2025 | 2024-06-29 | 2025-06-27 | -11.32 | -11.32 |
 | FY2026 | 2025-06-28 | 2026-07-03 | 73.76 | 73.76 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-08-21 | 0002023554-25-000034 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Revenue | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Gross profit | FY2026 | us-gaap:GrossProfit | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Operating income | FY2026 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Net income | FY2026 | us-gaap:NetIncomeLoss | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| EPS diluted | FY2026 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Operating cash flow | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
+| Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-17 | 0001628280-26-057406 |  |  |  |  |  |
 
 ## Quarterly
 

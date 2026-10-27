@@ -13,9 +13,9 @@
 
 VICI PROPERTIES INC., as it files with the SEC (CIK 0001705696): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VICI PROPERTIES INC., and how has it grown?** It sold $4.0 billion in FY2025, the 428th most of the 488 companies with a revenue for the year, and the 68th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 2035.4% from FY2017 to FY2025, 46.6% a year.
+**How large is VICI PROPERTIES INC., and how has it grown?** It sold $4.0 billion in FY2025, the 438th most of the 487 companies with a revenue for the year, and the 77th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 2035.4% from FY2017 to FY2025, 46.6% a year.
 
-**Does VICI PROPERTIES INC. make money, and how much of what it sells does it keep?** It earned $2.8 billion in FY2025, 69.3% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 9 years in the book.
+**Does VICI PROPERTIES INC. make money, and how much of what it sells does it keep?** It earned $2.8 billion in FY2025, 69.3% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 9 years in the book.
 
 **Where does VICI PROPERTIES INC.'s cash go?** From FY2018 to FY2025 its operations brought in $12.0 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -45,6 +45,53 @@ VICI PROPERTIES INC., as it files with the SEC (CIK 0001705696): its fiscal year
 | FY2023 | 2023-01-01 | 2023-12-31 | 2.47 | 2.47 |
 | FY2024 | 2024-01-01 | 2024-12-31 | 2.56 | 2.56 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 2.61 | 2.61 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2017 | us-gaap:SalesRevenueNet | 10-K | 2018-03-28 | 0001705696-18-000015 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2018-03-28 | 0001705696-18-000015 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2018-03-28 | 0001705696-18-000015 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-18 | 0001705696-21-000030 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-18 | 0001705696-21-000030 | yes | 757.954 | 10-K | 2019-02-14 | 0001705696-19-000064 |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-18 | 0001705696-21-000030 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-18 | 0001705696-21-000030 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-18 | 0001705696-21-000030 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-20 | 0001705696-20-000048 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-23 | 0001705696-22-000046 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-18 | 0001705696-21-000030 | yes | 842.499 | 10-K | 2020-02-20 | 0001705696-20-000048 |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-23 | 0001705696-22-000046 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-23 | 0001705696-22-000046 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-23 | 0001705696-22-000046 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-20 | 0001705696-20-000048 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-23 | 0001705696-23-000035 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-18 | 0001705696-21-000030 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-23 | 0001705696-23-000035 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-23 | 0001705696-23-000035 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-23 | 0001705696-23-000035 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-22 | 0001705696-24-000033 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-22 | 0001705696-24-000033 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-22 | 0001705696-24-000033 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-22 | 0001705696-24-000033 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-20 | 0001705696-25-000033 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-20 | 0001705696-25-000033 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-20 | 0001705696-25-000033 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-20 | 0001705696-25-000033 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001705696-26-000034 |  |  |  |  |  |
 
 ## Quarterly
 

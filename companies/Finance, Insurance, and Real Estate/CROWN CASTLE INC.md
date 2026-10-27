@@ -13,9 +13,9 @@
 
 CROWN CASTLE INC., as it files with the SEC (CIK 0001051470): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CROWN CASTLE INC., and how has it grown?** It sold $215 million in FY2025, the 484th most of the 488 companies with a revenue for the year, and the 89th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 94.1% from FY2015 to FY2025, −24.7% a year.
+**How large is CROWN CASTLE INC., and how has it grown?** It sold $4.3 billion in FY2025, the 426th most of the 487 companies with a revenue for the year, and the 75th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 16.4% from FY2015 to FY2025, 1.5% a year.
 
-**Does CROWN CASTLE INC. make money, and how much of what it sells does it keep?** It earned $444 million in FY2025, 206.5% of what it sold; the median company of its sector kept 21.5%. It lost money in 5 of its 19 years in the book (FY2007, FY2008, FY2009 and 2 more).
+**Does CROWN CASTLE INC. make money, and how much of what it sells does it keep?** It earned $444 million in FY2025, 10.4% of what it sold; the median company of its sector kept 19.2%. It lost money in 5 of its 19 years in the book (FY2007, FY2008, FY2009 and 2 more).
 
 **Where does CROWN CASTLE INC.'s cash go?** From FY2016 to FY2025 its operations brought in $26.9 billion; it spent 30.6% of that on plant and equipment, and 0.3% on buying back its own shares.
 
@@ -24,7 +24,7 @@ CROWN CASTLE INC., as it files with the SEC (CIK 0001051470): its fiscal years a
 > [!CARD:line] CROWN CASTLE INC., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 1385.486 | 1526.504 | 1685.407 | 1878.658 | 2032.729 | 2432.68 | 2865.751 | 3538.756 | 3663.851 | 3921.225 | 521 | 574 | 670 | 520 | 621 | 697 | 421 | 192 | 215 |  |
+> | Revenue |  | 1385.486 | 1526.504 | 1685.407 | 1878.658 | 2032.729 | 2432.68 | 2865.751 | 3538.756 | 3663.851 | 3921.225 | 4355.605 | 5370 | 5763 | 5840 | 6340 | 6986 | 4734 | 4460 | 4264 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 99.528 | 292.509 | 433.991 | 575.365 | 692.305 | 834.681 | 880.704 | 940.682 | 946.18 | 949 | 967 | 1383 | 1559 | 1863 | 2001 | 2425 | 2097 | 2118 | 2075 |  |
 > | Net income |  | -222.813 | -48.858 | -114.332 | -310.94 | 171.077 | 188.584 | 90.111 | 390.513 | 1520.992 | 356.973 | 444.55 | 622 | 860 | 1056 | 1096 | 1675 | 1502 | -3903 | 444 |  |
@@ -55,6 +55,144 @@ CROWN CASTLE INC., as it files with the SEC (CIK 0001051470): its fiscal years a
 | FY2023 | 2023-01-01 | 2023-12-31 | 3.46 | 3.46 |
 | FY2024 | 2024-01-01 | 2024-12-31 | -8.98 | -8.98 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 1.01 | 1.01 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2007 | us-gaap:SalesRevenueNet | 10-K | 2010-02-16 | 0001193125-10-031419 |  |  |  |  |  |
+| Operating income | FY2007 | us-gaap:OperatingIncomeLoss | 10-K | 2010-02-16 | 0001193125-10-031419 |  |  |  |  |  |
+| Net income | FY2007 | us-gaap:NetIncomeLoss | 10-K | 2010-02-16 | 0001193125-10-031419 |  |  |  |  |  |
+| Operating cash flow | FY2007 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2010-02-16 | 0001193125-10-031419 |  |  |  |  |  |
+| Capex | FY2007 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2010-02-16 | 0001193125-10-031419 |  |  |  |  |  |
+| Buybacks | FY2007 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2010-02-16 | 0001193125-10-031419 |  |  |  |  |  |
+| Revenue | FY2008 | us-gaap:SalesRevenueNet | 10-K/A | 2011-02-17 | 0001445305-11-000278 |  |  |  |  |  |
+| Operating income | FY2008 | us-gaap:OperatingIncomeLoss | 10-K/A | 2011-02-17 | 0001445305-11-000278 |  |  |  |  |  |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 10-K/A | 2011-02-17 | 0001445305-11-000278 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K/A | 2011-02-17 | 0001445305-11-000278 |  |  |  |  |  |
+| Capex | FY2008 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K/A | 2011-02-17 | 0001445305-11-000278 |  |  |  |  |  |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K/A | 2011-02-17 | 0001445305-11-000278 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:SalesRevenueNet | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| Operating income | FY2009 | us-gaap:OperatingIncomeLoss | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| Capex | FY2009 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| Buybacks | FY2009 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2012-02-13 | 0001051470-12-000007 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:SalesRevenueNet | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| Operating income | FY2010 | us-gaap:OperatingIncomeLoss | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| Capex | FY2010 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2013-02-12 | 0001051470-13-000007 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:SalesRevenueNet | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| Capex | FY2011 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| Buybacks | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2014-02-24 | 0001051470-14-000008 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:SalesRevenueNet | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| Capex | FY2012 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2015-02-19 | 0001051470-15-000034 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:SalesRevenueNet | 10-K | 2016-02-22 | 0001051470-16-000158 | yes | 3022.384 | 10-K | 2014-02-24 | 0001051470-14-000008 |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 10-K | 2016-02-22 | 0001051470-16-000158 | yes | 921.803 | 10-K | 2014-02-24 | 0001051470-14-000008 |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-22 | 0001051470-16-000158 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-22 | 0001051470-16-000158 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2016-02-22 | 0001051470-16-000158 | yes | 1237.656 | 10-K | 2014-02-24 | 0001051470-14-000008 |
+| Capex | FY2013 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2016-02-22 | 0001051470-16-000158 | yes | 567.81 | 10-K | 2014-02-24 | 0001051470-14-000008 |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2016-02-22 | 0001051470-16-000158 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:SalesRevenueNet | 10-K | 2017-02-22 | 0001051470-17-000059 | yes | 3689.884 | 10-K | 2015-02-19 | 0001051470-15-000034 |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 10-K | 2017-02-22 | 0001051470-17-000059 | yes | 993.576 | 10-K | 2015-02-19 | 0001051470-15-000034 |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-22 | 0001051470-17-000059 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-22 | 0001051470-17-000059 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-02-22 | 0001051470-17-000059 | yes | 1666.13 | 10-K | 2015-02-19 | 0001051470-15-000034 |
+| Capex | FY2014 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2017-02-22 | 0001051470-17-000059 | yes | 780.077 | 10-K | 2015-02-19 | 0001051470-15-000034 |
+| Buybacks | FY2014 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-02-22 | 0001051470-17-000059 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:SalesRevenueNet | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Buybacks | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:SalesRevenueNet | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-25 | 0001051470-19-000046 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-25 | 0001051470-19-000046 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-25 | 0001051470-19-000046 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-25 | 0001051470-19-000046 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-02-25 | 0001051470-19-000046 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:SalesRevenueNet | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-03-10 | 0001051470-20-000077 | yes | 1044.045 | 10-K | 2018-02-26 | 0001051470-18-000082 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2018-02-26 | 0001051470-18-000082 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-03-10 | 0001051470-20-000077 | yes | 1.01 | 10-K | 2018-02-26 | 0001051470-18-000082 |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-03-10 | 0001051470-20-000077 | yes | 2044.186 | 10-K | 2018-02-26 | 0001051470-18-000082 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2020-03-10 | 0001051470-20-000077 | yes | 1228.071 | 10-K | 2018-02-26 | 0001051470-18-000082 |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-03-10 | 0001051470-20-000077 | yes | 23.307 | 10-K | 2018-02-26 | 0001051470-18-000082 |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-22 | 0001051470-21-000031 | yes | 5423 | 10-K | 2019-02-25 | 0001051470-19-000046 |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-22 | 0001051470-21-000031 | yes | 1432 | 10-K | 2019-02-25 | 0001051470-19-000046 |
+| Net income | FY2018 | us-gaap:ProfitLoss | 10-K | 2021-02-22 | 0001051470-21-000031 | yes | 671 | 10-K | 2019-02-25 | 0001051470-19-000046 |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-22 | 0001051470-21-000031 | yes | 1.34 | 10-K | 2019-02-25 | 0001051470-19-000046 |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-22 | 0001051470-21-000031 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2021-02-22 | 0001051470-21-000031 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-22 | 0001051470-21-000031 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-22 | 0001051470-22-000019 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-22 | 0001051470-22-000019 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:ProfitLoss | 10-K | 2022-02-22 | 0001051470-22-000019 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-22 | 0001051470-22-000019 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-22 | 0001051470-22-000019 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2022-02-22 | 0001051470-22-000019 | yes | -2057 | 10-K | 2020-03-10 | 0001051470-20-000077 |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-22 | 0001051470-22-000019 | yes | -44 | 10-K | 2020-03-10 | 0001051470-20-000077 |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:ProfitLoss | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-24 | 0001051470-23-000041 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:ProfitLoss | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-23 | 0001051470-24-000062 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-03-14 | 0001051470-25-000089 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-03-14 | 0001051470-25-000089 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:ProfitLoss | 10-K | 2025-03-14 | 0001051470-25-000089 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-03-14 | 0001051470-25-000089 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-03-14 | 0001051470-25-000089 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-03-14 | 0001051470-25-000089 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-03-14 | 0001051470-25-000089 | yes | 65 | 10-K | 2023-02-24 | 0001051470-23-000041 |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | 6981 | 10-K | 2024-02-23 | 0001051470-24-000062 |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | 2369 | 10-K | 2024-02-23 | 0001051470-24-000062 |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | 1424 | 10-K | 2024-02-23 | 0001051470-24-000062 |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | 30 | 10-K | 2024-02-23 | 0001051470-24-000062 |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | 6568 | 10-K | 2025-03-14 | 0001051470-25-000089 |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | -2938 | 10-K | 2025-03-14 | 0001051470-25-000089 |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-23 | 0001051470-26-000016 | yes | 1222 | 10-K | 2025-03-14 | 0001051470-25-000089 |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-23 | 0001051470-26-000016 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -95,42 +233,42 @@ CROWN CASTLE INC., as it files with the SEC (CIK 0001051470): its fiscal years a
 | FY2016 Q2 | 2016 | 2 | 2016-06-30 | 962.409 |  | 231.185 | 86.058 | 0.22 | 480.525 | -199.508 | -0.106 | 0.22 |
 | FY2016 Q3 | 2016 | 3 | 2016-09-30 | 992.016 |  | 244.254 | 98.366 | 0.26 | 386.534 | -221.181 | -0.299 | 0.26 |
 | FY2016 Q4 | 2016 | 4 | 2016-12-31 | 1032.416 |  | 262.038 | 124.709 | 0.35 | 482.285 | -259.822 | -0.241 | 0.35 |
-| FY2017 Q1 | 2017 | 1 | 2017-03-31 |  |  | 257 | 119 | 0.33 | 442 | -262 | -22 | 0.33 |
-| FY2017 Q2 | 2017 | 2 | 2017-06-30 |  |  | 259 | 112 | 0.31 | 489 | -301 | -1 | 0.31 |
-| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 170 |  | 261 | 115 | 0.21 | 482 | -289 | 0 | 0.21 |
-| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 22 |  | 267 | 98 | 0.17 | 619 | 2069 | 46 | 0.17 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 113 |  | 335 | 100 | 0.18 | 452 | 370 | 33 | 0.18 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 131 |  | 335 | 170 | 0.34 | 658 | 392 | 1 | 0.34 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 156 |  | 346 | 151 | 0.3 | 663 | 477 | 0 | 0.3 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 175 |  | 367 | 201 | 0.42 | 727 | -2978 | -68 | 0.42 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 166 |  | 367 | 193 | 0.4 | 512 | 480 | 42 | 0.4 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 184 |  | 389 | 216 | 0.45 | 715 | 518 | 1 | 0.45 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 195 |  | 423 | 242 | 0.51 | 663 | -2535 | -87 | 0.51 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 126 |  | 379 | 208 | 0.43 | 808 | -520 | 0 | 0.43 |
-| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 111 |  | 364 | 185 | 0.38 | 653 | -447 | -73 | 0.38 |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 121 |  | 383 | 200 | 0.41 | 756 | -414 | -1 | 0.41 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 147 |  | 434 | 163 | 0.38 | 661 | -377 | -1 | 0.38 |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 141 |  | 682 | 508 | 1.18 | 985 | -386 | -1 | 1.18 |
-| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 116 |  | 448 | 58 | 0.13 | 584 | -302 | -67 | 0.13 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 158 |  | 505 | 334 | 0.77 | 787 | -307 | -1 | 0.77 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 167 |  | 526 | 351 | 0.81 | 684 | -283 | -1 | 0.81 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 180 |  | 523 | 353 | 0.82 | 734 | -337 | -1 | 0.82 |
-| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 166 |  | 618 | 421 | 0.97 | 558 | -281 | -63 | 0.97 |
-| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 167 |  | 593 | 421 | 0.97 | 779 | -303 | 0 | 0.97 |
-| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 178 |  | 602 | 419 | 0.97 | 701 | -337 | -1 | 0.97 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 186 |  | 612 | 414 | 0.95 | 840 | -389 | 129 | 0.95 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 149 |  | 628 | 418 | 0.97 | 606 | -341 | -28 | 0.97 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 139 |  | 667 | 455 | 1.05 | 1119 | -379 | -1 | 1.05 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 90 |  | 486 | 265 | 0.61 | 533 | -347 | 0 | 0.61 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 43 |  | 316 | 363 | 0.83 | 868 | 824 | 59 | 0.83 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 46 |  | 520 | 311 | 0.71 | 599 | -47 | -27 | 0.71 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 43 |  | 495 | 251 | 0.58 | 768 | -39 | -3 | 0.58 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 54 |  | 532 | 303 | 0.7 | 699 | -38 | -2 | 0.7 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 49 |  | 570 | -4768 | -10.97 | 877 | -52 | 65 | -10.97 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 50 |  | 521 | -464 | -1.07 | 641 | -40 | -21 | -1.07 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 52 |  | 506 | 291 | 0.67 | 832 | -40 | -2 | 0.67 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 60 |  | 525 | 323 | 0.74 | 714 | -43 | 0 | 0.74 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 53 |  | 523 | 294 | 0.67 | 870 | -59 | 46 | 0.67 |
+| FY2017 Q1 | 2017 | 1 | 2017-03-31 | 1016 |  | 257 | 119 | 0.33 | 442 | -262 | -22 | 0.33 |
+| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 1038 |  | 259 | 112 | 0.31 | 489 | -301 | -1 | 0.31 |
+| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 1063.238 |  | 261 | 115 | 0.21 | 482 | -289 | 0 | 0.21 |
+| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 1238.09 |  | 267 | 98 | 0.17 | 619 | 2069 | 46 | 0.17 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 1284 |  | 335 | 100 | 0.18 | 452 | 370 | 33 | 0.18 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 1319 |  | 335 | 170 | 0.34 | 658 | 392 | 1 | 0.34 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 1361 |  | 346 | 151 | 0.3 | 663 | 477 | 0 | 0.3 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 1406 |  | 367 | 201 | 0.42 | 727 | -2978 | -68 | 0.42 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1408 |  | 367 | 193 | 0.4 | 512 | 480 | 42 | 0.4 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1447 |  | 389 | 216 | 0.45 | 715 | 518 | 1 | 0.45 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 1482 |  | 423 | 242 | 0.51 | 663 | -2535 | -87 | 0.51 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1426 |  | 379 | 208 | 0.43 | 808 | -520 | 0 | 0.43 |
+| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 1421 |  | 364 | 185 | 0.38 | 653 | -447 | -73 | 0.38 |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 1440 |  | 383 | 200 | 0.41 | 756 | -414 | -1 | 0.41 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 1486 |  | 434 | 163 | 0.38 | 661 | -377 | -1 | 0.38 |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 1493 |  | 682 | 508 | 1.18 | 985 | -386 | -1 | 1.18 |
+| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 1485 |  | 448 | 58 | 0.13 | 584 | -302 | -67 | 0.13 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 1583 |  | 505 | 334 | 0.77 | 787 | -307 | -1 | 0.77 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 1618 |  | 526 | 351 | 0.81 | 684 | -283 | -1 | 0.81 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1654 |  | 523 | 353 | 0.82 | 734 | -337 | -1 | 0.82 |
+| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 1742 |  | 618 | 421 | 0.97 | 558 | -281 | -63 | 0.97 |
+| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 1734 |  | 593 | 421 | 0.97 | 779 | -303 | 0 | 0.97 |
+| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 1746 |  | 602 | 419 | 0.97 | 701 | -337 | -1 | 0.97 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 1764 |  | 612 | 414 | 0.95 | 840 | -389 | 129 | 0.95 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 1773 |  | 628 | 418 | 0.97 | 606 | -341 | -28 | 0.97 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 1867 |  | 667 | 455 | 1.05 | 1119 | -379 | -1 | 1.05 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 1667 |  | 486 | 265 | 0.61 | 533 | -347 | 0 | 0.61 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | -573 |  | 316 | 363 | 0.83 | 868 | 824 | 59 | 0.83 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1114 |  | 520 | 311 | 0.71 | 599 | -47 | -27 | 0.71 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1107 |  | 495 | 251 | 0.58 | 768 | -39 | -3 | 0.58 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1120 |  | 532 | 303 | 0.7 | 699 | -38 | -2 | 0.7 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1119 |  | 570 | -4768 | -10.97 | 877 | -52 | 65 | -10.97 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1061 |  | 521 | -464 | -1.07 | 641 | -40 | -21 | -1.07 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1060 |  | 506 | 291 | 0.67 | 832 | -40 | -2 | 0.67 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1072 |  | 525 | 323 | 0.74 | 714 | -43 | 0 | 0.74 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1071 |  | 523 | 294 | 0.67 | 870 | -59 | 46 | 0.67 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 49 |  | 465 | 151 | 0.34 | 509 | -57 | -25 | 0.34 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 41 |  | 470 | 94 | 0.22 | 531 | -59 | -992 | 0.22 |
 
@@ -144,12 +282,13 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2016 | us-gaap:SalesRevenueNet |
-| Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2007 | FY2017 | us-gaap:SalesRevenueNet |
+| Revenue | FY2018 | FY2025 | us-gaap:Revenues |
+| Revenue | FY2026 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2017 | us-gaap:NetIncomeLoss |
-| Net income | FY2018 | FY2021 | us-gaap:ProfitLoss |
-| Net income | FY2022 | FY2026 | us-gaap:NetIncomeLoss |
+| Net income | FY2018 | FY2022 | us-gaap:ProfitLoss |
+| Net income | FY2023 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2009 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
@@ -157,14 +296,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: CROWN CASTLE INC., Revenue tag, FY2017
+### Change: CROWN CASTLE INC., Revenue tag, FY2018
 
 - CIK: 0001051470
 - What: Revenue tag
-- Boundary: FY2017
+- Boundary: FY2018
 - Was: us-gaap:SalesRevenueNet
+- Now: us-gaap:Revenues
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: CROWN CASTLE INC., Revenue tag, FY2026
+
+- CIK: 0001051470
+- What: Revenue tag
+- Boundary: FY2026
+- Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
-- Crosswalk: FY2017 under both: 4355605000 and 521000000
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
 ### Change: CROWN CASTLE INC., Net income tag, FY2018
@@ -177,12 +326,22 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
-### Change: CROWN CASTLE INC., Net income tag, FY2022
+### Change: CROWN CASTLE INC., Net income tag, FY2023
 
 - CIK: 0001051470
 - What: Net income tag
-- Boundary: FY2022
+- Boundary: FY2023
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
-- Crosswalk: FY2022 under both: 1675000000 and 1675000000
+- Crosswalk: FY2023 under both: 1502000000 and 1502000000
+- Source: SEC EDGAR companyfacts
+
+### Change: CROWN CASTLE INC., Revenue tag kept, FY2017
+
+- CIK: 0001051470
+- What: Revenue tag kept
+- Boundary: FY2017
+- Was: us-gaap:SalesRevenueNet
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2017 under both: 4355605000 and 521000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:SalesRevenueNet for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

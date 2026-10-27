@@ -13,9 +13,9 @@
 
 TKO Group Holdings, Inc., as it files with the SEC (CIK 0001973266): its fiscal years and quarters from its XBRL filings, FY2021 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TKO Group Holdings, Inc., and how has it grown?** It sold $4.7 billion in FY2025, the 403rd most of the 488 companies with a revenue for the year, and the 54th of 75 in [Services](../Services.md). Its sales rose 358.9% from FY2021 to FY2025, 46.4% a year.
+**How large is TKO Group Holdings, Inc., and how has it grown?** It sold $4.7 billion in FY2025, the 412th most of the 487 companies with a revenue for the year, and the 55th of 75 in [Services](../Services.md). Its sales rose 358.9% from FY2021 to FY2025, 46.4% a year.
 
-**Does TKO Group Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $546 million in FY2025, 11.5% of what it sold; the median company of its sector kept 16.3%. It lost money in none of its 5 years in the book.
+**Does TKO Group Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $195 million in FY2025, 4.1% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 5 years in the book (FY2023).
 
 **Where does TKO Group Holdings, Inc.'s cash go?** From FY2021 to FY2025 its operations brought in $3.0 billion; it spent 0% of that on plant and equipment, and 38.1% on buying back its own shares.
 
@@ -27,7 +27,7 @@ TKO Group Holdings, Inc., as it files with the SEC (CIK 0001973266): its fiscal 
 > | Revenue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1031.944 | 2674.032 | 3224.796 | 4884.241 | 4735.151 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 391.137 | 532.854 | 375.78 | 30.946 | 835.015 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 273.625 | 359.578 | 175.722864 | 6.377088 | 546.289539 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 273.625 | 359.578 | -35.227 | 9.408 | 195.403 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 441.235 | 394.76 | 266.159 | 586.084 | 1285.725 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | -100 | -165 | -866.846 |  |
@@ -42,6 +42,40 @@ TKO Group Holdings, Inc., as it files with the SEC (CIK 0001973266): its fiscal 
 | FY2024 | 2024-01-01 | 2024-12-31 | 0.02 | 0.02 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 2.26 | 2.26 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-27 | 0001562762-24-000038 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-27 | 0001562762-24-000038 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:ProfitLoss | 10-K | 2024-02-27 | 0001562762-24-000038 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-27 | 0001562762-24-000038 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 8-K | 2025-05-08 | 0000950170-25-067188 | yes | 1140.147 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 8-K | 2025-05-08 | 0000950170-25-067188 | yes | 544.387 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Net income | FY2022 | us-gaap:ProfitLoss | 8-K | 2025-05-08 | 0000950170-25-067188 | yes | 389.022 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2025-05-08 | 0000950170-25-067188 | yes | 501.723 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2025-05-08 | 0000950170-25-067188 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001193125-26-071651 | yes | 1674.968 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-25 | 0001193125-26-071651 | yes | 446.663 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001193125-26-071651 | yes | 468.381 | 10-K | 2024-02-27 | 0001562762-24-000038 |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001193125-26-071651 | yes | 2804.341 | 10-K | 2025-02-26 | 0000950170-25-027778 |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-25 | 0001193125-26-071651 | yes | 282.902 | 10-K | 2025-02-26 | 0000950170-25-027778 |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001193125-26-071651 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -51,7 +85,7 @@ TKO Group Holdings, Inc., as it files with the SEC (CIK 0001973266): its fiscal 
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 306.73 |  | 146.08 |  |  | 69.699 |  |  |  |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 305.185 |  | 143.87 |  |  | 110.98 |  |  |  |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 449.058 |  | 93.837 | -21.886 | -0.26 | 66.976 |  |  | -0.26 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2163.823 |  | -8.007 | 197.608864 | -0.17 | 18.504 |  |  | -0.17 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2163.823 |  | -8.007 | -13.341 | -0.17 | 18.504 |  |  | -0.17 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1222.448 |  | -173.58 | -103.84 | -1.26 | 44.873 |  |  | -1.26 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1193.191 |  | 114.856 | 59.107 | 0.72 | 307.129 |  |  | 0.72 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1540.683 |  | 34.633 | 23.136 | 0.28 | 177.969 |  | 0 | 0.28 |
@@ -165,5 +199,5 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Boundary: FY2023
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
-- Crosswalk: FY2023 under both: 142999000 and 175722864
+- Crosswalk: FY2023 under both: 142999000 and -35227000; the new tag's figure is under half or over twice the old, or of the other sign: ProfitLoss counts the income of others in subsidiaries and consolidated funds, NetIncomeLoss only the parent's, and the line is the parent's where it is filed
 - Source: SEC EDGAR companyfacts

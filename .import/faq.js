@@ -87,13 +87,19 @@ const span = (r) => (Date.parse(r.end) - Date.parse(r.start)) / DAY;
 const isYear = (r) => r.start && span(r) >= 350 && span(r) <= 380;
 
 // A tag's rows, a unit's, each period's latest filed (or first filed).
-function rows(f, tag, { first = false } = {}) {
+function rows(f, tag, { first = false, proxy = false } = {}) {
   const node = f && f.facts['us-gaap'] && f.facts['us-gaap'][tag];
   if (!node) return [];
   const unit = node.units.USD || node.units['USD/shares'] || Object.values(node.units)[0];
   const by = new Map();
+  // a proxy statement is a source only where no tag of the line has the year from another filing, and a row a thousandth or a millionth of
+  // another for the same period is a unit slipped (DECISIONS 35): as the
+  // importer reads them, but written here again
+  const same = new Map();
+  for (const r of unit) if (r.start && r.val) { const k = `${r.start}|${r.end}`; same.set(k, [...(same.get(k) || []), r.val]); }
+  const slip = (r) => r.val && same.get(`${r.start}|${r.end}`).some((v) => [1e3, 1e6].some((m) => Math.abs(v / (r.val * m) - 1) < 0.01));
   for (const r of unit) {
-    if (!r.start) continue;
+    if (!r.start || slip(r) || (!proxy && /14A$/.test(r.form || ''))) continue;
     const k = `${r.start}|${r.end}`;
     const p = by.get(k);
     if (!p || (first ? r.filed < p.filed : r.filed > p.filed)) by.set(k, r);
@@ -144,16 +150,31 @@ function fiscalYears(f) {
 // quarter, and a tag filed only in the 10-K is a part of it (Charter's
 // RevenueFromContractWithCustomerIncludingAssessedTax, 889 million of its
 // 54,774 in FY2025). Else the first tag that files the year.
+//
+// And a tag whose year is under half of another's that is also filed in a
+// 10-Q is a sliver of it (MetLife's ASC 606 tag, 1,256 of 67,941 in FY2018):
+// the larger is the line (DECISIONS 34; the importer holds it by the tag the
+// line has run on, this by the year alone).
 function yearRow(f, tags, end) {
+  return yearRowOf(f, tags, end, false) || yearRowOf(f, tags, end, true);
+}
+function yearRowOf(f, tags, end, proxy) {
   let only = null;
+  const whole = [], any = [];
   for (const tag of tags) {
-    const all = rows(f, tag);
+    const all = rows(f, tag, { proxy });
     const r = all.find((x) => isYear(x) && x.end === end);
     if (!r) continue;
-    if (all.some((x) => x.form === '10-Q' && x.end > r.start && x.end < r.end)) return { r, tag };
+    any.push({ r, tag });
+    if (all.some((x) => x.form === '10-Q' && x.end > r.start && x.end < r.end)) { whole.push({ r, tag }); continue; }
     only ??= { r, tag };
   }
-  return only;
+  const pick = whole[0] || only;
+  if (tags === REVENUE && pick && /^RevenueFromContract/.test(pick.tag)) {
+    const big = any.find((w) => w.r.val > 2 * Math.abs(pick.r.val));
+    if (big) return { ...big, sliver: true };
+  }
+  return pick;
 }
 
 // A line item's value for a fiscal year (the year-long span the company names
@@ -275,7 +296,19 @@ function summary(t) {
     out.revenue2024 = annual(f, REVENUE, 2024);
     // each fiscal year's revenue and net income, $ millions (the reading questions)
     out.years = {};
-    for (const y of new Set(fys.values())) out.years[y] = { rev: yearValue(f, fys, REVENUE, y), ni: yearValue(f, fys, NET_INCOME, y) };
+    // a year the ASC 606 tag alone files, after a year in which it was found a
+    // sliver of another tag, and under a quarter of the line's last year, is blank
+    // (M&T's FY2023 on: 1,484 after 9,643): the importer's rule, read again
+    let sliverSeen = false, lastRev = null;
+    for (const y of [...new Set(fys.values())].sort((a, b) => a - b)) {
+      const ends = [...fys].filter(([, yy]) => yy === y).map(([e]) => e);
+      const x = ends.length === 1 ? yearRow(f, REVENUE, ends[0]) : null;
+      let rev = x ? mn(x.r.val) : null;
+      if (x && x.sliver) sliverSeen = true;
+      else if (x && sliverSeen && /^RevenueFromContract/.test(x.tag) && lastRev !== null && Math.abs(rev) < Math.abs(lastRev) * 0.25) rev = null;
+      if (rev !== null) lastRev = rev;
+      out.years[y] = { rev, ni: yearValue(f, fys, NET_INCOME, y) };
+    }
   }
   summaries.set(t, out);
   return out;

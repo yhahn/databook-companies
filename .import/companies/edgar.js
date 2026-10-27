@@ -41,14 +41,44 @@ const COLUMNS = [
   ['Buybacks', ['PaymentsForRepurchaseOfCommonStock'], -1],
 ];
 
+// A proxy statement (DEF 14A and kin) files a period again for its pay
+// against performance table, at times in the wrong scale: Con Edison's
+// DEF 14A of 2026-04-08 files its net income for 2021 to 2025 as 1,346,000,
+// a thousandth of the 10-K's 1,346,000,000, and as the latest filed it won
+// (DECISIONS 35). A figure is from a 10-K, 10-Q, 8-K, 20-F, 40-F or 6-K, never a proxy, but where no filing of the line's tags gives the year at all (cascadeYears: Booking's net income for 2021 to 2025 is in its proxy statements alone; PG&E's is in its proxy in millions and in its 10-K, as ProfitLoss, in dollars).
+const PROXY = /14A$/;
+
+// A filing that gives a period in the wrong scale: Bio-Techne's 10-K of
+// 2015-08-31 files its operating income for the year ended 2013-06-30 as
+// 158,469, the 10-Ks of 2013 and 2014 as 158,469,000 (DECISIONS 35). A row
+// whose value is a thousandth or a millionth of another row's for the same
+// period (within one part in a hundred) is the slip, and is not read.
+function slips(rows) {
+  const bad = new Set(), by = new Map();
+  for (const r of rows) {
+    if (!r.start || !r.end || !r.val) continue;
+    const k = `${r.start}|${r.end}`;
+    if (!by.has(k)) by.set(k, []);
+    by.get(k).push(r);
+  }
+  for (const rs of by.values()) {
+    for (const r of rs) {
+      if (rs.some((o) => [1e3, 1e6].some((m) => Math.abs(o.val / (r.val * m) - 1) < 0.01))) bad.add(r);
+    }
+  }
+  return bad;
+}
+
 // A tag's rows, the latest filed for each (start, end); or the first.
-function periods(facts, tag, first = false) {
+function periods(facts, tag, first = false, proxy = false) {
   const node = (facts.facts['us-gaap'] || {})[tag];
   if (!node) return [];
-  const unit = node.units.USD || node.units['USD/shares'] || Object.values(node.units)[0];
+  const unit = node.units.USD || node.units['USD/shares'] || Object.values(node.units)[0] || [];
   const by = new Map();
+  const slipped = slips(unit);
   for (const r of unit) {
     if (!r.start || !r.end) continue;
+    if (slipped.has(r) || (!proxy && PROXY.test(r.form || ''))) continue;
     const k = `${r.start}|${r.end}`;
     const prev = by.get(k);
     if (!prev || (first ? r.filed < prev.filed : r.filed > prev.filed)) by.set(k, r);
@@ -97,8 +127,8 @@ function fiscalLabels(facts) {
 
 // One tag's fiscal years: Map(label -> {start, end, fy, quarters, ends}).
 // `ends` is each quarter's last day, where known.
-function periodValues(facts, tag, label) {
-  const latest = periods(facts, tag), earliest = periods(facts, tag, true);
+function periodValues(facts, tag, label, proxy = false) {
+  const latest = periods(facts, tag, false, proxy), earliest = periods(facts, tag, true, proxy);
   let ps = latest;
   const annual = ps.filter((p) => p.days >= 350 && p.days <= 380).sort((a, b) => (a.end < b.end ? -1 : 1));
 
@@ -154,7 +184,8 @@ function periodValues(facts, tag, label) {
       if (sums(r1, a.val)) { r = r1; r.first = true; }
       ps = latest;
     }
-    years.set(label(a.start, a.end), { start: a.start, end: a.end, fy: a.val, fyFiled: a.filed, quarters: r.quarters, ends: r.ends, filed: r.filed, first: Boolean(r.first) });
+    const e0 = earliest.find((p) => p.start === a.start && p.end === a.end);
+    years.set(label(a.start, a.end), { start: a.start, end: a.end, fy: a.val, fyFiled: a.filed, fyForm: a.form, fyAccn: a.accn, first: e0 ? { val: e0.val, filed: e0.filed, form: e0.form, accn: e0.accn } : null, quarters: r.quarters, ends: r.ends, filed: r.filed, firstQuarters: Boolean(r.first) });
   }
   const last = annual[annual.length - 1];
   if (last) {
@@ -190,7 +221,7 @@ function round(v) { return Math.round(v * 10000) / 10000; }
 // revenue, FY2022 (22,237 million, net, in the year; 25,896 million,
 // before rebates, in nine months, the tag its earlier years are read
 // from: NOTES.md).
-function cascadeYears(facts, tags, label) {
+function cascadeYears(facts, tags, label, name) {
   const merged = new Map();
   const byTag = new Map();
   const derivable = (y) => y.quarters.some((v) => v !== null);
@@ -201,9 +232,12 @@ function cascadeYears(facts, tags, label) {
   };
   const take = (whole, part) => (derivable(whole) ? whole
     : { ...whole, quarters: part.quarters, ends: part.ends.map((d, i) => (i === 3 && whole.end) || d), filed: part.filed });
+  // then the proxies' rows, for a year no 10-K, 10-Q or other filing gives under any tag
+  const proxied = [];
   for (const tag of tags) {
     const years = periodValues(facts, tag, label);
     byTag.set(tag, years);
+    proxied.push([tag, periodValues(facts, tag, label, true)]);
     for (const [year, y] of years) {
       const cur = merged.get(year);
       if (!cur) { merged.set(year, { y, tag }); continue; }
@@ -212,14 +246,86 @@ function cascadeYears(facts, tags, label) {
       else if (derivable(y) && !derivable(cur.y)) merged.set(year, { y, tag });
     }
   }
-  return { merged, byTag };
+  for (const [tag, years] of proxied) {
+    for (const [year, y] of years) {
+      if (!merged.has(year) && y.fy !== null) merged.set(year, { y, tag });
+    }
+  }
+  return { merged, byTag, kept: name === 'Net income' ? [] : oneBasis(merged, byTag, tags, name) };
+}
+
+// Net income is not held to a basis: its cascade is a choice of definition,
+// NetIncomeLoss first (the part for the parent) and ProfitLoss where that is
+// not filed (all of it, with the interests of others in subsidiaries and in
+// the funds a firm consolidates). Where the two differ by more than half the
+// move is said as such in its Change (tagChanges); Erie Indemnity's
+// ProfitLoss of FY2008, -616 million, counts the Erie Insurance Exchange.
+//
+// A tag's move is a magnitude's check (DECISIONS 34). Where the cascade
+// takes a year from a tag other than the one the line has run on, the new
+// figure is held against the line's. Against the basis, where the year is
+// filed under it: a new figure under half the old or over twice it is not
+// the same line renamed (MetLife's revenue, FY2018: 67,941 under Revenues,
+// 1,256 under the ASC 606 tag, which carries a sliver of it; Ares' net
+// income, FY2014: 545.7 under ProfitLoss, 35.0 under NetIncomeLoss, the
+// part for the parent). Against the other tags of the cascade, where the
+// basis is not filed that year (Crown Castle's SalesRevenueNet ends in
+// FY2017, its total under another tag): a figure under half another tag's
+// whole year is a sliver of it. Either way the line is taken from the
+// larger tag, and runs on it for every year it is filed; the sliver is at
+// the boundary only, in a Change: [{year, was, now, a, b}]. The other tags
+// are looked at every year, not at a move alone (Interactive Brokers'
+// ASC 606 tag, 1,287 to 2,440, beside RevenuesNetOfInterestExpense, 2,7xx
+// to 6,205). A year no tag shows a sliver in is taken as the cascade took it.
+function oneBasis(merged, byTag, tags, name) {
+  const kept = [];
+  let basis = null, declined = false, last = null;
+  const slivers = new Set();
+  for (const year of [...merged.keys()].sort((a, b) => a - b)) {
+    const cur = merged.get(year);
+    // a line is held against the basis at a move; revenue, whose slivers
+    // are many (an ASC 606 tag beside the total), against every tag, every year
+    // The sliver is the ASC 606 tag's (contract revenue beside the total):
+    // another tag's move to a smaller figure is a change of definition
+    // (ConocoPhillips' FY2011, net of excise taxes; eBay's FY2014, PayPal
+    // moved to discontinued operations) and is said, not undone.
+    if (name === 'Revenue' && !/^RevenueFromContract/.test(cur.tag)) { basis = cur.tag; declined = false; continue; }
+    if (basis !== null && cur.tag === basis && name !== 'Revenue') { declined = false; continue; }
+    if (cur.y.fy !== null && cur.y.fy !== 0) {
+      let pick = null;
+      for (const t of [basis, ...(name === 'Revenue' || basis === null ? tags : [])]) {
+        if (t === null || t === cur.tag) continue;
+        const o = byTag.get(t).get(year);
+        if (!o || o.fy === null || o.fy === 0) continue;
+        const r = cur.y.fy / o.fy;
+        if (t === basis ? (r < 0.5 || r > 2) : r < 0.5) { pick = { t, o }; break; }
+      }
+      if (pick) {
+        merged.set(year, { y: pick.o, tag: pick.t });
+        if (!declined) kept.push({ year, was: pick.t, now: cur.tag, a: pick.o.fy, b: cur.y.fy, blank: [] });
+        declined = true; basis = pick.t; slivers.add(cur.tag); last = pick.o.fy;
+        continue;
+      }
+      // a sliver already found, and no total filed beside it: the year, under a
+      // quarter of the line's last (Philip Morris' net revenues of FY2023, 35,174 after 78,098
+      // gross of excise, are not a sliver), is left blank, not written as the revenue (M&T's FY2023 on: 1,484
+      // after 9,643, the total no longer filed under any tag read)
+      if (slivers.has(cur.tag) && last !== null && Math.abs(cur.y.fy) < Math.abs(last) * 0.25) {
+        kept[kept.length - 1].blank.push(year);
+        continue;
+      }
+      last = cur.y.fy;
+    }
+    basis = cur.tag; declined = false;
+  }
+  return kept;
 }
 
 // A company's ledger: its line items by fiscal year, the span, the
 // quarters in order, and the changes the facts show (D5).
 function ledger(facts) {
   const label = fiscalLabels(facts);
-  const cols = COLUMNS.map(([name, tags, sign]) => ({ name, sign, ...cascadeYears(facts, tags, label) }));
+  const cols = COLUMNS.map(([name, tags, sign]) => ({ name, sign, ...cascadeYears(facts, tags, label, name) }));
   const anchor = cols[0].merged;
   if (anchor.size === 0) return { skip: 'no us-gaap revenue (a foreign filer files IFRS, or a tag the cascade lacks)' };
   if (![...anchor.values()].some((e) => e.y.quarters.some((v) => v !== null))) {
@@ -227,9 +333,10 @@ function ledger(facts) {
   }
   const labels = [...anchor.keys()].sort((a, b) => a - b);
   const first = labels[0], last = labels[labels.length - 1];
+  const blank = (c, year) => c.kept.some((k) => k.blank.includes(year));
   const value = (c, year, q) => {
     const e = c.merged.get(year);
-    if (!e) return null;
+    if (!e || blank(c, year)) return null;
     const v = q === null ? e.y.fy : e.y.quarters[q];
     return v === null || v === undefined ? null : c.sign * v;
   };
@@ -254,9 +361,12 @@ function ledger(facts) {
   if (complete.length) {
     for (let y = complete[0]; y <= complete[complete.length - 1]; y++) {
       const a = anchor.get(y);
-      annual.push({ year: y, start: a ? a.y.start : null, end: a ? a.y.end : null, values: cols.map((c) => value(c, y, null)), epsAdjusted: adjusted(y, null) });
+      annual.push({ year: y, start: a ? a.y.start : null, end: a ? a.y.end : null, values: cols.map((c) => value(c, y, null)), epsAdjusted: adjusted(y, null), sources: cols.map((c) => (blank(c, y) ? null : figureSource(c.merged.get(y)))) });
     }
   }
+
+  // A figure far from its neighbours is a unit gone wrong, a stop and not a write
+  const stops = unitStops(cols, annual, facts.entityName, String(facts.cik).padStart(10, '0'));
 
   // Quarterly: from the first derivable quarter to the last filed
   const firstQ = labels.find((y) => anchor.get(y).y.quarters.some((v) => v !== null));
@@ -282,14 +392,60 @@ function ledger(facts) {
     inProgress: anchor.get(last).y.fy === null,
     annual, quarters, tags,
     spans: labels.map((y) => ({ year: y, start: anchor.get(y).y.start, end: anchor.get(y).y.end })),
-    splits: found,
-    changes: [...tagChanges(cols), ...yearChanges(anchor, facts), ...found.map((s) => ({
+    splits: found, stops,
+    changes: [...tagChanges(cols), ...keptChanges(cols), ...yearChanges(anchor, facts), ...found.map((s) => ({
       what: 'Shares split', year: Number(s.filed.slice(0, 4)),
       was: 'EPS filed before it, a share as it was', now: `EPS filed from ${s.filed} on, a share after a ${ratio(s.factor)} split`,
       boundary: `filings from ${s.filed}`,
       crosswalk: `${s.example}; EPS adjusted divides what was filed before by ${round(s.factor)}. Found in ${s.rests}${s.sec ? '' : '; the company files no split fact of its own for it'}`,
     }))],
   };
+}
+
+// Where each annual figure came from: the filing that gave it (the latest
+// filed), and the one that first gave the period; restated where the two
+// differ by more than half a percent (Erie Indemnity's FY2013 revenue,
+// 6,271 in the 10-Ks of 2014 and 2015, 1,297 in that of 2016). Null
+// where the year is not filed whole.
+function figureSource(e) {
+  if (!e || e.y.fy === null || !e.y.fyFiled) return null;
+  const f = e.y.first;
+  const restated = Boolean(f) && f.val !== e.y.fy && Math.abs(f.val - e.y.fy) > Math.abs(e.y.fy) * 0.005;
+  return { tag: e.tag, filed: e.y.fyFiled, form: e.y.fyForm, accn: e.y.fyAccn, restated, firstVal: restated ? f.val : null, firstFiled: restated ? f.filed : null, firstForm: restated ? f.form : null, firstAccn: restated ? f.accn : null };
+}
+
+// DECISIONS 35: an annual figure under 1/500 or over 500 times each
+// neighbour it has (the nearest year before and after with a figure, in
+// the same line, neither zero) is a stop. The importer names it and does
+// not write the page.
+// Not capex or buybacks: a company may buy back two million one year and a
+// billion the next, as Allstate did.
+const STOP_LINES = ['Revenue', 'Gross profit', 'Operating income', 'Net income', 'Operating cash flow'];
+// a stop looked at against the filing, and found true: unit-checked.json
+const CHECKED = require('./unit-checked.json').checked;
+function unitStops(cols, annual, name, cik) {
+  const out = [];
+  cols.forEach((c, i) => {
+    if (!STOP_LINES.includes(c.name)) return;
+    const near = (j, step) => { for (let k = j + step; k >= 0 && k < annual.length; k += step) { if (annual[k].values[i]) return k; } return null; };
+    const far = (v, w) => Math.abs(v) * 500 < Math.abs(w) || Math.abs(v) > Math.abs(w) * 500;
+    const odd = new Map(); // year index -> the neighbours it is far from, all of them
+    annual.forEach((a, j) => {
+      const v = a.values[i];
+      if (!v) return;
+      const ns = [near(j, -1), near(j, 1)].filter((k) => k !== null);
+      if (ns.length && ns.every((k) => far(v, annual[k].values[i]))) odd.set(j, ns);
+    });
+    // a year with one neighbour, that neighbour itself the odd one (the
+    // first and last years beside a stop), is not blamed
+    for (const [j, ns] of odd) {
+      if (ns.length === 1 && odd.has(ns[0]) && odd.get(ns[0]).length === 2) continue;
+      const a = annual[j];
+      if (CHECKED.some((k) => k.cik === cik && k.year === a.year && k.line === c.name)) continue;
+      out.push(`${name}, FY${a.year}, ${c.name}: ${a.values[i] / 1e6} million against ${ns.map((k) => annual[k].values[i] / 1e6).join(' and ')}`);
+    }
+  });
+  return out;
 }
 
 // A split, found where the filings restate what they filed before: a
@@ -482,10 +638,28 @@ function tagChanges(cols) {
       if (was === now) continue;
       const y = years[i];
       const a = c.byTag.get(was).get(y), b = c.byTag.get(now).get(y);
-      const crosswalk = a && b && a.fy !== null && b.fy !== null
+      let crosswalk = a && b && a.fy !== null && b.fy !== null
         ? `FY${y} under both: ${a.fy} and ${b.fy}`
         : 'none';
+      // a stop, said: the two tags' figures are not the same line (under half, over twice, or of two signs)
+      if (a && b && a.fy && b.fy !== null && !(b.fy / a.fy >= 0.5 && b.fy / a.fy <= 2)) {
+        crosswalk += `; the new tag's figure is under half or over twice the old, or of the other sign: ${c.name === 'Net income' ? 'ProfitLoss counts the income of others in subsidiaries and consolidated funds, NetIncomeLoss only the parent\'s, and the line is the parent\'s where it is filed' : 'a different line, not the same renamed'}`;
+      }
       out.push({ what: `${c.name} tag`, year: y, was: `us-gaap:${was}`, now: `us-gaap:${now}`, boundary: `FY${y}`, crosswalk });
+    }
+  }
+  return out;
+}
+
+// D5: a tag the cascade moved to and the line did not follow, its figure
+// under half the line's or over twice it (oneBasis): said, with both
+// figures of the boundary year; the line runs on the basis it had.
+function keptChanges(cols) {
+  const out = [];
+  for (const c of cols) {
+    for (const k of c.kept) {
+      out.push({ what: `${c.name} tag kept`, year: k.year, was: `us-gaap:${k.was}`, now: `us-gaap:${k.now}`, boundary: `FY${k.year}`,
+        crosswalk: `FY${k.year} under both: ${k.a} and ${k.b}; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:${k.was} for every year it is filed, and the new tag is here at the boundary only${k.blank.length ? `. No total is filed for ${k.blank.map((y) => 'FY' + y).join(', ')}, only the new tag's sliver, so those years are blank` : ''}` });
     }
   }
   return out;

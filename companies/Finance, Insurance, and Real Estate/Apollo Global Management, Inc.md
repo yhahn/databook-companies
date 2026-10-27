@@ -13,9 +13,9 @@
 
 Apollo Global Management, Inc., as it files with the SEC (CIK 0001858681): its fiscal years and quarters from its XBRL filings, FY2020 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Apollo Global Management, Inc., and how has it grown?** It sold $32.0 billion in FY2025, the 115th most of the 488 companies with a revenue for the year, and the 19th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 1261.5% from FY2020 to FY2025, 68.6% a year.
+**How large is Apollo Global Management, Inc., and how has it grown?** It sold $32.0 billion in FY2025, the 120th most of the 487 companies with a revenue for the year, and the 22nd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 1261.5% from FY2020 to FY2025, 68.6% a year.
 
-**Does Apollo Global Management, Inc. make money, and how much of what it sells does it keep?** It earned $3.4 billion in FY2025, 10.6% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 6 years in the book (FY2022).
+**Does Apollo Global Management, Inc. make money, and how much of what it sells does it keep?** It earned $3.5 billion in FY2025, 10.9% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 6 years in the book (FY2022).
 
 **Where does Apollo Global Management, Inc.'s cash go?** From FY2020 to FY2025 its operations brought in $20.1 billion; it spent 0% of that on plant and equipment, and 16.2% on buying back its own shares.
 
@@ -27,7 +27,7 @@ Apollo Global Management, Inc., as it files with the SEC (CIK 0001858681): its f
 > | Revenue |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2354 | 5951 | 10968 | 32644 | 26114 | 32049 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 157 | 1802 | -1961 | 5001 | 4480 | 3395 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 157 | 1839 | -1961 | 5047 | 4577 | 3492 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -1616 | 1064 | 3789 | 6322 | 3253 | 7246 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  | -92 | -299 | -635 | -561 | -890 | -773 |  |
@@ -43,6 +43,43 @@ Apollo Global Management, Inc., as it files with the SEC (CIK 0001858681): its f
 | FY2024 | 2024-01-01 | 2024-12-31 | 7.33 | 7.33 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 5.54 | 5.54 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-03-01 | 0001858681-23-000007 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-03-01 | 0001858681-23-000007 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-03-01 | 0001858681-23-000007 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-03-01 | 0001858681-23-000007 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-03-01 | 0001858681-23-000007 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-27 | 0001858681-24-000031 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-27 | 0001858681-24-000031 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-27 | 0001858681-24-000031 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-27 | 0001858681-24-000031 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-27 | 0001858681-24-000031 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-24 | 0001858681-25-000034 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-24 | 0001858681-25-000034 | yes | -3213 | 10-K | 2023-03-01 | 0001858681-23-000007 |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-24 | 0001858681-25-000034 | yes | -5.57 | 10-K | 2023-03-01 | 0001858681-23-000007 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-24 | 0001858681-25-000034 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-24 | 0001858681-25-000034 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001858681-26-000013 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -50,7 +87,7 @@ Apollo Global Management, Inc., as it files with the SEC (CIK 0001858681): its f
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 2295 |  |  | 679 | 2.81 | -229 |  | 0 | 2.81 |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 1383 |  |  | 658 | 2.7 | 1322 |  | -123 | 2.7 |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 1078 |  |  | 258 | 1.01 | 1044 |  | -78 | 1.01 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1195 |  |  | 207 | 0.85 | -1073 |  | -98 | 0.85 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1195 |  |  | 244 | 0.85 | -1073 |  | -98 | 0.85 |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 862 |  |  | -401 | -0.7 | -3993 |  | -226 | -0.7 |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 2286 |  |  | -1637 | -2.82 | 3973 |  | -211 | -2.82 |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 2979 |  |  | -563 | -0.98 | 2344 |  | -26 | -0.98 |
@@ -58,15 +95,15 @@ Apollo Global Management, Inc., as it files with the SEC (CIK 0001858681): its f
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 5301 |  |  | 1010 | 1.66 | 1071 |  | -458 | 1.66 |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 13702 |  |  | 599 | 1 | 3551 |  | -77 | 1 |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 2595 |  |  | 682 | 1.1 | -364 |  | 0 | 1.1 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 11046 |  |  | 2710 | 4.53 | 2064 |  | -26 | 4.53 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 11046 |  |  | 2756 | 4.53 | 2064 |  | -26 | 4.53 |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 7040 |  |  | 1427 | 2.28 | 70 |  | -260 | 2.28 |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 6018 |  |  | 853 | 1.35 | 1333 |  | -75 | 1.35 |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 7773 |  |  | 811 | 1.29 | 1854 |  | -453 | 1.29 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 5283 |  |  | 1389 | 2.39 | -4 |  | -102 | 2.39 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 5283 |  |  | 1486 | 2.39 | -4 |  | -102 | 2.39 |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 5548 |  |  | 442 | 0.68 | 1012 |  | -193 | 0.68 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 6814 |  |  | 630 | 0.99 | 1262 |  | 0 | 0.99 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 9823 |  |  | 1736 | 2.78 | 303 |  | -340 | 2.78 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 9864 |  |  | 587 | 1.07 | 4669 |  | -240 | 1.07 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 9864 |  |  | 684 | 1.07 | 4669 |  | -240 | 1.07 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 5059 |  |  | -1906 | -3.27 | 1620 |  | -632 | -3.27 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 11153 |  |  | 1361 | 2.15 | 2881 |  | -97 | 2.15 |
 

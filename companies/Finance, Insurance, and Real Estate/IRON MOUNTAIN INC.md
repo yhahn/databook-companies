@@ -13,9 +13,9 @@
 
 IRON MOUNTAIN INC, as it files with the SEC (CIK 0001020569): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is IRON MOUNTAIN INC, and how has it grown?** It sold $6.9 billion in FY2025, the 349th most of the 488 companies with a revenue for the year, and the 51st of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 96.5% from FY2016 to FY2025, 7.8% a year.
+**How large is IRON MOUNTAIN INC, and how has it grown?** It sold $6.9 billion in FY2025, the 358th most of the 487 companies with a revenue for the year, and the 59th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 96.5% from FY2016 to FY2025, 7.8% a year.
 
-**Does IRON MOUNTAIN INC make money, and how much of what it sells does it keep?** It earned $152 million in FY2025, 2.2% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 10 years in the book.
+**Does IRON MOUNTAIN INC make money, and how much of what it sells does it keep?** It earned $152 million in FY2025, 2.2% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 10 years in the book.
 
 **Where does IRON MOUNTAIN INC's cash go?** From FY2016 to FY2025 its operations brought in $9.5 billion; it spent 96.4% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -24,7 +24,7 @@ IRON MOUNTAIN INC, as it files with the SEC (CIK 0001020569): its fiscal years a
 > [!CARD:line] IRON MOUNTAIN INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 3511.453 | 3845.578 | 1603.306 | 1581.497 | 4147.27 | 4491.531 | 5103.574 | 5480.289 | 6149.909 | 6901.737 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 3511.453 | 3845.578 | 4225.761 | 4262.584 | 4147.27 | 4491.531 | 5103.574 | 5480.289 | 6149.909 | 6901.737 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 501.606 | 634.051 | 808.267 | 781.338 | 934.785 | 854.172 | 1049.871 | 921.778 | 1009.519 | 1163.822 |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 107.233 | 171.724 | 355.131 | 268.315 | 343.096 | 452.725 | 562.149 | 187.263 | 183.666 | 152.254 |  |
@@ -47,6 +47,73 @@ IRON MOUNTAIN INC, as it files with the SEC (CIK 0001020569): its fiscal years a
 | FY2024 | 2024-01-01 | 2024-12-31 | 0.61 | 0.61 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 0.49 | 0.49 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-14 | 0001020569-19-000018 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-14 | 0001020569-19-000018 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:ProfitLoss | 10-K | 2019-02-14 | 0001020569-19-000018 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-14 | 0001020569-19-000018 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-14 | 0001020569-19-000018 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-14 | 0001020569-19-000018 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-13 | 0001020569-20-000029 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-13 | 0001020569-20-000029 | yes | 649.109 | 10-K | 2018-02-16 | 0001020569-18-000006 |
+| Net income | FY2017 | us-gaap:ProfitLoss | 10-K | 2020-02-13 | 0001020569-20-000029 | yes | 185.432 | 10-K | 2018-02-16 | 0001020569-18-000006 |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-13 | 0001020569-20-000029 | yes | 0.69 | 10-K | 2018-02-16 | 0001020569-18-000006 |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-13 | 0001020569-20-000029 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-13 | 0001020569-20-000029 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-24 | 0001020569-21-000067 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-24 | 0001020569-21-000067 | yes | 755.508 | 10-K | 2019-02-14 | 0001020569-19-000018 |
+| Net income | FY2018 | us-gaap:ProfitLoss | 10-K | 2021-02-24 | 0001020569-21-000067 | yes | 364.549 | 10-K | 2019-02-14 | 0001020569-19-000018 |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-24 | 0001020569-21-000067 | yes | 1.27 | 10-K | 2019-02-14 | 0001020569-19-000018 |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-24 | 0001020569-21-000067 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-02-24 | 0001020569-21-000067 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 8-K | 2022-08-04 | 0001020569-22-000169 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 8-K | 2022-08-04 | 0001020569-22-000169 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:ProfitLoss | 8-K | 2022-08-04 | 0001020569-22-000169 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 8-K | 2022-08-04 | 0001020569-22-000169 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2022-08-04 | 0001020569-22-000169 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 8-K | 2022-08-04 | 0001020569-22-000169 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-23 | 0001020569-23-000043 | yes | 1393.179 | 10-K | 2021-02-24 | 0001020569-21-000067 |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-23 | 0001020569-23-000043 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:ProfitLoss | 10-K | 2023-02-23 | 0001020569-23-000043 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-23 | 0001020569-23-000043 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-23 | 0001020569-23-000043 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-23 | 0001020569-23-000043 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-22 | 0001020569-24-000040 | yes | 1621.412 | 10-K | 2022-02-24 | 0001020569-22-000035 |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-22 | 0001020569-24-000040 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:ProfitLoss | 10-K | 2024-02-22 | 0001020569-24-000040 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-22 | 0001020569-24-000040 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-22 | 0001020569-24-000040 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-02-22 | 0001020569-24-000040 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-14 | 0001020569-25-000040 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-14 | 0001020569-25-000040 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:ProfitLoss | 10-K | 2025-02-14 | 0001020569-25-000040 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-14 | 0001020569-25-000040 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-14 | 0001020569-25-000040 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-02-14 | 0001020569-25-000040 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:ProfitLoss | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:ProfitLoss | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:ProfitLoss | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0001020569-26-000013 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -55,14 +122,14 @@ IRON MOUNTAIN INC, as it files with the SEC (CIK 0001020569): its fiscal years a
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 949.806 |  | 170.194 | 81.122 | 0.3 | 197.84 | -92.005 |  | 0.3 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 965.661 |  | 176.756 | 24.324 | 0.09 | 199.192 | -78.539 |  | 0.09 |
 | FY2017 Q4 | 2017 | 4 | 2017-12-31 | 991.235 |  | 154.405 | 21.479 | 0.08 | 202.099 | -99.385 |  | 0.08 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 1042.458 |  | 157.119 | 38.927 | 0.13 | 91.568 | -95.605 |  | 0.13 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 1060.823 |  | 201.46 | 91.903 | 0.32 | 301.761 | -121.996 |  | 0.32 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 1060.991 |  | 195.635 | 65.744 | 0.23 | 231.214 | -112.352 |  | 0.23 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 1061.489 |  | 254.053 | 158.557 | 0.55 | 311.006 | -130.109 |  | 0.55 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 |  |  | 157.119 | 38.927 | 0.13 | 91.568 | -95.605 |  | 0.13 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 |  |  | 201.46 | 91.903 | 0.32 | 301.761 | -121.996 |  | 0.32 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 |  |  | 195.635 | 65.744 | 0.23 | 231.214 | -112.352 |  | 0.23 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 |  |  | 254.053 | 158.557 | 0.55 | 311.006 | -130.109 |  | 0.55 |
 | FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1053.863 |  | 158.675 | 30.452 | 0.1 | 117.067 | -184.765 |  | 0.1 |
 | FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1066.907 |  | 193.115 | 92.475 | 0.32 | 312.664 | -182.366 |  | 0.32 |
 | FY2019 Q3 | 2019 | 3 | 2019-09-30 | 1062.224 |  | 223.474 | 108.284 | 0.37 | 218.414 | -166.483 |  | 0.37 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | -1601.497 |  | 206.074 | 37.104 | 0.13 | 318.51 | -159.369 |  | 0.13 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1079.59 |  | 206.074 | 37.104 | 0.13 | 318.51 | -159.369 |  | 0.13 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 385.184 |  | 137.502 | 64.892 | 0.22 | 125.415 | -97.144 |  | 0.22 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 | 305.283 |  | 131.726 | -7.113 | -0.02 | 313.659 | -103.014 |  | -0.02 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 | 340.353 |  | 240.264 | 38.562 | 0.13 | 188.144 | -109.004 |  | 0.13 |
@@ -175,7 +242,9 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2016 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2016 | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2018 | FY2019 | us-gaap:Revenues |
+| Revenue | FY2020 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2008 | FY2026 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2008 | FY2010 | us-gaap:NetIncomeLoss |
 | Net income | FY2011 | FY2026 | us-gaap:ProfitLoss |
@@ -186,6 +255,26 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
+### Change: IRON MOUNTAIN INC, Revenue tag, FY2018
+
+- CIK: 0001020569
+- What: Revenue tag
+- Boundary: FY2018
+- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Now: us-gaap:Revenues
+- Crosswalk: FY2018 under both: 1603306000 and 4225761000; the new tag's figure is under half or over twice the old, or of the other sign: a different line, not the same renamed
+- Source: SEC EDGAR companyfacts
+
+### Change: IRON MOUNTAIN INC, Revenue tag, FY2020
+
+- CIK: 0001020569
+- What: Revenue tag
+- Boundary: FY2020
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2020 under both: 4147270000 and 4147270000
+- Source: SEC EDGAR companyfacts
+
 ### Change: IRON MOUNTAIN INC, Net income tag, FY2011
 
 - CIK: 0001020569
@@ -194,4 +283,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: IRON MOUNTAIN INC, Revenue tag kept, FY2018
+
+- CIK: 0001020569
+- What: Revenue tag kept
+- Boundary: FY2018
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 4225761000 and 1603306000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

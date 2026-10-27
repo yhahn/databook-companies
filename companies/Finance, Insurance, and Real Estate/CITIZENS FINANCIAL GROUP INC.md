@@ -13,9 +13,9 @@
 
 CITIZENS FINANCIAL GROUP INC, as it files with the SEC (CIK 0000759944): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CITIZENS FINANCIAL GROUP INC, and how has it grown?** It sold $1.6 billion in FY2025, the 473rd most of the 488 companies with a revenue for the year, and the 79th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 66.1% from FY2015 to FY2025, −10.3% a year.
+**How large is CITIZENS FINANCIAL GROUP INC, and how has it grown?** It sold $8.2 billion in FY2025, the 332nd most of the 487 companies with a revenue for the year, and the 54th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 71% from FY2015 to FY2025, 5.5% a year.
 
-**Does CITIZENS FINANCIAL GROUP INC make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 112% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 14 years in the book (FY2013).
+**Does CITIZENS FINANCIAL GROUP INC make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 22.2% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 14 years in the book (FY2013).
 
 **Where does CITIZENS FINANCIAL GROUP INC's cash go?** From FY2016 to FY2025 its operations brought in $20.5 billion; it spent 3.7% of that on plant and equipment, and 33% on buying back its own shares.
 
@@ -24,7 +24,7 @@ CITIZENS FINANCIAL GROUP INC, as it files with the SEC (CIK 0000759944): its fis
 > [!CARD:line] CITIZENS FINANCIAL GROUP INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  | 4894 | 4690 | 4979 | 4824 | 5255 | 5707 | 1119 | 1172 | 1080 | 1325 | 1299 | 1266 | 1533 | 1635 |  |
+> | Revenue |  |  |  |  |  |  | 4894 | 4690 | 4979 | 4824 | 5255 | 5707 | 6128 | 6491 | 6905 | 6647 | 8021 | 8224 | 7809 | 8247 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  | 643 | -3426 | 865 | 840 | 1045 | 1652 | 1721 | 1791 | 1057 | 2319 | 2073 | 1608 | 1509 | 1831 |  |
@@ -51,6 +51,91 @@ CITIZENS FINANCIAL GROUP INC, as it files with the SEC (CIK 0000759944): its fis
 | FY2024 | 2024-01-01 | 2024-12-31 | 3.03 | 3.03 |
 | FY2025 | 2025-01-01 | 2025-12-31 | 3.86 | 3.86 |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-03-03 | 0000759944-15-000016 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-03-03 | 0000759944-15-000016 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-03-03 | 0000759944-15-000016 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-03-03 | 0000759944-15-000016 |  |  |  |  |  |
+| Capex | FY2012 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2015-03-03 | 0000759944-15-000016 |  |  |  |  |  |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2015-03-03 | 0000759944-15-000016 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-26 | 0000759944-16-000099 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-26 | 0000759944-16-000099 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-26 | 0000759944-16-000099 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2016-02-26 | 0000759944-16-000099 |  |  |  |  |  |
+| Capex | FY2013 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2016-02-26 | 0000759944-16-000099 |  |  |  |  |  |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2016-02-26 | 0000759944-16-000099 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-24 | 0000759944-17-000012 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-24 | 0000759944-17-000012 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-24 | 0000759944-17-000012 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-02-24 | 0000759944-17-000012 |  |  |  |  |  |
+| Capex | FY2014 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2017-02-24 | 0000759944-17-000012 |  |  |  |  |  |
+| Buybacks | FY2014 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-02-24 | 0000759944-17-000012 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-02-22 | 0000759944-18-000016 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-22 | 0000759944-18-000016 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-02-22 | 0000759944-18-000016 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-02-22 | 0000759944-18-000016 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2018-02-22 | 0000759944-18-000016 |  |  |  |  |  |
+| Buybacks | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2018-02-22 | 0000759944-18-000016 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-24 | 0000759944-20-000030 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-24 | 0000759944-20-000030 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-24 | 0000759944-20-000030 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-24 | 0000759944-20-000030 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-24 | 0000759944-20-000030 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2021-02-23 | 0000759944-21-000034 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-23 | 0000759944-21-000034 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-23 | 0000759944-21-000034 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-23 | 0000759944-21-000034 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-21 | 0000759944-19-000024 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-23 | 0000759944-21-000034 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-23 | 0000759944-22-000025 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-23 | 0000759944-22-000025 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-23 | 0000759944-22-000025 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-23 | 0000759944-22-000025 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-24 | 0000759944-20-000030 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-23 | 0000759944-22-000025 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-17 | 0000759944-23-000029 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-17 | 0000759944-23-000029 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-17 | 0000759944-23-000029 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-17 | 0000759944-23-000029 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-17 | 0000759944-23-000029 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-16 | 0000759944-24-000039 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-16 | 0000759944-24-000039 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-16 | 0000759944-24-000039 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-16 | 0000759944-24-000039 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-16 | 0000759944-24-000039 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-13 | 0000759944-25-000013 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-13 | 0000759944-25-000013 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-13 | 0000759944-25-000013 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-13 | 0000759944-25-000013 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-13 | 0000759944-25-000013 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0000759944-26-000028 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -73,38 +158,38 @@ CITIZENS FINANCIAL GROUP INC, as it files with the SEC (CIK 0000759944): its fis
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 1396 |  |  | 318 | 0.63 | -316 | -50 | -130 | 0.63 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 1443 |  |  | 348 | 0.68 | 913 | -51 | -225 | 0.68 |
 | FY2017 Q4 | 2017 | 4 | 2017-12-31 | 1484 |  |  | 666 | 1.33 | 433 | -138 | -335 | 1.33 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 |  |  |  | 388 | 0.78 | 704 | -32 | -175 | 0.78 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 283 |  |  | 425 | 0.88 | 711 | -62 | -150 | 0.88 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 285 |  |  | 443 | 0.91 | -208 | -63 | -400 | 0.91 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 286 |  |  | 465 | 0.95 | 560 | -75 | -300 | 0.95 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 280 |  |  | 439 | 0.92 | 472 | -16 | -200 | 0.92 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 298 |  |  | 453 | 0.95 | 105 | -25 | -120 | 0.95 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 285 |  |  | 449 | 0.97 | 393 | -37 | -500 | 0.97 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 309 |  |  | 450 | 0.98 | 727 |  | -400 | 0.98 |
-| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 294 |  |  | 34 | 0.03 | -1327 |  | -270 | 0.03 |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 227 |  |  | 253 | 0.53 | -86 |  | 0 | 0.53 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 258 |  |  | 314 | 0.68 | 658 |  | 0 | 0.68 |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 301 |  |  | 456 | 0.99 | 866 |  | 0 | 0.99 |
-| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 285 |  |  | 611 | 1.37 | -690 |  | -95 | 1.37 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 310 |  |  | 648 | 1.44 | 580 |  | 0 | 1.44 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 307 |  |  | 530 | 1.18 | 1280 |  | 0 | 1.18 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 423 |  |  | 530 | 1.17 | 1105 |  | -200 | 1.17 |
-| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 300 |  |  | 420 | 0.93 | 1554 |  | 0 | 0.93 |
-| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 339 |  |  | 364 | 0.67 | -1876 |  | -2 | 0.67 |
-| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 322 |  |  | 636 | 1.23 | 3000 |  | 0 | 1.23 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 338 |  |  | 653 | 1.26 | 1441 |  | -151 | 1.26 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 309 |  |  | 511 | 1 | 1154 |  | -400 | 1 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 323 |  |  | 478 | 0.92 | 122 |  | -256 | 0.92 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 310 |  |  | 430 | 0.85 | 1015 |  | -250 | 0.85 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 324 |  |  | 189 | 0.35 | 670 |  | 0 | 0.35 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 367 |  |  | 334 | 0.65 | 554 |  | -300 | 0.65 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 402 |  |  | 392 | 0.78 | 834 |  | -200 | 0.78 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 367 |  |  | 382 | 0.77 | 130 |  | -325 | 0.77 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 397 |  |  | 401 | 0.83 | 483 |  | -225 | 0.83 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 367 |  |  | 373 | 0.77 | -213 |  | -200 | 0.77 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 383 |  |  | 436 | 0.92 | 886 |  | -200 | 0.92 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 452 |  |  | 494 | 1.05 | 1696 |  | -75 | 1.05 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 433 |  |  | 528 | 1.12 | -158 |  | -125 | 1.12 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 1462 |  |  | 388 | 0.78 | 704 | -32 | -175 | 0.78 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 1509 |  |  | 425 | 0.88 | 711 | -62 | -150 | 0.88 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 1564 |  |  | 443 | 0.91 | -208 | -63 | -400 | 0.91 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 1593 |  |  | 465 | 0.95 | 560 | -75 | -300 | 0.95 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1588 |  |  | 439 | 0.92 | 472 | -16 | -200 | 0.92 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1628 |  |  | 453 | 0.95 | 105 | -25 | -120 | 0.95 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 1638 |  |  | 449 | 0.97 | 393 | -37 | -500 | 0.97 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1637 |  |  | 450 | 0.98 | 727 |  | -400 | 0.98 |
+| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 1657 |  |  | 34 | 0.03 | -1327 |  | -270 | 0.03 |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 1750 |  |  | 253 | 0.53 | -86 |  | 0 | 0.53 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 1791 |  |  | 314 | 0.68 | 658 |  | 0 | 0.68 |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 1707 |  |  | 456 | 0.99 | 866 |  | 0 | 0.99 |
+| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 1659 |  |  | 611 | 1.37 | -690 |  | -95 | 1.37 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 1609 |  |  | 648 | 1.44 | 580 |  | 0 | 1.44 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 1659 |  |  | 530 | 1.18 | 1280 |  | 0 | 1.18 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1720 |  |  | 530 | 1.17 | 1105 |  | -200 | 1.17 |
+| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 1645 |  |  | 420 | 0.93 | 1554 |  | 0 | 0.93 |
+| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 1999 |  |  | 364 | 0.67 | -1876 |  | -2 | 0.67 |
+| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 2177 |  |  | 636 | 1.23 | 3000 |  | 0 | 1.23 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 2200 |  |  | 653 | 1.26 | 1441 |  | -151 | 1.26 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 2128 |  |  | 511 | 1 | 1154 |  | -400 | 1 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 2094 |  |  | 478 | 0.92 | 122 |  | -256 | 0.92 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 2014 |  |  | 430 | 0.85 | 1015 |  | -250 | 0.85 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 1988 |  |  | 189 | 0.35 | 670 |  | 0 | 0.35 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1959 |  |  | 334 | 0.65 | 554 |  | -300 | 0.65 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 1963 |  |  | 392 | 0.78 | 834 |  | -200 | 0.78 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1901 |  |  | 382 | 0.77 | 130 |  | -325 | 0.77 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1986 |  |  | 401 | 0.83 | 483 |  | -225 | 0.83 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1935 |  |  | 373 | 0.77 | -213 |  | -200 | 0.77 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 2037 |  |  | 436 | 0.92 | 886 |  | -200 | 0.92 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 2118 |  |  | 494 | 1.05 | 1696 |  | -75 | 1.05 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 2157 |  |  | 528 | 1.12 | -158 |  | -125 | 1.12 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 415 |  |  | 517 | 1.13 | 237 |  | -300 | 1.13 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 451 |  |  | 587 | 1.3 | 726 |  | -225 | 1.3 |
 
@@ -118,8 +203,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2012 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2012 | FY2025 | us-gaap:Revenues |
+| Revenue | FY2026 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Net income | FY2012 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2012 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2012 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
@@ -129,14 +214,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: CITIZENS FINANCIAL GROUP INC, Revenue tag, FY2018
+### Change: CITIZENS FINANCIAL GROUP INC, Revenue tag, FY2026
 
 - CIK: 0000759944
 - What: Revenue tag
-- Boundary: FY2018
+- Boundary: FY2026
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
-- Crosswalk: FY2018 under both: 6128000000 and 1119000000
+- Crosswalk: none
 - Source: SEC EDGAR companyfacts
 
 ### Change: CITIZENS FINANCIAL GROUP INC, Capex tag, FY2019
@@ -147,4 +232,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: CITIZENS FINANCIAL GROUP INC, Revenue tag kept, FY2018
+
+- CIK: 0000759944
+- What: Revenue tag kept
+- Boundary: FY2018
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 6128000000 and 1119000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

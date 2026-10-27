@@ -13,9 +13,9 @@
 
 WESTERN DIGITAL CORP, as it files with the SEC (CIK 0000106040): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WESTERN DIGITAL CORP, and how has it grown?** It sold $9.5 billion in FY2025, the 297th most of the 488 companies with a revenue for the year, and the 122nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 50.1% from FY2017 to FY2025, −8.3% a year.
+**How large is WESTERN DIGITAL CORP, and how has it grown?** It sold $9.5 billion in FY2025, the 305th most of the 487 companies with a revenue for the year, and the 122nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 50.1% from FY2017 to FY2025, −8.3% a year.
 
-**Does WESTERN DIGITAL CORP make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 17.3% of what it sold; the median company of its sector kept 11.7%. It lost money in 4 of its 10 years in the book (FY2019, FY2020, FY2023, FY2024).
+**Does WESTERN DIGITAL CORP make money, and how much of what it sells does it keep?** It earned $1.9 billion in FY2025, 19.8% of what it sold; the median company of its sector kept 11.8%. It lost money in 4 of its 10 years in the book (FY2019, FY2020, FY2023, FY2024).
 
 **Where does WESTERN DIGITAL CORP's cash go?** From FY2017 to FY2025 its operations brought in $14.8 billion; it spent 46.8% of that on plant and equipment, and 8.8% on buying back its own shares.
 
@@ -27,7 +27,7 @@ WESTERN DIGITAL CORP, as it files with the SEC (CIK 0000106040): its fiscal year
 > | Revenue |  |  |  |  |  |  |  |  |  |  |  | 19093 | 20647 | 16569 | 16736 | 16922 | 18793 | 6255 | 6317 | 9520 | 12919 |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  | 6072 | 7705 | 3752 | 3781 | 4521 | 5874 | 1391 | 1773 | 3692 | 6311 |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  | 1954 | 3617 | 87 | 335 | 1220 | 2391 | -548 | -403 | 2334 | 4453 |
-> | Net income |  |  |  |  |  |  |  |  |  |  |  | 397 | 675 | -754 | -250 | 821 | 1546 | -902 | -765 | 1643 | 9424 |
+> | Net income |  |  |  |  |  |  |  |  |  |  |  | 397 | 675 | -754 | -250 | 821 | 1546 | -1684 | -798 | 1889 | 9424 |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  | 3437 | 4205 | 1547 | 824 | 1898 | 1880 | -408 | -294 | 1691 | 3929 |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  | -578 | -835 | -876 | -647 | -1146 | -1122 | -821 | -487 | -412 | -418 |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  | 0 | -591 | -563 | 0 | 0 |  | 0 | 0 | -149 | -2592 |
@@ -46,6 +46,92 @@ WESTERN DIGITAL CORP, as it files with the SEC (CIK 0000106040): its fiscal year
 | FY2024 | 2023-07-01 | 2024-06-28 | -2.61 | -2.61 |
 | FY2025 | 2024-06-29 | 2025-06-27 | 5.12 | 5.12 |
 | FY2026 | 2025-06-28 | 2026-07-03 | 24.28 | 24.28 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Gross profit | FY2017 | us-gaap:GrossProfit | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-08-27 | 0000106040-19-000058 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Gross profit | FY2018 | us-gaap:GrossProfit | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-08-28 | 0000106040-20-000049 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Gross profit | FY2019 | us-gaap:GrossProfit | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| Gross profit | FY2020 | us-gaap:GrossProfit | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-08-25 | 0000106040-22-000055 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| Gross profit | FY2021 | us-gaap:GrossProfit | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-08-22 | 0000106040-23-000024 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-08-27 | 0000106040-21-000040 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-08-20 | 0000106040-24-000031 |  |  |  |  |  |
+| Gross profit | FY2022 | us-gaap:GrossProfit | 10-K | 2024-08-20 | 0000106040-24-000031 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2024-08-20 | 0000106040-24-000031 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2024-08-20 | 0000106040-24-000031 | yes | 1500 | 10-K | 2022-08-25 | 0000106040-22-000055 |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-08-20 | 0000106040-24-000031 | yes | 4.75 | 10-K | 2022-08-25 | 0000106040-22-000055 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-08-20 | 0000106040-24-000031 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2024-08-20 | 0000106040-24-000031 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-08-14 | 0000106040-25-000038 | yes | 12318 | 10-K | 2023-08-22 | 0000106040-23-000024 |
+| Gross profit | FY2023 | us-gaap:GrossProfit | 10-K | 2025-08-14 | 0000106040-25-000038 | yes | 1887 | 10-K | 2023-08-22 | 0000106040-23-000024 |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2025-08-14 | 0000106040-25-000038 | yes | -1285 | 10-K | 2023-08-22 | 0000106040-23-000024 |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2025-08-14 | 0000106040-25-000038 | yes | -1706 | 10-K | 2023-08-22 | 0000106040-23-000024 |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-08-14 | 0000106040-25-000038 | yes | -5.44 | 10-K | 2023-08-22 | 0000106040-23-000024 |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-08-14 | 0000106040-25-000038 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-08-14 | 0000106040-25-000038 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-08-14 | 0000106040-25-000038 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-08-14 | 0001628280-26-057139 | yes | 13003 | 10-K | 2024-08-20 | 0000106040-24-000031 |
+| Gross profit | FY2024 | us-gaap:GrossProfit | 10-K | 2026-08-14 | 0001628280-26-057139 | yes | 2945 | 10-K | 2024-08-20 | 0000106040-24-000031 |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-14 | 0001628280-26-057139 | yes | -317 | 10-K | 2024-08-20 | 0000106040-24-000031 |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Revenue | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Gross profit | FY2026 | us-gaap:GrossProfit | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Operating income | FY2026 | us-gaap:OperatingIncomeLoss | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Net income | FY2026 | us-gaap:NetIncomeLoss | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| EPS diluted | FY2026 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Operating cash flow | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
+| Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-14 | 0001628280-26-057139 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -74,7 +160,7 @@ WESTERN DIGITAL CORP, as it files with the SEC (CIK 0000106040): its fiscal year
 | FY2023 Q1 | 2023 | 1 | 2022-09-30 | 3736 | 981 | 158 | 47 | 0.08 | 6 | -320 |  | 0.08 |
 | FY2023 Q2 | 2023 | 2 | 2022-12-30 | 3107 | 528 | -321 | -451 | -1.42 | 35 | -258 |  | -1.42 |
 | FY2023 Q3 | 2023 | 3 | 2023-03-31 | 2803 | 286 | -472 | -571 | -1.82 | -381 | -124 |  | -1.82 |
-| FY2023 Q4 | 2023 | 4 | 2023-06-30 | -3391 | -404 | 87 | 73 | -2.28 | -68 | -119 |  | -2.28 |
+| FY2023 Q4 | 2023 | 4 | 2023-06-30 | -3391 | -404 | 87 | -709 | -2.28 | -68 | -119 |  | -2.28 |
 | FY2024 Q1 | 2024 | 1 | 2023-09-29 | 1194 | 244 | -596 | -685 | -2.17 | -626 | -124 |  | -2.17 |
 | FY2024 Q2 | 2024 | 2 | 2023-12-29 | 1367 | 313 | -210 | -287 | -0.92 | -92 | -150 |  | -0.92 |
 | FY2024 Q3 | 2024 | 3 | 2024-03-29 | 1752 | 519 | 94 | 135 | 0.35 | 58 | -97 |  | 0.35 |

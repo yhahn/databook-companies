@@ -619,3 +619,59 @@ words.
 In short: 88 lost years back (22 of the 23), faq.js's holes mended, a
 sector held exactly and 21 values in all, and a larger fault found:
 the cascade reads a part for 89 companies' revenue.
+
+# Notes: the mend (deputy, 10-27)
+
+## Asked
+
+Four faults a break hunt (the seat's, 10-27) found in the importer's own pages: (1) revenue falling by half at a tag move (28 companies), (2) net income in billions, (3) Erie Indemnity's restated FY2013, (4) Ares' net income tag flipping. Verify, mend, add vectors, rebuild all 493, re-count the README's and FAQ's numbers. No push, no merge.
+
+## Made
+
+Branch `mend` (worktree `.claude/worktrees/mend`), from main 1f7fa4c; one commit. Changed: `.import/companies/edgar.js` (the cascade), `import.js`, `faq.js`, `unit-checked.json`, eight vectors (`vectors/cut.js`; the 12 older vectors differ only by the new table, checked), tests, DECISIONS 34-36, and every page the rebuild writes.
+
+| | Written | Gathered / checked |
+|---|---|---|
+| Companies | 493 of 500, 7 listed | 493 (target.js: every check held) |
+| Pages | 501 | 501 |
+| Changes | 1,460 (was 1,423): +33 `Revenue tag kept`, +5 operating cash flow, +6 capex `tag kept`, less the moves now not made | 1,460 |
+| Tests | 55 pass (import 41, faq 14) | |
+
+Company-years changed (annual card, against main): 473 in 110 companies, 485 cells: net income 303, revenue 169 (of which 2 now blank, M&T FY2024 and FY2025), capex 6, operating cash flow 6, operating income 1. Of the net income cells: 25 in 5 companies were a thousandth or a millionth (the units fault), 180 in 52 were a proxy's figure rounded to a tenth of a billion, 98 in 32 a proxy's different definition.
+
+## Faults, one by one
+
+1. **Revenue.** Verified (MetLife 62,308 then 1,256). Cause: the cascade takes ASC 606's tag first, which for 33 companies carries only a part. Mended (DECISIONS 34): a sliver is not taken, the line stays on its basis, the sliver is at the boundary only in a Change `Revenue tag kept`; blank where no total is filed. The hunt's 28 and these 33 overlap but are not the same set: the hunt's test saw only a move with a crosswalk; the rule here also finds slivers with none (Crown Castle, Essex, Extra Space, Invitation Homes, UDR, Kimco, Vivmark, KKR, Loews, and the gross-or-net ones: ADM, Bunge, Howmet, PMI, RTX, United Rentals). Not counted by hand which of the hunt's 28 are not among the 33.
+2. **Net income in billions.** Verified (ConEd FY2021 1.346). Cause: not companyfacts' scale; a proxy statement (DEF 14A of 2026-04-08, pay against performance) files the same years in thousands of the 10-K's dollars, and as the latest filed it won. Mended (DECISIONS 35): a proxy is read only where no 10-K or other filing gives the line's year under any tag; a row a thousandth of another for the same period is a slip (Bio-Techne's 10-K of 2015); a unit check stops the build naming the company-year. It fired on the first run for PG&E (a proxy-only -102 in millions) and was right. The same proxies also gave 278 more net income cells a rounded or other-definition figure: a fault the hunt did not name.
+3. **Erie.** Verified (6,271 in the 10-Ks of 2014 and 2015, 1,297 in 2016's). Mended by saying, not by choosing (DECISIONS 36): each annual figure's filing (tag, form, filed, accession), a Restated flag, the first value and its filing, in `#### Annual figures, filed` on each page. The card still takes the latest. 4,036 figures flagged. The cause of Erie's restatement is not in the data.
+4. **Ares.** Verified (1,236 then 35). Net income is not held to a basis: its cascade is a definition (NetIncomeLoss, the parent's, first), and holding the first basis seen would have put Erie's net income at the Exchange's -616/446/660. The move's Change now says the two tags differ by more than half, with both figures. Not mended: Ares' FY2012-13 stay ProfitLoss (1,236, 813), the parent's not being filed, so the line still falls to 35 at FY2014, now named. Said in DECISIONS 34.
+
+## README and FAQ, before and after (all from the importer's rebuild)
+
+README "What the data points to": 374 same companies became 373; their net income up 152.9% to 154.2%, revenue 76.7% to 81.8% (5.9% a year to 6.2%); net margin 8.6% in FY2015 to 8.5%, 12.2% in FY2025 to 11.9%; ten largest earners 35.8% to 35.7%; FY2025: 488 companies with revenue and net income became 487, sold $17.05 trillion to $17.51 trillion, kept $2.07 trillion unchanged, 12.1% to 11.8%, lost money 28 to 29; Manufacturing 34.8% to 34.5% of sales and 34.7% to 34.9% of net income; the rise table's revenue row 0, 2.1, 6.5, 13.3, 18.1, 16.3, 37.1, 51.5, 56.4, 65.1, 76.7 became 0, 2.1, 8.4, 17, 21.4, 19.8, 40.9, 56.4, 61, 69.8, 81.8, net income 0, 3.8, 19.5, 32.7, 49.1, 5.1, 115, 83.2, 108.4, 127.2, 152.9 became 0, 3.7, 19.5, 32.6, 49, 5, 116.2, 86.2, 110.9, 129.9, 154.2; companies with no revenue or net income for FY2025: 5 to 6 (M&T added); "What they do with the cash": buybacks over ten years 50.2% to 49.9% of what they earned; operating cash flow row FY2015 1,460.5 to 1,459.4, FY2016 1,373.2 to 1,370.2, FY2017 1,318.5 to 1,318; capex FY2019 561.7 to 561.5, FY2023 736.2 to 731.8.
+README "What they sell and keep" (sector table, revenue / net income / companies / margin %): Mining net income 31.6 to 33.6 (margin 14.6 to 15.5); Manufacturing revenue 5,932.3 to 6,041, net income 716.1 to 723.5 (margin 12.1 to 12); Transportation, Communications, Electric, Gas 196.2 to 187.4 net income (margin 12 to 11.4); Finance, Insurance and Real Estate 93 to 92 companies, revenue 2,989.2 to 3,329.2, net income 442 to 448.5 (margin 14.8 to 13.5); Services net income 477.1 to 476.4 (margin 23.8 to 23.6). Page counts: Quarters 30,163 to 30,162; Changes 1,423 to 1,460.
+FAQ: co-analysis-2 (operating margin rose every year FY2021-25) gains CCI, 24 to 25 companies (its revenue was a sliver); co-reading-1 FY2025 revenue companies 487 to 486; co-reading-2 373 companies, revenue up 76.2%, net income up 153.8% became 372, 81.3%, 155.1%; co-reading-3 (Finance FY2025) 93 companies, revenue 2,989,233, net income 442,048.2 became 92, 3,329,235.9, 448,525.6; the other answers did not move.
+
+## Learnings
+
+- **proper.md/cards.md:** none new.
+- **Importer (ours):** a latest-filed rule is wrong where a form can carry a figure for another purpose (proxies); and an independent reader (faq.js) is what found it as well: without the rules written again in faq.js, 4 of 21 held values drifted. Evidence above.
+- **The hunt's method:** its crosswalk-ratio test saw 28 of the 33 revenue slivers; those with no crosswalk (the old tag no longer filed) need the other-tags test. The 2x/half rule cannot tell a sliver from a new definition (PMI, ConocoPhillips: gross to net of excise); see Unsure.
+
+## Unsure
+
+- Philip Morris International FY2017 on: the ASC 606 tag is revenues net of excise (28,748), `Revenues` gross (78,098); the rule treats the gross as the line while it is filed, then there is a seam at FY2023 (Crosswalk none, said). Which is "revenue" is a definition, the seat's. Same kind: ADM and Bunge (the ASC 606 tag a third of the total, real contract revenue only), RTX.
+- The 0.5 and 0.25 thresholds are mine. Interactive Brokers FY2020 stands at 1,287 after 2,580, a sliver by the half rule, kept by the quarter rule.
+- Net income: 98 cells in 32 companies moved from a proxy's figure (attributable) to ProfitLoss (all of it) where NetIncomeLoss is not filed in any 10-K (Kimco FY2021 818.6 to 844.1): a definition shift the book now says in the tag table, not in a Change.
+- Not mended: Ares FY2012-13 (above); Erie's years on two bases (flagged, not joined).
+- The restated flag is by value (over half a percent apart); it flags EPS restated for splits (592) and a re-filed rounding at times.
+
+## Against the brief's Predicted
+
+The brief predicted four faults with causes in tag cascade, scale and form choice, mendable at the importer: right for 1 and 3; 2's cause was neither of the two guessed (proxies, not decimals or frames); 4 could be guarded (said) but not mended; and 2's mend found a fifth fault of the same cause (proxy rounding, 278 cells) and a sixth (a 10-K filed in thousands, Bio-Techne). Quicker than guessed on the code, slower on the rebuilds: crew's queue held a 6G run for 40 minutes, so later runs were sized by measure at 3G and 4G (faq.js 3G held; the whole build 4G held).
+
+## What the brief lacked
+
+Which of the 33 are slivers and which definitions (gross of excise, discontinued operations): it named the 28, but no rule for the rest; whether a blank is better than a sliver (taken: yes, D6); what `Net income` is meant to be (the parent's or all: the cascade says the parent's, the hunt asked for one basis); that faq.js reads the facts apart and must be mended in step (R2 stops the build otherwise).
+
+One line: the four faults are mended or said (proxy rows were the cause of the billions, a sliver rule keeps revenue on its basis, each figure carries its filing and a restated flag, Ares' jump is named), 473 company-years in 110 companies changed, and every check held.

@@ -13,7 +13,7 @@
 
 KROGER CO, as it files with the SEC (CIK 0000056873): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-09-22, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is KROGER CO, and how has it grown?** It sold $147.6 billion in FY2025, the 23rd most of the 488 companies with a revenue for the year, and the 6th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 28% from FY2016 to FY2025, 2.8% a year.
+**How large is KROGER CO, and how has it grown?** It sold $147.6 billion in FY2025, the 23rd most of the 487 companies with a revenue for the year, and the 6th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 28% from FY2016 to FY2025, 2.8% a year.
 
 **Does KROGER CO make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 0.7% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 10 years in the book.
 
@@ -27,7 +27,7 @@ KROGER CO, as it files with the SEC (CIK 0000056873): its fiscal years and quart
 > | Revenue |  |  |  |  |  |  |  |  |  |  | 115337 | 123280 | 121852 | 122286 | 132498 | 137888 | 148258 | 150039 | 147123 | 147642 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  | 3452 | 2612 | 2614 | 2251 | 2780 | 3477 | 4126 | 3096 | 3849 | 1890 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  | 1975 | 1907 | 3110 | 1659 | 2585 | 1665 | 2244 | 2164 | 2665 | 1016 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  | 1975 | 1907 | 3110 | 1659 | 2585 | 1655 | 2244 | 2164 | 2665 | 1016 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  | 4272 | 3413 | 4164 | 4664 | 6815 | 6190 | 4498 | 6788 | 5794 | 7311 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  | -3699 | -2809 | -2967 | -3128 | -2865 | -2614 | -3078 | -3904 | -4017 | -3855 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  | -1766 | -1633 | -2010 | -465 | -1324 | -1647 | -993 | -62 | -4156 | -2699 |  |
@@ -46,6 +46,83 @@ KROGER CO, as it files with the SEC (CIK 0000056873): its fiscal years and quart
 | FY2023 | 2023-01-29 | 2024-02-03 | 2.96 | 2.96 |
 | FY2024 | 2024-02-04 | 2025-02-01 | 3.67 | 3.67 |
 | FY2025 | 2025-02-02 | 2026-01-31 | 1.54 | 1.54 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2019-04-02 | 0001558370-19-002756 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-04-01 | 0001558370-20-003501 | yes | 122662 | 10-K | 2019-04-02 | 0001558370-19-002756 |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-04-01 | 0001558370-20-003501 | yes | 2085 | 10-K | 2018-04-03 | 0001558370-18-002753 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-04-01 | 0001558370-20-003501 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-04-01 | 0001558370-20-003501 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-04-01 | 0001558370-20-003501 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2020-04-01 | 0001558370-20-003501 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-04-01 | 0001558370-20-003501 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-03-30 | 0001558370-21-003706 | yes | 121162 | 10-K | 2019-04-02 | 0001558370-19-002756 |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-03-30 | 0001558370-21-003706 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-03-30 | 0001558370-21-003706 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-03-30 | 0001558370-21-003706 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-03-30 | 0001558370-21-003706 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2021-03-30 | 0001558370-21-003706 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-03-30 | 0001558370-21-003706 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-03-29 | 0001558370-22-004595 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-03-28 | 0001558370-23-004767 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-04-02 | 0001558370-24-004603 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-04-01 | 0001558370-25-004267 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-31 | 0001104659-26-037723 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -70,7 +147,7 @@ KROGER CO, as it files with the SEC (CIK 0000056873): its fiscal years and quart
 | FY2021 Q1 | 2021 | 1 | 2021-05-22 | 41298 |  | 805 | 140 | 0.18 | 2256 | -820 | -402 | 0.18 |
 | FY2021 Q2 | 2021 | 2 | 2021-08-14 | 31682 |  | 839 | 467 | 0.61 | 867 | -499 | -349 | 0.61 |
 | FY2021 Q3 | 2021 | 3 | 2021-11-06 | 31860 |  | 868 | 483 | 0.64 | 1668 | -689 | -298 | 0.64 |
-| FY2021 Q4 | 2021 | 4 | 2022-01-29 | 33048 |  | 965 | 575 | 0.74 | 1399 | -606 | -598 | 0.74 |
+| FY2021 Q4 | 2021 | 4 | 2022-01-29 | 33048 |  | 965 | 565 | 0.74 | 1399 | -606 | -598 | 0.74 |
 | FY2022 Q1 | 2022 | 1 | 2022-05-21 | 44600 |  | 1505 | 664 | 0.9 | 1102 | -745 | -665 | 0.9 |
 | FY2022 Q2 | 2022 | 2 | 2022-08-13 | 34638 |  | 954 | 730 | 0.99 | 1325 | -685 | -310 | 0.99 |
 | FY2022 Q3 | 2022 | 3 | 2022-11-05 | 34198 |  | 841 | 399 | 0.55 | 911 | -831 | -10 | 0.55 |

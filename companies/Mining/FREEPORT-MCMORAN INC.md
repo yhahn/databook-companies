@@ -13,9 +13,9 @@
 
 FREEPORT-MCMORAN INC, as it files with the SEC (CIK 0000831259): its fiscal years and quarters from its XBRL filings, FY2011 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-02-25, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FREEPORT-MCMORAN INC, and how has it grown?** It sold $25.2 billion in FY2025, the 141st most of the 488 companies with a revenue for the year, and the 2nd of 12 in [Mining](../Mining.md). Its sales rose 72.4% from FY2015 to FY2025, 5.6% a year.
+**How large is FREEPORT-MCMORAN INC, and how has it grown?** It sold $25.2 billion in FY2025, the 147th most of the 487 companies with a revenue for the year, and the 2nd of 12 in [Mining](../Mining.md). Its sales rose 72.4% from FY2015 to FY2025, 5.6% a year.
 
-**Does FREEPORT-MCMORAN INC make money, and how much of what it sells does it keep?** It earned $2.2 billion in FY2025, 8.8% of what it sold; the median company of its sector kept 14.3%. It lost money in 4 of its 15 years in the book (FY2014, FY2015, FY2016, FY2019).
+**Does FREEPORT-MCMORAN INC make money, and how much of what it sells does it keep?** It earned $4.2 billion in FY2025, 16.5% of what it sold; the median company of its sector kept 15.4%. It lost money in 4 of its 15 years in the book (FY2014, FY2015, FY2016, FY2019).
 
 **Where does FREEPORT-MCMORAN INC's cash go?** From FY2016 to FY2025 its operations brought in $47.7 billion; it spent 64% of that on plant and equipment, and 4.2% on buying back its own shares.
 
@@ -27,7 +27,7 @@ FREEPORT-MCMORAN INC, as it files with the SEC (CIK 0000831259): its fiscal year
 > | Revenue |  |  |  |  |  | 20880 | 18010 | 19331 | 20001 | 14607 | 14830 | 15888 | 18945 | 14348 | 13894 | 22422 | 23271 | 22703 | 25169 | 25186 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  | 9140 | 5814 | 4820 | -298 | -13512 | -2729 | 3690 | 4754 | 1091 | 2437 | 8366 | 7037 | 6225 | 6864 | 6518 |  |
-> | Net income |  |  |  |  |  | 5747 | 3980 | 3441 | -745 | -12089 | -4025 | 2095 | 2894 | -189 | 865 | 5365 | 4479 | 3751 | 4399 | 2204 |  |
+> | Net income |  |  |  |  |  | 5747 | 3980 | 3441 | -745 | -12089 | -4025 | 2095 | 2894 | -189 | 865 | 5365 | 4479 | 3751 | 4399 | 4152 |  |
 > | Operating cash flow |  |  |  |  |  | 6620 | 3774 | 6139 | 5631 | 3220 | 3737 | 4666 | 3863 | 1482 | 3017 | 7715 | 5139 | 5279 | 7160 | 5610 |  |
 > | Capex |  |  |  |  |  | -2534 | -3494 | -5286 | -7215 | -6353 | -2813 | -1410 | -1971 | -2652 | -1961 | -2115 | -3469 | -4824 | -4808 | -4494 |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | -488 | -1347 | 0 | -59 | -107 |  |
@@ -51,6 +51,106 @@ FREEPORT-MCMORAN INC, as it files with the SEC (CIK 0000831259): its fiscal year
 | FY2023 | 2023-01-01 | 2023-12-31 |  |  |
 | FY2024 | 2024-01-01 | 2024-12-31 |  |  |
 | FY2025 | 2025-01-01 | 2025-12-31 |  |  |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2011 | us-gaap:SalesRevenueNet | 10-K | 2014-02-27 | 0000831259-14-000006 |  |  |  |  |  |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 10-K | 2014-02-27 | 0000831259-14-000006 |  |  |  |  |  |
+| Net income | FY2011 | us-gaap:ProfitLoss | 10-K | 2014-02-27 | 0000831259-14-000006 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-02-27 | 0000831259-14-000006 |  |  |  |  |  |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2014-02-27 | 0000831259-14-000006 |  |  |  |  |  |
+| Capex | FY2011 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2014-02-27 | 0000831259-14-000006 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:SalesRevenueNet | 10-K | 2015-02-27 | 0000831259-15-000016 |  |  |  |  |  |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2015-02-27 | 0000831259-15-000016 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:ProfitLoss | 10-K | 2015-02-27 | 0000831259-15-000016 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-02-27 | 0000831259-15-000016 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-02-27 | 0000831259-15-000016 |  |  |  |  |  |
+| Capex | FY2012 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2015-02-27 | 0000831259-15-000016 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:SalesRevenueNet | 8-K | 2016-11-09 | 0000831259-16-000104 | yes | 20921 | 10-K | 2014-02-27 | 0000831259-14-000006 |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 8-K | 2016-11-09 | 0000831259-16-000104 | yes | 5351 | 10-K | 2014-02-27 | 0000831259-14-000006 |
+| Net income | FY2013 | us-gaap:ProfitLoss | 8-K | 2016-11-09 | 0000831259-16-000104 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 8-K | 2016-11-09 | 0000831259-16-000104 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2016-11-09 | 0000831259-16-000104 |  |  |  |  |  |
+| Capex | FY2013 | us-gaap:PaymentsToAcquireProductiveAssets | 8-K | 2016-11-09 | 0000831259-16-000104 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:SalesRevenueNet | 8-K | 2016-11-09 | 0000831259-16-000104 | yes | 21438 | 10-K | 2015-02-27 | 0000831259-15-000016 |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 10-K | 2017-02-24 | 0000831259-17-000012 | yes | 97 | 10-K | 2015-02-27 | 0000831259-15-000016 |
+| Net income | FY2014 | us-gaap:ProfitLoss | 10-K | 2017-02-24 | 0000831259-17-000012 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 8-K | 2016-11-09 | 0000831259-16-000104 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-02-24 | 0000831259-17-000012 |  |  |  |  |  |
+| Capex | FY2014 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2017-02-24 | 0000831259-17-000012 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-02-20 | 0000831259-18-000008 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-20 | 0000831259-18-000008 | yes | -13382 | 10-K | 2016-02-26 | 0000831259-16-000062 |
+| Net income | FY2015 | us-gaap:ProfitLoss | 10-K | 2018-02-20 | 0000831259-18-000008 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 8-K | 2016-11-09 | 0000831259-16-000104 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-02-20 | 0000831259-18-000008 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2018-02-20 | 0000831259-18-000008 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-15 | 0000831259-19-000009 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-15 | 0000831259-19-000009 | yes | -2792 | 10-K | 2017-02-24 | 0000831259-17-000012 |
+| Net income | FY2016 | us-gaap:ProfitLoss | 10-K | 2019-02-15 | 0000831259-19-000009 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-15 | 0000831259-19-000009 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-15 | 0000831259-19-000009 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-15 | 0000831259-19-000009 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-14 | 0000831259-20-000004 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-14 | 0000831259-20-000004 | yes | 3633 | 10-K | 2018-02-20 | 0000831259-18-000008 |
+| Net income | FY2017 | us-gaap:ProfitLoss | 10-K | 2020-02-14 | 0000831259-20-000004 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-14 | 0000831259-20-000004 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-14 | 0000831259-20-000004 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2020-02-14 | 0000831259-20-000004 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-02-16 | 0000831259-21-000009 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-16 | 0000831259-21-000009 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:ProfitLoss | 10-K | 2021-02-16 | 0000831259-21-000009 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-16 | 0000831259-21-000009 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-16 | 0000831259-21-000009 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2021-02-16 | 0000831259-21-000009 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:ProfitLoss | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-15 | 0000831259-23-000013 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-15 | 0000831259-23-000013 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:ProfitLoss | 10-K | 2023-02-15 | 0000831259-23-000013 |  |  |  |  |  |
+| EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-15 | 0000831259-23-000013 |  |  |  |  |  |
+| Capex | FY2020 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2023-02-15 | 0000831259-23-000013 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-15 | 0000831259-23-000013 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-16 | 0000831259-24-000011 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-16 | 0000831259-24-000011 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:ProfitLoss | 10-K | 2024-02-16 | 0000831259-24-000011 |  |  |  |  |  |
+| EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-15 | 0000831259-22-000009 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-16 | 0000831259-24-000011 |  |  |  |  |  |
+| Capex | FY2021 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2024-02-16 | 0000831259-24-000011 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-16 | 0000831259-24-000011 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-14 | 0000831259-25-000006 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-14 | 0000831259-25-000006 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:ProfitLoss | 10-K | 2025-02-14 | 0000831259-25-000006 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-14 | 0000831259-25-000006 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-02-14 | 0000831259-25-000006 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-14 | 0000831259-25-000006 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:ProfitLoss | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Capex | FY2023 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:ProfitLoss | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Capex | FY2024 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:ProfitLoss | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-13 | 0000831259-26-000012 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -108,12 +208,12 @@ FREEPORT-MCMORAN INC, as it files with the SEC (CIK 0000831259): its fiscal year
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 6398 |  | 2049 | 1280 |  | 1956 | -1116 | 0 |  |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 6680 |  | 1938 | 1236 |  | 1872 | -1199 | -59 |  |
 | FY2024 Q4 | 2024 | 4 | 2024-12-31 | 5880 |  | 1243 | 721 |  | 1436 | -1239 | 0 |  |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 5574 |  | 1303 |  |  | 1058 | -1172 | -55 |  |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 7526 |  | 2432 | 772 |  | 2195 | -1261 | -52 |  |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 6819 |  | 1972 |  |  | 1664 | -1056 | 0 |  |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 5267 |  | 811 |  |  | 693 | -1005 | 0 |  |
-| FY2026 Q1 | 2026 | 1 | 2026-03-31 | 6254 |  | 2137 |  |  | 1495 | -973 | -93 |  |
-| FY2026 Q2 | 2026 | 2 | 2026-06-30 | 6917 |  | 2003 | 984 |  | 2048 |  | -110 |  |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 5574 |  | 1303 | 793 |  | 1058 | -1172 | -55 |  |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 7526 |  | 2432 | 1547 |  | 2195 | -1261 | -52 |  |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 6819 |  | 1972 | 1247 |  | 1664 | -1056 | 0 |  |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 5267 |  | 811 | 565 |  | 693 | -1005 | 0 |  |
+| FY2026 Q1 | 2026 | 1 | 2026-03-31 | 6254 |  | 2137 | 1387 |  | 1495 | -973 | -93 |  |
+| FY2026 Q2 | 2026 | 2 | 2026-06-30 | 6917 |  | 2003 | 1391 |  | 2048 |  | -110 |  |
 
 ## Segments
 
@@ -155,8 +255,7 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Revenue | FY2015 | FY2016 | us-gaap:Revenues |
 | Revenue | FY2017 | FY2026 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
 | Operating income | FY2007 | FY2026 | us-gaap:OperatingIncomeLoss |
-| Net income | FY2007 | FY2024 | us-gaap:ProfitLoss |
-| Net income | FY2025 | FY2026 | us-gaap:NetIncomeLoss |
+| Net income | FY2007 | FY2026 | us-gaap:ProfitLoss |
 | EPS diluted | FY2007 | FY2022 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2011 | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets |
@@ -183,16 +282,6 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2017 under both: 16403000000 and 15888000000
-- Source: SEC EDGAR companyfacts
-
-### Change: FREEPORT-MCMORAN INC, Net income tag, FY2025
-
-- CIK: 0000831259
-- What: Net income tag
-- Boundary: FY2025
-- Was: us-gaap:ProfitLoss
-- Now: us-gaap:NetIncomeLoss
-- Crosswalk: FY2025 under both: 4152000000 and 2204000000
 - Source: SEC EDGAR companyfacts
 
 ### Change: FREEPORT-MCMORAN INC, Shares split, filings from 2011-02-25

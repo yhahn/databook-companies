@@ -13,9 +13,9 @@
 
 Ares Management Corp, as it files with the SEC (CIK 0001176948): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Ares Management Corp, and how has it grown?** It sold $5.6 billion in FY2025, the 379th most of the 488 companies with a revenue for the year, and the 62nd of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 587.8% from FY2015 to FY2025, 21.3% a year.
+**How large is Ares Management Corp, and how has it grown?** It sold $5.6 billion in FY2025, the 388th most of the 487 companies with a revenue for the year, and the 70th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 587.8% from FY2015 to FY2025, 21.3% a year.
 
-**Does Ares Management Corp make money, and how much of what it sells does it keep?** It earned $426 million in FY2025, 7.6% of what it sold; the median company of its sector kept 21.5%. It lost money in none of its 14 years in the book.
+**Does Ares Management Corp make money, and how much of what it sells does it keep?** It earned $527 million in FY2025, 9.4% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 14 years in the book.
 
 **Where does Ares Management Corp's cash go?** The book does not say: its filings give no value this needs.
 
@@ -27,7 +27,7 @@ Ares Management Corp, as it files with the SEC (CIK 0001176948): its fiscal year
 > | Revenue |  |  |  |  |  |  | 334.046 | 478.655 | 603.889 | 814.442 | 964.8 | 1479.943 | 958.461 | 1765.438 | 1764.046 | 4212.091 | 3055.443 | 3631.884 | 3884.781 | 5601.482 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-> | Net income |  |  |  |  |  |  | 1235.688 | 813.378 | 34.988 | 19.378 | 111.808 | 76.178 | 57.02 | 148.884 | 152.142 | 386.748 | 167.541 | 885.796 | 440.961 | 426.113 |  |
+> | Net income |  |  |  |  |  |  | 1235.688 | 813.378 | 34.988 | 19.378 | 111.808 | 76.178 | 57.02 | 148.884 | 152.142 | 408.837 | 167.541 | 885.796 | 463.742 | 527.362 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  | 1532.588 | -527.986 | -625.655 | -1863.014 | -1417.058 | -2083.021 | -425.659 | -2596.045 | -734.112 | -233.261 | 2791.154 | 3266.959 |  |
 > | Capex |  |  |  |  |  |  |  |  | -16.664 | -10.676 | -11.913 | -33.16 | -18.419 |  |  |  |  |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -50,6 +50,58 @@ Ares Management Corp, as it files with the SEC (CIK 0001176948): its fiscal year
 | FY2023 | 2023-01-01 | 2023-12-31 |  |  |
 | FY2024 | 2024-01-01 | 2024-12-31 |  |  |
 | FY2025 | 2025-01-01 | 2025-12-31 |  |  |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-03-20 | 0001047469-15-002528 |  |  |  |  |  |
+| Net income | FY2012 | us-gaap:ProfitLoss | 10-K | 2015-03-20 | 0001047469-15-002528 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-29 | 0001558370-16-003647 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:ProfitLoss | 10-K | 2016-02-29 | 0001558370-16-003647 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-27 | 0001628280-17-001756 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-27 | 0001628280-17-001756 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2016-02-29 | 0001558370-16-003647 |  |  |  |  |  |
+| Capex | FY2014 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2017-02-27 | 0001628280-17-001756 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-03-01 | 0001628280-18-002576 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-03-01 | 0001628280-18-002576 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations | 10-K | 2016-02-29 | 0001558370-16-003647 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2018-03-01 | 0001628280-18-002576 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-26 | 0001628280-19-001988 | yes | 1199.205 | 10-K | 2017-02-27 | 0001628280-17-001756 |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-26 | 0001628280-19-001988 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-26 | 0001628280-19-001988 |  |  |  |  |  |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-26 | 0001628280-19-001988 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-28 | 0001628280-20-002489 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-28 | 0001628280-20-002489 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-28 | 0001628280-20-002489 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-26 | 0001628280-19-001988 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-02-25 | 0001628280-21-003314 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-25 | 0001628280-21-003314 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-25 | 0001628280-21-003314 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-26 | 0001628280-19-001988 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-28 | 0001628280-22-004289 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-28 | 0001628280-22-004289 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-28 | 0001628280-22-004289 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-24 | 0001628280-23-005081 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-24 | 0001628280-23-005081 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-24 | 0001628280-23-005081 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-27 | 0001628280-24-007014 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-27 | 0001628280-24-007014 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-27 | 0001628280-24-007014 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-27 | 0001628280-25-008665 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-27 | 0001628280-25-008665 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-27 | 0001628280-25-008665 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:ProfitLoss | 10-K | 2024-02-27 | 0001628280-24-007014 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -89,7 +141,7 @@ Ares Management Corp, as it files with the SEC (CIK 0001176948): its fiscal year
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 658.388 |  |  | 58.378 |  | -741.118 |  |  |  |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 1294.819 |  |  | 141.644 |  | -327.925 |  |  |  |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 948.719 |  |  | 84.726 |  | -774.708 |  |  |  |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1310.165 |  |  | 102 |  | -752.294 |  |  |  |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1310.165 |  |  | 124.089 |  | -752.294 |  |  |  |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 714.999 |  |  | 45.863 |  | 224.15 |  |  |  |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 601.43 |  |  | 39.731 |  | -792.348 |  |  |  |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 801.29 |  |  | -35.546 |  | 24.593 |  |  |  |
@@ -101,11 +153,11 @@ Ares Management Corp, as it files with the SEC (CIK 0001176948): its fiscal year
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 707.363 |  |  | 73.027 |  | 710.045 |  |  |  |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 788.682 |  |  | 94.938 |  | 432.172 |  |  |  |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1129.739 |  |  | 118.46 |  | 841.319 |  |  |  |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1258.997 |  |  | 154.536 |  | 807.618 |  |  |  |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1258.997 |  |  | 177.317 |  | 807.618 |  |  |  |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1088.805 |  |  | 47.17 |  | 1994.203 |  |  |  |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 1350.128 |  |  | 137.062 |  | 415.701 |  |  |  |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 1657.628 |  |  | 288.882 |  | 1340.743 |  |  |  |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1504.921 |  |  | -47.001 |  | -483.688 |  |  |  |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 1504.921 |  |  | 54.248 |  | -483.688 |  |  |  |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 1396.436 |  |  | 142.589 |  | 406.515 |  |  |  |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 1428.61 |  |  | 150.635 |  | -351.445 |  |  |  |
 
@@ -191,7 +243,7 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Boundary: FY2014
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
-- Crosswalk: FY2014 under both: 545662000 and 34988000
+- Crosswalk: FY2014 under both: 545662000 and 34988000; the new tag's figure is under half or over twice the old, or of the other sign: ProfitLoss counts the income of others in subsidiaries and consolidated funds, NetIncomeLoss only the parent's, and the line is the parent's where it is filed
 - Source: SEC EDGAR companyfacts
 
 ### Change: Ares Management Corp, Net income tag, FY2023
@@ -211,7 +263,7 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Boundary: FY2024
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
-- Crosswalk: FY2024 under both: 814963000 and 440961000
+- Crosswalk: FY2024 under both: 814963000 and 463742000
 - Source: SEC EDGAR companyfacts
 
 ### Change: Ares Management Corp, Operating cash flow tag, FY2016

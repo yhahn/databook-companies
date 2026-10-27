@@ -13,7 +13,7 @@
 
 VIVMARK RESIDENTIAL, as it files with the SEC (CIK 0000906107): its fiscal years and quarters from its XBRL filings, FY2007 to FY2020 (FY2020 through Q4). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VIVMARK RESIDENTIAL, and how has it grown?** The book holds no revenue of its for FY2025, the year the front page compares; its last is FY2019's, $0 million.
+**How large is VIVMARK RESIDENTIAL, and how has it grown?** The book holds no revenue of its for FY2025, the year the front page compares; its last is FY2019's, $2.7 billion.
 
 **Does VIVMARK RESIDENTIAL make money, and how much of what it sells does it keep?** The book does not hold both a revenue and a net income of its for FY2025; it lost money in none of its 14 years in the book.
 
@@ -24,7 +24,7 @@ VIVMARK RESIDENTIAL, as it files with the SEC (CIK 0000906107): its fiscal years
 > [!CARD:line] VIVMARK RESIDENTIAL, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  | 1801.812 | 1952.583 | 1620.815 | 1456.257 | 1525.22 | 1747.502 | 2387.702 | 2614.748 | 2744.965 | 2425.8 | 2471.406 | 0.753 | 0.384 |  |  |  |  |  |  |  |
+> | Revenue |  | 1801.812 | 1952.583 | 1620.815 | 1456.257 | 1525.22 | 1747.502 | 2387.702 | 2614.748 | 2744.965 | 2425.8 | 2471.406 | 2578.434 | 2701.075 |  |  |  |  |  |  |  |
 > | Gross profit |  |  | 1012.897 | 1003.996 | 1075.898 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  | 487.261 | 356.076 | 424.518 | 284.351 | 406.509 | 514.093 | 512.322 | 921.644 | 1009.238 | 856.086 | 1004.528 | 1114.617 | 1356.16 |  |  |  |  |  |  |  |
 > | Net income |  | 980.188 | 407.622 | 362.273 | 283.61 | 893.585 | 841.719 | 1830.613 | 631.308 | 870.12 | 4292.163 | 603.454 | 657.535 | 970.377 |  |  |  |  |  |  |  |
@@ -49,6 +49,95 @@ VIVMARK RESIDENTIAL, as it files with the SEC (CIK 0000906107): its fiscal years
 | FY2017 | 2017-01-01 | 2017-12-31 | 1.63 | 1.63 |
 | FY2018 | 2018-01-01 | 2018-12-31 | 1.77 | 1.77 |
 | FY2019 | 2019-01-01 | 2019-12-31 | 2.6 | 2.6 |
+
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2007 | us-gaap:Revenues | 8-K | 2010-09-14 | 0000950123-10-085906 | yes | 1824.046 | 10-K | 2010-02-25 | 0001193125-10-040142 |
+| Operating income | FY2007 | us-gaap:OperatingIncomeLoss | 8-K | 2010-09-14 | 0000950123-10-085906 | yes | 495.427 | 10-K | 2010-02-25 | 0001193125-10-040142 |
+| Net income | FY2007 | us-gaap:NetIncomeLoss | 8-K | 2010-09-14 | 0000950123-10-085906 |  |  |  |  |  |
+| EPS diluted | FY2007 | us-gaap:EarningsPerShareDiluted | 8-K | 2010-09-14 | 0000950123-10-085906 |  |  |  |  |  |
+| Operating cash flow | FY2007 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2010-09-14 | 0000950123-10-085906 |  |  |  |  |  |
+| Buybacks | FY2007 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2010-09-14 | 0000950123-10-085906 |  |  |  |  |  |
+| Revenue | FY2008 | us-gaap:Revenues | 8-K | 2010-09-14 | 0000950123-10-085906 | yes | 1975.669 | 10-K | 2010-02-25 | 0001193125-10-040142 |
+| Gross profit | FY2008 | us-gaap:GrossProfit | 8-K | 2011-11-10 | 0001193125-11-305923 | yes | 1118.785 | 10-K | 2011-02-24 | 0000950123-11-017717 |
+| Operating income | FY2008 | us-gaap:OperatingIncomeLoss | 8-K | 2011-11-10 | 0001193125-11-305923 | yes | 458.158 | 10-K | 2010-02-25 | 0001193125-10-040142 |
+| Net income | FY2008 | us-gaap:NetIncomeLoss | 8-K | 2011-11-10 | 0001193125-11-305923 |  |  |  |  |  |
+| EPS diluted | FY2008 | us-gaap:EarningsPerShareDiluted | 8-K | 2011-11-10 | 0001193125-11-305923 |  |  |  |  |  |
+| Operating cash flow | FY2008 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2011-11-10 | 0001193125-11-305923 |  |  |  |  |  |
+| Buybacks | FY2008 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2011-11-10 | 0001193125-11-305923 |  |  |  |  |  |
+| Revenue | FY2009 | us-gaap:Revenues | 8-K | 2012-06-13 | 0000906107-12-000019 | yes | 1943.711 | 10-K | 2010-02-25 | 0001193125-10-040142 |
+| Gross profit | FY2009 | us-gaap:GrossProfit | 8-K | 2011-11-10 | 0001193125-11-305923 | yes | 1103.163 | 10-K | 2011-02-24 | 0000950123-11-017717 |
+| Operating income | FY2009 | us-gaap:OperatingIncomeLoss | 8-K | 2012-06-13 | 0000906107-12-000019 | yes | 529.39 | 10-K | 2010-02-25 | 0001193125-10-040142 |
+| Net income | FY2009 | us-gaap:NetIncomeLoss | 8-K | 2012-06-13 | 0000906107-12-000019 |  |  |  |  |  |
+| EPS diluted | FY2009 | us-gaap:EarningsPerShareDiluted | 8-K | 2012-06-13 | 0000906107-12-000019 |  |  |  |  |  |
+| Operating cash flow | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2012-06-13 | 0000906107-12-000019 |  |  |  |  |  |
+| Buybacks | FY2009 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2012-06-13 | 0000906107-12-000019 |  |  |  |  |  |
+| Revenue | FY2010 | us-gaap:Revenues | 8-K | 2013-06-17 | 0000906107-13-000021 | yes | 1773.268 | 10-K | 2012-02-24 | 0000906107-12-000004 |
+| Gross profit | FY2010 | us-gaap:GrossProfit | 8-K | 2011-11-10 | 0001193125-11-305923 | yes | 1179.565 | 10-K | 2011-02-24 | 0000950123-11-017717 |
+| Operating income | FY2010 | us-gaap:OperatingIncomeLoss | 8-K | 2013-06-17 | 0000906107-13-000021 | yes | 442.001 | 10-K | 2011-02-24 | 0000950123-11-017717 |
+| Net income | FY2010 | us-gaap:NetIncomeLoss | 8-K | 2013-06-17 | 0000906107-13-000021 |  |  |  |  |  |
+| EPS diluted | FY2010 | us-gaap:EarningsPerShareDiluted | 8-K | 2013-06-17 | 0000906107-13-000021 |  |  |  |  |  |
+| Operating cash flow | FY2010 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 8-K | 2013-06-17 | 0000906107-13-000021 | yes | 732.693 | 10-K | 2011-02-24 | 0000950123-11-017717 |
+| Buybacks | FY2010 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2013-06-17 | 0000906107-13-000021 |  |  |  |  |  |
+| Revenue | FY2011 | us-gaap:Revenues | 10-K | 2014-02-27 | 0000906107-14-000006 | yes | 1989.463 | 10-K | 2012-02-24 | 0000906107-12-000004 |
+| Operating income | FY2011 | us-gaap:OperatingIncomeLoss | 10-K | 2014-02-27 | 0000906107-14-000006 | yes | 573.332 | 10-K | 2012-02-24 | 0000906107-12-000004 |
+| Net income | FY2011 | us-gaap:NetIncomeLoss | 10-K | 2014-02-27 | 0000906107-14-000006 |  |  |  |  |  |
+| EPS diluted | FY2011 | us-gaap:EarningsPerShareDiluted | 10-K | 2014-02-27 | 0000906107-14-000006 | yes | 2.95 | 10-K | 2012-02-24 | 0000906107-12-000004 |
+| Operating cash flow | FY2011 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2014-02-27 | 0000906107-14-000006 |  |  |  |  |  |
+| Buybacks | FY2011 | us-gaap:PaymentsForRepurchaseOfCommonStock | 8-K | 2013-06-17 | 0000906107-13-000021 |  |  |  |  |  |
+| Revenue | FY2012 | us-gaap:Revenues | 10-K | 2015-02-26 | 0000906107-15-000007 | yes | 2123.715 | 10-K | 2013-02-21 | 0000906107-13-000005 |
+| Operating income | FY2012 | us-gaap:OperatingIncomeLoss | 10-K | 2015-02-26 | 0000906107-15-000007 | yes | 667.958 | 10-K | 2013-02-21 | 0000906107-13-000005 |
+| Net income | FY2012 | us-gaap:NetIncomeLoss | 10-K | 2015-02-26 | 0000906107-15-000007 |  |  |  |  |  |
+| EPS diluted | FY2012 | us-gaap:EarningsPerShareDiluted | 10-K | 2015-02-26 | 0000906107-15-000007 |  |  |  |  |  |
+| Operating cash flow | FY2012 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2015-02-26 | 0000906107-15-000007 |  |  |  |  |  |
+| Buybacks | FY2012 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2015-02-26 | 0000906107-15-000007 |  |  |  |  |  |
+| Revenue | FY2013 | us-gaap:Revenues | 10-K | 2016-02-25 | 0000906107-16-000029 |  |  |  |  |  |
+| Operating income | FY2013 | us-gaap:OperatingIncomeLoss | 10-K | 2016-02-25 | 0000906107-16-000029 |  |  |  |  |  |
+| Net income | FY2013 | us-gaap:NetIncomeLoss | 10-K | 2016-02-25 | 0000906107-16-000029 |  |  |  |  |  |
+| EPS diluted | FY2013 | us-gaap:EarningsPerShareDiluted | 10-K | 2016-02-25 | 0000906107-16-000029 |  |  |  |  |  |
+| Operating cash flow | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2016-02-25 | 0000906107-16-000029 |  |  |  |  |  |
+| Buybacks | FY2013 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2016-02-25 | 0000906107-16-000029 |  |  |  |  |  |
+| Revenue | FY2014 | us-gaap:Revenues | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Operating income | FY2014 | us-gaap:OperatingIncomeLoss | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Net income | FY2014 | us-gaap:NetIncomeLoss | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| EPS diluted | FY2014 | us-gaap:EarningsPerShareDiluted | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Operating cash flow | FY2014 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Buybacks | FY2014 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Revenue | FY2015 | us-gaap:Revenues | 10-K | 2018-02-22 | 0001564590-18-002873 |  |  |  |  |  |
+| Operating income | FY2015 | us-gaap:OperatingIncomeLoss | 10-K | 2018-02-22 | 0001564590-18-002873 |  |  |  |  |  |
+| Net income | FY2015 | us-gaap:NetIncomeLoss | 10-K | 2018-02-22 | 0001564590-18-002873 |  |  |  |  |  |
+| EPS diluted | FY2015 | us-gaap:EarningsPerShareDiluted | 10-K | 2018-02-22 | 0001564590-18-002873 |  |  |  |  |  |
+| Operating cash flow | FY2015 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2018-02-22 | 0001564590-18-002873 |  |  |  |  |  |
+| Capex | FY2015 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2018-02-22 | 0001564590-18-002873 |  |  |  |  |  |
+| Buybacks | FY2015 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Revenue | FY2016 | us-gaap:Revenues | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| Operating income | FY2016 | us-gaap:OperatingIncomeLoss | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-21 | 0001564590-19-003683 | yes | 1111.489 | 10-K | 2017-02-23 | 0000906107-17-000007 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| Buybacks | FY2016 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2017-02-23 | 0000906107-17-000007 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-20 | 0001564590-20-005562 |  |  |  |  |  |
+| Operating income | FY2017 | us-gaap:OperatingIncomeLoss | 10-K | 2020-02-20 | 0001564590-20-005562 | yes | 847.471 | 10-K | 2018-02-22 | 0001564590-18-002873 |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-20 | 0001564590-20-005562 |  |  |  |  |  |
+| EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-20 | 0001564590-20-005562 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-20 | 0001564590-20-005562 |  |  |  |  |  |
+| Capex | FY2017 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:Revenues | 10-K | 2020-02-20 | 0001564590-20-005562 |  |  |  |  |  |
+| Operating income | FY2018 | us-gaap:OperatingIncomeLoss | 10-K | 2021-02-18 | 0001564590-21-006679 | yes | 858.56 | 10-K | 2019-02-21 | 0001564590-19-003683 |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-18 | 0001564590-21-006679 |  |  |  |  |  |
+| EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-18 | 0001564590-21-006679 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-18 | 0001564590-21-006679 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2019-02-21 | 0001564590-19-003683 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2020-02-20 | 0001564590-20-005562 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-17 | 0001564590-22-005566 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-17 | 0001564590-22-005566 |  |  |  |  |  |
+| EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-17 | 0001564590-22-005566 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-17 | 0001564590-22-005566 |  |  |  |  |  |
 
 ## Quarterly
 
@@ -93,14 +182,14 @@ VIVMARK RESIDENTIAL, as it files with the SEC (CIK 0000906107): its fiscal years
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 612.48 |  | 210.55 | 196.041 | 0.53 | 255.209 | -0.365 |  | 0.53 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 624.122 |  | 217.786 | 138.229 | 0.37 | 411.023 | -0.122 |  | 0.37 |
 | FY2017 Q4 | 2017 | 4 | 2017-12-31 | 630.704 |  | 371.821 | 125.442 | 0.34 | 295.652 | -0.73 |  | 0.34 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 0.185 |  | 339.082 | 211.809 | 0.57 | 361.018 | -1.191 |  | 0.57 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 0.188 |  | 217.603 | 113.602 | 0.31 | 324.436 | -0.954 |  | 0.31 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 0.19 |  | 339.403 | 214.937 | 0.58 | 358.737 | -1.01 |  | 0.58 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 0.19 |  | 218.529 | 117.187 | 0.31 | 312.104 | -1.35 |  | 0.31 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 0.192 |  | 209.969 | 104.539 | 0.28 | 373.545 | -1.018 |  | 0.28 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 0.143 |  | 369.117 | 308.968 | 0.83 | 317.228 | -0.448 |  | 0.83 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 0.025 |  | 368.338 | 267.106 | 0.71 | 403.407 |  |  | 0.71 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 0.024 |  | 408.928 | 289.764 | 0.78 | 362.804 |  |  | 0.78 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 633.016 |  | 339.082 | 211.809 | 0.57 | 361.018 | -1.191 |  | 0.57 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 639.808 |  | 217.603 | 113.602 | 0.31 | 324.436 | -0.954 |  | 0.31 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 652.867 |  | 339.403 | 214.937 | 0.58 | 358.737 | -1.01 |  | 0.58 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 652.743 |  | 218.529 | 117.187 | 0.31 | 312.104 | -1.35 |  | 0.31 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 662.494 |  | 209.969 | 104.539 | 0.28 | 373.545 | -1.018 |  | 0.28 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 669.517 |  | 369.117 | 308.968 | 0.83 | 317.228 | -0.448 |  | 0.83 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 685.145 |  | 368.338 | 267.106 | 0.71 | 403.407 |  |  | 0.71 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 683.919 |  | 408.928 | 289.764 | 0.78 | 362.804 |  |  | 0.78 |
 | FY2020 Q1 | 2020 | 1 | 2020-03-31 | 0.024 |  | 422.085 | 308.606 | 0.83 | 382.451 |  |  | 0.83 |
 | FY2020 Q2 | 2020 | 2 | 2020-06-30 |  |  | 356.889 | 260.888 | 0.7 | 252.635 |  |  | 0.7 |
 | FY2020 Q3 | 2020 | 3 | 2020-09-30 |  |  | 182.41 | 91.286 | 0.24 | 399.238 |  |  | 0.24 |
@@ -116,8 +205,8 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2007 | FY2017 | us-gaap:Revenues |
-| Revenue | FY2018 | FY2020 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
+| Revenue | FY2007 | FY2019 | us-gaap:Revenues |
+| Revenue | FY2020 | FY2020 | us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax |
 | Gross profit | FY2008 | FY2011 | us-gaap:GrossProfit |
 | Operating income | FY2007 | FY2023 | us-gaap:OperatingIncomeLoss |
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
@@ -129,12 +218,22 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: VIVMARK RESIDENTIAL, Revenue tag, FY2018
+### Change: VIVMARK RESIDENTIAL, Revenue tag, FY2020
 
 - CIK: 0000906107
 - What: Revenue tag
+- Boundary: FY2020
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
+- Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: VIVMARK RESIDENTIAL, Revenue tag kept, FY2018
+
+- CIK: 0000906107
+- What: Revenue tag kept
 - Boundary: FY2018
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
-- Crosswalk: FY2018 under both: 2578434000 and 753000
+- Crosswalk: FY2018 under both: 2578434000 and 753000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

@@ -13,9 +13,9 @@
 
 KKR & Co. Inc., as it files with the SEC (CIK 0001404912): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is KKR & Co. Inc., and how has it grown?** It sold $19.5 billion in FY2025, the 185th most of the 488 companies with a revenue for the year, and the 28th of 93 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 1661.6% from FY2016 to FY2025, 37.5% a year.
+**How large is KKR & Co. Inc., and how has it grown?** It sold $19.5 billion in FY2025, the 190th most of the 487 companies with a revenue for the year, and the 32nd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 1661.6% from FY2016 to FY2025, 37.5% a year.
 
-**Does KKR & Co. Inc. make money, and how much of what it sells does it keep?** It earned $2.4 billion in FY2025, 12.2% of what it sold; the median company of its sector kept 21.5%. It lost money in 1 of its 10 years in the book (FY2022).
+**Does KKR & Co. Inc. make money, and how much of what it sells does it keep?** It earned $2.4 billion in FY2025, 12.2% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 10 years in the book (FY2022).
 
 **Where does KKR & Co. Inc.'s cash go?** The book does not say: its filings give no value this needs.
 
@@ -24,7 +24,7 @@ KKR & Co. Inc., as it files with the SEC (CIK 0001404912): its fiscal years and 
 > [!CARD:line] KKR & Co. Inc., by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 1104.908 | 1541.604 | 1841.326 | 1790.475 | 2006.791 | 16226.04 | 5704.18 | 14499.312 | 21878.698 | 19464.307 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 1104.908 | 3557.28 | 1841.326 | 4220.9 | 4230.891 | 16226.04 | 5704.18 | 14499.312 | 21878.698 | 19464.307 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 309.307 | 1018.305 | 1131.063 | 2005.049 | 2002.509 | 4732.406 | -521.664 | 3732.261 | 3076.245 | 2370.463 |  |
@@ -47,26 +47,76 @@ KKR & Co. Inc., as it files with the SEC (CIK 0001404912): its fiscal years and 
 | FY2024 | 2024-01-01 | 2024-12-31 |  |  |
 | FY2025 | 2025-01-01 | 2025-12-31 |  |  |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-15 | 0001404912-19-000006 |  |  |  |  |  |
+| Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-15 | 0001404912-19-000006 |  |  |  |  |  |
+| Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-15 | 0001404912-19-000006 | yes | -1562.182 | 10-K | 2017-02-24 | 0001404912-17-000005 |
+| Capex | FY2016 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2019-02-15 | 0001404912-19-000006 |  |  |  |  |  |
+| Revenue | FY2017 | us-gaap:Revenues | 10-K | 2020-02-18 | 0001404912-20-000006 |  |  |  |  |  |
+| Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-18 | 0001404912-20-000006 |  |  |  |  |  |
+| Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-18 | 0001404912-20-000006 | yes | -3630.029 | 10-K | 2018-02-23 | 0001404912-18-000005 |
+| Capex | FY2017 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-18 | 0001404912-20-000006 |  |  |  |  |  |
+| Buybacks | FY2017 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2020-02-18 | 0001404912-20-000006 |  |  |  |  |  |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-02-19 | 0001404912-21-000008 |  |  |  |  |  |
+| Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-19 | 0001404912-21-000008 |  |  |  |  |  |
+| Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-19 | 0001404912-21-000008 |  |  |  |  |  |
+| Capex | FY2018 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-18 | 0001404912-20-000006 |  |  |  |  |  |
+| Buybacks | FY2018 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2021-02-19 | 0001404912-21-000008 |  |  |  |  |  |
+| Revenue | FY2019 | us-gaap:Revenues | 10-K | 2022-02-28 | 0001404912-22-000004 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-28 | 0001404912-22-000004 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-28 | 0001404912-22-000004 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2020-02-18 | 0001404912-20-000006 |  |  |  |  |  |
+| Buybacks | FY2019 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2022-02-28 | 0001404912-22-000004 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:Revenues | 10-K | 2023-02-27 | 0001404912-23-000005 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-27 | 0001404912-23-000005 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-27 | 0001404912-23-000005 |  |  |  |  |  |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-27 | 0001404912-23-000005 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:Revenues | 10-K | 2024-02-29 | 0001404912-24-000005 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-29 | 0001404912-24-000005 | yes | 4666.476 | 10-K | 2022-02-28 | 0001404912-22-000004 |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-29 | 0001404912-24-000005 |  |  |  |  |  |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-29 | 0001404912-24-000005 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:Revenues | 10-K | 2025-02-28 | 0001404912-25-000015 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-28 | 0001404912-25-000015 | yes | -841.13 | 10-K | 2023-02-27 | 0001404912-23-000005 |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-28 | 0001404912-25-000015 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-28 | 0001404912-25-000015 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-27 | 0001404912-26-000007 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FY2017 Q1 | 2017 | 1 | 2017-03-31 |  |  |  | 267.684 |  | -1150.91 | -21.384 |  |  |
-| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 380.785 |  |  | 413.987 |  | -911.225 | -26.855 |  |  |
-| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 355.418 |  |  | 161.904 |  | -522.079 | -22.61 |  |  |
-| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 425.222 |  |  | 174.73 |  | -947.952 | -26.221 |  |  |
+| FY2017 Q1 | 2017 | 1 | 2017-03-31 | 767.755 |  |  | 267.684 |  | -1150.91 | -21.384 |  |  |
+| FY2017 Q2 | 2017 | 2 | 2017-06-30 | 1015.8 |  |  | 413.987 |  | -911.225 | -26.855 |  |  |
+| FY2017 Q3 | 2017 | 3 | 2017-09-30 | 749.652 |  |  | 161.904 |  | -522.079 | -22.61 |  |  |
+| FY2017 Q4 | 2017 | 4 | 2017-12-31 | 1024.073 |  |  | 174.73 |  | -947.952 | -26.221 |  |  |
 | FY2018 Q1 | 2018 | 1 | 2018-03-31 | 394.394 |  |  | 178.443 |  | -2157.5 | -8.67 |  |  |
 | FY2018 Q2 | 2018 | 2 | 2018-06-30 | 413.846 |  |  | 688.722 |  | -2380.807 | -36.518 |  |  |
 | FY2018 Q3 | 2018 | 3 | 2018-09-30 | 491.503 |  |  | 648.539 |  | -701.74 | -24.766 | -28.45 |  |
 | FY2018 Q4 | 2018 | 4 | 2018-12-31 | 541.583 |  |  | -384.641 |  | -2366.428 | -32.71 | -92.48 |  |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 372.548 |  |  | 709.319 |  | 156.278 | -19.455 | -28.566 |  |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 519.441 |  |  | 522.734 |  | -3270.122 | -124.582 | 0 |  |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 416.217 |  |  | 249.554 |  | -398.942 | -16.542 | 0 |  |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 482.269 |  |  | 523.442 |  | -2169.369 | -33.99 | -43.558 |  |
-| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 380.572 |  |  | -1280.524 |  | -1406.406 |  | -246.16 |  |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 393.473 |  |  | 706.969 |  | -1331.533 |  | 0 |  |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 563.34 |  |  | 1064.843 |  | -1409.406 |  | 0 |  |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 669.406 |  |  | 1511.221 |  | -1806.348 |  | 0 |  |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1187.48 |  |  | 709.319 |  | 156.278 | -19.455 | -28.566 |  |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1179.864 |  |  | 522.734 |  | -3270.122 | -124.582 | 0 |  |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 790.485 |  |  | 249.554 |  | -398.942 | -16.542 | 0 |  |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 1063.071 |  |  | 523.442 |  | -2169.369 | -33.99 | -43.558 |  |
+| FY2020 Q1 | 2020 | 1 | 2020-03-31 | -1001.505 |  |  | -1280.524 |  | -1406.406 |  | -246.16 |  |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 1331.994 |  |  | 706.969 |  | -1331.533 |  | 0 |  |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 1895.238 |  |  | 1064.843 |  | -1409.406 |  | 0 |  |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 2005.164 |  |  | 1511.221 |  | -1806.348 |  | 0 |  |
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 4563.006 |  |  | 1669.836 |  | -73.166 |  | -71.366 |  |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 3136.181 |  |  | 1315.275 |  | -1234.142 |  | -64.564 |  |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 4483.365 |  |  | 1156.557 |  | -2251.191 |  | 0 |  |
@@ -119,8 +169,10 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 | Line item | From | To | Tag |
 | --- | --- | --- | --- |
-| Revenue | FY2016 | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
-| Revenue | FY2021 | FY2026 | us-gaap:Revenues |
+| Revenue | FY2016 | FY2016 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2017 | FY2017 | us-gaap:Revenues |
+| Revenue | FY2018 | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax |
+| Revenue | FY2019 | FY2026 | us-gaap:Revenues |
 | Net income | FY2009 | FY2026 | us-gaap:NetIncomeLoss |
 | Operating cash flow | FY2009 | FY2009 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Operating cash flow | FY2010 | FY2013 | us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations |
@@ -131,14 +183,34 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 
 ## Changes
 
-### Change: KKR & Co. Inc., Revenue tag, FY2021
+### Change: KKR & Co. Inc., Revenue tag, FY2017
 
 - CIK: 0001404912
 - What: Revenue tag
-- Boundary: FY2021
+- Boundary: FY2017
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
-- Crosswalk: none
+- Crosswalk: FY2017 under both: 1541604000 and 3557280000; the new tag's figure is under half or over twice the old, or of the other sign: a different line, not the same renamed
+- Source: SEC EDGAR companyfacts
+
+### Change: KKR & Co. Inc., Revenue tag, FY2018
+
+- CIK: 0001404912
+- What: Revenue tag
+- Boundary: FY2018
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2018 under both: 2395836000 and 1841326000
+- Source: SEC EDGAR companyfacts
+
+### Change: KKR & Co. Inc., Revenue tag, FY2019
+
+- CIK: 0001404912
+- What: Revenue tag
+- Boundary: FY2019
+- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Now: us-gaap:Revenues
+- Crosswalk: FY2019 under both: 1790475000 and 4220900000; the new tag's figure is under half or over twice the old, or of the other sign: a different line, not the same renamed
 - Source: SEC EDGAR companyfacts
 
 ### Change: KKR & Co. Inc., Operating cash flow tag, FY2010
@@ -159,4 +231,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2014 under both: 1488650000 and 1488650000
+- Source: SEC EDGAR companyfacts
+
+### Change: KKR & Co. Inc., Revenue tag kept, FY2017
+
+- CIK: 0001404912
+- What: Revenue tag kept
+- Boundary: FY2017
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2017 under both: 3557280000 and 1541604000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: KKR & Co. Inc., Revenue tag kept, FY2019
+
+- CIK: 0001404912
+- What: Revenue tag kept
+- Boundary: FY2019
+- Was: us-gaap:Revenues
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
+- Crosswalk: FY2019 under both: 4220900000 and 1790475000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
 - Source: SEC EDGAR companyfacts

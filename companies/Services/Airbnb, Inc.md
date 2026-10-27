@@ -13,9 +13,9 @@
 
 Airbnb, Inc., as it files with the SEC (CIK 0001559720): its fiscal years and quarters from its XBRL filings, FY2019 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Airbnb, Inc., and how has it grown?** It sold $12.2 billion in FY2025, the 263rd most of the 488 companies with a revenue for the year, and the 33rd of 75 in [Services](../Services.md). Its sales rose 154.7% from FY2019 to FY2025, 16.9% a year.
+**How large is Airbnb, Inc., and how has it grown?** It sold $12.2 billion in FY2025, the 270th most of the 487 companies with a revenue for the year, and the 34th of 75 in [Services](../Services.md). Its sales rose 154.7% from FY2019 to FY2025, 16.9% a year.
 
-**Does Airbnb, Inc. make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 20.5% of what it sold; the median company of its sector kept 16.3%. It lost money in 3 of its 7 years in the book (FY2019, FY2020, FY2021).
+**Does Airbnb, Inc. make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 20.5% of what it sold; the median company of its sector kept 15.8%. It lost money in 3 of its 7 years in the book (FY2019, FY2020, FY2021).
 
 **Where does Airbnb, Inc.'s cash go?** From FY2019 to FY2025 its operations brought in $18.3 billion; it spent 1.2% of that on plant and equipment, and 60% on buying back its own shares.
 
@@ -27,7 +27,7 @@ Airbnb, Inc., as it files with the SEC (CIK 0001559720): its fiscal years and qu
 > | Revenue |  |  |  |  |  |  |  |  |  |  |  |  |  | 4805.239 | 3378 | 5992 | 8399 | 9917 | 11102 | 12241 |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  | -501.543 | -3590 | 429 | 1802 | 1518 | 2553 | 2544 |  |
-> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  | -674.339 | -4585 | -352.034 | 1893.105 | 4791.795 | 2648.349 | 2511.277 |  |
+> | Net income |  |  |  |  |  |  |  |  |  |  |  |  |  | -674.339 | -4585 | -352 | 1893 | 4792 | 2648 | 2511 |  |
 > | Operating cash flow |  |  |  |  |  |  |  |  |  |  |  |  |  | 222.727 | -740 | 2313 | 3430 | 3884 | 4518 | 4646 |  |
 > | Capex |  |  |  |  |  |  |  |  |  |  |  |  |  | -125.452 | -37 | -25 | -25 |  |  |  |  |
 > | Buybacks |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 | -1500 | -2252 | -3430 | -3789 |  |
@@ -44,6 +44,51 @@ Airbnb, Inc., as it files with the SEC (CIK 0001559720): its fiscal years and qu
 | FY2024 | 2024-01-01 | 2024-12-31 |  |  |
 | FY2025 | 2025-01-01 | 2025-12-31 |  |  |
 
+#### Annual figures, filed
+
+Each annual figure above and in the EPS table, from the filing that gave it: the latest filed for its period, from a 10-K or its kin (a proxy statement only where no other filing gives the period). Restated is yes where the period was filed again with a value more than half a percent apart: the figure on the card is the latest, and the first is beside it, so a year before the restatement and a year after may stand on two bases.
+
+| Line item | Fiscal year | Tag | Form | Filed | Accession | Restated | First value | First form | First filed | First accession |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-25 | 0001559720-22-000006 |  |  |  |  |  |
+| Operating income | FY2019 | us-gaap:OperatingIncomeLoss | 10-K | 2022-02-25 | 0001559720-22-000006 |  |  |  |  |  |
+| Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-25 | 0001559720-22-000006 |  |  |  |  |  |
+| Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-25 | 0001559720-22-000006 |  |  |  |  |  |
+| Capex | FY2019 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2022-02-25 | 0001559720-22-000006 |  |  |  |  |  |
+| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-17 | 0001559720-23-000003 |  |  |  |  |  |
+| Operating income | FY2020 | us-gaap:OperatingIncomeLoss | 10-K | 2023-02-17 | 0001559720-23-000003 |  |  |  |  |  |
+| Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-17 | 0001559720-23-000003 |  |  |  |  |  |
+| Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-17 | 0001559720-23-000003 | yes | -629.732 | 10-K | 2022-02-25 | 0001559720-22-000006 |
+| Capex | FY2020 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-17 | 0001559720-23-000003 | yes | 37.371 | 10-K | 2022-02-25 | 0001559720-22-000006 |
+| Buybacks | FY2020 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2023-02-17 | 0001559720-23-000003 |  |  |  |  |  |
+| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-16 | 0001559720-24-000006 |  |  |  |  |  |
+| Operating income | FY2021 | us-gaap:OperatingIncomeLoss | 10-K | 2024-02-16 | 0001559720-24-000006 |  |  |  |  |  |
+| Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-16 | 0001559720-24-000006 |  |  |  |  |  |
+| Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-16 | 0001559720-24-000006 | yes | 2189.694 | 10-K | 2022-02-25 | 0001559720-22-000006 |
+| Capex | FY2021 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-17 | 0001559720-23-000003 | yes | 25.322 | 10-K | 2022-02-25 | 0001559720-22-000006 |
+| Buybacks | FY2021 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2024-02-16 | 0001559720-24-000006 |  |  |  |  |  |
+| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-13 | 0001559720-25-000010 |  |  |  |  |  |
+| Operating income | FY2022 | us-gaap:OperatingIncomeLoss | 10-K | 2025-02-13 | 0001559720-25-000010 |  |  |  |  |  |
+| Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-13 | 0001559720-25-000010 |  |  |  |  |  |
+| Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-13 | 0001559720-25-000010 |  |  |  |  |  |
+| Capex | FY2022 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2023-02-17 | 0001559720-23-000003 |  |  |  |  |  |
+| Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-13 | 0001559720-25-000010 |  |  |  |  |  |
+| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Operating income | FY2023 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Operating income | FY2024 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+| Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0001559720-26-000004 |  |  |  |  |  |
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
@@ -55,23 +100,23 @@ Airbnb, Inc., as it files with the SEC (CIK 0001559720): its fiscal years and qu
 | FY2021 Q1 | 2021 | 1 | 2021-03-31 | 886.936 |  | -446.945 | -1172.211 |  | 606.376 | -7.706 |  |  |
 | FY2021 Q2 | 2021 | 2 | 2021-06-30 | 1335.196 |  | -51.278 | -68.217 |  | 789.654 | -7.652 |  |  |
 | FY2021 Q3 | 2021 | 3 | 2021-09-30 | 2237.432 |  | 851.973 | 833.893 |  | 534.734 | -5.506 |  |  |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1532.436 |  | 75.25 | 54.501 |  | 382.236 | -4.136 | 0 |  |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 1532.436 |  | 75.25 | 54.535 |  | 382.236 | -4.136 | 0 |  |
 | FY2022 Q1 | 2022 | 1 | 2022-03-31 | 1509 |  | -5 | -19 |  | 1202 | -6 | 0 |  |
 | FY2022 Q2 | 2022 | 2 | 2022-06-30 | 2104 |  | 369 | 379 |  | 801 | -5 | 0 |  |
 | FY2022 Q3 | 2022 | 3 | 2022-09-30 | 2884 |  | 1203 | 1214 |  | 964 | -6 | -1000 |  |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 1902 |  | 235 | 319.105 |  | 463 | -8 | -500 |  |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 1902 |  | 235 | 319 |  | 463 | -8 | -500 |  |
 | FY2023 Q1 | 2023 | 1 | 2023-03-31 | 1818 |  | -5 | 117 |  | 1587 | -6 | -493 |  |
 | FY2023 Q2 | 2023 | 2 | 2023-06-30 | 2484 |  | 523 | 650 |  | 909 | -9 | -507 |  |
 | FY2023 Q3 | 2023 | 3 | 2023-09-30 | 3397 |  | 1496 | 4374 |  | 1325 | -15 | -500 |  |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2218 |  | -496 | -349.205 |  | 63 |  | -752 |  |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 2218 |  | -496 | -349 |  | 63 |  | -752 |  |
 | FY2024 Q1 | 2024 | 1 | 2024-03-31 | 2142 |  | 101 | 264 |  | 1923 |  | -750 |  |
 | FY2024 Q2 | 2024 | 2 | 2024-06-30 | 2748 |  | 497 | 555 |  | 1051 |  | -749 |  |
 | FY2024 Q3 | 2024 | 3 | 2024-09-30 | 3732 |  | 1525 | 1368 |  | 1078 |  | -1093 |  |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2480 |  | 430 | 461.349 |  | 466 |  | -838 |  |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 2480 |  | 430 | 461 |  | 466 |  | -838 |  |
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 2272 |  | 38 | 154 |  | 1789 |  | -807 |  |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 3096 |  | 612 | 642 |  | 975 |  | -1010 |  |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 4095 |  | 1625 | 1374 |  | 1356 |  | -877 |  |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 2778 |  | 269 | 341.277 |  | 526 |  | -1095 |  |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 2778 |  | 269 | 341 |  | 526 |  | -1095 |  |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 2678 |  | 86 | 160 |  | 1708 |  | -1088 |  |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 3608 |  | 758 | 816 |  | 1270 |  | -1051 |  |
 

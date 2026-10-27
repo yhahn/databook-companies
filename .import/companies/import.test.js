@@ -13,7 +13,7 @@ const { company, safe, link, pageNames, merged, yearsOf, rel } = require('./impo
 const { reckon, theYear } = require('./reckon');
 const reading = require('../reading');
 const sic = require('./sic');
-const { periodValues, fiscalLabels, splits } = require('./edgar');
+const { periodValues, fiscalLabels, splits, ledger } = require('./edgar');
 const { subsetSummingTo } = require('./fsds');
 
 const dir = path.join(__dirname, 'vectors');
@@ -102,4 +102,28 @@ test('R: a sector is the SIC division of the SEC\'s code', () => {
   assert.strictEqual(sic.division('6021').name, 'Finance, Insurance, and Real Estate');
   assert.strictEqual(sic.division('1311').name, 'Mining');
   assert.strictEqual(rel('companies/Mining/X.md', 'companies/Services/Y Z.md'), '../Services/Y%20Z.md');
+});
+
+// DECISIONS 35: a figure under 1/500 of its neighbours is a stop, and names the company-year
+test('V2: a unit gone wrong in a 10-K (net income 1,346 thousand-fold small) is a stop naming the company-year', () => {
+  const facts = JSON.parse(JSON.stringify(JSON.parse(fs.readFileSync(path.join(dir, 'con-edison-proxy-scale.json'), 'utf8')).input.facts));
+  assert.deepStrictEqual(ledger(facts).stops, []);
+  for (const r of facts.facts['us-gaap'].NetIncomeLoss.units.USD) if (r.end === '2021-12-31' && r.form === '10-K') r.val /= 1000;
+  const stops = ledger(facts).stops;
+  assert.strictEqual(stops.length, 1);
+  assert.match(stops[0], /CONSOLIDATED EDISON INC, FY2021, Net income: 1\.346 million against 1101 and 1660/);
+});
+test('V2: a company-year the unit check stopped and a filing showed true is not a stop (unit-checked.json)', () => {
+  const checked = JSON.parse(fs.readFileSync(path.join(__dirname, 'unit-checked.json'), 'utf8')).checked;
+  assert.ok(checked.length > 0 && checked.every((k) => k.cik && k.year && k.line && k.why));
+});
+test('D5: a magnitude guard on a tag move: a sliver tag is kept out of the line and said', () => {
+  for (const f of ['metlife-revenue-sliver.json', 'crown-castle-revenue-sliver.json']) {
+    const out = Object.values(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')).output)[0];
+    assert.match(out, /- What: Revenue tag kept/);
+  }
+});
+test('D5: net income moving between tags, the two far apart, is said in its Change (Ares, FY2014)', () => {
+  const out = Object.values(JSON.parse(fs.readFileSync(path.join(dir, 'ares-net-income-tags.json'), 'utf8')).output)[0];
+  assert.match(out, /- What: Net income tag\n[^]*- Crosswalk: FY2014 under both: 545662000 and 34988000; the new tag's figure is under half/);
 });
