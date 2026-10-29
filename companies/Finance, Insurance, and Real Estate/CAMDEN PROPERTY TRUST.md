@@ -98,6 +98,26 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000906345/Net income tag/FY2010 | FY2010 | Net income tag | instrument | |  |  |  | | | | | millions | | | | | | Net income tag, FY2010 (the two tags' figures differ, x1.34) |  |
+| 0000906345/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | 2623.3 | 13129.5 | 10506.2 | 301.75 | -3829.96 | 1938.5 | 5857.0 | percent of revenue | 15.8 | 15.3 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  |  |  |  |  |  |  |  |  | 93.5 | 2402.4 | 2159.1 | 2525.6 | 1147.3 | 2885.6 | 12598.6 | 11686.7 | 2288.0 | 2964.9 |
+> | Net margin, fitted by the rule |  |  |  |  |  |  |  |  |  | 1114.6 | 1416.3 | 1718.1 | 2019.8 | 2321.5 | 2623.3 | 13129.5 | 9299.5 | 5469.6 | 1639.6 |
+> - Mark: FY2022 Event: net margin fitted 2623.3% to 13129.5% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

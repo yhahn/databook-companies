@@ -128,6 +128,51 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-25 | 0000726728-26-000011 |  |  |  |  |  |
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0000726728-26-000011 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000726728/Revenue gap/FY2012 | FY2012 | Revenue gap | instrument | | 417 |  |  | | | | | millions | | | | | | none |  |
+| 0000726728/EPS diluted tag/FY2014 | FY2014 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2014 |  |
+| 0000726728/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 417 | 1103 | 686 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
+| 0000726728/EPS diluted tag/FY2018 | FY2018 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2018 |  |
+| 0000726728/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 1328 | 1488 | 160 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
+| 0000726728/Net income tag/FY2026 | FY2026 | Net income tag | instrument | | 1059 |  |  | | | | | millions | | | | | | Net income tag, FY2026 |  |
+| 0000726728/Operating cash flow growth/FY2014/2 | FY2014 | Operating cash flow growth | observed | bend | 45.2 | 11.7 | -33.5 | 13.55 | 1.53 | 30.5 | 47.5 | percent a year | 8.7 | 5.6 | 2 | lone | 94 |  |  |
+| 0000726728/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | 20.4 | 52.4 | 32.0 | 3.37 | -14.77 | 10.7 | 26.1 | percent a year | 11.0 | 8.9 | 1 | lone | 94 |  |  |
+| 0000726728/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level | 65.7 | 75.6 | 9.9 | -1.62 | -2.63 | 3.8 | 4.6 | percent of revenue | 12.0 | 7.0 | 1 | shared | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  |  |  |  |  |  |  |  |  | 10.2 | 9.2 | 12.1 | 10.7 | 26.3 | 60.7 | 22.0 | 29.2 | 9.1 |
+> | Revenue growth, fitted by the rule |  |  |  |  |  |  |  |  |  |  | 7.0 | 10.3 | 13.7 | 17.1 | 20.4 | 52.4 | 37.6 | 22.9 | 8.1 |
+> - Mark: FY2022 Event: revenue growth fitted 20.4% to 52.4% (up)
+
+### Operating cash flow growth
+
+> [!CARD:line] Operating cash flow growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow growth |  |  | -7.9 | 7.3 | 22.8 | 9.2 | 58.9 | 21.0 | 10.5 | 15.3 | 9.5 | 7.4 | 13.6 | 4.4 | 18.5 | 93.9 | 15.4 | 20.8 | 11.8 |
+> | Operating cash flow growth, fitted by the rule |  |  | -9.0 | 4.5 | 18.1 | 31.6 | 45.2 | 11.7 | 13.3 | 14.8 | 16.3 | 17.9 | 19.4 | 20.9 | 22.5 | 24.0 | 25.5 | 27.1 | 28.6 |
+> - Mark: FY2014 Event: cash flow growth bends, +13.6 to +1.5 points a year
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  |  |  |  |  |  |  |  |  | 72.5 | 72.0 | 70.8 | 71.8 | 67.7 | 63.6 | 76.7 | 72.5 | 67.8 | 69.5 |
+> | Operating cash flow over revenue, fitted by the rule |  |  |  |  |  |  |  |  |  | 73.8 | 72.2 | 70.6 | 68.9 | 67.3 | 65.7 | 75.6 | 72.9 | 70.3 | 67.7 |
+> - Mark: FY2022 Event: cash over revenue fitted 65.7% to 75.6% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

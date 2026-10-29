@@ -13,6 +13,15 @@ const { spawnSync } = require('child_process');
 const REPO = path.resolve(__dirname, '..');
 const counts = JSON.parse(fs.readFileSync(path.join(__dirname, 'companies/counts.json'), 'utf8'));
 counts.faq_questions = (fs.readFileSync(path.join(__dirname, 'faq.md'), 'utf8').match(/^### Question: /gm) || []).length;
+// the Events written (events.json, made by events.py)
+{
+  const ev = JSON.parse(fs.readFileSync(path.join(__dirname, 'events.json'), 'utf8')).events;
+  counts.events_total = ev.length;
+  counts.events_observed = ev.filter((e) => e.kind === 'observed').length;
+  counts.events_instrument = ev.filter((e) => e.kind === 'instrument').length;
+  counts.events_no_change = ev.filter((e) => e.kind === 'instrument' && e.record === 'none').length;
+  counts.events_companies = new Set(ev.map((e) => e.cik)).size;
+}
 // the reading pages' values (.import/reading.json), as {front.<name>} and {apple.<name>}
 const kept = JSON.parse(fs.readFileSync(path.join(__dirname, 'reading.json'), 'utf8')).pages;
 for (const [k, v] of Object.entries(Object.assign({}, ...Object.values(kept['README.md'])))) counts[`front.${k}`] = v;

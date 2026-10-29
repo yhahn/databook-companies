@@ -103,6 +103,40 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001628280-26-011413 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001176948/Net income tag/FY2014 | FY2014 | Net income tag | instrument | | 813 | 35.0 | -778 | | | | | millions | | | | | | Net income tag, FY2014 (the two tags' figures differ, x15.60) |  |
+| 0001176948/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | -528 | -626 | -97.7 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
+| 0001176948/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 965 | 1480 | 515 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x0.73) |  |
+| 0001176948/Net income tag/FY2023 | FY2023 | Net income tag | instrument | | 168 | 886 | 718 | | | | | millions | | | | | | Net income tag, FY2023 (the two tags' figures differ, x0.54) |  |
+| 0001176948/Net income tag/FY2024 | FY2024 | Net income tag | instrument | | 886 | 464 | -422 | | | | | millions | | | | | | Net income tag, FY2024 (the two tags' figures differ, x1.76) |  |
+| 0001176948/Net margin/FY2016 | FY2016 | Net margin | observed | level and bend | -53.0 | 7.0 | 60.0 | -126.67 | 0.68 | 141.6 | 10.7 | percent of revenue | 39.0 | 14.7 | 1 | lone | 94 | Revenue tag, FY2017 (the two tags' figures differ, x0.73) |  |
+| 0001176948/Operating cash flow over revenue/FY2018 | FY2018 | Operating cash flow over revenue | observed | bend | -171.3 | -134.9 | 36.4 | -113.90 | 29.56 | 213.8 | 54.9 | percent of revenue | 14.6 | 9.1 | 1 | lone | 94 | Revenue tag, FY2017 (the two tags' figures differ, x0.73) |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  |  |  |  |  | 369.9 | 169.9 | 5.8 | 2.4 | 11.6 | 5.1 | 5.9 | 8.4 | 8.6 | 9.7 | 5.5 | 24.4 | 11.9 | 9.4 |
+> | Net margin, fitted by the rule |  |  |  |  |  | 327.0 | 200.3 | 73.7 | -53.0 | 7.0 | 7.7 | 8.4 | 9.0 | 9.7 | 10.4 | 11.1 | 11.8 | 12.5 | 13.1 |
+> - Mark: FY2016 Event: net margin fitted -53.0% to 7.0% (up)
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  |  |  |  |  |  |  | 253.8 | -64.8 | -64.8 | -125.9 | -147.8 | -118.0 | -24.1 | -61.6 | -24.0 | -6.4 | 71.8 | 58.3 |
+> | Operating cash flow over revenue, fitted by the rule |  |  |  |  |  |  |  | 170.4 | 56.5 | -57.4 | -171.3 | -134.9 | -105.4 | -75.8 | -46.3 | -16.7 | 12.9 | 42.4 | 72.0 |
+> - Mark: FY2018 Event: cash over revenue bends, -113.9 to +29.6 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

@@ -142,6 +142,26 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-19 | 0001164727-26-000010 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001164727-26-000010 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001164727/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 6085 | 6680 | 595 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
+| 0001164727/Operating cash flow growth/FY2017/2 | FY2017 | Operating cash flow growth | observed | bend | 43.0 | -10.4 | -53.4 | 21.15 | 9.00 | 39.9 | 104.7 | percent a year | 6.9 | 6.2 | 2 | lone | 11 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow growth
+
+> [!CARD:line] Operating cash flow growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow growth |  |  |  |  |  | -33.8 | -34.9 | -6.8 | 49.2 | 29.9 | -23.8 | -14.0 | 56.9 | 70.3 | -12.4 | -24.7 | -14.2 | 130.3 | 62.4 |
+> | Operating cash flow growth, fitted by the rule |  |  |  |  |  | -41.6 | -20.5 | 0.7 | 21.8 | 43.0 | -10.4 | -1.4 | 7.6 | 16.6 | 25.7 | 34.7 | 43.7 | 52.7 | 61.7 |
+> - Mark: FY2017 Event: cash flow growth bends, +21.2 to +9.0 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

@@ -206,6 +206,15 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-01-30 | 0001628280-26-004357 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-01-30 | 0001628280-26-004357 |  |  |  |  |  |
 
+## Events
+
+The rule found no change in this company's series (Revenue growth, Operating cash flow growth, Net margin, Operating margin, Operating cash flow over revenue), and no tag or fiscal year end moved.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

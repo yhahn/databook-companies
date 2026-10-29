@@ -17,6 +17,8 @@ the same, by running the importer again. It holds no prices.
 
 [Questions and answers](./FAQ.md): 35 questions a reader of this book can answer, from one company's revenue in one year to what a split did to its earnings a share, each with its answer and the page to look in.
 
+[Instrument](./Instrument.md) says what measures the numbers here (a filing, a tag, a fiscal year end, a unit) and how steady it is; [Method](./METHOD.md) says how each company page finds its **Events**, the years where a series (growth, margins) or its instrument (a tag, a year end) moved: a rule finds them, a graph marks them, a table lists them as facts, and nothing says why.
+
 ## What the data points to
 
 Earnings outran sales: from FY2015 to FY2025 the same 373 companies' net income rose 154.2% and their revenue 81.8%, so they keep more of each dollar they sell (8.5% in FY2015, 11.9% in FY2025). Earnings are less steady than sales: the same companies' net income fell from the year before in 2 of the ten years, their revenue in 1; the worst year for earnings was FY2020, when they fell 29.5%. Earnings gather at the top: 35.7% of all the companies' net income in FY2025 was the ten largest earners', [Alphabet Inc.](./companies/Services/Alphabet%20Inc.md) first. They spent less on buying back their own shares ($910.1 billion) than on plant and equipment ($1.10 trillion) in FY2025. [Services](./companies/Services.md) keeps the most of each dollar it sells, 23.6%; [Wholesale Trade](./companies/Wholesale%20Trade.md) the least, 1.3%.
@@ -139,7 +141,7 @@ citing them is still the courteous thing.
 node .import/members.js --fetch       # SPY's holdings and the SEC's tickers: the members
 node .import/companies/fetch.js       # each member's companyfacts, from data.sec.gov
 node .import/companies/sic.js --fetch # the SEC's list of SIC codes and their titles
-sh .import/build.sh                   # every page, the README and FAQ.md; the tests; what proper gathers checked
+sh .import/build.sh                   # every page, the README and FAQ.md, each page's Events, METHOD.md and Instrument.md; the tests; what proper gathers checked
 ```
 
 The fetch keeps what it has fetched in a local cache and, stopped part
@@ -166,7 +168,9 @@ sources at every release, never copied from the pages.
   row, a year a column, $ millions) and EPS by year (`Company_EPS_by_year`);
   its quarters (`Company_Quarterly`, a quarter a row); its segments
   (`Company_Segments`); the tags each line item was read from
-  (`Company_Tags`); and its changes (`Change`).
+  (`Company_Tags`); its Events (`Company_Events`, a row an Event, found by
+  a rule and never explained, with a blank column for a person's note);
+  and its changes (`Change`).
 
 A table is joined to its record by the file it is in: `join … using (_file)`.
 

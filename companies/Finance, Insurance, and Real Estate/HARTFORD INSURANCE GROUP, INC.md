@@ -171,6 +171,26 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-20 | 0000874766-26-000012 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-20 | 0000874766-26-000012 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000874766/Revenue tag/FY2026 | FY2026 | Revenue tag | instrument | | 28368 |  |  | | | | | millions | | | | | | Revenue tag, FY2026 |  |
+| 0000874766/Revenue growth/FY2016/2 | FY2016 | Revenue growth | observed | bend | -13.5 | 4.8 | 18.3 | -6.04 | 0.26 | 138.3 | 8.8 | percent a year | 7.8 | 6.3 | 2 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  | -64.4 | 165.0 | -10.9 | -0.2 | 1.6 | -6.4 | -10.0 | -14.1 | 1.8 | 5.3 | 10.4 | 9.4 | -1.0 | 9.1 | -0.1 | 9.7 | 8.2 | 6.9 |
+> | Revenue growth, fitted by the rule |  | 28.7 | 22.7 | 16.6 | 10.6 | 4.6 | -1.5 | -7.5 | -13.5 | 4.8 | 5.1 | 5.3 | 5.6 | 5.8 | 6.1 | 6.4 | 6.6 | 6.9 | 7.2 |
+> - Mark: FY2016 Event: revenue growth bends, -6.0 to +0.3 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

@@ -193,6 +193,18 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-24 | 0000093556-26-000009 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-24 | 0000093556-26-000009 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000093556/Capex tag/FY2009 | FY2009 | Capex tag | instrument | | -94.6 | -93.4 | 1.2 | | | | | millions | | | | | | Capex tag, FY2009 |  |
+| 0000093556/Capex tag/FY2011 | FY2011 | Capex tag | instrument | | -186 | -302 | -117 | | | | | millions | | | | | | Capex tag, FY2011 |  |
+| 0000093556/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 11407 | 12967 | 1560 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

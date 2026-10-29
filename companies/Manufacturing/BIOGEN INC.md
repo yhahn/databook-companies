@@ -203,6 +203,25 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-06 | 0000875045-26-000013 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-06 | 0000875045-26-000013 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000875045/Net margin/FY2021 | FY2021 | Net margin | observed | bend | 34.6 | 20.2 | -14.3 | 1.15 | -1.53 | 8.5 | 15.8 | percent of revenue | 12.4 | 10.5 | 1 | lone | 201 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | 20.1 | 19.1 | 22.2 | 21.3 | 24.5 | 25.0 | 26.9 | 30.2 | 33.0 | 32.3 | 20.7 | 32.9 | 41.0 | 29.8 | 14.2 | 29.9 | 11.8 | 16.9 | 13.1 |
+> | Net margin, fitted by the rule | 19.6 | 20.7 | 21.9 | 23.0 | 24.2 | 25.3 | 26.5 | 27.6 | 28.8 | 29.9 | 31.1 | 32.3 | 33.4 | 34.6 | 20.2 | 18.7 | 17.2 | 15.6 | 14.1 |
+> - Mark: FY2021 Event: net margin bends, +1.2 to -1.5 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

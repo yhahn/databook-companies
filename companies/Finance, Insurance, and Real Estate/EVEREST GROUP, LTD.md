@@ -152,6 +152,29 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-26 | 0001095073-26-000006 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-26 | 0001095073-26-000006 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001095073/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 664 | 1098 | 434 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
+| 0001095073/Net income tag/FY2016 | FY2016 | Net income tag | instrument | | 978 | 996 | 18.5 | | | | | millions | | | | | | Net income tag, FY2016 |  |
+| 0001095073/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 1373 | 1163 | -210 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
+| 0001095073/Net income tag/FY2022 | FY2022 | Net income tag | instrument | | 1379 | 597 | -782 | | | | | millions | | | | | | Net income tag, FY2022 |  |
+| 0001095073/Operating cash flow growth/FY2019 | FY2019 | Operating cash flow growth | observed | level and bend | -13.1 | 129.1 | 142.2 | -3.71 | -29.56 | 60.4 | 95.2 | percent a year | 8.6 | 6.8 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow growth
+
+> [!CARD:line] Operating cash flow growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow growth |  |  | 18.4 | 17.0 | -28.2 | 0.7 | 65.4 | -4.0 | 4.0 | 25.2 | -15.3 | -47.5 | 203.6 | 55.2 | 33.4 | -3.6 | 23.2 | 8.9 | -38.1 |
+> | Operating cash flow growth, fitted by the rule |  |  | 20.3 | 16.5 | 12.8 | 9.1 | 5.4 | 1.7 | -2.0 | -5.7 | -9.4 | -13.1 | 129.1 | 99.5 | 69.9 | 40.4 | 10.8 | -18.8 | -48.3 |
+> - Mark: FY2019 Event: cash flow growth fitted -13.1% to 129.1% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

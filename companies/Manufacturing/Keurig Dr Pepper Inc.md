@@ -204,6 +204,30 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-24 | 0001418135-26-000016 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-24 | 0001418135-26-000016 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001418135/Fiscal year end/FY2017 | FY2017 | Fiscal year end | instrument | | 366 | 273 | -93.0 | | | | | day of year | | | | | | Fiscal year end, FY2016 to FY2017 |  |
+| 0001418135/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 6440 | 4269 | -2171 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x1.57) |  |
+| 0001418135/Fiscal year end/FY2018 | FY2018 | Fiscal year end | instrument | | 273 | 365 | 92.0 | | | | | day of year | | | | | | Fiscal year end, FY2017 to FY2018 |  |
+| 0001418135/Revenue growth/FY2018 | FY2018 | Revenue growth | observed | level and bend | -10.7 | 70.4 | 81.1 | -2.07 | -24.04 | 22.0 | 29.8 | percent a year | 8.8 | 7.1 | 1 | lone | 201 | Revenue tag, FY2017 (the two tags' figures differ, x1.57); Fiscal year end, FY2016 to FY2017; Fiscal year end, FY2017 to FY2018 |  |
+| 0001418135/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | level and bend | -1.7 | 8.5 | 10.2 | -24.04 | -0.98 | 29.8 | 7.0 | percent a year | 20.0 | 6.3 | 2 | shared | 201 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  | -3.1 | 1.9 | 4.7 | 1.6 | 0.0 | 2.1 | 2.6 | 2.5 | -33.7 | 74.3 | 49.4 | 4.5 | 9.2 | 10.8 | 5.4 | 3.6 | 8.2 |
+> | Revenue growth, fitted by the rule |  |  | 5.9 | 3.8 | 1.8 | -0.3 | -2.4 | -4.4 | -6.5 | -8.6 | -10.7 | 70.4 | 46.4 | 22.3 | -1.7 | 8.5 | 7.5 | 6.5 | 5.5 |
+> - Mark: FY2018 Event: revenue growth fitted -10.7% to 70.4% (up)
+> - Mark: FY2022 Event: revenue growth fitted -1.7% to 8.5% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

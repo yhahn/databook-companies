@@ -196,6 +196,26 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-11-10 | 0000038777-25-000238 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-11-10 | 0000038777-25-000238 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000038777/Revenue tag/FY2020 | FY2020 | Revenue tag | instrument | | 5774 | 5566 | -208 | | | | | millions | | | | | | Revenue tag, FY2020 |  |
+| 0000038777/Operating margin/FY2016 | FY2016 | Operating margin | observed | bend | 38.1 | 37.3 | -0.8 | 0.77 | -3.47 | 4.4 | 6.4 | percent of revenue | 46.1 | 28.6 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin | 33.3 | 34.8 | 28.7 | 33.5 | 37.3 | 35.4 | 36.6 | 37.9 | 38.1 | 35.7 | 35.4 | 32.1 | 25.4 | 18.8 | 22.3 | 21.4 | 14.0 | 4.8 | 6.9 |
+> | Operating margin, fitted by the rule | 32.0 | 32.7 | 33.5 | 34.3 | 35.1 | 35.8 | 36.6 | 37.4 | 38.1 | 37.3 | 33.8 | 30.4 | 26.9 | 23.4 | 20.0 | 16.5 | 13.0 | 9.5 | 6.1 |
+> - Mark: FY2016 Event: operating margin bends, +0.8 to -3.5 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

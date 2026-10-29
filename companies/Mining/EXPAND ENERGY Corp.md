@@ -176,6 +176,33 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-18 | 0000895126-26-000011 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-18 | 0000895126-26-000011 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000895126/Capex gap/FY2017 | FY2017 | Capex gap | instrument | | -1446 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 10039 | 5189 | -4850 | | | | | millions | | | | | | Revenue tag, FY2018 (the two tags' figures differ, x1.93) |  |
+| 0000895126/Capex tag/FY2020 | FY2020 | Capex tag | instrument | | -1446 | -1142 | 304 | | | | | millions | | | | | | Capex tag, FY2020 |  |
+| 0000895126/Capex gap/FY2021 | FY2021 | Capex gap | instrument | | -1142 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Operating cash flow gap/FY2021 | FY2021 | Operating cash flow gap | instrument | | 1164 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Operating income gap/FY2021 | FY2021 | Operating income gap | instrument | | -8703 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Revenue gap/FY2021 | FY2021 | Revenue gap | instrument | | 2745 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Revenue tag/FY2022 | FY2022 | Revenue tag | instrument | | 2745 | 11743 | 8998 | | | | | millions | | | | | | Revenue tag, FY2022 |  |
+| 0000895126/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | bend | 12.7 | -6.7 | -19.4 | -6.51 | 13.85 | 16.6 | 16.8 | percent of revenue | 24.8 | 23.1 | 1 | lone | 11 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue | 63.8 | 46.1 | 56.6 | 54.6 | 50.7 | 23.0 | 24.2 | 20.0 | 9.7 | -11.3 | 4.7 | 33.3 | 35.9 | 42.4 |  |  |  |  |  |
+> | Operating cash flow over revenue, fitted by the rule | 64.8 | 58.3 | 51.8 | 45.3 | 38.7 | 32.2 | 25.7 | 19.2 | 12.7 | -6.7 | 7.2 | 21.0 | 34.9 | 48.7 |  |  |  |  |  |
+> - Mark: FY2016 Event: cash over revenue bends, -6.5 to +13.9 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

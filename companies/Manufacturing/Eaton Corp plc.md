@@ -166,6 +166,29 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-26 | 0001551182-26-000007 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-26 | 0001551182-26-000007 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001551182/Net income tag/FY2012 | FY2012 | Net income tag | instrument | | 1350 | 1220 | -130 | | | | | millions | | | | | | Net income tag, FY2012 |  |
+| 0001551182/Revenue tag/FY2012 | FY2012 | Revenue tag | instrument | | 0.0 | 16311 | 16311 | | | | | millions | | | | | | Revenue tag, FY2012 (the two tags' figures differ, x0.00) |  |
+| 0001551182/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 19747 | 20404 | 657 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0001551182/Net income tag/FY2018 | FY2018 | Net income tag | instrument | | 2986 | 2145 | -841 | | | | | millions | | | | | | Net income tag, FY2018 |  |
+| 0001551182/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | -11.7 | 8.5 | 20.2 | -3.92 | 0.24 | 24.9 | 5.5 | percent a year | 6.1 | 3.8 | 2 | lone | 201 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  |  |  |  |  | 35.2 | 2.3 | -7.5 | -5.3 | 3.3 | 5.9 | -1.0 | -16.5 | 9.9 | 5.7 | 11.8 | 7.3 | 10.3 |
+> | Revenue growth, fitted by the rule |  |  |  |  |  |  | 15.8 | 11.8 | 7.9 | 4.0 | 0.1 | -3.8 | -7.8 | -11.7 | 8.5 | 8.8 | 9.0 | 9.2 | 9.5 |
+> - Mark: FY2021 Event: revenue growth bends, -3.9 to +0.2 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

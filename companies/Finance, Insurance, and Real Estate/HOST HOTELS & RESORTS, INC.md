@@ -177,6 +177,60 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-25 | 0001070750-26-000054 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-25 | 0001070750-26-000054 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001070750/Capex gap/FY2010 | FY2010 | Capex gap | instrument | | -164 |  |  | | | | | millions | | | | | | none |  |
+| 0001070750/Net income gap/FY2010 | FY2010 | Net income gap | instrument | | -252 |  |  | | | | | millions | | | | | | none |  |
+| 0001070750/Operating cash flow gap/FY2010 | FY2010 | Operating cash flow gap | instrument | | 552 |  |  | | | | | millions | | | | | | none |  |
+| 0001070750/Operating income gap/FY2010 | FY2010 | Operating income gap | instrument | | 149 |  |  | | | | | millions | | | | | | none |  |
+| 0001070750/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 5430 | 5387 | -43.0 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0001070750/Operating cash flow over revenue/FY2015/2 | FY2015 | Operating cash flow over revenue | observed | bend | 21.6 | 17.8 | -3.9 | 2.64 | 0.32 | 1.7 | 28.0 | percent of revenue | 14.0 | 6.5 | 2 | lone | 94 |  |  |
+| 0001070750/Revenue growth/FY2017/2 | FY2017 | Revenue growth | observed | bend | 4.9 | -2.4 | -7.4 | 1.05 | 3.42 | 15.8 | 88.6 | percent a year | 6.5 | 5.1 | 2 | lone | 94 | Revenue tag, FY2017 |  |
+| 0001070750/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 19.1 | -22.4 | -41.5 | 2.22 | 9.36 | 6.4 | 33.5 | percent of revenue | 10.1 | 9.7 | 1 | lone | 94 |  |  |
+| 0001070750/Operating margin/FY2020 | FY2020 | Operating margin | observed | level and bend | 13.8 | -32.3 | -46.1 | 0.74 | 12.46 | 3.9 | 40.8 | percent of revenue | 10.2 | 9.8 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  | -2.3 | -18.9 | 5.2 | 8.1 | 7.3 | 2.1 | 3.0 | 0.5 | 1.5 | -0.8 | 2.5 | -1.0 | -70.4 | 78.4 | 69.8 | 8.2 | 7.0 | 7.6 |
+> | Revenue growth, fitted by the rule |  | -3.5 | -2.4 | -1.4 | -0.3 | 0.7 | 1.8 | 2.8 | 3.9 | 4.9 | -2.4 | 1.0 | 4.4 | 7.8 | 11.3 | 14.7 | 18.1 | 21.5 | 25.0 |
+> - Mark: FY2017 Event: revenue growth bends, +1.0 to +3.4 points a year
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  |  |  |  | -0.3 | 1.2 | 6.1 | 13.8 | 10.4 | 14.0 | 10.5 | 19.7 | 16.8 | -45.2 | -0.4 | 12.9 | 13.9 | 12.3 | 12.5 |
+> | Net margin, fitted by the rule |  |  |  |  | 1.4 | 3.6 | 5.8 | 8.0 | 10.2 | 12.5 | 14.7 | 16.9 | 19.1 | -22.4 | -13.0 | -3.7 | 5.7 | 15.0 | 24.4 |
+> - Mark: FY2020 Event: net margin fitted 19.1% to -22.4% (down)
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  |  |  |  | 6.6 | 7.2 | 9.9 | 13.0 | 11.8 | 12.6 | 12.5 | 9.6 | 14.6 | -58.8 | -8.7 | 15.8 | 15.6 | 15.4 | 14.0 |
+> | Operating margin, fitted by the rule |  |  |  |  | 7.9 | 8.6 | 9.4 | 10.1 | 10.9 | 11.6 | 12.3 | 13.1 | 13.8 | -32.3 | -19.8 | -7.4 | 5.1 | 17.6 | 30.0 |
+> - Mark: FY2020 Event: operating margin fitted 13.8% to -32.3% (down)
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  |  |  |  | 14.0 | 15.4 | 19.7 | 21.4 | 21.7 | 24.0 | 22.8 | 23.5 | 22.9 | -19.0 | 10.1 | 28.9 | 27.1 | 26.4 | 24.7 |
+> | Operating cash flow over revenue, fitted by the rule |  |  |  |  | 13.7 | 16.3 | 19.0 | 21.6 | 17.8 | 18.1 | 18.4 | 18.7 | 19.0 | 19.4 | 19.7 | 20.0 | 20.3 | 20.7 | 21.0 |
+> - Mark: FY2015 Event: cash over revenue bends, +2.6 to +0.3 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

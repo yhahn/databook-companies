@@ -176,6 +176,46 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-11-06 | 0001403161-25-000089 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-11-06 | 0001403161-25-000089 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001403161/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 20609 | 22977 | 2368 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
+| 0001403161/Net margin/FY2011 | FY2011 | Net margin | observed | level and bend | 46.6 | 34.9 | -11.8 | 22.15 | 1.49 | 27.8 | 11.9 | percent of revenue | 20.3 | 14.5 | 1 | lone | 74 |  |  |
+| 0001403161/Operating margin/FY2011 | FY2011 | Operating margin | observed | level and bend | 70.3 | 51.7 | -18.7 | 32.33 | 1.17 | 37.7 | 20.8 | percent of revenue | 18.2 | 12.5 | 1 | lone | 74 |  |  |
+| 0001403161/Revenue growth/FY2012 | FY2012 | Revenue growth | observed | bend | 2.6 | 11.4 | 8.9 | -17.52 | -0.03 | 49.1 | 12.8 | percent a year | 14.7 | 9.5 | 1 | lone | 74 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  | 74.5 | 10.3 | 16.7 | 13.9 | 13.4 | 13.0 | 7.8 | 9.3 | 8.7 | 21.7 | 12.3 | 11.5 | -4.9 | 10.3 | 21.6 | 11.4 | 10.0 | 11.3 |
+> | Revenue growth, fitted by the rule |  | 55.1 | 37.6 | 20.1 | 2.6 | 11.4 | 11.4 | 11.4 | 11.4 | 11.3 | 11.3 | 11.3 | 11.2 | 11.2 | 11.2 | 11.1 | 11.1 | 11.1 | 11.0 |
+> - Mark: FY2012 Event: revenue growth bends, -17.5 to -0.0 points a year
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | -30.0 | 12.8 | 34.0 | 36.8 | 39.7 | 20.6 | 42.3 | 42.8 | 45.6 | 39.7 | 36.5 | 50.0 | 52.6 | 49.7 | 51.1 | 51.0 | 52.9 | 55.0 | 50.1 |
+> | Net margin, fitted by the rule | -19.8 | 2.3 | 24.5 | 46.6 | 34.9 | 36.4 | 37.8 | 39.3 | 40.8 | 42.3 | 43.8 | 45.3 | 46.8 | 48.3 | 49.8 | 51.3 | 52.8 | 54.3 | 55.7 |
+> - Mark: FY2011 Event: net margin fitted 46.6% to 34.9% (down)
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin | -40.4 | 19.7 | 51.2 | 56.9 | 59.4 | 20.5 | 61.5 | 60.6 | 65.3 | 52.3 | 66.2 | 62.9 | 65.3 | 64.5 | 65.6 | 64.2 | 64.3 | 65.7 | 60.0 |
+> | Operating margin, fitted by the rule | -26.6 | 5.7 | 38.0 | 70.3 | 51.7 | 52.8 | 54.0 | 55.2 | 56.4 | 57.5 | 58.7 | 59.9 | 61.0 | 62.2 | 63.4 | 64.6 | 65.7 | 66.9 | 68.1 |
+> - Mark: FY2011 Event: operating margin fitted 70.3% to 51.7% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

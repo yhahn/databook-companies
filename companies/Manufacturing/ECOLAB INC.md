@@ -196,6 +196,42 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-23 | 0001104659-26-018357 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-23 | 0001104659-26-018357 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000031462/Net income tag/FY2011 | FY2011 | Net income tag | instrument | | 530 | 463 | -67.0 | | | | | millions | | | | | | Net income tag, FY2011 |  |
+| 0000031462/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 950 | 686 | -265 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
+| 0000031462/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 2000 | 1940 | -60.1 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
+| 0000031462/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 13153 | 11531 | -1622 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x1.20) |  |
+| 0000031462/Net income tag/FY2021 | FY2021 | Net income tag | instrument | | -1186 | 1130 | 2315 | | | | | millions | | | | | | Net income tag, FY2021 |  |
+| 0000031462/Net margin/FY2011/2 | FY2011 | Net margin | observed | level and bend | 8.1 | 5.7 | -2.4 | 0.25 | 0.88 | 1.6 | 2.3 | percent of revenue | 8.6 | 6.3 | 2 | lone | 201 | Net income tag, FY2011 |  |
+| 0000031462/Revenue growth/FY2018/2 | FY2018 | Revenue growth | observed | bend | 0.7 | 3.6 | 2.9 | -2.00 | 0.22 | 48.7 | 11.2 | percent a year | 18.3 | 8.4 | 2 | lone | 201 | Revenue tag, FY2017 (the two tags' figures differ, x1.20) |  |
+| 0000031462/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 12.8 | -2.3 | -15.1 | 0.88 | 3.71 | 2.3 | 11.4 | percent of revenue | 16.4 | 7.2 | 1 | lone | 201 | Net income tag, FY2021 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  | 12.2 | -3.9 | 3.2 | 11.6 | 74.1 | 11.9 | 7.7 | -5.1 | -2.9 | -12.3 | 6.0 | 2.8 | -6.1 | 8.0 | 11.4 | 8.0 | 2.7 | 2.2 |
+> | Revenue growth, fitted by the rule |  | 18.7 | 16.7 | 14.7 | 12.7 | 10.7 | 8.7 | 6.7 | 4.7 | 2.7 | 0.7 | 3.6 | 3.8 | 4.0 | 4.3 | 4.5 | 4.7 | 4.9 | 5.2 |
+> - Mark: FY2018 Event: revenue growth bends, -2.0 to +0.2 points a year
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | 7.8 | 7.3 | 7.1 | 8.7 | 6.8 | 5.9 | 7.3 | 8.6 | 7.5 | 9.5 | 13.2 | 11.8 | 12.5 | -10.1 | 8.9 | 7.7 | 9.0 | 13.4 | 12.9 |
+> | Net margin, fitted by the rule | 7.4 | 7.6 | 7.8 | 8.1 | 5.7 | 6.6 | 7.5 | 8.4 | 9.2 | 10.1 | 11.0 | 11.9 | 12.8 | -2.3 | 1.4 | 5.1 | 8.8 | 12.5 | 16.2 |
+> - Mark: FY2011 Event: net margin fitted 8.1% to 5.7% (down)
+> - Mark: FY2020 Event: net margin fitted 12.8% to -2.3% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

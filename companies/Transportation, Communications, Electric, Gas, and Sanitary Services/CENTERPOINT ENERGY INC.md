@@ -177,6 +177,39 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001130310-26-000008 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-19 | 0001130310-26-000008 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001130310/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 1860 | 1613 | -247 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
+| 0001130310/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 1928 | 1417 | -511 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
+| 0001130310/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 7528 | 5664 | -1864 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0001130310/Capex tag/FY2024 | FY2024 | Capex tag | instrument | | -4401 | -4513 | -112 | | | | | millions | | | | | | Capex tag, FY2024 |  |
+| 0001130310/Operating cash flow growth/FY2018/2 | FY2018 | Operating cash flow growth | observed | bend | -15.0 | 680.6 | 695.6 | -5.99 | 97.07 | 80.1 | 6059.9 | percent a year | 6.3 | 6.2 | 2 | lone | 61 | Operating cash flow tag, FY2017 |  |
+| 0001130310/Net margin/FY2021/2 | FY2021 | Net margin | observed | bend | 5.8 | 15.2 | 9.4 | -0.03 | -1.29 | 20.4 | 5.1 | percent of revenue | 10.0 | 5.4 | 2 | lone | 61 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow growth
+
+> [!CARD:line] Operating cash flow growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow growth |  | 9.9 | 116.3 | -24.7 | 36.2 | -1.5 | -13.3 | -13.4 | 33.5 | 3.4 | -26.5 | 50.7 | -23.3 | 21.8 | -98.9 | 8127.3 | 114.2 | -44.8 | 16.2 |
+> | Operating cash flow growth, fitted by the rule |  | 39.0 | 33.0 | 27.0 | 21.0 | 15.0 | 9.0 | 3.0 | -3.0 | -9.0 | -15.0 | 680.6 | 777.7 | 874.8 | 971.9 | 1068.9 | 1166.0 | 1263.1 | 1360.2 |
+> - Mark: FY2018 Event: cash flow growth bends, -6.0 to +97.1 points a year
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | 4.1 | 3.9 | 4.5 | 5.0 | 16.1 | 5.6 | 3.8 | 6.6 | -9.4 | 5.7 | 31.6 | 5.9 | 10.5 | -10.5 | 18.0 | 11.3 | 10.6 | 11.9 | 11.3 |
+> | Net margin, fitted by the rule | 6.2 | 6.1 | 6.1 | 6.1 | 6.0 | 6.0 | 6.0 | 6.0 | 5.9 | 5.9 | 5.9 | 5.8 | 5.8 | 5.8 | 15.2 | 13.9 | 12.6 | 11.3 | 10.1 |
+> - Mark: FY2021 Event: net margin bends, -0.0 to -1.3 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

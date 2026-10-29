@@ -194,6 +194,42 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-08-04 | 0001628280-26-052243 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-04 | 0001628280-26-052243 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001383312/Net income tag/FY2011 | FY2011 | Net income tag | instrument | | 190 | 170 | -20.4 | | | | | millions | | | | | | Net income tag, FY2011 |  |
+| 0001383312/Net income tag/FY2014 | FY2014 | Net income tag | instrument | | 212 | 263 | 50.9 | | | | | millions | | | | | | Net income tag, FY2014 |  |
+| 0001383312/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 431 | 438 | 6.3 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
+| 0001383312/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 2897 | 4143 | 1246 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0001383312/Net income tag/FY2018 | FY2018 | Net income tag | instrument | | 327 | 428 | 101 | | | | | millions | | | | | | Net income tag, FY2018 |  |
+| 0001383312/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | 5.6 | 9.4 | 3.8 | -1.70 | 0.14 | 1.0 | 1.9 | percent of revenue | 12.1 | 9.2 | 1 | lone | 74 | Net income tag, FY2014 |  |
+| 0001383312/Operating margin/FY2013 | FY2013 | Operating margin | observed | level and bend | 9.3 | 13.7 | 4.4 | -2.69 | 1.27 | 1.8 | 0.9 | percent of revenue | 14.7 | 11.6 | 1 | lone | 74 |  |  |
+| 0001383312/Operating margin/FY2017/2 | FY2017 | Operating margin | observed | level and bend | 17.5 | 12.9 | -4.6 | 1.27 | 0.39 | 0.9 | 1.9 | percent of revenue | 9.7 | 7.6 | 2 | lone | 74 | Revenue tag, FY2017 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  |  | 10.8 | 8.6 | 7.8 | 5.4 | 8.7 | 10.3 | 10.7 | 10.6 | 7.9 | 9.9 | 11.1 | 10.2 | 11.0 | 9.4 | 10.4 | 10.7 | 12.2 |
+> | Net margin, fitted by the rule |  |  | 10.7 | 9.0 | 7.3 | 5.6 | 9.4 | 9.5 | 9.7 | 9.8 | 10.0 | 10.1 | 10.2 | 10.4 | 10.5 | 10.6 | 10.8 | 10.9 | 11.1 |
+> - Mark: FY2013 Event: net margin fitted 5.6% to 9.4% (up)
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  |  | 16.7 | 15.5 | 12.4 | 8.7 | 13.3 | 15.5 | 16.3 | 17.3 | 12.8 | 13.8 | 15.0 | 13.8 | 13.6 | 13.3 | 15.4 | 15.6 | 17.3 |
+> | Operating margin, fitted by the rule |  |  | 17.4 | 14.7 | 12.0 | 9.3 | 13.7 | 14.9 | 16.2 | 17.5 | 12.9 | 13.3 | 13.7 | 14.1 | 14.5 | 14.9 | 15.3 | 15.7 | 16.1 |
+> - Mark: FY2013 Event: operating margin fitted 9.3% to 13.7% (up)
+> - Mark: FY2017 Event: operating margin fitted 17.5% to 12.9% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

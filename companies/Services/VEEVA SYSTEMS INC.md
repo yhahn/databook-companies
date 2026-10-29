@@ -161,6 +161,28 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-20 | 0001393052-26-000014 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-20 | 0001393052-26-000014 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001393052/Operating cash flow tag/FY2015 | FY2015 | Operating cash flow tag | instrument | | 41.8 | 67.6 | 25.8 | | | | | millions | | | | | | Operating cash flow tag, FY2015 |  |
+| 0001393052/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 144 | 233 | 89.4 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
+| 0001393052/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 551 | 691 | 140 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0001393052/Revenue growth/FY2017 | FY2017 | Revenue growth | observed | level and bend | 25.0 | 33.1 | 8.1 | -25.56 | -2.32 | 24.9 | 10.8 | percent a year | 18.6 | 17.6 | 1 | lone | 74 | Revenue tag, FY2018 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  |  |  |  |  | 111.5 | 62.2 | 49.0 | 30.6 | 34.5 | 25.4 | 24.9 | 28.1 | 32.7 | 26.3 | 16.4 | 9.7 | 16.2 |
+> | Revenue growth, fitted by the rule |  |  |  |  |  |  | 101.7 | 76.1 | 50.6 | 25.0 | 33.1 | 30.8 | 28.4 | 26.1 | 23.8 | 21.5 | 19.2 | 16.8 | 14.5 |
+> - Mark: FY2017 Event: revenue growth fitted 25.0% to 33.1% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

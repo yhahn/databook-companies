@@ -595,3 +595,43 @@ Con Edison's net income, FY2021 to FY2025 (1.346, 1.66, 2.519...): its DEF 14A o
 ## 36. Where each annual figure came from, and which are restated (B10)
 
 Erie Indemnity's FY2013 revenue is 6,271 in the 10-Ks of 2014 and 2015 and 1,297 in that of 2016; the card takes the latest filed, so FY2008-12 and FY2013-15 stand on two bases, and nothing said so. Now each page has, after the EPS table, `#### Annual figures, filed`: a row for each line item and fiscal year the annual card or the EPS table gives: Tag, Form, Filed, Accession of the filing that gave it (the latest), and Restated, which is yes where the same period was filed again with a value more than half a percent apart; then First value, First form, First filed, First accession. Erie FY2013 revenue: yes, 6271, 10-K, 2014-02-27, 0000922621-14-000008. The figure on the card stays the latest. Restated is the importer's finding, with the accession to read: the cause (ASU 2015-02, the Exchange deconsolidated) is not in the data and is not said. 4,036 figures are flagged in all (735 revenue, 348 net income, 592 EPS, whose restatements are mostly splits): a restatement is common, not a fault. The table is not a Change per restated figure: D5 asks a change of meaning, and these are the same figure re-filed. A year's `Standing`/`Source` footnotes (B10's other form) are not used: the table is a column of the page, proper gathers it. Undo: the `src` table in import.js `company`.
+
+# Events (SPEC E): the second round, branch `events` (deputy, 10-29)
+
+Built after `mend`, on its pages. `.import/events.py` reads the pages the importer wrote and puts a `## Events` section in each (before `## Quarterly`); it also writes METHOD.md and `.import/events.json`. `.import/instrument.py` writes Instrument.md from the pages. Vectors in `.import/vectors/events/` (made by `make_event_vectors.py`, played by `test_events.py`). The importer's own output is not changed: run import.js alone and the pages are the mend branch's, byte for byte; events.py then adds the Events.
+
+## 37. Events are a second pass over the pages, not part of import.js
+
+Why: the rule is numeric and wants numpy; the series are the figures the pages print, so a reader with the pages alone can find the same Events (E1). Undo: remove the `events.py` line from build.sh; import.js alone gives the pages without Events.
+
+## 38. The rule: two straight lines against one; a null per series; the 5% bar
+
+Stage 2's scratch used a mean shift (a t) with a bar pooled over the book to give 5 false breaks in all. Here: two straight lines against one (gain as habitat's), at least 4 years a side, a side of 8 or more tried once more (order 2); the threshold is the 95th percentile of the best gains of 400 AR(1) draws a series (its own spread and carry-over; shuffling is too kind to slow series); fresh draws (100 a series, seeded apart) count the false breaks. Why two lines: a margin drifts, and a mean shift calls a drift a break (and the seat asked for slopes, 10-29). The cost: a 5% bar a series is about 115 false first-break Events in 2,190 series, against 249 found (stage 2's pooled bar would keep about 5 false and about 120 found). Both are said in METHOD.md. Undo, to the strict bar: raise `PCT` (95) in events.py; a pooled bar would be a new rule.
+
+## 39. What a page prints equals what its graph shows (the seat, 10-29)
+
+Habitat printed each side's mean beside a Mark at the break; on a growing series that reads as a jump the bars do not show. Here each Event's graph has a second row, `<series>, fitted by the rule`: the series cut at its Events, each piece its own least-squares line. From is the fitted value the year before the Event, To the fitted value at its year, both on that row; Change is To less From. Shape: **level** where the two lines read at the Event's year stand apart by more than the larger of their bands (1.96 residual sds), **bend** where their slopes differ enough to move the line over the years after by more than its band, or both. A Mark is worded `Event: net margin fitted 26.5% to 20.7% (down)`: never a jump. The test runs on the series with the year's effect out (E3a); the lines are fitted to the series as drawn. A growth series is drawn and fitted as the simple rate (exp of the log difference, less 1), tested in logs. Undo: drop the fitted row in `section`.
+
+## 40. Instrument Events: a tag moved, a fiscal year end moved, a gap
+
+Read off the page: the Tags runs (a line's tag differs from the run before, across a gap too), the EPS table's year ends (over 21 days from the year before: a 52 or 53 week year is never), and a line with no figure for a year inside its run (not Buybacks, where none is none). Each is set against the Change records of the same line and year (column `Change record`; `none` is a finding, E8). Splits, segment members and a changed CIK have a Change record and no series on the page to find them in: left to the Changes. 1,150 tag and year-end Change records, all matched by an Event; 60 gaps have no record (the importer says nothing where a line has a hole). The match is not independent of the importer (both read one ledger), so it proves the page is whole, not that the ledger is right: the real finds are the gaps, and the observed Events near a seam.
+
+## 41. The series, five a company
+
+Revenue growth and operating cash flow growth (positive years, the longest unbroken run), net margin, operating margin, operating cash flow over revenue (a revenue above 0; a run of 8 or more years), FY2007 to FY2025, the year in progress left out (`LAST`). No clip on a ratio (stage 2: the clip hid almost nothing). Capex, buybacks and gross profit are not read (no reason to). Undo: `SERIES`.
+
+## 42. Shared or lone, by SIC division
+
+Three or more other companies of the division with a split of their own (0.8 of their threshold) in the same series, year and direction. The division, since SIC3 and SIC4 groups beat chance in no pair (stage 2). The book-wide chance is counted (about 45 of 249 by independence) and said in METHOD.md. Undo: `SHARED_PEERS`, `WEAK`.
+
+## 43. The page's shape, ready for the Annotation ledger (E7)
+
+`## Events`, one `###` heading and one line card (the series and its fitted row, a `- Mark:` a break) for each series that has an Event, then one table with the same columns in every file (blank rows where none), then the fixed sentence. The Annotation is a blank column; the ledger will be keyed by company and fiscal year, read by the importer and never overwritten. A company with no Event says the rule ran and found none. The brief's dotted line for a rule's Mark is not built: cards.md has no `by` on a Mark (a learning). Undo: `section`.
+
+## 44. Seams are for Change records; no Change record is written here
+
+The 58 revenue seams (two tags' figures that differ by more than a tenth) already stand as Change records with the crosswalk; writing more would move pages that are not Events. The Events table's column `Change record` says, for an observed Event within a year of a Change of its series' own instrument, which Change and, where the crosswalk shows two figures more than a tenth apart, "the two tags' figures differ, x0.41". Revenue basis (gross or net) is the person's: it matters wherever an Event sits at such a seam (Philip Morris, Mastercard, Crown Castle, KeyCorp, ADM and others, listed in NOTES.md).
+
+## 45. Two root pages and a README paragraph
+
+METHOD.md (made by events.py, with the false-break table counted) and Instrument.md (instrument.py, numbers counted from the pages) at the root, as habitat's; the README gains a paragraph and a layout line for the Events (readme.js): the one change outside the Events section, and a README one.

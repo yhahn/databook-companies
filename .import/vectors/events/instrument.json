@@ -1,0 +1,61 @@
+{
+ "rule": "E2 a tag move and a fiscal year end move are read off the page; E8 each is set against the Changes",
+ "about": "a revenue tag moved at FY2017 (a Change says so); a year end moved from December 30 to June 30 at FY2017 (no Change: a finding)",
+ "input": {
+  "runs": [
+   [
+    "Revenue",
+    2007,
+    2016,
+    "us-gaap:SalesRevenueNet"
+   ],
+   [
+    "Revenue",
+    2017,
+    2025,
+    "us-gaap:Revenues"
+   ],
+   [
+    "Net income",
+    2007,
+    2025,
+    "us-gaap:NetIncomeLoss"
+   ]
+  ],
+  "ann": {
+   "Revenue": {
+    "2016": 100.0,
+    "2017": 120.0
+   }
+  },
+  "ends": {
+   "2015": "2015-12-31",
+   "2016": "2016-12-30",
+   "2017": "2017-06-30"
+  },
+  "changes": [
+   {
+    "title": "Co, Revenue tag, FY2017",
+    "What": "Revenue tag",
+    "Boundary": "FY2017",
+    "Crosswalk": "FY2017 under both: 120 and 118"
+   }
+  ]
+ },
+ "output": [
+  {
+   "series": "Revenue tag",
+   "year": 2017,
+   "record": "Revenue tag, FY2017",
+   "from_": 100.0,
+   "to": 120.0
+  },
+  {
+   "series": "Fiscal year end",
+   "year": 2017,
+   "record": "none",
+   "from_": 365.0,
+   "to": 181.0
+  }
+ ]
+}

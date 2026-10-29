@@ -10,6 +10,9 @@ set -e
 cd "$(dirname "$0")/.."
 node .import/companies/import.js
 node .import/faq.js
+python3 .import/events.py
+python3 .import/instrument.py
+python3 .import/test_events.py
 node --test .import/companies/import.test.js
 node --test .import/faq.test.js
 node .import/target.js

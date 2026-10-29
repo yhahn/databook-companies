@@ -121,6 +121,29 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-20 | 0001682852-26-000033 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-20 | 0001682852-26-000033 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001682852/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 135 | 60.2 | -74.9 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
+| 0001682852/EPS diluted tag/FY2020 | FY2020 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2020 |  |
+| 0001682852/Revenue tag/FY2020 | FY2020 | Revenue tag | instrument | | 60.2 | 803 | 743 | | | | | millions | | | | | | Revenue tag, FY2020 |  |
+| 0001682852/Revenue tag/FY2022 | FY2022 | Revenue tag | instrument | | 18471 | 19263 | 792 | | | | | millions | | | | | | Revenue tag, FY2022 |  |
+| 0001682852/Operating cash flow over revenue/FY2020 | FY2020 | Operating cash flow over revenue | observed | level and bend | -660.0 | 184.9 | 845.0 | -255.56 | -66.14 | 270.5 | 102.5 | percent of revenue | 36.7 | 9.5 | 1 | lone | 201 | Revenue tag, FY2019; Revenue tag, FY2020 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  |  |  |  |  |  |  |  |  | 61.6 | -161.1 | -245.0 | -762.3 | 252.4 | 73.7 | 25.9 | -45.5 | -92.8 | -96.3 |
+> | Operating cash flow over revenue, fitted by the rule |  |  |  |  |  |  |  |  |  | 106.6 | -148.9 | -404.5 | -660.0 | 184.9 | 118.8 | 52.6 | -13.5 | -79.7 | -145.8 |
+> - Mark: FY2020 Event: cash over revenue fitted -660.0% to 184.9% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

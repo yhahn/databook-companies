@@ -200,6 +200,39 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-13 | 0001628280-26-008002 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-13 | 0001628280-26-008002 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001113169/Net income tag/FY2008 | FY2008 | Net income tag | instrument | | 671 | 491 | -180 | | | | | millions | | | | | | Net income tag, FY2008 |  |
+| 0001113169/Net income tag/FY2009 | FY2009 | Net income tag | instrument | | 491 | 434 | -57.2 | | | | | millions | | | | | | Net income tag, FY2009 |  |
+| 0001113169/Revenue tag/FY2011 | FY2011 | Revenue tag | instrument | | 2371 | 2747 | 376 | | | | | millions | | | | | | Revenue tag, FY2011 |  |
+| 0001113169/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 4201 | 4285 | 84.2 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
+| 0001113169/Net margin/FY2022 | FY2022 | Net margin | observed | level | 37.4 | 25.1 | -12.3 | 0.94 | 1.55 | 5.4 | 3.3 | percent of revenue | 24.3 | 16.4 | 1 | lone | 94 |  |  |
+| 0001113169/Operating margin/FY2022 | FY2022 | Operating margin | observed | level and bend | 45.5 | 35.2 | -10.2 | 0.22 | -1.78 | 5.5 | 4.5 | percent of revenue | 25.2 | 19.6 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | 30.0 | 23.1 | 23.2 | 28.4 | 28.1 | 29.2 | 30.1 | 30.9 | 29.1 | 28.4 | 30.9 | 34.2 | 37.9 | 38.2 | 40.2 | 24.0 | 27.7 | 29.6 | 28.5 |
+> | Net margin, fitted by the rule | 24.2 | 25.1 | 26.1 | 27.0 | 28.0 | 28.9 | 29.8 | 30.8 | 31.7 | 32.7 | 33.6 | 34.6 | 35.5 | 36.5 | 37.4 | 25.1 | 26.7 | 28.2 | 29.8 |
+> - Mark: FY2022 Event: net margin fitted 37.4% to 25.1% (down)
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin | 44.6 | 40.0 | 37.5 | 43.7 | 44.7 | 45.1 | 47.0 | 47.5 | 45.2 | 40.5 | 43.4 | 44.0 | 42.5 | 44.2 | 48.4 | 36.6 | 30.7 | 32.9 | 29.9 |
+> | Operating margin, fitted by the rule | 42.3 | 42.5 | 42.8 | 43.0 | 43.2 | 43.4 | 43.7 | 43.9 | 44.1 | 44.3 | 44.6 | 44.8 | 45.0 | 45.2 | 45.5 | 35.2 | 33.4 | 31.6 | 29.9 |
+> - Mark: FY2022 Event: operating margin fitted 45.5% to 35.2% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

@@ -162,6 +162,20 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-06 | 0000004962-26-000080 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-06 | 0000004962-26-000080 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000004962/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 27819 |  |  | | | | | millions | | | | | | none |  |
+| 0000004962/Operating cash flow tag/FY2012 | FY2012 | Operating cash flow tag | instrument | | 10475 | 7082 | -3393 | | | | | millions | | | | | | Operating cash flow tag, FY2012 |  |
+| 0000004962/Revenue tag/FY2015 | FY2015 | Revenue tag | instrument | | 27819 | 32818 | 4999 | | | | | millions | | | | | | Revenue tag, FY2015 |  |
+| 0000004962/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 35438 | 24780 | -10658 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x1.49) |  |
+| 0000004962/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 13540 | 8930 | -4610 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

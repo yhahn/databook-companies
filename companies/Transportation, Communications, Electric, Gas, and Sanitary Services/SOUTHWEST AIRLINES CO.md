@@ -196,6 +196,37 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-05 | 0000092380-26-000004 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-05 | 0000092380-26-000004 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000092380/Capex tag/FY2014 | FY2014 | Capex tag | instrument | | -1447 | -1748 | -301 | | | | | millions | | | | | | Capex tag, FY2014 |  |
+| 0000092380/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 20425 | 21146 | 721 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0000092380/Operating margin/FY2015/2 | FY2015 | Operating margin | observed | bend | 8.0 | 15.7 | 7.7 | 0.51 | -2.08 | 6.1 | 32.7 | percent of revenue | 11.2 | 5.8 | 2 | lone | 61 |  |  |
+| 0000092380/Net margin/FY2020 | FY2020 | Net margin | observed | level | 12.3 | -15.1 | -27.5 | 0.96 | 4.68 | 6.1 | 26.9 | percent of revenue | 9.1 | 7.9 | 1 | shared | 61 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | 6.5 | 1.6 | 1.0 | 3.8 | 1.1 | 2.5 | 4.3 | 6.1 | 11.0 | 10.7 | 15.9 | 11.2 | 10.3 | -34.0 | 6.2 | 2.3 | 1.8 | 1.7 | 1.6 |
+> | Net margin, fitted by the rule | 0.9 | 1.8 | 2.8 | 3.7 | 4.7 | 5.7 | 6.6 | 7.6 | 8.5 | 9.5 | 10.4 | 11.4 | 12.3 | -15.1 | -10.4 | -5.8 | -1.1 | 3.6 | 8.3 |
+> - Mark: FY2020 Event: net margin fitted 12.3% to -15.1% (down)
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin | 8.0 | 4.1 | 2.5 | 8.2 | 4.4 | 3.6 | 7.2 | 12.0 | 20.8 | 17.2 | 16.1 | 14.6 | 13.2 | -42.2 | 10.9 | 4.3 | 0.9 | 1.2 | 1.5 |
+> | Operating margin, fitted by the rule | 4.5 | 5.0 | 5.5 | 6.0 | 6.5 | 7.0 | 7.5 | 8.0 | 15.7 | 13.6 | 11.6 | 9.5 | 7.4 | 5.3 | 3.2 | 1.1 | -0.9 | -3.0 | -5.1 |
+> - Mark: FY2015 Event: operating margin bends, +0.5 to -2.1 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

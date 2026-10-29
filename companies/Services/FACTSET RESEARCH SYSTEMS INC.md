@@ -180,6 +180,18 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2025-10-22 | 0001628280-25-045769 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-10-22 | 0001628280-25-045769 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001013237/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 1221 | 1350 | 129 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0001013237/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 1350 | 1435 | 85.2 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
+| 0001013237/Capex tag/FY2024 | FY2024 | Capex tag | instrument | | -60.8 | -85.7 | -24.9 | | | | | millions | | | | | | Capex tag, FY2024 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

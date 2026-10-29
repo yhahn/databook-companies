@@ -1,0 +1,80 @@
+{
+ "rule": "E3 a change of trend gives one",
+ "about": "flat at 10 to 2014, then rising 1.5 points a year (the rule splits where the line through the rise starts: 2015) (19 years drawn by make_event_vectors.py, seed 1027, checked against the property, then frozen)",
+ "input": {
+  "years": [
+   2007,
+   2008,
+   2009,
+   2010,
+   2011,
+   2012,
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "test": [
+   10.088,
+   10.651,
+   9.852,
+   9.933,
+   9.927,
+   10.149,
+   10.025,
+   10.069,
+   11.872,
+   12.346,
+   14.548,
+   15.966,
+   17.238,
+   18.98,
+   20.454,
+   21.815,
+   23.802,
+   25.327,
+   26.926
+  ],
+  "shown": [
+   10.088,
+   10.651,
+   9.852,
+   9.933,
+   9.927,
+   10.149,
+   10.025,
+   10.069,
+   11.872,
+   12.346,
+   14.548,
+   15.966,
+   17.238,
+   18.98,
+   20.454,
+   21.815,
+   23.802,
+   25.327,
+   26.926
+  ]
+ },
+ "output": [
+  {
+   "order": 1,
+   "year": 2015,
+   "shape": "level and bend",
+   "from_": 9.99,
+   "to": 11.3,
+   "slope_before": -0.028,
+   "slope_after": 1.544
+  }
+ ]
+}

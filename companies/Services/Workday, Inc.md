@@ -160,6 +160,47 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-06 | 0001327811-26-000014 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-06 | 0001327811-26-000014 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001327811/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -3.7 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Net income gap/FY2011 | FY2011 | Net income gap | instrument | | -56.2 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Operating cash flow gap/FY2011 | FY2011 | Operating cash flow gap | instrument | | -15.3 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Operating income gap/FY2011 | FY2011 | Operating income gap | instrument | | -56.1 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 68.1 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Fiscal year end/FY2012 | FY2012 | Fiscal year end | instrument | | 365 | 31.0 | -334 | | | | | day of year | | | | | | Fiscal year end, FY2010 to FY2012 |  |
+| 0001327811/Net income tag/FY2015 | FY2015 | Net income tag | instrument | | -173 | -248 | -75.5 | | | | | millions | | | | | | Net income tag, FY2015 |  |
+| 0001327811/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 1574 | 2143 | 569 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0001327811/Capex gap/FY2020 | FY2020 | Capex gap | instrument | | -203 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Net income tag/FY2020 | FY2020 | Net income tag | instrument | | -418 | -481 | -62.4 | | | | | millions | | | | | | Net income tag, FY2020 |  |
+| 0001327811/EPS diluted tag/FY2021 | FY2021 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2021 |  |
+| 0001327811/Capex tag/FY2023 | FY2023 | Capex tag | instrument | |  | -364 |  | | | | | millions | | | | | | Capex tag, FY2023 |  |
+| 0001327811/Operating margin/FY2016 | FY2016 | Operating margin | observed | level and bend | -24.9 | -23.3 | 1.5 | 10.33 | 3.13 | 6.9 | 4.7 | percent of revenue | 23.0 | 21.6 | 1 | lone | 74 |  |  |
+| 0001327811/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 18.2 | 20.0 | 1.8 | -9.88 | -0.76 | 20.9 | 3.3 | percent a year | 14.6 | 7.4 | 2 | lone | 74 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  |  |  |  |  | 103.6 | 71.4 | 68.0 | 46.8 | 36.1 | 36.1 | 31.7 | 28.5 | 19.0 | 19.0 | 21.0 | 16.8 | 16.4 |
+> | Revenue growth, fitted by the rule |  |  |  |  |  |  | 87.4 | 77.5 | 67.6 | 57.7 | 47.8 | 38.0 | 28.1 | 18.2 | 20.0 | 19.2 | 18.4 | 17.7 | 16.9 |
+> - Mark: FY2021 Event: revenue growth bends, -9.9 to -0.8 points a year
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  |  |  |  |  | -58.4 | -43.1 | -32.7 | -27.4 | -21.6 | -22.4 | -14.1 | -16.4 | -13.8 | -5.8 | -2.3 | -3.6 | 2.5 | 4.9 |
+> | Operating margin, fitted by the rule |  |  |  |  |  | -55.9 | -45.5 | -35.2 | -24.9 | -23.3 | -20.2 | -17.1 | -14.0 | -10.8 | -7.7 | -4.6 | -1.4 | 1.7 | 4.8 |
+> - Mark: FY2016 Event: operating margin fitted -24.9% to -23.3% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

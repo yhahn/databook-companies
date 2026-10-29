@@ -188,6 +188,22 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-11 | 0000027419-26-000016 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-11 | 0000027419-26-000016 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000027419/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 5271 | 5434 | 163 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
+| 0000027419/Net income gap/FY2012 | FY2012 | Net income gap | instrument | | 2929 |  |  | | | | | millions | | | | | | none |  |
+| 0000027419/Operating income gap/FY2013 | FY2013 | Operating income gap | instrument | | 5206 |  |  | | | | | millions | | | | | | none |  |
+| 0000027419/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 7519 | 4465 | -3054 | | | | | millions | | | | | | Operating cash flow tag, FY2014 (the two tags' figures differ, x1.15) |  |
+| 0000027419/Revenue tag/FY2014 | FY2014 | Revenue tag | instrument | | 71279 | 72618 | 1339 | | | | | millions | | | | | | Revenue tag, FY2014 |  |
+| 0000027419/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 69495 | 72714 | 3219 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0000027419/Net income tag/FY2020 | FY2020 | Net income tag | instrument | |  | 4368 |  | | | | | millions | | | | | | Net income tag, FY2020 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

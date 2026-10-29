@@ -198,6 +198,38 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-06-22 | 0001193125-26-277521 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-06-22 | 0001193125-26-277521 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001341439/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 14224 | 14921 | 697 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
+| 0001341439/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 14126 | 15386 | 1260 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
+| 0001341439/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 37792 | 39383 | 1591 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0001341439/Net margin/FY2018/2 | FY2018 | Net margin | observed | bend | 26.4 | 21.4 | -5.1 | 0.18 | 0.02 | 4.2 | 16.5 | percent of revenue | 11.4 | 7.6 | 2 | lone | 74 | Revenue tag, FY2018 |  |
+| 0001341439/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level and bend | 38.4 | 25.7 | -12.7 | 0.33 | 4.23 | 4.6 | 8.3 | percent of revenue | 9.0 | 8.9 | 1 | lone | 74 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  | 24.9 | 24.4 | 22.9 | 24.0 | 26.9 | 29.4 | 28.6 | 26.0 | 24.0 | 25.0 | 9.1 | 28.1 | 25.9 | 34.0 | 15.8 | 17.0 | 19.8 | 21.7 |
+> | Net margin, fitted by the rule |  | 24.8 | 25.0 | 25.1 | 25.3 | 25.5 | 25.7 | 25.9 | 26.1 | 26.3 | 26.4 | 21.4 | 21.4 | 21.4 | 21.4 | 21.4 | 21.4 | 21.5 | 21.5 |
+> - Mark: FY2018 Event: net margin bends, +0.2 to +0.0 points a year
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  | 33.0 | 35.5 | 32.4 | 31.5 | 37.0 | 38.3 | 39.0 | 38.1 | 36.9 | 37.4 | 39.1 | 36.8 | 33.6 | 39.2 | 22.5 | 34.4 | 35.3 | 36.3 |
+> | Operating cash flow over revenue, fitted by the rule |  | 34.1 | 34.5 | 34.8 | 35.1 | 35.4 | 35.8 | 36.1 | 36.4 | 36.8 | 37.1 | 37.4 | 37.8 | 38.1 | 38.4 | 25.7 | 30.0 | 34.2 | 38.4 |
+> - Mark: FY2022 Event: cash over revenue fitted 38.4% to 25.7% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

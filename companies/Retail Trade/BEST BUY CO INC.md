@@ -206,6 +206,33 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-18 | 0000764478-26-000009 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-03-18 | 0000764478-26-000009 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000764478/Capex gap/FY2013 | FY2013 | Capex gap | instrument | | -766 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Gross profit gap/FY2013 | FY2013 | Gross profit gap | instrument | | 10984 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Net income gap/FY2013 | FY2013 | Net income gap | instrument | | -1231 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Operating cash flow gap/FY2013 | FY2013 | Operating cash flow gap | instrument | | 3293 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Operating income gap/FY2013 | FY2013 | Operating income gap | instrument | | 2200 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Revenue gap/FY2013 | FY2013 | Revenue gap | instrument | | 45457 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Fiscal year end/FY2014 | FY2014 | Fiscal year end | instrument | | 63.0 | 32.0 | -31.0 | | | | | day of year | | | | | | Fiscal year end, FY2012 to FY2014 |  |
+| 0000764478/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 39403 | 42151 | 2748 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0000764478/Operating margin/FY2022 | FY2022 | Operating margin | observed | bend | 5.1 | 5.4 | 0.3 | 0.28 | -0.88 | 0.7 | 1.2 | percent of revenue | 17.9 | 12.3 | 1 | lone | 28 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  |  |  |  |  |  |  | 2.8 | 3.6 | 3.5 | 4.7 | 4.4 | 4.4 | 4.6 | 5.1 | 5.9 | 3.9 | 3.6 | 3.0 |
+> | Operating margin, fitted by the rule |  |  |  |  |  |  |  | 3.2 | 3.4 | 3.7 | 4.0 | 4.3 | 4.5 | 4.8 | 5.1 | 5.4 | 4.5 | 3.7 | 2.8 |
+> - Mark: FY2022 Event: operating margin bends, +0.3 to -0.9 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

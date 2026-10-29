@@ -675,3 +675,68 @@ The brief predicted four faults with causes in tag cascade, scale and form choic
 Which of the 33 are slivers and which definitions (gross of excise, discontinued operations): it named the 28, but no rule for the rest; whether a blank is better than a sliver (taken: yes, D6); what `Net income` is meant to be (the parent's or all: the cascade says the parent's, the hunt asked for one basis); that faq.js reads the facts apart and must be mended in step (R2 stops the build otherwise).
 
 One line: the four faults are mended or said (proxy rows were the cause of the billions, a sliver rule keeps revenue on its basis, each figure carries its filing and a restated flag, Ares' jump is named), 473 company-years in 110 companies changed, and every check held.
+
+# Notes: the Events (SPEC E), round two (deputy, 10-29)
+
+## Asked
+
+Build databook-companies' Events on the mended pages: the instrument named and counted (Instrument.md); a rule with its null, its stated false-break count and METHOD.md; an Events table and a Mark on each page; each instrument Event read against the Change records; no why on any page; the page shape ready for an Annotation ledger; vectors; the importer run again with nothing but Events moved. No push, no merge.
+
+## Made
+
+Branch `events`, off `mend` (8655bdc), worktree `.claude/worktrees/events`. `.import/events.py` (rule, pages, METHOD.md, events.json), `pages.py`, `instrument.py` (Instrument.md), `make_event_vectors.py`, `test_events.py`, `.import/vectors/events/` (6 vectors), 6 new checks in `vectors/target.sql`, README paragraph (readme.js), build.sh, DECISIONS 37 to 45.
+
+| | Counted |
+|---|---|
+| Pages with an `## Events` section | 493 of 493 companies (455 with a row; 252 with an observed Event) |
+| Series read | 2,190 (457 revenue growth, 425 cash flow growth, 465 net margin, 373 operating margin, 470 cash over revenue) |
+| Observed Events, first break | 249 (chance alone about 115.5 by fresh draws) |
+| Observed Events, second break | 192 (chance about 91.4) |
+| Instrument Events | 1,210: 1,150 tag or year-end moves, 60 gaps |
+| Change records of a tag or a year end | 1,150; every one has an Event; every Event of those has its record |
+| Gaps with no Change record | 60 (19 revenue, 15 capex, 13 net income, 6 cash flow, 5 operating income, 2 gross profit) |
+| Gathered (target.sql) | 1,651 rows = 1,651 written; keys unique; 44 checks held, every one |
+| Shared / lone, first break | 60 / 189 (chance, if peers fell at random, about 45 shared) |
+| Observed Events within a year of a Change of their own instrument | 68 of 249; 15 of them at a seam (two tags' figures differ over a tenth) |
+| OCF growth | 12 found against 22 by chance: nothing there |
+
+The rerun: import.js alone gives all 501 pages byte for byte as `mend`'s (git shows no companies/ file modified); after events.py the only difference in any page is the `## Events` section (a script took the section out of all 501 and compared with mend's: 501 identical; 0 lines deleted in companies/). The README gained one paragraph and a layout line. Two runs of events.py give the same bytes (hash of every page, events.json, METHOD.md, Instrument.md). Import: 32 s, 0.48 GB (a 1G cap would do); events.py 12 s.
+
+## Decided
+
+DECISIONS 37 to 45. The ones to look at: two lines, not a mean shift, and a 5% bar a series (38: half the Events are chance; the strict bar is `PCT`); From/To are fitted values on the graph's own fitted row and Shape says level or bend (39, the seat's caution); Marks are plain, not dotted (43).
+
+## Learnings
+
+For the importer (this book), each with evidence:
+- **Camden Property Trust FY2017 revenue 8.2 beside 876.4 in FY2016.** Same tag all years (RevenueFromContractWithCustomerExcludingAssessedTax); `oneBasis` looks at a tag move and sees none. Net margin 2,623% to 13,129% (an observed Event, no Change near). A sliver the mend does not catch: the same tag, a part filed.
+- **Comfort Systems FY2025 annual revenue 1,831.3** (the first quarter; the 10-Q filed 2026-04-23) and its Q4 -4,624. The 10-K filed 2026-02-19 is read as FY2024 (7,027). A fiscal-year label fault at the newest year; no rule here sees it (a last-year point is no break with 4 years a side).
+- **Restatement seams are not Changes:** Motorola Solutions FY2007 36,622 (8-K of 2010) beside FY2008 8,140 (8-K of 2011); Erie FY2013 (known). The filed table holds the dates; nothing says the basis changed. 55 year pairs with revenue under 0.4 or over 2.5 times the year before and no revenue Change within a year; most are real (Covid, deals), a few such seams (Camden, Comfort, Motorola, Western Digital FY2023 18,793 to 6,255).
+- **60 gaps** (a line with no figure for a year inside its run) have no record anywhere; Pfizer and Target's tag move crosses one. The importer is silent where a line has a hole.
+- 26 of the 1,194 Change records first looked unmatched because a tag moved across a gap; matched when the gap is allowed. The Tags runs and the Changes agree.
+
+For cards.md: a Mark has no author (`by` a rule or a person) and cannot be dotted; the brief's "rule's line dotted, a hand's solid" needs it. One case. Marks draw on a two-row line card (series and fitted row): not checked in a browser here, the bench not touched.
+
+For proper (one case each): a table headed `Order` fails its parse ("Order is a word of SQL"): the error said so, and I renamed the column `Break`. A card's table is gathered under its heading, so an Events table written under the last card's heading joined that card's table (`Company_Revenue_growth_3`) until it stood under its own `## Events`; and cards with years that differ by company are separate tables, warned of, until their columns were the same in every file.
+
+For SPEC E: E5's columns want `From/To` as values a reader finds on the graph: say "fitted row" there. E3's mean shift on a drifting margin calls the drift; two lines do not. A null per series at 95% keeps a rate of false Events about equal to the Events found; E1's "false-break rate beside it" is then the headline, not a footnote. The year's effect out (E3a) left 2022 as the year with most first breaks (58 of 249; then 2020 37).
+
+## Unsure
+
+- The band (1.96 residual sds of a line) and the level/bend cut (a band) are mine; the Shape names are a lean.
+- A second break inside a side is allowed even where the first alone does not clear (as stage 2); 192 of them, about half chance.
+- The Event's year is the first year of the new line on the page's fiscal label, not the date of an event.
+- Gaps may be a company with no figure (a bank without a revenue) as well as a fault: the record says only that nothing was filed.
+- Whether Marks draw with a fitted row; whether the table is pleasant on a phone (20 columns).
+
+## Against the brief
+
+No Predicted was in the brief, so there is no gap to measure: against the seat's stage-2 prediction in tasks.md, 124 breaks at 5 false became 249 first-break Events at a 5% bar a series (about 115 chance): not comparable counts, the bar differs. Faults in the brief: it names a 95th percentile null and also (through stage 2) a calibrated 5-false bar, which give different numbers; it asks for a dotted Mark cards.md cannot draw; "the Events table in each company page that has one" (all 493 have the section; 455 have a row); "unit" in the instrument has no series on the page to find a break in (units live in the importer's stop). It lacked: the rule to take (mean shift or two lines: the seat's mid-run message chose it), and a size for crew (import 0.48 GB).
+
+## Open: the revenue basis (the person's)
+
+Where it matters: Events at a seam (15 observed Events in 12 companies carry "the two tags' figures differ": Ares, Crown Castle, KeyCorp, ADM, Philip Morris (2023: 80,669 to 35,174), Mastercard, Devon, Ecolab, Keurig Dr Pepper, Masco, Republic Services, DuPont, Interactive Brokers). Decide gross or net and these either vanish or stay.
+
+## Pages to open
+
+A clean Event: `companies/Manufacturing/ILLUMINA, INC.md` (net margin FY2022, lone, no Change near; no why). A seam: `companies/Manufacturing/Philip Morris International Inc.md` (Revenue tag FY2023 80,669 to 35,174 as an instrument row; the margins' Events beside it name that Change).

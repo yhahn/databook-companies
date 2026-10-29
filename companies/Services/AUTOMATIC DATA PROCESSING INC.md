@@ -158,6 +158,26 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-08-05 | 0000008670-26-000030 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-05 | 0000008670-26-000030 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000008670/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 12372 | 13274 | 902 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0000008670/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | bend | 17.2 | 16.7 | -0.5 | -0.25 | 0.74 | 1.9 | 2.3 | percent of revenue | 17.6 | 12.8 | 1 | lone | 74 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  | 20.3 | 17.7 | 18.8 | 17.3 | 18.0 | 16.7 | 17.8 | 18.0 | 16.3 | 17.2 | 18.9 | 19.1 | 20.7 | 20.6 | 18.8 | 23.4 | 21.7 | 24.0 |
+> | Operating cash flow over revenue, fitted by the rule |  | 19.0 | 18.7 | 18.5 | 18.2 | 18.0 | 17.7 | 17.5 | 17.2 | 16.7 | 17.5 | 18.2 | 19.0 | 19.7 | 20.4 | 21.2 | 21.9 | 22.7 | 23.4 |
+> - Mark: FY2016 Event: cash over revenue bends, -0.2 to +0.7 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

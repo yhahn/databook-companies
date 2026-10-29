@@ -162,3 +162,29 @@ where a."Line item" = 'Revenue' order by a."FY{front.Y}" desc nulls last limit 1
 with q as (select _file, sum(Revenue) r, count(Revenue) n from Company_Quarterly where "Fiscal year" = {front.Y} group by _file)
 select count(*) from Company c left join Company_Annual a on a._file = c._file and a."Line item" = 'Revenue' left join q on q._file = c._file
 where a."FY{front.Y}" is not null or q.n = 4;
+
+-- The Events (SPEC E, .import/events.py; E5: one table, the same columns in every file, its key unique)
+
+-- name: E5 every Event the importer wrote is gathered, a row each, by its key
+-- want: {events_total} {events_total}
+select count(*) || ' ' || count(distinct Key) from Company_Events;
+
+-- name: E2 the instrument's Events and the observed ones, counted apart
+-- want: {events_instrument} {events_observed}
+select count(*) filter (where Kind = 'instrument') || ' ' || count(*) filter (where Kind = 'observed') from Company_Events;
+
+-- name: E8 each instrument Event is set against the Changes: the ones no Change explains (a gap in a line) say none
+-- want: {events_no_change}
+select count(*) from Company_Events where Kind = 'instrument' and "Change record" = 'none';
+
+-- name: E5 each company with an Event has its row's page in the book (the Events' companies, by file)
+-- want: {events_companies}
+select count(distinct _file) from Company_Events;
+
+-- name: E4 an Event's Annotation is blank (a person's note is never the rule's)
+-- want: 0
+select count(*) from Company_Events where Annotation is not null and Annotation <> '';
+
+-- name: E3 an observed Event's gain clears its threshold, and a first break is not a second
+-- want: 0
+select count(*) from Company_Events where Kind = 'observed' and (Gain < Threshold or "Break" not in (1, 2));

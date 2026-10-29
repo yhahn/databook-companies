@@ -171,6 +171,36 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001109357-26-000018 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-12 | 0001109357-26-000018 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001109357/Net income tag/FY2013 | FY2013 | Net income tag | instrument | | 1171 | 1729 | 558 | | | | | millions | | | | | | Net income tag, FY2013 |  |
+| 0001109357/Operating margin/FY2012 | FY2012 | Operating margin | observed | level and bend | 23.7 | 10.4 | -13.3 | -1.59 | 0.66 | 1.0 | 4.3 | percent of revenue | 57.3 | 20.8 | 1 | lone | 61 |  |  |
+| 0001109357/Operating cash flow growth/FY2015/2 | FY2015 | Operating cash flow growth | observed | bend | -6.7 | 14.8 | 21.5 | -0.79 | -1.39 | 40.9 | 70.4 | percent a year | 7.1 | 6.0 | 2 | lone | 61 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow growth
+
+> [!CARD:line] Operating cash flow growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow growth |  |  | -7.0 | -13.9 | -7.5 | 26.3 | 3.5 | -29.7 | 70.9 | 11.1 | -11.6 | 15.6 | -23.0 | -36.4 | -28.9 | 61.7 | -3.4 | 18.4 | 12.3 |
+> | Operating cash flow growth, fitted by the rule |  |  | -2.7 | -3.5 | -4.3 | -5.1 | -5.9 | -6.7 | 14.8 | 13.4 | 12.0 | 10.7 | 9.3 | 7.9 | 6.5 | 5.1 | 3.7 | 2.3 | 0.9 |
+> - Mark: FY2015 Event: cash flow growth bends, -0.8 to -1.4 points a year
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  | 28.1 | 27.4 | 25.3 | 23.5 | 10.1 | 14.7 | 11.3 | 15.0 | 10.2 | 13.1 | 10.8 | 15.9 | 13.1 | 15.0 | 17.4 | 18.5 | 18.8 | 21.2 |
+> | Operating margin, fitted by the rule |  | 28.5 | 26.9 | 25.3 | 23.7 | 10.4 | 11.0 | 11.7 | 12.3 | 13.0 | 13.7 | 14.3 | 15.0 | 15.6 | 16.3 | 17.0 | 17.6 | 18.3 | 18.9 |
+> - Mark: FY2012 Event: operating margin fitted 23.7% to 10.4% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

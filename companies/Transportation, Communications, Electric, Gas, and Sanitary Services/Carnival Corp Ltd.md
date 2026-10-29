@@ -189,6 +189,27 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-01-27 | 0000815097-26-000007 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-01-27 | 0000815097-26-000007 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000815097/Revenue gap/FY2010 | FY2010 | Revenue gap | instrument | | 13157 |  |  | | | | | millions | | | | | | none |  |
+| 0000815097/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 17510 | 18881 | 1371 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0000815097/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | -52.9 | 407.7 | 460.6 | -12.35 | -165.56 | 54.7 | 330.3 | percent a year | 13.6 | 7.5 | 1 | lone | 61 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  |  |  |  |  |  |  | -1.1 | 4.3 | 6.8 | 7.8 | 10.3 | -73.1 | -65.9 | 537.7 | 77.5 | 15.9 | 6.4 |
+> | Revenue growth, fitted by the rule |  |  |  |  |  |  |  |  | 21.2 | 8.9 | -3.5 | -15.8 | -28.2 | -40.5 | -52.9 | 407.7 | 242.1 | 76.6 | -89.0 |
+> - Mark: FY2022 Event: revenue growth fitted -52.9% to 407.7% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

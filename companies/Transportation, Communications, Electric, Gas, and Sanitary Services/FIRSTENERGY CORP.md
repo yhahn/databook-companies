@@ -180,6 +180,41 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-18 | 0001031296-26-000046 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-18 | 0001031296-26-000046 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001031296/Revenue tag/FY2010 | FY2010 | Revenue tag | instrument | | 12967 | 13339 | 372 | | | | | millions | | | | | | Revenue tag, FY2010 |  |
+| 0001031296/Operating cash flow tag/FY2012 | FY2012 | Operating cash flow tag | instrument | | 3063 | 2320 | -743 | | | | | millions | | | | | | Operating cash flow tag, FY2012 |  |
+| 0001031296/Revenue tag/FY2013 | FY2013 | Revenue tag | instrument | | 15255 | 14892 | -363 | | | | | millions | | | | | | Revenue tag, FY2013 |  |
+| 0001031296/Operating cash flow tag/FY2015 | FY2015 | Operating cash flow tag | instrument | | 2713 | 3460 | 747 | | | | | millions | | | | | | Operating cash flow tag, FY2015 |  |
+| 0001031296/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 10928 | 10944 | 16.0 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0001031296/Revenue tag/FY2022 | FY2022 | Revenue tag | instrument | | 11112 | 12459 | 1347 | | | | | millions | | | | | | Revenue tag, FY2022 |  |
+| 0001031296/Operating cash flow over revenue/FY2012/2 | FY2012 | Operating cash flow over revenue | observed | bend | 21.8 | 21.0 | -0.8 | 1.82 | -0.00 | 5.0 | 14.1 | percent of revenue | 10.3 | 7.5 | 2 | lone | 61 | Revenue tag, FY2013; Operating cash flow tag, FY2012 |  |
+| 0001031296/Operating cash flow growth/FY2013/2 | FY2013 | Operating cash flow growth | observed | bend | -15.9 | -0.4 | 15.5 | -12.16 | 2.71 | 23.9 | 106.3 | percent a year | 6.3 | 6.0 | 2 | lone | 61 | Operating cash flow tag, FY2012 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow growth
+
+> [!CARD:line] Operating cash flow growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow growth |  | 30.9 | 10.8 | 24.8 | -0.4 | -24.3 | 14.7 | 1.9 | 27.5 | -2.2 | 12.6 | -63.0 | 75.0 | -42.3 | 97.5 | -4.6 | -48.3 | 108.4 | 28.0 |
+> | Operating cash flow growth, fitted by the rule |  | 32.7 | 20.5 | 8.4 | -3.8 | -15.9 | -0.4 | 2.3 | 5.0 | 7.7 | 10.4 | 13.1 | 15.8 | 18.5 | 21.2 | 23.9 | 26.6 | 29.3 | 32.0 |
+> - Mark: FY2013 Event: cash flow growth bends, -12.2 to +2.7 points a year
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue | 13.3 | 16.3 | 19.0 | 23.1 | 19.0 | 15.2 | 17.9 | 18.0 | 23.0 | 31.6 | 34.8 | 12.9 | 22.8 | 13.3 | 25.3 | 21.5 | 10.8 | 21.5 | 24.5 |
+> | Operating cash flow over revenue, fitted by the rule | 14.5 | 16.3 | 18.1 | 20.0 | 21.8 | 21.0 | 21.0 | 21.0 | 21.0 | 21.0 | 20.9 | 20.9 | 20.9 | 20.9 | 20.9 | 20.9 | 20.9 | 20.9 | 20.9 |
+> - Mark: FY2012 Event: cash over revenue bends, +1.8 to -0.0 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

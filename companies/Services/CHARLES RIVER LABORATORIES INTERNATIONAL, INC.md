@@ -188,6 +188,50 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-18 | 0001100682-26-000022 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-18 | 0001100682-26-000022 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001100682/Net income tag/FY2011 | FY2011 | Net income tag | instrument | | -337 | 110 | 447 | | | | | millions | | | | | | Net income tag, FY2011 |  |
+| 0001100682/Revenue tag/FY2013 | FY2013 | Revenue tag | instrument | | 1130 | 1166 | 36.0 | | | | | millions | | | | | | Revenue tag, FY2013 |  |
+| 0001100682/Net income tag/FY2015 | FY2015 | Net income tag | instrument | | 128 | 149 | 21.1 | | | | | millions | | | | | | Net income tag, FY2015 |  |
+| 0001100682/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 1681 | 1858 | 176 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0001100682/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 318 | 441 | 123 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
+| 0001100682/Revenue growth/FY2016 | FY2016 | Revenue growth | observed | bend | 9.0 | 22.5 | 13.5 | 2.69 | -2.40 | 6.7 | 11.5 | percent a year | 23.8 | 21.7 | 1 | lone | 74 | Revenue tag, FY2017 |  |
+| 0001100682/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 18.3 | 13.9 | -4.4 | 2.30 | -5.84 | 27.2 | 5.8 | percent of revenue | 23.0 | 5.1 | 2 | shared | 74 |  |  |
+| 0001100682/Operating margin/FY2022/2 | FY2022 | Operating margin | observed | bend | 23.0 | 17.9 | -5.1 | 2.28 | -5.66 | 27.6 | 4.5 | percent of revenue | 51.0 | 6.2 | 2 | lone | 74 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  | -9.5 | -3.3 | 0.8 | -1.1 | 3.2 | 11.3 | 5.1 | 23.3 | 10.5 | 22.0 | 15.7 | 11.5 | 21.1 | 12.3 | 3.9 | -1.9 | -0.9 |
+> | Revenue growth, fitted by the rule |  |  | -7.2 | -4.5 | -1.8 | 0.9 | 3.6 | 6.3 | 9.0 | 22.5 | 20.1 | 17.7 | 15.3 | 12.9 | 10.5 | 8.2 | 5.8 | 3.4 | 1.0 |
+> - Mark: FY2016 Event: revenue growth bends, +2.7 to -2.4 points a year
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  | -40.5 | 9.8 | -29.7 | 9.6 | 8.7 | 8.9 | 9.9 | 11.0 | 9.2 | 6.6 | 10.0 | 9.6 | 12.5 | 11.0 | 12.2 | 11.5 | 0.5 | -3.6 |
+> | Net margin, fitted by the rule |  | -11.6 | -9.3 | -7.0 | -4.7 | -2.4 | -0.1 | 2.2 | 4.5 | 6.8 | 9.1 | 11.4 | 13.7 | 16.0 | 18.3 | 13.9 | 8.1 | 2.2 | -3.6 |
+> - Mark: FY2022 Event: net margin bends, +2.3 to -5.8 points a year
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  | -34.9 | 14.5 | -26.3 | 15.3 | 14.7 | 13.0 | 13.7 | 15.1 | 14.1 | 15.5 | 14.6 | 13.4 | 14.8 | 16.7 | 16.4 | 14.9 | 5.6 | 0.6 |
+> | Operating margin, fitted by the rule |  | -6.6 | -4.4 | -2.1 | 0.2 | 2.5 | 4.7 | 7.0 | 9.3 | 11.6 | 13.8 | 16.1 | 18.4 | 20.7 | 23.0 | 17.9 | 12.2 | 6.6 | 0.9 |
+> - Mark: FY2022 Event: operating margin bends, +2.3 to -5.7 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

@@ -202,6 +202,48 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-12-05 | 0000048465-25-000059 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-12-05 | 0000048465-25-000059 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000048465/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 486 | 490 | 4.9 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
+| 0000048465/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 992 | 1040 | 48.0 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
+| 0000048465/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 9523 | 9168 | -356 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0000048465/Operating margin/FY2016 | FY2016 | Operating margin | observed | level and bend | 11.1 | 14.4 | 3.3 | 0.69 | -0.80 | 1.3 | 1.5 | percent of revenue | 32.7 | 20.1 | 1 | lone | 201 | Revenue tag, FY2017 |  |
+| 0000048465/Operating cash flow over revenue/FY2019 | FY2019 | Operating cash flow over revenue | observed | bend | 12.1 | 10.5 | -1.5 | 0.72 | -0.38 | 2.7 | 2.8 | percent of revenue | 11.9 | 10.3 | 1 | lone | 201 |  |  |
+| 0000048465/Net margin/FY2021 | FY2021 | Net margin | observed | level and bend | 10.5 | 8.5 | -2.0 | 0.52 | -0.93 | 1.4 | 1.7 | percent of revenue | 29.2 | 19.2 | 1 | lone | 201 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  | 4.2 | 5.2 | 5.5 | 6.0 | 6.1 | 6.0 | 6.5 | 7.4 | 9.3 | 9.2 | 10.6 | 10.3 | 9.5 | 8.0 | 8.0 | 6.6 | 6.8 | 4.0 |
+> | Net margin, fitted by the rule |  | 4.3 | 4.8 | 5.3 | 5.8 | 6.3 | 6.9 | 7.4 | 7.9 | 8.4 | 8.9 | 9.5 | 10.0 | 10.5 | 8.5 | 7.6 | 6.7 | 5.7 | 4.8 |
+> - Mark: FY2021 Event: net margin fitted 10.5% to 8.5% (down)
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  |  |  |  |  | 9.5 | 9.2 | 10.0 | 11.5 | 13.9 | 13.9 | 12.4 | 12.6 | 11.5 | 9.9 | 10.5 | 8.9 | 9.0 | 5.9 |
+> | Operating margin, fitted by the rule |  |  |  |  |  | 9.0 | 9.7 | 10.4 | 11.1 | 14.4 | 13.6 | 12.8 | 12.0 | 11.2 | 10.4 | 9.6 | 8.8 | 8.0 | 7.2 |
+> - Mark: FY2016 Event: operating margin fitted 11.1% to 14.4% (up)
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  | 4.0 | 8.6 | 6.7 | 6.2 | 6.3 | 7.3 | 8.0 | 10.7 | 10.9 | 11.3 | 13.0 | 9.7 | 11.7 | 8.8 | 9.1 | 8.7 | 10.6 | 7.0 |
+> | Operating cash flow over revenue, fitted by the rule |  | 4.9 | 5.6 | 6.3 | 7.0 | 7.7 | 8.5 | 9.2 | 9.9 | 10.6 | 11.3 | 12.1 | 10.5 | 10.1 | 9.8 | 9.4 | 9.0 | 8.6 | 8.2 |
+> - Mark: FY2019 Event: cash over revenue bends, +0.7 to -0.4 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

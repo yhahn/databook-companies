@@ -133,6 +133,19 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2026 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-08-14 | 0001748790-26-000022 |  |  |  |  |  |
 | Buybacks | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-08-14 | 0001748790-26-000022 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001748790/Capex tag/FY2019 | FY2019 | Capex tag | instrument | | -365 | -332 | 33.0 | | | | | millions | | | | | | Capex tag, FY2019 |  |
+| 0001748790/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 9319 | 9458 | 139 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
+| 0001748790/Fiscal year end/FY2023 | FY2023 | Fiscal year end | instrument | | 181 | 273 | 92.0 | | | | | day of year | | | | | | Fiscal year end, FY2022 to FY2023 |  |
+| 0001748790/Fiscal year end/FY2025 | FY2025 | Fiscal year end | instrument | | 272 | 181 | -91.0 | | | | | day of year | | | | | | Fiscal year end, FY2024 to FY2025 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

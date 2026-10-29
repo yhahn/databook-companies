@@ -206,6 +206,39 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2025-11-07 | 0000004127-25-000085 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-11-07 | 0000004127-25-000085 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000004127/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 285 | 500 | 214 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
+| 0000004127/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 3651 | 3868 | 217 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
+| 0000004127/Capex tag/FY2019 | FY2019 | Capex tag | instrument | | -422 | -398 | 23.9 | | | | | millions | | | | | | Capex tag, FY2019 |  |
+| 0000004127/Operating cash flow tag/FY2019 | FY2019 | Operating cash flow tag | instrument | | 1261 | 1367 | 107 | | | | | millions | | | | | | Operating cash flow tag, FY2019 |  |
+| 0000004127/Net margin/FY2012/2 | FY2012 | Net margin | observed | bend | 14.9 | 22.3 | 7.4 | 1.02 | -0.10 | 2.9 | 12.3 | percent of revenue | 17.6 | 15.4 | 2 | lone | 201 |  |  |
+| 0000004127/Operating margin/FY2018 | FY2018 | Operating margin | observed | bend | 34.7 | 34.5 | -0.1 | 2.84 | -2.74 | 6.3 | 7.6 | percent of revenue | 39.0 | 27.5 | 1 | lone | 201 | Revenue tag, FY2018 |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  | 12.9 | 11.8 | 12.8 | 16.0 | 12.9 | 15.5 | 20.0 | 24.5 | 30.3 | 27.7 | 23.7 | 25.3 | 24.3 | 29.3 | 23.2 | 20.6 | 14.3 | 11.7 |
+> | Net margin, fitted by the rule |  | 11.9 | 12.9 | 13.9 | 14.9 | 22.3 | 22.2 | 22.1 | 22.0 | 21.9 | 21.8 | 21.7 | 21.6 | 21.5 | 21.4 | 21.3 | 21.2 | 21.1 | 21.0 |
+> - Mark: FY2012 Event: net margin bends, +1.0 to -0.1 points a year
+
+### Operating margin
+
+> [!CARD:line] Operating margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating margin |  | 10.5 | 8.9 | 18.6 | 20.8 | 16.3 | 19.3 | 24.7 | 31.4 | 34.0 | 34.3 | 34.1 | 28.2 | 26.6 | 31.6 | 27.8 | 23.6 | 15.3 | 12.2 |
+> | Operating margin, fitted by the rule |  | 9.1 | 12.0 | 14.8 | 17.6 | 20.5 | 23.3 | 26.1 | 29.0 | 31.8 | 34.7 | 34.5 | 31.8 | 29.0 | 26.3 | 23.5 | 20.8 | 18.1 | 15.3 |
+> - Mark: FY2018 Event: operating margin bends, +2.8 to -2.7 points a year
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

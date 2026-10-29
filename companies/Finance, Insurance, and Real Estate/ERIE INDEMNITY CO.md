@@ -148,6 +148,48 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-23 | 0001628280-26-010666 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquireProductiveAssets | 10-K | 2026-02-23 | 0001628280-26-010666 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000922621/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 721 | 360 | -361 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
+| 0000922621/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 217 | 254 | 37.0 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
+| 0000922621/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 1597 | 1692 | 95.1 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0000922621/Operating cash flow over revenue/FY2012 | FY2012 | Operating cash flow over revenue | observed | level and bend | 7.8 | 13.1 | 5.3 | -6.52 | 0.13 | 0.8 | 4.3 | percent of revenue | 30.2 | 13.5 | 1 | lone | 94 | Operating cash flow tag, FY2011 |  |
+| 0000922621/Net margin/FY2013 | FY2013 | Net margin | observed | level | 3.3 | 11.6 | 8.4 | 0.16 | 0.14 | 0.8 | 2.6 | percent of revenue | 25.7 | 21.9 | 1 | lone | 94 |  |  |
+| 0000922621/Revenue growth/FY2014 | FY2014 | Revenue growth | observed | level and bend | -52.5 | 9.9 | 62.4 | -27.46 | 0.10 | 55.1 | 21.4 | percent a year | 14.1 | 6.8 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  | 60.5 | 14.9 | -1.3 | 14.3 | -76.5 | 8.5 | 7.0 | 6.1 | 6.0 | 40.8 | 4.0 | 2.4 | 3.8 | 7.8 | 15.1 | 16.1 | 7.2 |
+> | Revenue growth, fitted by the rule |  |  | 57.3 | 29.8 | 2.4 | -25.1 | -52.5 | 9.9 | 10.0 | 10.1 | 10.1 | 10.2 | 10.3 | 10.4 | 10.5 | 10.6 | 10.7 | 10.8 | 10.9 |
+> - Mark: FY2014 Event: revenue growth fitted -52.5% to 9.9% (up)
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin |  | 2.6 | 2.5 | 3.3 | 3.5 | 2.9 | 12.5 | 11.9 | 11.6 | 13.2 | 11.6 | 12.1 | 12.8 | 11.6 | 11.3 | 10.5 | 13.6 | 15.8 | 13.8 |
+> | Net margin, fitted by the rule |  | 2.7 | 2.8 | 3.0 | 3.1 | 3.3 | 11.6 | 11.8 | 11.9 | 12.1 | 12.2 | 12.3 | 12.5 | 12.6 | 12.8 | 12.9 | 13.1 | 13.2 | 13.3 |
+> - Mark: FY2013 Event: net margin fitted 3.3% to 11.6% (up)
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  | 27.2 | 20.9 | 14.7 | 7.5 | 10.5 | 16.8 | 13.2 | 14.4 | 15.9 | 11.7 | 11.1 | 14.7 | 13.5 | 15.3 | 12.9 | 11.7 | 16.1 | 16.9 |
+> | Operating cash flow over revenue, fitted by the rule |  | 27.4 | 20.8 | 14.3 | 7.8 | 13.1 | 13.2 | 13.3 | 13.5 | 13.6 | 13.7 | 13.8 | 14.0 | 14.1 | 14.2 | 14.3 | 14.5 | 14.6 | 14.7 |
+> - Mark: FY2012 Event: cash over revenue fitted 7.8% to 13.1% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

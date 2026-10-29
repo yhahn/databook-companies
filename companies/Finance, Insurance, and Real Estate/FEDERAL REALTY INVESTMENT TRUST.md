@@ -152,6 +152,25 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0000034903-26-000017 |  |  |  |  |  |
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0000034903-26-000017 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000034903/Operating cash flow over revenue/FY2019 | FY2019 | Operating cash flow over revenue | observed | level and bend | 54.7 | 47.6 | -7.1 | 1.02 | 0.16 | 3.5 | 3.8 | percent of revenue | 15.8 | 12.6 | 1 | lone | 94 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Operating cash flow over revenue
+
+> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Operating cash flow over revenue |  | 43.9 | 48.6 | 47.4 | 44.4 | 49.0 | 49.3 | 50.4 | 49.6 | 53.4 | 53.5 | 56.4 | 49.4 | 44.3 | 49.6 | 48.1 | 49.1 | 47.8 | 48.7 |
+> | Operating cash flow over revenue, fitted by the rule |  | 44.5 | 45.6 | 46.6 | 47.6 | 48.6 | 49.6 | 50.7 | 51.7 | 52.7 | 53.7 | 54.7 | 47.6 | 47.8 | 48.0 | 48.1 | 48.3 | 48.4 | 48.6 |
+> - Mark: FY2019 Event: cash over revenue fitted 54.7% to 47.6% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

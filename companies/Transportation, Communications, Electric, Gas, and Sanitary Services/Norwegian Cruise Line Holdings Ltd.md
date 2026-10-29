@@ -154,6 +154,30 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-03-02 | 0001104659-26-022067 |  |  |  |  |  |
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-03-02 | 0001104659-26-022067 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0001513761/Operating cash flow tag/FY2015 | FY2015 | Operating cash flow tag | instrument | | 636 | 1042 | 407 | | | | | millions | | | | | | Operating cash flow tag, FY2015 |  |
+| 0001513761/Net income tag/FY2016 | FY2016 | Net income tag | instrument | | 427 | 633 | 206 | | | | | millions | | | | | | Net income tag, FY2016 |  |
+| 0001513761/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 1240 | 1601 | 362 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
+| 0001513761/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 4874 | 5396 | 522 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
+| 0001513761/Net income tag/FY2018 | FY2018 | Net income tag | instrument | | 760 | 955 | 195 | | | | | millions | | | | | | Net income tag, FY2018 |  |
+| 0001513761/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | -36.0 | 484.2 | 520.2 | -7.73 | -199.72 | 56.1 | 414.5 | percent a year | 10.8 | 8.4 | 1 | lone | 61 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Revenue growth
+
+> [!CARD:line] Revenue growth, % (percent a year)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Revenue growth |  |  |  |  |  | 2.6 | 12.9 | 21.6 | 39.0 | 12.2 | 10.7 | 12.2 | 6.7 | -80.2 | -49.4 | 647.5 | 76.5 | 10.9 | 3.7 |
+> | Revenue growth, fitted by the rule |  |  |  |  |  | 33.6 | 25.9 | 18.2 | 10.4 | 2.7 | -5.0 | -12.8 | -20.5 | -28.2 | -36.0 | 484.2 | 284.5 | 84.8 | -114.9 |
+> - Mark: FY2022 Event: revenue growth fitted -36.0% to 484.2% (up)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |

@@ -195,6 +195,31 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Capex | FY2025 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-06 | 0000101829-26-000006 |  |  |  |  |  |
 | Buybacks | FY2025 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-06 | 0000101829-26-000006 |  |  |  |  |  |
 
+## Events
+
+The changes the rule found in this company's series: a row an Event, its Annotation left for a person to fill. An observed Event is a change of level (the two fitted lines stand apart at that year by more than their bands) or a bend (their slopes differ); From is the fitted line the year before the Event and To the fitted line at its year, both read off the graph below (its fitted row); the slopes are the two lines' change a year, in points. An instrument Event is a tag or a fiscal year end that moved, read against this page's Changes. On a phone this table slides sideways, the Key first.
+
+| Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0000101829/Revenue tag/FY2010 | FY2010 | Revenue tag | instrument | | 52920 | 52275 | -645 | | | | | millions | | | | | | Revenue tag, FY2010 |  |
+| 0000101829/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 6605 | 7314 | 709 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
+| 0000101829/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 57244 | 29713 | -27531 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x2.01) |  |
+| 0000101829/Capex tag/FY2021 | FY2021 | Capex tag | instrument | | -1795 | -2134 | -339 | | | | | millions | | | | | | Capex tag, FY2021 |  |
+| 0000101829/Operating cash flow tag/FY2022 | FY2022 | Operating cash flow tag | instrument | | 7142 | 7168 | 26.0 | | | | | millions | | | | | | Operating cash flow tag, FY2022 |  |
+| 0000101829/Revenue tag/FY2022 | FY2022 | Revenue tag | instrument | | 64388 | 67074 | 2686 | | | | | millions | | | | | | Revenue tag, FY2022 |  |
+| 0000101829/Net margin/FY2020 | FY2020 | Net margin | observed | level | 14.0 | -0.4 | -14.4 | 0.60 | 1.88 | 3.3 | 8.6 | percent of revenue | 23.5 | 12.4 | 1 | lone | 201 |  |  |
+
+These are changes in the data, found by a rule (METHOD.md). They are not explained here.
+
+### Net margin
+
+> [!CARD:line] Net margin, % (percent of revenue)
+> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Net margin | 7.6 | 7.8 | 7.2 | 8.4 | 8.9 | 8.9 | 10.1 | 10.7 | 13.6 | 8.8 | 15.3 | 15.2 | 12.2 | -6.2 | 6.0 | 7.7 | 4.6 | 5.9 | 7.6 |
+> | Net margin, fitted by the rule | 6.8 | 7.4 | 8.0 | 8.6 | 9.2 | 9.8 | 10.4 | 11.0 | 11.6 | 12.2 | 12.8 | 13.4 | 14.0 | -0.4 | 1.5 | 3.3 | 5.2 | 7.1 | 9.0 |
+> - Mark: FY2020 Event: net margin fitted 14.0% to -0.4% (down)
+
 ## Quarterly
 
 | Quarter | Fiscal year | Fiscal quarter | Ended | Revenue | Gross profit | Operating income | Net income | EPS diluted | Operating cash flow | Capex | Buybacks | EPS adjusted |
