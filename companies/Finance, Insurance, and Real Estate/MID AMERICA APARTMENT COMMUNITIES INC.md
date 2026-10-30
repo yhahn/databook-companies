@@ -13,9 +13,9 @@
 
 MID AMERICA APARTMENT COMMUNITIES INC., as it files with the SEC (CIK 0000912595): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MID AMERICA APARTMENT COMMUNITIES INC., and how has it grown?** It sold $2.2 billion in FY2025, the 471st most of the 487 companies with a revenue for the year, and the 84th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 44.5% from FY2017 to FY2025, 4.7% a year.
+**How large is MID AMERICA APARTMENT COMMUNITIES INC., and how has it grown?** It sold $2.2 billion in FY2025, the 472nd most of the 486 companies with a revenue for the year, and the 84th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 44.5% from FY2017 to FY2025, 4.7% a year.
 
-**Does MID AMERICA APARTMENT COMMUNITIES INC. make money, and how much of what it sells does it keep?** It earned $447 million in FY2025, 20.2% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 14 years in the book.
+**Does MID AMERICA APARTMENT COMMUNITIES INC. make money, and how much of what it sells does it keep?** It earned $447 million in FY2025, 20.2% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 14 years in the book.
 
 **Where does MID AMERICA APARTMENT COMMUNITIES INC.'s cash go?** From FY2017 to FY2025 its operations brought in $8.3 billion; it spent 0% of that on plant and equipment, and 0.3% on buying back its own shares.
 
@@ -138,11 +138,11 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000912595/EPS diluted tag/FY2013 | FY2013 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2013 |  |
-| 0000912595/Net income gap/FY2013 | FY2013 | Net income gap | instrument | | 98.7 |  |  | | | | | millions | | | | | | none |  |
-| 0000912595/Operating cash flow gap/FY2013 | FY2013 | Operating cash flow gap | instrument | | 192 |  |  | | | | | millions | | | | | | none |  |
-| 0000912595/Revenue gap/FY2013 | FY2013 | Revenue gap | instrument | | 447 |  |  | | | | | millions | | | | | | none |  |
+| 0000912595/Net income gap/FY2013 | FY2013 | Net income gap | instrument | | 98.7 |  |  | | | | | millions | | | | | | Net income gap, FY2013 |  |
+| 0000912595/Operating cash flow gap/FY2013 | FY2013 | Operating cash flow gap | instrument | | 192 |  |  | | | | | millions | | | | | | Operating cash flow gap, FY2013 |  |
+| 0000912595/Revenue gap/FY2013 | FY2013 | Revenue gap | instrument | | 447 |  |  | | | | | millions | | | | | | Revenue gap, FY2013 |  |
 | 0000912595/EPS diluted tag/FY2017 | FY2017 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2017 |  |
-| 0000912595/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | bend | 50.7 | 53.1 | 2.4 | 1.66 | -1.36 | 1.6 | 2.0 | percent of revenue | 29.2 | 14.5 | 1 | shared | 94 |  |  |
+| 0000912595/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | bend | 50.7 | 53.1 | 2.4 | 1.66 | -1.36 | 1.6 | 2.0 | percent of revenue | 28.6 | 14.6 | 1 | shared | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -290,4 +290,34 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:EarningsPerShareBasicAndDiluted
 - Now: us-gaap:EarningsPerShareDiluted
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: MID AMERICA APARTMENT COMMUNITIES INC., Gap, Revenue, FY2013 to FY2016
+
+- CIK: 0000912595
+- What: Revenue gap
+- Boundary: FY2013
+- Was: Revenue FY2012: 446.549
+- Now: no figure for FY2013 to FY2016; FY2017: 1528.987
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 6, 9 months are filed; FY2014: no annual figure under any tag read; periods of 3 months are filed; FY2015 to FY2016: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts
+
+### Change: MID AMERICA APARTMENT COMMUNITIES INC., Gap, Net income, FY2013 to FY2016
+
+- CIK: 0000912595
+- What: Net income gap
+- Boundary: FY2013
+- Was: Net income FY2012: 98.738
+- Now: no figure for FY2013 to FY2016; FY2017: 328.379
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 6, 9 months are filed; FY2014: no annual figure under any tag read; periods of 3 months are filed; FY2015 to FY2016: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: MID AMERICA APARTMENT COMMUNITIES INC., Gap, Operating cash flow, FY2013 to FY2016
+
+- CIK: 0000912595
+- What: Operating cash flow gap
+- Boundary: FY2013
+- Was: Operating cash flow FY2012: 191.819
+- Now: no figure for FY2013 to FY2016; FY2017: 660.8
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 6, 9 months are filed; FY2014 to FY2016: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetCashProvidedByUsedInOperatingActivities, us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Source: SEC EDGAR companyfacts

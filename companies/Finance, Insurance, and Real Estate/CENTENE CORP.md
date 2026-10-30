@@ -13,9 +13,9 @@
 
 CENTENE CORP, as it files with the SEC (CIK 0001071739): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-02-23 and 2019-02-19, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CENTENE CORP, and how has it grown?** It sold $174.6 billion in FY2025, the 20th most of the 487 companies with a revenue for the year, and the 6th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 667.1% from FY2015 to FY2025, 22.6% a year.
+**How large is CENTENE CORP, and how has it grown?** It sold $174.6 billion in FY2025, the 20th most of the 486 companies with a revenue for the year, and the 6th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 667.1% from FY2015 to FY2025, 22.6% a year.
 
-**Does CENTENE CORP make money, and how much of what it sells does it keep?** It earned −$6.7 billion in FY2025, −3.8% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 18 years in the book (FY2025).
+**Does CENTENE CORP make money, and how much of what it sells does it keep?** It earned −$6.7 billion in FY2025, −3.8% of what it sold; the median company of its sector kept 18.9%. It lost money in 1 of its 18 years in the book (FY2025).
 
 **Where does CENTENE CORP's cash go?** From FY2016 to FY2025 its operations brought in $35.3 billion; it spent 20.2% of that on plant and equipment, and 27% on buying back its own shares.
 
@@ -200,7 +200,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001071739/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 40607 | 45620 | 5013 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0001071739/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 41.7 | 10.8 | -30.9 | 1.31 | 0.17 | 41.4 | 16.4 | percent a year | 16.2 | 7.6 | 2 | lone | 94 |  |  |
+| 0001071739/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 41.7 | 10.8 | -30.9 | 1.31 | 0.17 | 41.4 | 16.4 | percent a year | 16.4 | 7.6 | 2 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -356,4 +356,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2019-02-19 on, a share after a 2 for 1 split
 - Crosswalk: 2016-01-01 to 2016-12-31: EPS 3.43 as first filed, 1.71 after; EPS adjusted divides what was filed before by 2. Found in 11 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 2, of 2018-12-12, filed 2019-02-19)
+- Source: SEC EDGAR companyfacts
+
+### Change: CENTENE CORP, Restatement, Operating income, FY2012
+
+- CIK: 0001071739
+- What: Operating income restatement
+- Boundary: FY2012
+- Was: Operating income FY2011: 203.803 (10-K filed 2014-02-21, itself restated)
+- Now: Operating income FY2012 as last filed: FY2012 108
+- Crosswalk: FY2012: -27.121 first filed (10-K, 2013-02-19), 108 last filed (10-K, 2015-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

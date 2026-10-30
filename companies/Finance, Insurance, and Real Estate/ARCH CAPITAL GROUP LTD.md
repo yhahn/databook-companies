@@ -13,9 +13,9 @@
 
 ARCH CAPITAL GROUP LTD., as it files with the SEC (CIK 0000947484): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-08-05 and 2018-08-08, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ARCH CAPITAL GROUP LTD., and how has it grown?** It sold $19.9 billion in FY2025, the 187th most of the 487 companies with a revenue for the year, and the 31st of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 406.3% from FY2015 to FY2025, 17.6% a year.
+**How large is ARCH CAPITAL GROUP LTD., and how has it grown?** It sold $19.9 billion in FY2025, the 187th most of the 486 companies with a revenue for the year, and the 31st of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 406.3% from FY2015 to FY2025, 17.6% a year.
 
-**Does ARCH CAPITAL GROUP LTD. make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 22.1% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 18 years in the book.
+**Does ARCH CAPITAL GROUP LTD. make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 22.1% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 18 years in the book.
 
 **Where does ARCH CAPITAL GROUP LTD.'s cash go?** From FY2016 to FY2025 its operations brought in $34.8 billion; it spent 1.1% of that on plant and equipment, and 12% on buying back its own shares.
 

@@ -13,9 +13,9 @@
 
 Cboe Global Markets, Inc., as it files with the SEC (CIK 0001374310): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Cboe Global Markets, Inc., and how has it grown?** It sold $4.7 billion in FY2025, the 413th most of the 487 companies with a revenue for the year, and the 73rd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 610.2% from FY2015 to FY2025, 21.7% a year.
+**How large is Cboe Global Markets, Inc., and how has it grown?** It sold $4.7 billion in FY2025, the 414th most of the 486 companies with a revenue for the year, and the 73rd of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 610.2% from FY2015 to FY2025, 21.7% a year.
 
-**Does Cboe Global Markets, Inc. make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 23.3% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 17 years in the book.
+**Does Cboe Global Markets, Inc. make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 23.3% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 17 years in the book.
 
 **Where does Cboe Global Markets, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $8.4 billion; it spent 5.8% of that on plant and equipment, and 14.8% on buying back its own shares.
 
@@ -194,7 +194,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001374310/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 703 | 2229 | 1526 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001374310/Net income tag/FY2022 | FY2022 | Net income tag | instrument | | 529 | 235 | -294 | | | | | millions | | | | | | Net income tag, FY2022 |  |
 | 0001374310/Net income tag/FY2024 | FY2024 | Net income tag | instrument | | 761 | 765 | 3.5 | | | | | millions | | | | | | Net income tag, FY2024 |  |
-| 0001374310/Operating cash flow over revenue/FY2021/2 | FY2021 | Operating cash flow over revenue | observed | bend | 29.7 | 15.1 | -14.6 | -0.54 | 5.06 | 17.9 | 7.5 | percent of revenue | 13.4 | 9.1 | 2 | lone | 94 |  |  |
+| 0001374310/Operating cash flow over revenue/FY2021/2 | FY2021 | Operating cash flow over revenue | observed | bend | 29.7 | 15.1 | -14.6 | -0.54 | 5.06 | 17.9 | 7.5 | percent of revenue | 13.5 | 9.1 | 2 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

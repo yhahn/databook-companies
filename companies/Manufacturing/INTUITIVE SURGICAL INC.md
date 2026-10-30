@@ -13,7 +13,7 @@
 
 INTUITIVE SURGICAL INC, as it files with the SEC (CIK 0001035267): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2017-10-20 and 2021-10-20, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INTUITIVE SURGICAL INC, and how has it grown?** It sold $10.1 billion in FY2025, the 301st most of the 487 companies with a revenue for the year, and the 120th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 322.1% from FY2015 to FY2025, 15.5% a year.
+**How large is INTUITIVE SURGICAL INC, and how has it grown?** It sold $10.1 billion in FY2025, the 301st most of the 486 companies with a revenue for the year, and the 120th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 322.1% from FY2015 to FY2025, 15.5% a year.
 
 **Does INTUITIVE SURGICAL INC make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 28.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -222,7 +222,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001035267/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 2704 | 3138 | 434 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0001035267/Revenue growth/FY2015 | FY2015 | Revenue growth | observed | level and bend | -0.2 | 13.4 | 13.6 | -7.05 | 0.41 | 18.1 | 17.0 | percent a year | 16.0 | 11.8 | 1 | lone | 201 |  |  |
+| 0001035267/Revenue growth/FY2015 | FY2015 | Revenue growth | observed | level and bend | -0.2 | 13.4 | 13.6 | -7.05 | 0.41 | 18.1 | 17.0 | percent a year | 15.9 | 11.8 | 1 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

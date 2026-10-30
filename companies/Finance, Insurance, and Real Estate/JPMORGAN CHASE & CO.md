@@ -13,9 +13,9 @@
 
 JPMORGAN CHASE & CO, as it files with the SEC (CIK 0000019617): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is JPMORGAN CHASE & CO, and how has it grown?** It sold $182.4 billion in FY2025, the 19th most of the 487 companies with a revenue for the year, and the 5th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 95% from FY2015 to FY2025, 6.9% a year.
+**How large is JPMORGAN CHASE & CO, and how has it grown?** It sold $182.4 billion in FY2025, the 19th most of the 486 companies with a revenue for the year, and the 5th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 95% from FY2015 to FY2025, 6.9% a year.
 
-**Does JPMORGAN CHASE & CO make money, and how much of what it sells does it keep?** It earned $57.0 billion in FY2025, 31.3% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does JPMORGAN CHASE & CO make money, and how much of what it sells does it keep?** It earned $57.0 billion in FY2025, 31.3% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does JPMORGAN CHASE & CO's cash go?** The book does not say: its filings give no value this needs.
 
@@ -307,4 +307,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenuesNetOfInterestExpense
 - Crosswalk: FY2015 under both: 93543000000 and 93543000000
+- Source: SEC EDGAR companyfacts
+
+### Change: JPMORGAN CHASE & CO, Restatement, Operating cash flow, FY2017
+
+- CIK: 0000019617
+- What: Operating cash flow restatement
+- Boundary: FY2017
+- Was: Operating cash flow FY2016: 21884 (10-K filed 2019-02-26, itself restated)
+- Now: Operating cash flow FY2017 as last filed: FY2017 -10827
+- Crosswalk: FY2017: -2501 first filed (10-K, 2018-02-27), -10827 last filed (10-K, 2020-02-25). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

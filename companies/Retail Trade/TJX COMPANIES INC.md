@@ -13,7 +13,7 @@
 
 TJX COMPANIES INC, as it files with the SEC (CIK 0000109198): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-03-27 and 2018-12-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TJX COMPANIES INC, and how has it grown?** It sold $60.4 billion in FY2025, the 67th most of the 487 companies with a revenue for the year, and the 9th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 95.1% from FY2015 to FY2025, 6.9% a year.
+**How large is TJX COMPANIES INC, and how has it grown?** It sold $60.4 billion in FY2025, the 67th most of the 486 companies with a revenue for the year, and the 9th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 95.1% from FY2015 to FY2025, 6.9% a year.
 
 **Does TJX COMPANIES INC make money, and how much of what it sells does it keep?** It earned $5.5 billion in FY2025, 9.1% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 
@@ -197,7 +197,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000109198/Revenue tag/FY2015 | FY2015 | Revenue tag | instrument | | 29078 | 30945 | 1867 | | | | | millions | | | | | | Revenue tag, FY2015 |  |
 | 0000109198/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 3627 | 3026 | -601 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0000109198/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 33184 | 35865 | 2681 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000109198/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 8.3 | 3.0 | -5.3 | 0.26 | 1.46 | 1.3 | 3.9 | percent of revenue | 18.0 | 13.7 | 1 | lone | 28 |  |  |
+| 0000109198/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 8.3 | 3.0 | -5.3 | 0.26 | 1.46 | 1.3 | 3.9 | percent of revenue | 18.0 | 13.6 | 1 | lone | 28 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -416,4 +416,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2018-12-04 on, a share after a 2 for 1 split
 - Crosswalk: 2017-01-29 to 2017-10-28: EPS 2.67 as first filed, 1.33 after; EPS adjusted divides what was filed before by 2. Found in 10 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 2, of 2018-10-22, filed 2018-12-04)
+- Source: SEC EDGAR companyfacts
+
+### Change: TJX COMPANIES INC, Restatement, Operating income, FY2010
+
+- CIK: 0000109198
+- What: Operating income restatement
+- Boundary: FY2010
+- Was: none: Operating income has no figure before FY2010
+- Now: Operating income FY2010 as last filed: FY2010 10.297
+- Crosswalk: FY2010: -10.297 first filed (10-K, 2012-03-27), 10.297 last filed (10-K, 2013-04-02). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

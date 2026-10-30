@@ -13,7 +13,7 @@
 
 ABBOTT LABORATORIES, as it files with the SEC (CIK 0000001800): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ABBOTT LABORATORIES, and how has it grown?** It sold $44.3 billion in FY2025, the 89th most of the 487 companies with a revenue for the year, and the 39th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 117.2% from FY2015 to FY2025, 8.1% a year.
+**How large is ABBOTT LABORATORIES, and how has it grown?** It sold $44.3 billion in FY2025, the 89th most of the 486 companies with a revenue for the year, and the 39th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 117.2% from FY2015 to FY2025, 8.1% a year.
 
 **Does ABBOTT LABORATORIES make money, and how much of what it sells does it keep?** It earned $6.5 billion in FY2025, 14.7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -205,7 +205,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000001800/Net income tag/FY2011 | FY2011 | Net income tag | instrument | | 4626 | 4728 | 102 | | | | | millions | | | | | | Net income tag, FY2011 |  |
 | 0000001800/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 8736 | 8970 | 234 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
 | 0000001800/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 20853 | 27390 | 6537 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000001800/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | level and bend | 44.8 | 16.8 | -28.0 | 5.72 | 0.46 | 11.2 | 4.7 | percent of revenue | 38.1 | 15.3 | 1 | shared | 201 |  |  |
+| 0000001800/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | level and bend | 44.8 | 16.8 | -28.0 | 5.72 | 0.46 | 11.2 | 4.7 | percent of revenue | 38.1 | 15.3 | 1 | shared | 201 | Revenue restatement, FY2012 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -398,4 +398,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2011 under both: 8970077000 and 8970000000
+- Source: SEC EDGAR companyfacts
+
+### Change: ABBOTT LABORATORIES, Restatement, Revenue, FY2012
+
+- CIK: 0000001800
+- What: Revenue restatement
+- Boundary: FY2012
+- Was: Revenue FY2011: 21407 (10-K filed 2014-02-21, itself restated)
+- Now: Revenue FY2012 as last filed: FY2012 19050
+- Crosswalk: FY2012: 39873.91 first filed (10-K, 2013-02-15), 19050 last filed (10-K, 2015-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: ABBOTT LABORATORIES, Restatement, Operating income, FY2011 to FY2012
+
+- CIK: 0000001800
+- What: Operating income restatement
+- Boundary: FY2011
+- Was: Operating income FY2010: 6087.581 (10-K filed 2013-02-15, as first filed)
+- Now: Operating income FY2011 to FY2012 as last filed: FY2011 1629, FY2012 1360
+- Crosswalk: FY2011: 5751.948 first filed (10-K, 2012-02-21), 1629 last filed (10-K, 2014-02-21); FY2012: 8084.515 first filed (10-K, 2013-02-15), 1360 last filed (10-K, 2015-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

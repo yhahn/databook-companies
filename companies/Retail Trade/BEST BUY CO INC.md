@@ -13,7 +13,7 @@
 
 BEST BUY CO INC, as it files with the SEC (CIK 0000764478): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BEST BUY CO INC, and how has it grown?** It sold $41.5 billion in FY2025, the 93rd most of the 487 companies with a revenue for the year, and the 11th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 2.9% from FY2015 to FY2025, 0.3% a year.
+**How large is BEST BUY CO INC, and how has it grown?** It sold $41.5 billion in FY2025, the 93rd most of the 486 companies with a revenue for the year, and the 11th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 2.9% from FY2015 to FY2025, 0.3% a year.
 
 **Does BEST BUY CO INC make money, and how much of what it sells does it keep?** It earned $927 million in FY2025, 2.2% of what it sold; the median company of its sector kept 8.6%. It lost money in 1 of its 18 years in the book (FY2012).
 
@@ -212,12 +212,12 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000764478/Capex gap/FY2013 | FY2013 | Capex gap | instrument | | -766 |  |  | | | | | millions | | | | | | none |  |
-| 0000764478/Gross profit gap/FY2013 | FY2013 | Gross profit gap | instrument | | 10984 |  |  | | | | | millions | | | | | | none |  |
-| 0000764478/Net income gap/FY2013 | FY2013 | Net income gap | instrument | | -1231 |  |  | | | | | millions | | | | | | none |  |
-| 0000764478/Operating cash flow gap/FY2013 | FY2013 | Operating cash flow gap | instrument | | 3293 |  |  | | | | | millions | | | | | | none |  |
-| 0000764478/Operating income gap/FY2013 | FY2013 | Operating income gap | instrument | | 2200 |  |  | | | | | millions | | | | | | none |  |
-| 0000764478/Revenue gap/FY2013 | FY2013 | Revenue gap | instrument | | 45457 |  |  | | | | | millions | | | | | | none |  |
+| 0000764478/Capex gap/FY2013 | FY2013 | Capex gap | instrument | | -766 |  |  | | | | | millions | | | | | | Capex gap, FY2013 |  |
+| 0000764478/Gross profit gap/FY2013 | FY2013 | Gross profit gap | instrument | | 10984 |  |  | | | | | millions | | | | | | Gross profit gap, FY2013 |  |
+| 0000764478/Net income gap/FY2013 | FY2013 | Net income gap | instrument | | -1231 |  |  | | | | | millions | | | | | | Net income gap, FY2013 |  |
+| 0000764478/Operating cash flow gap/FY2013 | FY2013 | Operating cash flow gap | instrument | | 3293 |  |  | | | | | millions | | | | | | Operating cash flow gap, FY2013 |  |
+| 0000764478/Operating income gap/FY2013 | FY2013 | Operating income gap | instrument | | 2200 |  |  | | | | | millions | | | | | | Operating income gap, FY2013 |  |
+| 0000764478/Revenue gap/FY2013 | FY2013 | Revenue gap | instrument | | 45457 |  |  | | | | | millions | | | | | | Revenue gap, FY2013 |  |
 | 0000764478/Fiscal year end/FY2014 | FY2014 | Fiscal year end | instrument | | 63.0 | 32.0 | -31.0 | | | | | day of year | | | | | | Fiscal year end, FY2012 to FY2014 |  |
 | 0000764478/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 39403 | 42151 | 2748 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0000764478/Operating margin/FY2022 | FY2022 | Operating margin | observed | bend | 5.1 | 5.4 | 0.3 | 0.28 | -0.88 | 0.7 | 1.2 | percent of revenue | 17.9 | 12.3 | 1 | lone | 28 |  |  |
@@ -379,4 +379,74 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: FY2012 ended 2012-03-03
 - Now: FY2014 ended 2014-02-01
 - Crosswalk: the transition period 2012-03-04 to 2013-02-02, filed apart (us-gaap:SalesRevenueNet 38252000000)
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Gap, Revenue, FY2013
+
+- CIK: 0000764478
+- What: Revenue gap
+- Boundary: FY2013
+- Was: Revenue FY2012: 45457
+- Now: no figure for FY2013; FY2014: 40611
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Gap, Gross profit, FY2013
+
+- CIK: 0000764478
+- What: Gross profit gap
+- Boundary: FY2013
+- Was: Gross profit FY2012: 10984
+- Now: no figure for FY2013; FY2014: 9399
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:GrossProfit
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Gap, Operating income, FY2013
+
+- CIK: 0000764478
+- What: Operating income gap
+- Boundary: FY2013
+- Was: Operating income FY2012: 2200
+- Now: no figure for FY2013; FY2014: 1144
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:OperatingIncomeLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Gap, Net income, FY2013
+
+- CIK: 0000764478
+- What: Net income gap
+- Boundary: FY2013
+- Was: Net income FY2012: -1231
+- Now: no figure for FY2013; FY2014: 532
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 3, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Gap, Operating cash flow, FY2013
+
+- CIK: 0000764478
+- What: Operating cash flow gap
+- Boundary: FY2013
+- Was: Operating cash flow FY2012: 3293
+- Now: no figure for FY2013; FY2014: 1094
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetCashProvidedByUsedInOperatingActivities, us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Gap, Capex, FY2013
+
+- CIK: 0000764478
+- What: Capex gap
+- Boundary: FY2013
+- Was: Capex FY2012: -766
+- Now: no figure for FY2013; FY2014: -547
+- Crosswalk: FY2013: no annual figure under any tag read; periods of 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: BEST BUY CO INC, Restatement, Operating income, FY2012
+
+- CIK: 0000764478
+- What: Operating income restatement
+- Boundary: FY2012
+- Was: Operating income FY2011: 2280 (8-K filed 2013-06-21, itself restated)
+- Now: Operating income FY2012 as last filed: FY2012 2200
+- Crosswalk: FY2012: 1085 first filed (10-K, 2012-05-01), 2200 last filed (10-K, 2014-03-28). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

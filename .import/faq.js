@@ -98,8 +98,10 @@ function rows(f, tag, { first = false, proxy = false } = {}) {
   const same = new Map();
   for (const r of unit) if (r.start && r.val) { const k = `${r.start}|${r.end}`; same.set(k, [...(same.get(k) || []), r.val]); }
   const slip = (r) => r.val && same.get(`${r.start}|${r.end}`).some((v) => [1e3, 1e6].some((m) => Math.abs(v / (r.val * m) - 1) < 0.01));
+  // and a 10-Q's row of a year whose value is a shorter period's of the same filing, from the same first day, is that period filed under a year's span (DECISIONS 46: Comfort Systems' first quarter of 2025)
+  const quartered = (r) => /^10-Q/.test(r.form || '') && r.val && isYear(r) && unit.some((o) => o !== r && o.accn === r.accn && o.start === r.start && o.val === r.val && span(o) < 300);
   for (const r of unit) {
-    if (!r.start || slip(r) || (!proxy && /14A$/.test(r.form || ''))) continue;
+    if (!r.start || slip(r) || quartered(r) || (!proxy && /14A$/.test(r.form || ''))) continue;
     const k = `${r.start}|${r.end}`;
     const p = by.get(k);
     if (!p || (first ? r.filed < p.filed : r.filed > p.filed)) by.set(k, r);
@@ -304,10 +306,16 @@ function summary(t) {
       const ends = [...fys].filter(([, yy]) => yy === y).map(([e]) => e);
       const x = ends.length === 1 ? yearRow(f, REVENUE, ends[0]) : null;
       let rev = x ? mn(x.r.val) : null;
+      const ni = yearValue(f, fys, NET_INCOME, y);
       if (x && x.sliver) sliverSeen = true;
       else if (x && sliverSeen && /^RevenueFromContract/.test(x.tag) && lastRev !== null && Math.abs(rev) < Math.abs(lastRev) * 0.25) rev = null;
+      // a revenue under a tenth of a positive net income is a part of it (DECISIONS 47: Camden's FY2017 on): the year as first filed where that is not a part, else blank
+      else if (x && rev !== null && ni > 0 && rev > 0 && rev * 10 < ni && /^RevenueFromContract/.test(x.tag)) {
+        const first = rows(f, x.tag, { first: true }).find((r) => r.start === x.r.start && r.end === x.r.end);
+        rev = first && mn(first.val) > rev && mn(first.val) * 10 >= ni ? mn(first.val) : null;
+      }
       if (rev !== null) lastRev = rev;
-      out.years[y] = { rev, ni: yearValue(f, fys, NET_INCOME, y) };
+      out.years[y] = { rev, ni };
     }
   }
   summaries.set(t, out);

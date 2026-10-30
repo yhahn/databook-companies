@@ -13,7 +13,7 @@
 
 WEC ENERGY GROUP, INC., as it files with the SEC (CIK 0000783325): its fiscal years and quarters from its XBRL filings, FY2011 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-05-05, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WEC ENERGY GROUP, INC., and how has it grown?** It sold $9.8 billion in FY2025, the 304th most of the 487 companies with a revenue for the year, and the 48th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 65.4% from FY2015 to FY2025, 5.2% a year.
+**How large is WEC ENERGY GROUP, INC., and how has it grown?** It sold $9.8 billion in FY2025, the 304th most of the 486 companies with a revenue for the year, and the 48th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 65.4% from FY2015 to FY2025, 5.2% a year.
 
 **Does WEC ENERGY GROUP, INC. make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 15.9% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 14 years in the book.
 
@@ -169,7 +169,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000783325/Net income tag/FY2008 | FY2008 | Net income tag | instrument | |  |  |  | | | | | millions | | | | | | Net income tag, FY2008 |  |
 | 0000783325/Net income tag/FY2009 | FY2009 | Net income tag | instrument | |  |  |  | | | | | millions | | | | | | Net income tag, FY2009 |  |
 | 0000783325/Capex tag/FY2012 | FY2012 | Capex tag | instrument | | -831 | -707 | 124 | | | | | millions | | | | | | Capex tag, FY2012 |  |
-| 0000783325/Net income gap/FY2016 | FY2016 | Net income gap | instrument | | 640 |  |  | | | | | millions | | | | | | none |  |
+| 0000783325/Net income gap/FY2016 | FY2016 | Net income gap | instrument | | 640 |  |  | | | | | millions | | | | | | Net income gap, FY2016 |  |
 | 0000783325/Net income tag/FY2017 | FY2017 | Net income tag | instrument | | 640 | 1205 | 565 | | | | | millions | | | | | | Net income tag, FY2017 |  |
 | 0000783325/Revenue growth/FY2017 | FY2017 | Revenue growth | observed | level and bend | 26.3 | 0.5 | -25.8 | 7.51 | 0.73 | 3.6 | 18.2 | percent a year | 12.2 | 11.6 | 1 | lone | 61 |  |  |
 
@@ -362,4 +362,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2011-05-05 on, a share after a 2 for 1 split
 - Crosswalk: 2010-01-01 to 2010-03-31: EPS 1.1 as first filed, 0.55 after; EPS adjusted divides what was filed before by 2. Found in 7 periods restated; a period's EPS and its shares; the company files no split fact of its own for it
+- Source: SEC EDGAR companyfacts
+
+### Change: WEC ENERGY GROUP, INC., Gap, Net income, FY2016
+
+- CIK: 0000783325
+- What: Net income gap
+- Boundary: FY2016
+- Was: Net income FY2015: 640.3
+- Now: no figure for FY2016; FY2017: 1204.9
+- Crosswalk: FY2016: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
 - Source: SEC EDGAR companyfacts

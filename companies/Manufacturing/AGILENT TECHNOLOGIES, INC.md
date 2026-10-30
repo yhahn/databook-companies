@@ -13,7 +13,7 @@
 
 AGILENT TECHNOLOGIES, INC., as it files with the SEC (CIK 0001090872): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AGILENT TECHNOLOGIES, INC., and how has it grown?** It sold $6.9 billion in FY2025, the 356th most of the 487 companies with a revenue for the year, and the 149th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 72.1% from FY2015 to FY2025, 5.6% a year.
+**How large is AGILENT TECHNOLOGIES, INC., and how has it grown?** It sold $6.9 billion in FY2025, the 357th most of the 486 companies with a revenue for the year, and the 149th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 72.1% from FY2015 to FY2025, 5.6% a year.
 
 **Does AGILENT TECHNOLOGIES, INC. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 18.8% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2009).
 
@@ -418,4 +418,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2020 under both: 719000000 and 719000000
+- Source: SEC EDGAR companyfacts
+
+### Change: AGILENT TECHNOLOGIES, INC., Restatement, Operating income, FY2013
+
+- CIK: 0001090872
+- What: Operating income restatement
+- Boundary: FY2013
+- Was: Operating income FY2012: 1119 (10-K filed 2014-12-22, as first filed)
+- Now: Operating income FY2013 as last filed: FY2013 386
+- Crosswalk: FY2013: 951 first filed (10-K, 2013-12-19), 386 last filed (10-K, 2015-12-21). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2013. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 CSX CORP, as it files with the SEC (CIK 0000277948): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-07-21 and 2021-07-22, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CSX CORP, and how has it grown?** It sold $14.1 billion in FY2025, the 251st most of the 487 companies with a revenue for the year, and the 38th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 19.3% from FY2015 to FY2025, 1.8% a year.
+**How large is CSX CORP, and how has it grown?** It sold $14.1 billion in FY2025, the 251st most of the 486 companies with a revenue for the year, and the 38th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 19.3% from FY2015 to FY2025, 1.8% a year.
 
 **Does CSX CORP make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 20.5% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 
@@ -200,7 +200,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000277948/Revenue tag/FY2011 | FY2011 | Revenue tag | instrument | | 10636 | 11795 | 1159 | | | | | millions | | | | | | Revenue tag, FY2011 |  |
 | 0000277948/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 11069 | 11408 | 339 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000277948/Net margin/FY2017 | FY2017 | Net margin | observed | level and bend | 16.5 | 36.7 | 20.2 | 0.41 | -2.06 | 1.9 | 11.3 | percent of revenue | 20.8 | 12.9 | 1 | lone | 61 | Revenue tag, FY2017 |  |
+| 0000277948/Net margin/FY2017 | FY2017 | Net margin | observed | level and bend | 16.5 | 36.7 | 20.2 | 0.41 | -2.06 | 1.9 | 11.3 | percent of revenue | 20.7 | 12.9 | 1 | lone | 61 | Revenue tag, FY2017 |  |
 | 0000277948/Operating cash flow growth/FY2021/2 | FY2021 | Operating cash flow growth | observed | bend | 1.7 | 17.5 | 15.8 | -0.99 | -7.66 | 48.0 | 4.2 | percent a year | 5.7 | 5.6 | 2 | lone | 61 |  |  |
 | 0000277948/Operating margin/FY2022/2 | FY2022 | Operating margin | observed | bend | 41.8 | 40.3 | -1.5 | 1.41 | -2.55 | 4.9 | 1.5 | percent of revenue | 62.6 | 20.8 | 2 | lone | 61 |  |  |
 
@@ -487,4 +487,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2021-07-22 on, a share after a 3 for 1 split
 - Crosswalk: 2020-01-01 to 2020-06-30: EPS 1.65 as first filed, 0.55 after; EPS adjusted divides what was filed before by 3. Found in 8 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 3, of 2021-06-04, filed 2021-07-22)
+- Source: SEC EDGAR companyfacts
+
+### Change: CSX CORP, Restatement, Capex, FY2008 to FY2009
+
+- CIK: 0000277948
+- What: Capex restatement
+- Boundary: FY2008
+- Was: Capex FY2007: 1773 (10-K filed 2010-02-19, as first filed)
+- Now: Capex FY2008 to FY2009 as last filed: FY2008 -1719, FY2009 -1426
+- Crosswalk: FY2008: 1740 first filed (10-K, 2010-02-19), -1719 last filed (10-K, 2011-02-18); FY2009: 1447 first filed (10-K, 2010-02-19), -1426 last filed (10-K, 2012-02-21). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

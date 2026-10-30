@@ -13,7 +13,7 @@
 
 Baker Hughes Co, as it files with the SEC (CIK 0001701605): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Baker Hughes Co, and how has it grown?** It sold $27.7 billion in FY2025, the 135th most of the 487 companies with a revenue for the year, and the 63rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 66.2% from FY2015 to FY2025, 5.2% a year.
+**How large is Baker Hughes Co, and how has it grown?** It sold $27.7 billion in FY2025, the 135th most of the 486 companies with a revenue for the year, and the 63rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 66.2% from FY2015 to FY2025, 5.2% a year.
 
 **Does Baker Hughes Co make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 9.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 4 of its 11 years in the book (FY2017, FY2020, FY2021, FY2022).
 
@@ -266,4 +266,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2017 under both: 17179000000 and 17179000000
+- Source: SEC EDGAR companyfacts
+
+### Change: Baker Hughes Co, Restatement, Operating income, FY2017
+
+- CIK: 0001701605
+- What: Operating income restatement
+- Boundary: FY2017
+- Was: Operating income FY2016: 457 (10-K filed 2019-02-19, itself restated)
+- Now: Operating income FY2017 as last filed: FY2017 -284
+- Crosswalk: FY2017: -107 first filed (10-K, 2018-02-23), -284 last filed (10-K, 2020-02-13). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 ROPER TECHNOLOGIES INC, as it files with the SEC (CIK 0000882835): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ROPER TECHNOLOGIES INC, and how has it grown?** It sold $7.9 billion in FY2025, the 338th most of the 487 companies with a revenue for the year, and the 139th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 120.6% from FY2015 to FY2025, 8.2% a year.
+**How large is ROPER TECHNOLOGIES INC, and how has it grown?** It sold $7.9 billion in FY2025, the 339th most of the 486 companies with a revenue for the year, and the 139th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 120.6% from FY2015 to FY2025, 8.2% a year.
 
 **Does ROPER TECHNOLOGIES INC make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 19.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -202,7 +202,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000882835/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 929 | 964 | 35.0 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000882835/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 3790 | 4608 | 818 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0000882835/Operating margin/FY2011/2 | FY2011 | Operating margin | observed | level | 20.7 | 25.8 | 5.0 | 0.03 | 0.19 | 2.4 | 2.4 | percent of revenue | 16.3 | 15.2 | 2 | lone | 201 |  |  |
-| 0000882835/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | bend | 27.3 | 31.1 | 3.8 | 1.01 | 0.06 | 1.8 | 17.6 | percent of revenue | 33.7 | 7.3 | 2 | lone | 201 | Revenue tag, FY2017 |  |
+| 0000882835/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | bend | 27.3 | 31.1 | 3.8 | 1.01 | 0.06 | 1.8 | 17.6 | percent of revenue | 33.6 | 7.3 | 2 | lone | 201 | Revenue tag, FY2017 |  |
 | 0000882835/Net margin/FY2022 | FY2022 | Net margin | observed | bend | 26.5 | 66.5 | 40.0 | 1.15 | -19.59 | 8.1 | 45.8 | percent of revenue | 12.9 | 8.5 | 1 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

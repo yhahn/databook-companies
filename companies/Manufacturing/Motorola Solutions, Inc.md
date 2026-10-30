@@ -13,7 +13,7 @@
 
 Motorola Solutions, Inc., as it files with the SEC (CIK 0000068505): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-02-18, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Motorola Solutions, Inc., and how has it grown?** It sold $11.7 billion in FY2025, the 286th most of the 487 companies with a revenue for the year, and the 111th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 105.1% from FY2015 to FY2025, 7.4% a year.
+**How large is Motorola Solutions, Inc., and how has it grown?** It sold $11.7 billion in FY2025, the 286th most of the 486 companies with a revenue for the year, and the 111th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 105.1% from FY2015 to FY2025, 7.4% a year.
 
 **Does Motorola Solutions, Inc. make money, and how much of what it sells does it keep?** It earned $2.2 billion in FY2025, 18.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 4 of its 19 years in the book (FY2007, FY2008, FY2009, FY2017).
 
@@ -416,6 +416,66 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2011-02-18 on, a share after a 1 for 7 split
 - Crosswalk: 2008-01-01 to 2008-12-31: EPS -1.87 as first filed, -13.11 after; EPS adjusted divides what was filed before by 0.1429. Found in 7 periods restated; a period's EPS and its shares; the company files no split fact of its own for it
+- Source: SEC EDGAR companyfacts
+
+### Change: Motorola Solutions, Inc., Restatement, Revenue, FY2008 to FY2010
+
+- CIK: 0000068505
+- What: Revenue restatement
+- Boundary: FY2008
+- Was: Revenue FY2007: 36622 (8-K filed 2010-05-05, as first filed)
+- Now: Revenue FY2008 to FY2010 as last filed: FY2008 8140, FY2009 6947, FY2010 7617
+- Crosswalk: FY2008: 30146 first filed (10-K, 2010-02-16), 8140 last filed (8-K, 2011-05-12); FY2009: 22044 first filed (10-K, 2010-02-16), 6947 last filed (10-K, 2012-02-15); FY2010: 19282 first filed (10-K, 2011-02-18), 7617 last filed (10-K, 2013-02-12). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Motorola Solutions, Inc., Restatement, Gross profit, FY2008 to FY2009
+
+- CIK: 0000068505
+- What: Gross profit restatement
+- Boundary: FY2008
+- Was: Gross profit FY2007: 9952 (8-K filed 2010-05-05, as first filed)
+- Now: Gross profit FY2008 to FY2009 as last filed: FY2008 4089, FY2009 3477
+- Crosswalk: FY2008: 8395 first filed (10-K, 2010-02-16), 4089 last filed (8-K, 2011-05-12); FY2009: 7057 first filed (10-K, 2010-02-16), 3477 last filed (10-K, 2012-02-15). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Motorola Solutions, Inc., Restatement, Operating income, FY2008 to FY2009
+
+- CIK: 0000068505
+- What: Operating income restatement
+- Boundary: FY2008
+- Was: Operating income FY2007: -553 (8-K filed 2010-05-05, as first filed)
+- Now: Operating income FY2008 to FY2009 as last filed: FY2008 -679, FY2009 567
+- Crosswalk: FY2008: -2391 first filed (10-K, 2010-02-16), -679 last filed (8-K, 2011-05-12); FY2009: -148 first filed (10-K, 2010-02-16), 567 last filed (10-K, 2012-02-15). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Motorola Solutions, Inc., Restatement, Operating cash flow, FY2008
+
+- CIK: 0000068505
+- What: Operating cash flow restatement
+- Boundary: FY2008
+- Was: Operating cash flow FY2007: 785 (8-K filed 2010-05-05, as first filed)
+- Now: Operating cash flow FY2008 as last filed: FY2008 884
+- Crosswalk: FY2008: 242 first filed (10-K, 2010-02-16), 884 last filed (8-K, 2011-05-12). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Motorola Solutions, Inc., Restatement, Operating cash flow, FY2011
+
+- CIK: 0000068505
+- What: Operating cash flow restatement
+- Boundary: FY2011
+- Was: Operating cash flow FY2010: 803 (10-K filed 2013-02-12, itself restated)
+- Now: Operating cash flow FY2011 as last filed: FY2011 366
+- Crosswalk: FY2011: 848 first filed (10-K, 2012-02-15), 366 last filed (8-K, 2014-08-07). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Motorola Solutions, Inc., Restatement, Capex, FY2009
+
+- CIK: 0000068505
+- What: Capex restatement
+- Boundary: FY2009
+- Was: Capex FY2008: -257 (8-K filed 2011-05-12, itself restated)
+- Now: Capex FY2009 as last filed: FY2009 -136
+- Crosswalk: FY2009: -275 first filed (10-K, 2010-02-16), -136 last filed (10-K, 2012-02-15). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2009. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: Motorola Solutions, Inc., Product members, 2025-10-30

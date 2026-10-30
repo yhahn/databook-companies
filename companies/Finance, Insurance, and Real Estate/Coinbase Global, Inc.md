@@ -13,9 +13,9 @@
 
 Coinbase Global, Inc., as it files with the SEC (CIK 0001679788): its fiscal years and quarters from its XBRL filings, FY2019 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Coinbase Global, Inc., and how has it grown?** It sold $7.2 billion in FY2025, the 349th most of the 487 companies with a revenue for the year, and the 57th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 1245.5% from FY2019 to FY2025, 54.2% a year.
+**How large is Coinbase Global, Inc., and how has it grown?** It sold $7.2 billion in FY2025, the 350th most of the 486 companies with a revenue for the year, and the 57th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 1245.5% from FY2019 to FY2025, 54.2% a year.
 
-**Does Coinbase Global, Inc. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 17.6% of what it sold; the median company of its sector kept 19.2%. It lost money in 2 of its 7 years in the book (FY2019, FY2022).
+**Does Coinbase Global, Inc. make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 17.6% of what it sold; the median company of its sector kept 18.9%. It lost money in 2 of its 7 years in the book (FY2019, FY2022).
 
 **Where does Coinbase Global, Inc.'s cash go?** From FY2019 to FY2025 its operations brought in $8.9 billion; it spent 0.6% of that on plant and equipment, and 8.9% on buying back its own shares.
 
@@ -185,3 +185,15 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2019 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2019 | FY2023 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2023 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
+
+## Changes
+
+### Change: Coinbase Global, Inc., Restatement, Operating cash flow, FY2020 to FY2021
+
+- CIK: 0001679788
+- What: Operating cash flow restatement
+- Boundary: FY2020
+- Was: Operating cash flow FY2019: -80.594 (10-K filed 2022-02-25, as first filed)
+- Now: Operating cash flow FY2020 to FY2021 as last filed: FY2020 293.548, FY2021 4038.172
+- Crosswalk: FY2020: 3004.07 first filed (10-K, 2022-02-25), 293.548 last filed (10-K, 2023-02-21); FY2021: 10730.031 first filed (10-K, 2022-02-25), 4038.172 last filed (10-K, 2024-02-15). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2020. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts

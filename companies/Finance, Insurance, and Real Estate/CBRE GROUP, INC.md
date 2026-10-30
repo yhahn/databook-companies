@@ -13,9 +13,9 @@
 
 CBRE GROUP, INC., as it files with the SEC (CIK 0001138118): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CBRE GROUP, INC., and how has it grown?** It sold $39.9 billion in FY2025, the 98th most of the 487 companies with a revenue for the year, and the 21st of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 267.5% from FY2015 to FY2025, 13.9% a year.
+**How large is CBRE GROUP, INC., and how has it grown?** It sold $39.9 billion in FY2025, the 98th most of the 486 companies with a revenue for the year, and the 21st of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 267.5% from FY2015 to FY2025, 13.9% a year.
 
-**Does CBRE GROUP, INC. make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 2.9% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 18 years in the book (FY2008).
+**Does CBRE GROUP, INC. make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 2.9% of what it sold; the median company of its sector kept 18.9%. It lost money in 1 of its 18 years in the book (FY2008).
 
 **Where does CBRE GROUP, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $13.3 billion; it spent 19.6% of that on plant and equipment, and 36.4% on buying back its own shares.
 
@@ -192,7 +192,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001138118/Net margin/FY2012 | FY2012 | Net margin | observed | bend | 8.4 | 5.1 | -3.4 | 7.45 | -0.11 | 14.8 | 2.3 | percent of revenue | 15.5 | 7.6 | 1 | lone | 94 |  |  |
 | 0001138118/Operating margin/FY2012 | FY2012 | Operating margin | observed | bend | 12.6 | 9.1 | -3.6 | 7.26 | -0.37 | 15.9 | 0.7 | percent of revenue | 11.9 | 8.1 | 1 | lone | 94 |  |  |
 | 0001138118/Operating margin/FY2016/2 | FY2016 | Operating margin | observed | level and bend | 8.0 | 5.5 | -2.4 | -0.37 | -0.15 | 0.7 | 1.5 | percent of revenue | 8.8 | 6.8 | 2 | lone | 94 | Revenue tag, FY2017 |  |
-| 0001138118/Revenue growth/FY2017 | FY2017 | Revenue growth | observed | level and bend | 41.9 | 8.2 | -33.8 | 6.77 | 0.41 | 30.0 | 11.5 | percent a year | 14.0 | 7.3 | 1 | lone | 94 | Revenue tag, FY2017 |  |
+| 0001138118/Revenue growth/FY2017 | FY2017 | Revenue growth | observed | level and bend | 41.9 | 8.2 | -33.8 | 6.77 | 0.41 | 30.0 | 11.5 | percent a year | 13.9 | 7.3 | 1 | lone | 94 | Revenue tag, FY2017 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

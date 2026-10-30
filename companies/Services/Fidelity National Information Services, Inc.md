@@ -13,7 +13,7 @@
 
 Fidelity National Information Services, Inc., as it files with the SEC (CIK 0001136893): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Fidelity National Information Services, Inc., and how has it grown?** It sold $10.7 billion in FY2025, the 295th most of the 487 companies with a revenue for the year, and the 38th of 75 in [Services](../Services.md). Its sales rose 70.6% from FY2015 to FY2025, 5.5% a year.
+**How large is Fidelity National Information Services, Inc., and how has it grown?** It sold $10.7 billion in FY2025, the 295th most of the 486 companies with a revenue for the year, and the 38th of 75 in [Services](../Services.md). Its sales rose 70.6% from FY2015 to FY2025, 5.5% a year.
 
 **Does Fidelity National Information Services, Inc. make money, and how much of what it sells does it keep?** It earned $382 million in FY2025, 3.6% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 11 years in the book (FY2022, FY2023).
 
@@ -150,7 +150,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001136893/Operating cash flow tag/FY2024 | FY2024 | Operating cash flow tag | instrument | | 4335 | 2175 | -2160 | | | | | millions | | | | | | Operating cash flow tag, FY2024 |  |
-| 0001136893/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | level and bend | 30.5 | 51.0 | 20.6 | 2.71 | -7.32 | 7.4 | 13.1 | percent of revenue | 17.7 | 16.0 | 1 | lone | 74 |  |  |
+| 0001136893/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | level and bend | 30.5 | 51.0 | 20.6 | 2.71 | -7.32 | 7.4 | 13.1 | percent of revenue | 17.8 | 16.0 | 1 | lone | 74 |  |  |
 | 0001136893/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | 3.0 | -147.0 | -150.0 | -1.34 | 60.98 | 7.9 | 82.9 | percent of revenue | 24.4 | 11.3 | 1 | shared | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -289,4 +289,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Fidelity National Information Services, Inc., Restatement, Operating income, FY2022
+
+- CIK: 0001136893
+- What: Operating income restatement
+- Boundary: FY2022
+- Was: Operating income FY2021: 1040 (10-K filed 2024-02-26, itself restated)
+- Now: Operating income FY2022 as last filed: FY2022 1176
+- Crosswalk: FY2022: -16119 first filed (10-K, 2023-02-27), 1176 last filed (10-K, 2025-02-13). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2022. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

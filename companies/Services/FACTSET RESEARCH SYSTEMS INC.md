@@ -13,7 +13,7 @@
 
 FACTSET RESEARCH SYSTEMS INC, as it files with the SEC (CIK 0001013237): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FACTSET RESEARCH SYSTEMS INC, and how has it grown?** It sold $2.3 billion in FY2025, the 470th most of the 487 companies with a revenue for the year, and the 72nd of 75 in [Services](../Services.md). Its sales rose 130.6% from FY2015 to FY2025, 8.7% a year.
+**How large is FACTSET RESEARCH SYSTEMS INC, and how has it grown?** It sold $2.3 billion in FY2025, the 471st most of the 486 companies with a revenue for the year, and the 72nd of 75 in [Services](../Services.md). Its sales rose 130.6% from FY2015 to FY2025, 8.7% a year.
 
 **Does FACTSET RESEARCH SYSTEMS INC make money, and how much of what it sells does it keep?** It earned $597 million in FY2025, 25.7% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 17 years in the book.
 

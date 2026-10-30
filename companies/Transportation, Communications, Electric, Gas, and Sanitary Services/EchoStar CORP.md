@@ -13,7 +13,7 @@
 
 EchoStar CORP, as it files with the SEC (CIK 0001415404): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is EchoStar CORP, and how has it grown?** It sold $15.0 billion in FY2025, the 241st most of the 487 companies with a revenue for the year, and the 35th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 711.6% from FY2015 to FY2025, 23.3% a year.
+**How large is EchoStar CORP, and how has it grown?** It sold $15.0 billion in FY2025, the 241st most of the 486 companies with a revenue for the year, and the 35th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 711.6% from FY2015 to FY2025, 23.3% a year.
 
 **Does EchoStar CORP make money, and how much of what it sells does it keep?** It earned −$14.5 billion in FY2025, −96.6% of what it sold; the median company of its sector kept 12.9%. It lost money in 7 of its 18 years in the book (FY2008, FY2018, FY2019 and 4 more).
 
@@ -196,9 +196,9 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001415404/Net income tag/FY2024 | FY2024 | Net income tag | instrument | | -1635 | -120 | 1515 | | | | | millions | | | | | | Net income tag, FY2024 |  |
 | 0001415404/Revenue growth/FY2015/2 | FY2015 | Revenue growth | observed | bend | 10.4 | 29.8 | 19.4 | 0.65 | 10.06 | 26.7 | 592.8 | percent a year | 6.2 | 6.1 | 2 | lone | 61 |  |  |
 | 0001415404/Operating cash flow over revenue/FY2015 | FY2015 | Operating cash flow over revenue | observed | level and bend | 21.5 | 51.0 | 29.5 | 2.23 | -4.68 | 7.3 | 8.7 | percent of revenue | 90.0 | 27.8 | 1 | lone | 61 | Operating cash flow tag, FY2016 |  |
-| 0001415404/Operating cash flow growth/FY2021 | FY2021 | Operating cash flow growth | observed | bend | -23.4 | 537.3 | 560.8 | -7.74 | -246.96 | 65.4 | 591.6 | percent a year | 12.7 | 7.7 | 1 | lone | 61 |  |  |
-| 0001415404/Net margin/FY2022 | FY2022 | Net margin | observed | bend | 10.2 | 24.9 | 14.7 | 1.10 | -32.18 | 31.5 | 65.8 | percent of revenue | 8.6 | 7.0 | 1 | lone | 61 |  |  |
-| 0001415404/Operating margin/FY2022 | FY2022 | Operating margin | observed | bend | 13.9 | 31.2 | 17.2 | 1.51 | -39.06 | 19.0 | 81.6 | percent of revenue | 15.6 | 8.0 | 1 | lone | 61 |  |  |
+| 0001415404/Operating cash flow growth/FY2021 | FY2021 | Operating cash flow growth | observed | bend | -23.4 | 537.3 | 560.8 | -7.74 | -246.96 | 65.4 | 591.6 | percent a year | 12.7 | 7.7 | 1 | lone | 61 | Operating cash flow restatement, FY2021 |  |
+| 0001415404/Net margin/FY2022 | FY2022 | Net margin | observed | bend | 10.2 | 24.9 | 14.7 | 1.10 | -32.18 | 31.5 | 65.8 | percent of revenue | 8.6 | 7.0 | 1 | lone | 61 | Revenue restatement, FY2021; Net income restatement, FY2021 |  |
+| 0001415404/Operating margin/FY2022 | FY2022 | Operating margin | observed | bend | 13.9 | 31.2 | 17.2 | 1.51 | -39.06 | 19.0 | 81.6 | percent of revenue | 15.6 | 8.0 | 1 | lone | 61 | Revenue restatement, FY2021; Operating income restatement, FY2021 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -437,4 +437,64 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2016 under both: 803343000 and 803343000
+- Source: SEC EDGAR companyfacts
+
+### Change: EchoStar CORP, Restatement, Revenue, FY2021 to FY2022
+
+- CIK: 0001415404
+- What: Revenue restatement
+- Boundary: FY2021
+- Was: Revenue FY2020: 1887.907 (10-K filed 2023-02-23, as first filed)
+- Now: Revenue FY2021 to FY2022 as last filed: FY2021 19818.678, FY2022 18634.246
+- Crosswalk: FY2021: 1985.72 first filed (10-K, 2022-02-24), 19818.678 last filed (10-K, 2024-02-29); FY2022: 1998.093 first filed (10-K, 2023-02-23), 18634.246 last filed (10-K, 2025-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2021. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EchoStar CORP, Restatement, Operating income, FY2017 to FY2018
+
+- CIK: 0001415404
+- What: Operating income restatement
+- Boundary: FY2017
+- Was: Operating income FY2016: 296.163 (10-K filed 2019-02-21, itself restated)
+- Now: Operating income FY2017 to FY2018 as last filed: FY2017 30.562, FY2018 36.137
+- Crosswalk: FY2017: 196.307 first filed (10-K, 2018-02-22), 30.562 last filed (10-K, 2020-02-20); FY2018: 183.243 first filed (10-K, 2019-02-21), 36.137 last filed (10-K, 2021-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EchoStar CORP, Restatement, Operating income, FY2021 to FY2022
+
+- CIK: 0001415404
+- What: Operating income restatement
+- Boundary: FY2021
+- Was: Operating income FY2020: 112.473 (10-K filed 2023-02-23, as first filed)
+- Now: Operating income FY2021 to FY2022 as last filed: FY2021 3422.404, FY2022 2232.838
+- Crosswalk: FY2021: 217.01 first filed (10-K, 2022-02-24), 3422.404 last filed (10-K, 2024-02-29); FY2022: 189.644 first filed (10-K, 2023-02-23), 2232.838 last filed (10-K, 2025-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2021. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EchoStar CORP, Restatement, Net income, FY2021 to FY2022
+
+- CIK: 0001415404
+- What: Net income restatement
+- Boundary: FY2021
+- Was: Net income FY2020: -51.904 (10-K filed 2023-02-23, as first filed)
+- Now: Net income FY2021 to FY2022 as last filed: FY2021 2521.435, FY2022 2536.892
+- Crosswalk: FY2021: 62.721 first filed (10-K, 2022-02-24), 2521.435 last filed (10-K, 2024-02-29); FY2022: 166.548 first filed (10-K, 2023-02-23), 2536.892 last filed (10-K, 2025-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2021. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EchoStar CORP, Restatement, Operating cash flow, FY2021 to FY2022
+
+- CIK: 0001415404
+- What: Operating cash flow restatement
+- Boundary: FY2021
+- Was: Operating cash flow FY2020: 534.388 (10-K filed 2023-02-23, as first filed)
+- Now: Operating cash flow FY2021 to FY2022 as last filed: FY2021 4655.373, FY2022 3621.19
+- Crosswalk: FY2021: 632.226 first filed (10-K, 2022-02-24), 4655.373 last filed (10-K, 2024-02-29); FY2022: 529.605 first filed (10-K, 2023-02-23), 3621.19 last filed (10-K, 2025-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2021. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EchoStar CORP, Restatement, Capex, FY2021 to FY2022
+
+- CIK: 0001415404
+- What: Capex restatement
+- Boundary: FY2021
+- Was: Capex FY2020: -408.798 (10-K filed 2023-02-23, as first filed)
+- Now: Capex FY2021 to FY2022 as last filed: FY2021 -1619.312, FY2022 -3050.472
+- Crosswalk: FY2021: -438.43 first filed (10-K, 2022-02-24), -1619.312 last filed (10-K, 2024-02-29); FY2022: -325.891 first filed (10-K, 2023-02-23), -3050.472 last filed (10-K, 2025-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2021. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

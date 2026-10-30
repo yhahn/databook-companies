@@ -13,7 +13,7 @@
 
 MICROCHIP TECHNOLOGY INC, as it files with the SEC (CIK 0000827054): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-11-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MICROCHIP TECHNOLOGY INC, and how has it grown?** It sold $4.4 billion in FY2025, the 422nd most of the 487 companies with a revenue for the year, and the 175th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 105% from FY2015 to FY2025, 7.4% a year.
+**How large is MICROCHIP TECHNOLOGY INC, and how has it grown?** It sold $4.4 billion in FY2025, the 423rd most of the 486 companies with a revenue for the year, and the 175th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 105% from FY2015 to FY2025, 7.4% a year.
 
 **Does MICROCHIP TECHNOLOGY INC make money, and how much of what it sells does it keep?** It earned −$1 million in FY2025, 0% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2025).
 
@@ -465,4 +465,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2021-11-04 on, a share after a 2 for 1 split
 - Crosswalk: 2020-04-01 to 2020-09-30: EPS 0.75 as first filed, 0.38 after; EPS adjusted divides what was filed before by 2. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 2, of 2021-08-24, filed 2021-11-04)
+- Source: SEC EDGAR companyfacts
+
+### Change: MICROCHIP TECHNOLOGY INC, Restatement, Capex, FY2012
+
+- CIK: 0000827054
+- What: Capex restatement
+- Boundary: FY2012
+- Was: Capex FY2011: -16.567 (10-K filed 2013-05-30, itself restated)
+- Now: Capex FY2012 as last filed: FY2012 -5.818
+- Crosswalk: FY2012: -44.398 first filed (10-K, 2012-05-30), -5.818 last filed (10-K, 2014-05-30). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 NETFLIX INC, as it files with the SEC (CIK 0001065280): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2015-07-17 and 2026-01-23, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NETFLIX INC, and how has it grown?** It sold $45.2 billion in FY2025, the 87th most of the 487 companies with a revenue for the year, and the 9th of 75 in [Services](../Services.md). Its sales rose 566.5% from FY2015 to FY2025, 20.9% a year.
+**How large is NETFLIX INC, and how has it grown?** It sold $45.2 billion in FY2025, the 87th most of the 486 companies with a revenue for the year, and the 9th of 75 in [Services](../Services.md). Its sales rose 566.5% from FY2015 to FY2025, 20.9% a year.
 
 **Does NETFLIX INC make money, and how much of what it sells does it keep?** It earned $11.0 billion in FY2025, 24.3% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 19 years in the book.
 
@@ -203,8 +203,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001065280/Operating margin/FY2012 | FY2012 | Operating margin | observed | level and bend | 13.1 | 0.0 | -13.1 | 1.25 | 2.05 | 2.5 | 5.3 | percent of revenue | 32.9 | 24.8 | 1 | lone | 74 |  |  |
-| 0001065280/Net margin/FY2016 | FY2016 | Net margin | observed | bend | 2.5 | 2.4 | -0.1 | -0.57 | 2.34 | 4.2 | 3.5 | percent of revenue | 35.7 | 29.8 | 1 | lone | 74 |  |  |
-| 0001065280/Operating cash flow over revenue/FY2020 | FY2020 | Operating cash flow over revenue | observed | level and bend | -21.4 | 4.0 | 25.4 | -3.75 | 3.76 | 7.5 | 11.6 | percent of revenue | 91.1 | 26.3 | 1 | lone | 74 |  |  |
+| 0001065280/Net margin/FY2016 | FY2016 | Net margin | observed | bend | 2.5 | 2.4 | -0.1 | -0.57 | 2.34 | 4.2 | 3.5 | percent of revenue | 35.8 | 29.8 | 1 | lone | 74 |  |  |
+| 0001065280/Operating cash flow over revenue/FY2020 | FY2020 | Operating cash flow over revenue | observed | level and bend | -21.4 | 4.0 | 25.4 | -3.75 | 3.76 | 7.5 | 11.6 | percent of revenue | 91.1 | 26.4 | 1 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

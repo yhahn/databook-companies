@@ -13,7 +13,7 @@
 
 Booking Holdings Inc., as it files with the SEC (CIK 0001075531): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2026-04-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Booking Holdings Inc., and how has it grown?** It sold $26.9 billion in FY2025, the 138th most of the 487 companies with a revenue for the year, and the 15th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 191.8% from FY2015 to FY2025, 11.3% a year.
+**How large is Booking Holdings Inc., and how has it grown?** It sold $26.9 billion in FY2025, the 138th most of the 486 companies with a revenue for the year, and the 15th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 191.8% from FY2015 to FY2025, 11.3% a year.
 
 **Does Booking Holdings Inc. make money, and how much of what it sells does it keep?** It earned $5.4 billion in FY2025, 20.1% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 13 years in the book.
 
@@ -201,12 +201,12 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001075531/Net income tag/FY2011 | FY2011 | Net income tag | instrument | | 528 | 1059 | 532 | | | | | millions | | | | | | Net income tag, FY2011 |  |
 | 0001075531/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 777 | 1342 | 565 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
-| 0001075531/Net income gap/FY2016 | FY2016 | Net income gap | instrument | | 2551 |  |  | | | | | millions | | | | | | none |  |
+| 0001075531/Net income gap/FY2016 | FY2016 | Net income gap | instrument | | 2551 |  |  | | | | | millions | | | | | | Net income gap, FY2016 |  |
 | 0001075531/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 3984 | 4662 | 678 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0001075531/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 10743 | 12681 | 1938 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001075531/Net income tag/FY2021 | FY2021 | Net income tag | instrument | | 2551 | 1165 | -1386 | | | | | millions | | | | | | Net income tag, FY2021 |  |
 | 0001075531/Operating margin/FY2012/2 | FY2012 | Operating margin | observed | bend | 31.6 | 34.6 | 3.0 | 5.56 | 0.01 | 1.3 | 6.6 | percent of revenue | 9.0 | 7.3 | 2 | lone | 61 |  |  |
-| 0001075531/Operating cash flow over revenue/FY2013/2 | FY2013 | Operating cash flow over revenue | observed | bend | 34.4 | 33.5 | -0.9 | 4.34 | -0.25 | 1.3 | 19.8 | percent of revenue | 26.6 | 8.7 | 2 | lone | 61 |  |  |
+| 0001075531/Operating cash flow over revenue/FY2013/2 | FY2013 | Operating cash flow over revenue | observed | bend | 34.4 | 33.5 | -0.9 | 4.34 | -0.25 | 1.3 | 19.8 | percent of revenue | 26.7 | 8.7 | 2 | lone | 61 |  |  |
 | 0001075531/Revenue growth/FY2017/2 | FY2017 | Revenue growth | observed | bend | 15.9 | 8.2 | -7.8 | -2.49 | 2.08 | 16.1 | 69.0 | percent a year | 6.5 | 5.7 | 2 | lone | 61 | Revenue tag, FY2017 |  |
 | 0001075531/Operating cash flow growth/FY2017/2 | FY2017 | Operating cash flow growth | observed | bend | 13.1 | 351.2 | 338.2 | -7.32 | 4.22 | 24.2 | 2242.2 | percent a year | 6.1 | 6.0 | 2 | lone | 61 | Operating cash flow tag, FY2017 |  |
 | 0001075531/Operating margin/FY2020 | FY2020 | Operating margin | observed | level and bend | 34.7 | 5.8 | -28.9 | 0.01 | 6.71 | 6.6 | 21.7 | percent of revenue | 13.3 | 9.4 | 1 | shared | 61 |  |  |
@@ -460,4 +460,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2026-04-28 on, a share after a 25 for 1 split
 - Crosswalk: 2025-01-01 to 2025-03-31: EPS 10.07 as first filed, 0.4 after; EPS adjusted divides what was filed before by 25. Found in 3 periods restated; a period's EPS and its shares; the company files no split fact of its own for it
+- Source: SEC EDGAR companyfacts
+
+### Change: Booking Holdings Inc., Gap, Net income, FY2016 to FY2020
+
+- CIK: 0001075531
+- What: Net income gap
+- Boundary: FY2016
+- Was: Net income FY2015: 2551.36
+- Now: no figure for FY2016 to FY2020; FY2021: 1165
+- Crosswalk: FY2016 to FY2020: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
 - Source: SEC EDGAR companyfacts

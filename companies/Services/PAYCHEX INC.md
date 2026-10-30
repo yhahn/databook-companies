@@ -13,7 +13,7 @@
 
 PAYCHEX INC, as it files with the SEC (CIK 0000723531): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PAYCHEX INC, and how has it grown?** It sold $5.4 billion in FY2025, the 393rd most of the 487 companies with a revenue for the year, and the 50th of 75 in [Services](../Services.md). Its sales rose 97.5% from FY2015 to FY2025, 7% a year.
+**How large is PAYCHEX INC, and how has it grown?** It sold $5.4 billion in FY2025, the 394th most of the 486 companies with a revenue for the year, and the 50th of 75 in [Services](../Services.md). Its sales rose 97.5% from FY2015 to FY2025, 7% a year.
 
 **Does PAYCHEX INC make money, and how much of what it sells does it keep?** It earned $1.7 billion in FY2025, 30.6% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 13 years in the book.
 
@@ -194,7 +194,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000723531/Operating cash flow tag/FY2015 | FY2015 | Operating cash flow tag | instrument | | 881 | 895 | 14.3 | | | | | millions | | | | | | Operating cash flow tag, FY2015 |  |
-| 0000723531/Net income gap/FY2016 | FY2016 | Net income gap | instrument | | 675 |  |  | | | | | millions | | | | | | none |  |
+| 0000723531/Net income gap/FY2016 | FY2016 | Net income gap | instrument | | 675 |  |  | | | | | millions | | | | | | Net income gap, FY2016 |  |
 | 0000723531/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 1018 | 960 | -57.8 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0000723531/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 3153 | 3314 | 161 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0000723531/Net income tag/FY2022 | FY2022 | Net income tag | instrument | | 675 | 1393 | 718 | | | | | millions | | | | | | Net income tag, FY2022 |  |
@@ -373,4 +373,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 960400000 and 960400000
+- Source: SEC EDGAR companyfacts
+
+### Change: PAYCHEX INC, Gap, Net income, FY2016 to FY2021
+
+- CIK: 0000723531
+- What: Net income gap
+- Boundary: FY2016
+- Was: Net income FY2015: 674.9
+- Now: no figure for FY2016 to FY2021; FY2022: 1392.8
+- Crosswalk: FY2016: no annual figure under any tag read; periods of 3, 6, 9 months are filed; FY2017 to FY2021: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
 - Source: SEC EDGAR companyfacts

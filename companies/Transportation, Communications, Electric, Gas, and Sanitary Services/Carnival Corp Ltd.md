@@ -13,7 +13,7 @@
 
 Carnival Corp Ltd., as it files with the SEC (CIK 0000815097): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Carnival Corp Ltd., and how has it grown?** It sold $26.6 billion in FY2025, the 141st most of the 487 companies with a revenue for the year, and the 16th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 69.4% from FY2015 to FY2025, 5.4% a year.
+**How large is Carnival Corp Ltd., and how has it grown?** It sold $26.6 billion in FY2025, the 141st most of the 486 companies with a revenue for the year, and the 16th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 69.4% from FY2015 to FY2025, 5.4% a year.
 
 **Does Carnival Corp Ltd. make money, and how much of what it sells does it keep?** It earned $2.8 billion in FY2025, 10.4% of what it sold; the median company of its sector kept 12.9%. It lost money in 4 of its 19 years in the book (FY2020, FY2021, FY2022, FY2023).
 
@@ -195,7 +195,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000815097/Revenue gap/FY2010 | FY2010 | Revenue gap | instrument | | 13157 |  |  | | | | | millions | | | | | | none |  |
+| 0000815097/Revenue gap/FY2010 | FY2010 | Revenue gap | instrument | | 13157 |  |  | | | | | millions | | | | | | Revenue gap, FY2010 |  |
 | 0000815097/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 17510 | 18881 | 1371 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0000815097/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | -52.9 | 407.7 | 460.6 | -12.35 | -165.56 | 54.7 | 330.3 | percent a year | 13.6 | 7.5 | 1 | lone | 61 |  |  |
 
@@ -410,6 +410,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 18881000000 and 18881000000
+- Source: SEC EDGAR companyfacts
+
+### Change: Carnival Corp Ltd., Gap, Revenue, FY2010 to FY2013
+
+- CIK: 0000815097
+- What: Revenue gap
+- Boundary: FY2010
+- Was: Revenue FY2009: 13157
+- Now: no figure for FY2010 to FY2013; FY2014: 15884
+- Crosswalk: FY2010: no annual figure under any tag read; periods of 3, 6 months are filed; FY2011 to FY2013: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts
 
 ### Change: Carnival Corp Ltd., Segment members, 2026-03-27

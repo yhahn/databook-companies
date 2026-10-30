@@ -13,7 +13,7 @@
 
 METTLER TOLEDO INTERNATIONAL INC/, as it files with the SEC (CIK 0001037646): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is METTLER TOLEDO INTERNATIONAL INC/, and how has it grown?** It sold $4.0 billion in FY2025, the 436th most of the 487 companies with a revenue for the year, and the 184th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 68.1% from FY2015 to FY2025, 5.3% a year.
+**How large is METTLER TOLEDO INTERNATIONAL INC/, and how has it grown?** It sold $4.0 billion in FY2025, the 437th most of the 486 companies with a revenue for the year, and the 184th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 68.1% from FY2015 to FY2025, 5.3% a year.
 
 **Does METTLER TOLEDO INTERNATIONAL INC/ make money, and how much of what it sells does it keep?** It earned $869 million in FY2025, 21.6% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 

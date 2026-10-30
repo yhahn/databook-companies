@@ -13,7 +13,7 @@
 
 NXP Semiconductors N.V., as it files with the SEC (CIK 0001413447): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NXP Semiconductors N.V., and how has it grown?** It sold $12.3 billion in FY2025, the 269th most of the 487 companies with a revenue for the year, and the 104th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 101.1% from FY2015 to FY2025, 7.2% a year.
+**How large is NXP Semiconductors N.V., and how has it grown?** It sold $12.3 billion in FY2025, the 269th most of the 486 companies with a revenue for the year, and the 104th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 101.1% from FY2015 to FY2025, 7.2% a year.
 
 **Does NXP Semiconductors N.V. make money, and how much of what it sells does it keep?** It earned $2.0 billion in FY2025, 16.5% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 17 years in the book (FY2009, FY2010, FY2012).
 
@@ -205,7 +205,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001413447/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 1330 | 2303 | 973 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0001413447/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 6101 | 9498 | 3397 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
 | 0001413447/Operating cash flow over revenue/FY2019 | FY2019 | Operating cash flow over revenue | observed | level and bend | 40.4 | 29.1 | -11.2 | 5.14 | -0.93 | 16.1 | 4.3 | percent of revenue | 14.2 | 12.5 | 1 | lone | 201 |  |  |
-| 0001413447/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 3.4 | 25.5 | 22.1 | -1.26 | -8.67 | 36.3 | 13.1 | percent a year | 16.1 | 6.0 | 2 | lone | 201 |  |  |
+| 0001413447/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 3.4 | 25.5 | 22.1 | -1.26 | -8.67 | 36.3 | 13.1 | percent a year | 16.3 | 6.0 | 2 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

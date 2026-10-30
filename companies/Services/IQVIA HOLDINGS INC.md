@@ -13,7 +13,7 @@
 
 IQVIA HOLDINGS INC., as it files with the SEC (CIK 0001478242): its fiscal years and quarters from its XBRL filings, FY2011 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is IQVIA HOLDINGS INC., and how has it grown?** It sold $16.3 billion in FY2025, the 222nd most of the 487 companies with a revenue for the year, and the 26th of 75 in [Services](../Services.md). Its sales rose 184.3% from FY2015 to FY2025, 11% a year.
+**How large is IQVIA HOLDINGS INC., and how has it grown?** It sold $16.3 billion in FY2025, the 222nd most of the 486 companies with a revenue for the year, and the 26th of 75 in [Services](../Services.md). Its sales rose 184.3% from FY2015 to FY2025, 11% a year.
 
 **Does IQVIA HOLDINGS INC. make money, and how much of what it sells does it keep?** It earned $1.4 billion in FY2025, 8.3% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 15 years in the book.
 
@@ -172,7 +172,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001478242/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 860 | 970 | 110 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0001478242/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 6878 | 9702 | 2824 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0001478242/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 15.5 | 3.4 | -12.1 | 0.58 | 0.49 | 24.4 | 2.7 | percent a year | 17.7 | 5.4 | 2 | lone | 74 |  |  |
+| 0001478242/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 15.5 | 3.4 | -12.1 | 0.58 | 0.49 | 24.4 | 2.7 | percent a year | 17.6 | 5.4 | 2 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

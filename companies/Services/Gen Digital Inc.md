@@ -13,7 +13,7 @@
 
 Gen Digital Inc., as it files with the SEC (CIK 0000849399): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Gen Digital Inc., and how has it grown?** It sold $3.9 billion in FY2025, the 441st most of the 487 companies with a revenue for the year, and the 62nd of 75 in [Services](../Services.md). Its sales fell 0.5% from FY2015 to FY2025, −0.1% a year.
+**How large is Gen Digital Inc., and how has it grown?** It sold $3.9 billion in FY2025, the 442nd most of the 486 companies with a revenue for the year, and the 62nd of 75 in [Services](../Services.md). Its sales fell 0.5% from FY2015 to FY2025, −0.1% a year.
 
 **Does Gen Digital Inc. make money, and how much of what it sells does it keep?** It earned $643 million in FY2025, 16.3% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 19 years in the book (FY2009, FY2017).
 
@@ -421,6 +421,26 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2010 under both: 714000000 and 714000000
+- Source: SEC EDGAR companyfacts
+
+### Change: Gen Digital Inc., Restatement, Operating income, FY2014 to FY2015
+
+- CIK: 0000849399
+- What: Operating income restatement
+- Boundary: FY2014
+- Was: Operating income FY2013: 1106 (10-K filed 2015-05-22, itself restated)
+- Now: Operating income FY2014 to FY2015 as last filed: FY2014 144, FY2015 154
+- Crosswalk: FY2014: 1183 first filed (10-K, 2014-05-16), 144 last filed (10-K, 2016-05-20); FY2015: 1149 first filed (10-K, 2015-05-22), 154 last filed (10-K, 2017-05-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2014. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Gen Digital Inc., Restatement, Operating income, FY2018 to FY2019
+
+- CIK: 0000849399
+- What: Operating income restatement
+- Boundary: FY2018
+- Was: Operating income FY2017: -100 (10-K filed 2019-05-24, as first filed)
+- Now: Operating income FY2018 to FY2019 as last filed: FY2018 -154, FY2019 158
+- Crosswalk: FY2018: 49 first filed (10-K, 2018-10-26), -154 last filed (10-K, 2020-05-28); FY2019: 380 first filed (10-K, 2019-05-24), 158 last filed (10-K, 2021-05-21). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2018. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: Gen Digital Inc., Product members, 2025-08-13

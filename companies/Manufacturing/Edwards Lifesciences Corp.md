@@ -13,7 +13,7 @@
 
 Edwards Lifesciences Corp, as it files with the SEC (CIK 0001099800): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2016-02-19 and 2020-07-27, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Edwards Lifesciences Corp, and how has it grown?** It sold $6.1 billion in FY2025, the 377th most of the 487 companies with a revenue for the year, and the 156th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 143.3% from FY2015 to FY2025, 9.3% a year.
+**How large is Edwards Lifesciences Corp, and how has it grown?** It sold $6.1 billion in FY2025, the 378th most of the 486 companies with a revenue for the year, and the 156th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 143.3% from FY2015 to FY2025, 9.3% a year.
 
 **Does Edwards Lifesciences Corp make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 17.7% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 8 years in the book.
 
@@ -194,7 +194,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001099800/Net income gap/FY2011 | FY2011 | Net income gap | instrument | | 218 |  |  | | | | | millions | | | | | | none |  |
+| 0001099800/Net income gap/FY2011 | FY2011 | Net income gap | instrument | | 218 |  |  | | | | | millions | | | | | | Net income gap, FY2011 |  |
 | 0001099800/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 251 | 308 | 56.8 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
 | 0001099800/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 704 | 1001 | 296 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0001099800/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 2964 | 3435 | 472 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
@@ -419,4 +419,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2020-07-27 on, a share after a 3 for 1 split
 - Crosswalk: 2019-01-01 to 2019-06-30: EPS 2.32 as first filed, 0.77 after; EPS adjusted divides what was filed before by 3. Found in 9 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 3, of 2020-05-07, filed 2020-07-27)
+- Source: SEC EDGAR companyfacts
+
+### Change: Edwards Lifesciences Corp, Gap, Net income, FY2011 to FY2020
+
+- CIK: 0001099800
+- What: Net income gap
+- Boundary: FY2011
+- Was: Net income FY2010: 218
+- Now: no figure for FY2011 to FY2020; FY2021: 1503.1
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 3, 6 months are filed; FY2012 to FY2020: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
 - Source: SEC EDGAR companyfacts

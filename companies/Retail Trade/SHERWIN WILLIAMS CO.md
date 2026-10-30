@@ -13,7 +13,7 @@
 
 SHERWIN WILLIAMS CO, as it files with the SEC (CIK 0000089800): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-04-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is SHERWIN WILLIAMS CO, and how has it grown?** It sold $23.6 billion in FY2025, the 162nd most of the 487 companies with a revenue for the year, and the 14th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 107.9% from FY2015 to FY2025, 7.6% a year.
+**How large is SHERWIN WILLIAMS CO, and how has it grown?** It sold $23.6 billion in FY2025, the 162nd most of the 486 companies with a revenue for the year, and the 14th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 107.9% from FY2015 to FY2025, 7.6% a year.
 
 **Does SHERWIN WILLIAMS CO make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 10.9% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 
@@ -199,7 +199,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000089800/Capex tag/FY2011 | FY2011 | Capex tag | instrument | | -125 | -154 | -28.6 | | | | | millions | | | | | | Capex tag, FY2011 |  |
 | 0000089800/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 17534 | 17901 | 366 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
-| 0000089800/Net margin/FY2011/2 | FY2011 | Net margin | observed | bend | 5.7 | 6.7 | 1.0 | -0.51 | 0.33 | 1.3 | 2.8 | percent of revenue | 19.1 | 7.0 | 2 | lone | 28 |  |  |
+| 0000089800/Net margin/FY2011/2 | FY2011 | Net margin | observed | bend | 5.7 | 6.7 | 1.0 | -0.51 | 0.33 | 1.3 | 2.8 | percent of revenue | 19.0 | 7.0 | 2 | lone | 28 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

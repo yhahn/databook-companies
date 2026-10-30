@@ -13,9 +13,9 @@
 
 CROWN CASTLE INC., as it files with the SEC (CIK 0001051470): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CROWN CASTLE INC., and how has it grown?** It sold $4.3 billion in FY2025, the 426th most of the 487 companies with a revenue for the year, and the 75th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 16.4% from FY2015 to FY2025, 1.5% a year.
+**How large is CROWN CASTLE INC., and how has it grown?** It sold $4.3 billion in FY2025, the 427th most of the 486 companies with a revenue for the year, and the 75th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 16.4% from FY2015 to FY2025, 1.5% a year.
 
-**Does CROWN CASTLE INC. make money, and how much of what it sells does it keep?** It earned $444 million in FY2025, 10.4% of what it sold; the median company of its sector kept 19.2%. It lost money in 5 of its 19 years in the book (FY2007, FY2008, FY2009 and 2 more).
+**Does CROWN CASTLE INC. make money, and how much of what it sells does it keep?** It earned $444 million in FY2025, 10.4% of what it sold; the median company of its sector kept 18.9%. It lost money in 5 of its 19 years in the book (FY2007, FY2008, FY2009 and 2 more).
 
 **Where does CROWN CASTLE INC.'s cash go?** From FY2016 to FY2025 its operations brought in $26.9 billion; it spent 30.6% of that on plant and equipment, and 0.3% on buying back its own shares.
 
@@ -367,4 +367,44 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:SalesRevenueNet
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2017 under both: 4355605000 and 521000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:SalesRevenueNet for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: CROWN CASTLE INC., Restatement, Operating income, FY2024
+
+- CIK: 0001051470
+- What: Operating income restatement
+- Boundary: FY2024
+- Was: Operating income FY2023: 2097 (10-K filed 2026-02-23, itself restated)
+- Now: Operating income FY2024 as last filed: FY2024 2118
+- Crosswalk: FY2024: -2938 first filed (10-K, 2025-03-14), 2118 last filed (10-K, 2026-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2024. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: CROWN CASTLE INC., Restatement, Capex, FY2017
+
+- CIK: 0001051470
+- What: Capex restatement
+- Boundary: FY2017
+- Was: Capex FY2016: -874 (10-K filed 2019-02-25, as first filed)
+- Now: Capex FY2017 as last filed: FY2017 1217
+- Crosswalk: FY2017: -1228.071 first filed (10-K, 2018-02-26), 1217 last filed (10-K, 2020-03-10). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: CROWN CASTLE INC., Restatement, Capex, FY2019
+
+- CIK: 0001051470
+- What: Capex restatement
+- Boundary: FY2019
+- Was: Capex FY2018: -1739 (10-K filed 2021-02-22, as first filed)
+- Now: Capex FY2019 as last filed: FY2019 -2057
+- Crosswalk: FY2019: 2057 first filed (10-K, 2020-03-10), -2057 last filed (10-K, 2022-02-22). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2019. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: CROWN CASTLE INC., Restatement, Capex, FY2023 to FY2024
+
+- CIK: 0001051470
+- What: Capex restatement
+- Boundary: FY2023
+- Was: Capex FY2022: -1310 (10-K filed 2025-03-14, as first filed)
+- Now: Capex FY2023 to FY2024 as last filed: FY2023 -243, FY2024 -176
+- Crosswalk: FY2023: -1424 first filed (10-K, 2024-02-23), -243 last filed (10-K, 2026-02-23); FY2024: -1222 first filed (10-K, 2025-03-14), -176 last filed (10-K, 2026-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2023. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

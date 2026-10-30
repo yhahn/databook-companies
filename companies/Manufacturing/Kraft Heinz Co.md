@@ -13,7 +13,7 @@
 
 Kraft Heinz Co, as it files with the SEC (CIK 0001637459): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Kraft Heinz Co, and how has it grown?** It sold $24.9 billion in FY2025, the 150th most of the 487 companies with a revenue for the year, and the 68th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 5.2% from FY2016 to FY2025, −0.6% a year.
+**How large is Kraft Heinz Co, and how has it grown?** It sold $24.9 billion in FY2025, the 150th most of the 486 companies with a revenue for the year, and the 68th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 5.2% from FY2016 to FY2025, −0.6% a year.
 
 **Does Kraft Heinz Co make money, and how much of what it sells does it keep?** It earned −$5.8 billion in FY2025, −23.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 14 years in the book (FY2018, FY2025).
 
@@ -169,7 +169,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001637459/Revenue gap/FY2015 | FY2015 | Revenue gap | instrument | | 18205 |  |  | | | | | millions | | | | | | none |  |
+| 0001637459/Revenue gap/FY2015 | FY2015 | Revenue gap | instrument | | 18205 |  |  | | | | | millions | | | | | | Revenue gap, FY2015 |  |
 | 0001637459/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 18205 | 26300 | 8095 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -287,4 +287,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Kraft Heinz Co, Gap, Revenue, FY2015
+
+- CIK: 0001637459
+- What: Revenue gap
+- Boundary: FY2015
+- Was: Revenue FY2014: 18205
+- Now: no figure for FY2015; FY2016: 26300
+- Crosswalk: FY2015: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

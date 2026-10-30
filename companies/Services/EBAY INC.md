@@ -13,7 +13,7 @@
 
 EBAY INC, as it files with the SEC (CIK 0001065088): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is EBAY INC, and how has it grown?** It sold $11.1 billion in FY2025, the 290th most of the 487 companies with a revenue for the year, and the 36th of 75 in [Services](../Services.md). Its sales rose 29.2% from FY2015 to FY2025, 2.6% a year.
+**How large is EBAY INC, and how has it grown?** It sold $11.1 billion in FY2025, the 290th most of the 486 companies with a revenue for the year, and the 36th of 75 in [Services](../Services.md). Its sales rose 29.2% from FY2015 to FY2025, 2.6% a year.
 
 **Does EBAY INC make money, and how much of what it sells does it keep?** It earned $2.0 billion in FY2025, 18.3% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 18 years in the book (FY2017, FY2022).
 
@@ -414,4 +414,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:SalesRevenueNet
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2017 under both: 9567000000 and 9927000000
+- Source: SEC EDGAR companyfacts
+
+### Change: EBAY INC, Restatement, Revenue, FY2014
+
+- CIK: 0001065088
+- What: Revenue restatement
+- Boundary: FY2014
+- Was: Revenue FY2013: 8257 (10-K filed 2016-02-01, itself restated)
+- Now: Revenue FY2014 as last filed: FY2014 8790
+- Crosswalk: FY2014: 17902 first filed (10-K, 2015-02-06), 8790 last filed (10-K, 2017-02-06). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2014. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EBAY INC, Restatement, Capex, FY2014
+
+- CIK: 0001065088
+- What: Capex restatement
+- Boundary: FY2014
+- Was: Capex FY2013: -678 (10-K filed 2016-02-01, itself restated)
+- Now: Capex FY2014 as last filed: FY2014 -622
+- Crosswalk: FY2014: -1271 first filed (10-K, 2015-02-06), -622 last filed (10-K, 2017-02-06). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2014. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

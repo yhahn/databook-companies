@@ -13,7 +13,7 @@
 
 NRG ENERGY, INC., as it files with the SEC (CIK 0001013871): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NRG ENERGY, INC., and how has it grown?** It sold $30.3 billion in FY2025, the 124th most of the 487 companies with a revenue for the year, and the 12th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 146.2% from FY2015 to FY2025, 9.4% a year.
+**How large is NRG ENERGY, INC., and how has it grown?** It sold $30.3 billion in FY2025, the 124th most of the 486 companies with a revenue for the year, and the 12th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 146.2% from FY2015 to FY2025, 9.4% a year.
 
 **Does NRG ENERGY, INC. make money, and how much of what it sells does it keep?** It earned $864 million in FY2025, 2.8% of what it sold; the median company of its sector kept 12.9%. It lost money in 5 of its 19 years in the book (FY2013, FY2015, FY2016 and 2 more).
 
@@ -354,4 +354,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 9478000000 and 8148000000
+- Source: SEC EDGAR companyfacts
+
+### Change: NRG ENERGY, INC., Restatement, Operating income, FY2016
+
+- CIK: 0001013871
+- What: Operating income restatement
+- Boundary: FY2016
+- Was: Operating income FY2015: -4051 (10-K filed 2018-03-01, as first filed)
+- Now: Operating income FY2016 as last filed: FY2016 33
+- Crosswalk: FY2016: 527 first filed (10-K, 2017-02-28), 33 last filed (10-K, 2019-02-28). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: NRG ENERGY, INC., Restatement, Capex, FY2016 to FY2017
+
+- CIK: 0001013871
+- What: Capex restatement
+- Boundary: FY2016
+- Was: Capex FY2015: -1029 (10-K filed 2018-03-01, itself restated)
+- Now: Capex FY2016 to FY2017 as last filed: FY2016 -544, FY2017 -254
+- Crosswalk: FY2016: -1244 first filed (10-K, 2017-02-28), -544 last filed (10-K, 2019-02-28); FY2017: -1111 first filed (10-K, 2018-03-01), -254 last filed (8-K, 2020-05-07). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

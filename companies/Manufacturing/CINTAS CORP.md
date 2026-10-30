@@ -13,7 +13,7 @@
 
 CINTAS CORP, as it files with the SEC (CIK 0000723254): its fiscal years and quarters from its XBRL filings, FY2009 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2024-10-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CINTAS CORP, and how has it grown?** It sold $10.3 billion in FY2025, the 297th most of the 487 companies with a revenue for the year, and the 117th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 136.6% from FY2015 to FY2025, 9% a year.
+**How large is CINTAS CORP, and how has it grown?** It sold $10.3 billion in FY2025, the 297th most of the 486 companies with a revenue for the year, and the 117th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 136.6% from FY2015 to FY2025, 9% a year.
 
 **Does CINTAS CORP make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 17.5% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 

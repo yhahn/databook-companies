@@ -13,7 +13,7 @@
 
 Trane Technologies plc, as it files with the SEC (CIK 0001466258): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Trane Technologies plc, and how has it grown?** It sold $21.3 billion in FY2025, the 177th most of the 487 companies with a revenue for the year, and the 77th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 60.3% from FY2015 to FY2025, 4.8% a year.
+**How large is Trane Technologies plc, and how has it grown?** It sold $21.3 billion in FY2025, the 177th most of the 486 companies with a revenue for the year, and the 77th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 60.3% from FY2015 to FY2025, 4.8% a year.
 
 **Does Trane Technologies plc make money, and how much of what it sells does it keep?** It earned $2.9 billion in FY2025, 13.7% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2008).
 
@@ -208,7 +208,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001466258/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 14198 | 12344 | -1854 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001466258/Capex tag/FY2020 | FY2020 | Capex tag | instrument | | -205 | -146 | 59.2 | | | | | millions | | | | | | Capex tag, FY2020 |  |
 | 0001466258/Capex tag/FY2025 | FY2025 | Capex tag | instrument | | -371 | -383 | -12.4 | | | | | millions | | | | | | Capex tag, FY2025 |  |
-| 0001466258/Revenue growth/FY2013 | FY2013 | Revenue growth | observed | bend | -17.6 | -0.3 | 17.3 | -13.10 | 0.85 | 30.8 | 13.7 | percent a year | 18.4 | 9.4 | 1 | lone | 201 | Revenue tag, FY2012 |  |
+| 0001466258/Revenue growth/FY2013 | FY2013 | Revenue growth | observed | bend | -17.6 | -0.3 | 17.3 | -13.10 | 0.85 | 30.8 | 13.7 | percent a year | 18.4 | 9.3 | 1 | lone | 201 | Revenue tag, FY2012 |  |
 | 0001466258/Operating margin/FY2020/2 | FY2020 | Operating margin | observed | bend | 14.6 | 12.7 | -1.9 | 1.15 | 1.22 | 14.9 | 0.6 | percent of revenue | 12.1 | 6.6 | 2 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

@@ -13,7 +13,7 @@
 
 MGM Resorts International, as it files with the SEC (CIK 0000789570): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MGM Resorts International, and how has it grown?** It sold $17.5 billion in FY2025, the 205th most of the 487 companies with a revenue for the year, and the 22nd of 75 in [Services](../Services.md). Its sales rose 91.1% from FY2015 to FY2025, 6.7% a year.
+**How large is MGM Resorts International, and how has it grown?** It sold $17.5 billion in FY2025, the 205th most of the 486 companies with a revenue for the year, and the 22nd of 75 in [Services](../Services.md). Its sales rose 91.1% from FY2015 to FY2025, 6.7% a year.
 
 **Does MGM Resorts International make money, and how much of what it sells does it keep?** It earned $206 million in FY2025, 1.2% of what it sold; the median company of its sector kept 15.8%. It lost money in 8 of its 18 years in the book (FY2008, FY2009, FY2010 and 5 more).
 
@@ -391,4 +391,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 2206411000 and 2206411000
+- Source: SEC EDGAR companyfacts
+
+### Change: MGM Resorts International, Restatement, Net income, FY2011
+
+- CIK: 0000789570
+- What: Net income restatement
+- Boundary: FY2011
+- Was: Net income FY2010: -1437.397 (10-K filed 2013-03-01, as first filed)
+- Now: Net income FY2011 as last filed: FY2011 3114.637
+- Crosswalk: FY2011: -30.308 first filed (10-K, 2012-02-29), 3114.637 last filed (10-K, 2014-03-03). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

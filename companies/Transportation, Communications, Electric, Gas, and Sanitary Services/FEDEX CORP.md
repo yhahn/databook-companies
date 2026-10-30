@@ -13,7 +13,7 @@
 
 FEDEX CORP, as it files with the SEC (CIK 0001048911): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FEDEX CORP, and how has it grown?** It sold $87.9 billion in FY2025, the 43rd most of the 487 companies with a revenue for the year, and the 6th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 85.3% from FY2015 to FY2025, 6.4% a year.
+**How large is FEDEX CORP, and how has it grown?** It sold $87.9 billion in FY2025, the 43rd most of the 486 companies with a revenue for the year, and the 6th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 85.3% from FY2015 to FY2025, 6.4% a year.
 
 **Does FEDEX CORP make money, and how much of what it sells does it keep?** It earned $4.1 billion in FY2025, 4.7% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 
@@ -200,7 +200,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001048911/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 4930 | 4674 | -256 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
 | 0001048911/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 60319 | 65450 | 5131 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001048911/Net margin/FY2015/2 | FY2015 | Net margin | observed | bend | 5.8 | 3.4 | -2.5 | 0.70 | 0.14 | 2.4 | 3.7 | percent of revenue | 9.6 | 8.5 | 2 | lone | 61 |  |  |
-| 0001048911/Operating cash flow over revenue/FY2021/2 | FY2021 | Operating cash flow over revenue | observed | level and bend | 8.6 | 11.8 | 3.2 | -0.12 | -0.92 | 3.0 | 0.7 | percent of revenue | 29.3 | 9.6 | 2 | lone | 61 |  |  |
+| 0001048911/Operating cash flow over revenue/FY2021/2 | FY2021 | Operating cash flow over revenue | observed | level and bend | 8.6 | 11.8 | 3.2 | -0.12 | -0.92 | 3.0 | 0.7 | percent of revenue | 28.8 | 9.5 | 2 | lone | 61 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

@@ -13,7 +13,7 @@
 
 AT&T INC., as it files with the SEC (CIK 0000732717): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AT&T INC., and how has it grown?** It sold $125.6 billion in FY2025, the 29th most of the 487 companies with a revenue for the year, and the 2nd of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales fell 14.4% from FY2015 to FY2025, −1.5% a year.
+**How large is AT&T INC., and how has it grown?** It sold $125.6 billion in FY2025, the 29th most of the 486 companies with a revenue for the year, and the 2nd of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales fell 14.4% from FY2015 to FY2025, −1.5% a year.
 
 **Does AT&T INC. make money, and how much of what it sells does it keep?** It earned $22.0 billion in FY2025, 17.5% of what it sold; the median company of its sector kept 12.9%. It lost money in 3 of its 19 years in the book (FY2008, FY2020, FY2022).
 
@@ -206,7 +206,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000732717/Capex tag/FY2016 | FY2016 | Capex tag | instrument | | -19218 | -21516 | -2298 | | | | | millions | | | | | | Capex tag, FY2016 |  |
 | 0000732717/Operating cash flow tag/FY2022 | FY2022 | Operating cash flow tag | instrument | | 41957 | 35812 | -6145 | | | | | millions | | | | | | Operating cash flow tag, FY2022 |  |
 | 0000732717/Operating cash flow tag/FY2023 | FY2023 | Operating cash flow tag | instrument | | 35812 | 38314 | 2502 | | | | | millions | | | | | | Operating cash flow tag, FY2023 |  |
-| 0000732717/Operating cash flow over revenue/FY2014 | FY2014 | Operating cash flow over revenue | observed | level and bend | 28.3 | 22.6 | -5.7 | 0.04 | 0.93 | 2.7 | 2.4 | percent of revenue | 35.8 | 28.1 | 1 | lone | 61 |  |  |
+| 0000732717/Operating cash flow over revenue/FY2014 | FY2014 | Operating cash flow over revenue | observed | level and bend | 28.3 | 22.6 | -5.7 | 0.04 | 0.93 | 2.7 | 2.4 | percent of revenue | 35.9 | 28.1 | 1 | lone | 61 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -432,4 +432,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: FY2016 under both: 21516000000 and 21516000000
+- Source: SEC EDGAR companyfacts
+
+### Change: AT&T INC., Restatement, Operating income, FY2008
+
+- CIK: 0000732717
+- What: Operating income restatement
+- Boundary: FY2008
+- Was: Operating income FY2007: 20404 (10-K filed 2010-02-25, as first filed)
+- Now: Operating income FY2008 as last filed: FY2008 -1690
+- Crosswalk: FY2008: 23063 first filed (10-K, 2010-02-25), -1690 last filed (10-K, 2011-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: AT&T INC., Restatement, Net income, FY2008
+
+- CIK: 0000732717
+- What: Net income restatement
+- Boundary: FY2008
+- Was: Net income FY2007: 11951 (10-K filed 2010-02-25, as first filed)
+- Now: Net income FY2008 as last filed: FY2008 -2625
+- Crosswalk: FY2008: 12867 first filed (10-K, 2010-02-25), -2625 last filed (10-K, 2011-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 VERTEX PHARMACEUTICALS INC / MA, as it files with the SEC (CIK 0000875320): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VERTEX PHARMACEUTICALS INC / MA, and how has it grown?** It sold $12.0 billion in FY2025, the 282nd most of the 487 companies with a revenue for the year, and the 109th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 1062.5% from FY2015 to FY2025, 27.8% a year.
+**How large is VERTEX PHARMACEUTICALS INC / MA, and how has it grown?** It sold $12.0 billion in FY2025, the 282nd most of the 486 companies with a revenue for the year, and the 109th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 1062.5% from FY2015 to FY2025, 27.8% a year.
 
 **Does VERTEX PHARMACEUTICALS INC / MA make money, and how much of what it sells does it keep?** It earned $4.0 billion in FY2025, 32.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 9 of its 18 years in the book (FY2008, FY2009, FY2010 and 6 more).
 
@@ -347,6 +347,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2010 under both: -754626000 and -754626000
+- Source: SEC EDGAR companyfacts
+
+### Change: VERTEX PHARMACEUTICALS INC / MA, Restatement, Operating income, FY2012
+
+- CIK: 0000875320
+- What: Operating income restatement
+- Boundary: FY2012
+- Was: Operating income FY2011: 113.82 (10-K filed 2014-02-11, as first filed)
+- Now: Operating income FY2012 as last filed: FY2012 46.727
+- Crosswalk: FY2012: 2.332 first filed (10-K, 2013-03-01), 46.727 last filed (10-K, 2015-02-13). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: VERTEX PHARMACEUTICALS INC / MA, Product members, 2025-08-05

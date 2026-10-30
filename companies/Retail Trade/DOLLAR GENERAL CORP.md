@@ -13,7 +13,7 @@
 
 DOLLAR GENERAL CORP, as it files with the SEC (CIK 0000029534): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DOLLAR GENERAL CORP, and how has it grown?** It sold $42.7 billion in FY2025, the 91st most of the 487 companies with a revenue for the year, and the 10th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 94.3% from FY2016 to FY2025, 7.7% a year.
+**How large is DOLLAR GENERAL CORP, and how has it grown?** It sold $42.7 billion in FY2025, the 91st most of the 486 companies with a revenue for the year, and the 10th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 94.3% from FY2016 to FY2025, 7.7% a year.
 
 **Does DOLLAR GENERAL CORP make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 3.5% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 10 years in the book.
 
@@ -138,7 +138,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000029534/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | |  | 1605 |  | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
-| 0000029534/Revenue growth/FY2021 | FY2021 | Revenue growth | observed | level and bend | 18.0 | 4.5 | -13.5 | 4.37 | 0.20 | 9.3 | 8.1 | percent a year | 8.1 | 7.1 | 1 | lone | 28 |  |  |
+| 0000029534/Revenue growth/FY2021 | FY2021 | Revenue growth | observed | level and bend | 18.0 | 4.5 | -13.5 | 4.37 | 0.20 | 9.3 | 8.1 | percent a year | 8.2 | 7.1 | 1 | lone | 28 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

@@ -13,9 +13,9 @@
 
 Interactive Brokers Group, Inc., as it files with the SEC (CIK 0001381197): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2025-08-06, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Interactive Brokers Group, Inc., and how has it grown?** It sold $6.2 billion in FY2025, the 369th most of the 487 companies with a revenue for the year, and the 63rd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 394% from FY2015 to FY2025, 17.3% a year.
+**How large is Interactive Brokers Group, Inc., and how has it grown?** It sold $6.2 billion in FY2025, the 370th most of the 486 companies with a revenue for the year, and the 63rd of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 394% from FY2015 to FY2025, 17.3% a year.
 
-**Does Interactive Brokers Group, Inc. make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 70.2% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 18 years in the book (FY2010).
+**Does Interactive Brokers Group, Inc. make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 70.2% of what it sold; the median company of its sector kept 18.9%. It lost money in 1 of its 18 years in the book (FY2010).
 
 **Where does Interactive Brokers Group, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $52.7 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -149,7 +149,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001381197/Revenue tag/FY2020 | FY2020 | Revenue tag | instrument | | 2580 | 1287 | -1293 | | | | | millions | | | | | | Revenue tag, FY2020 |  |
 | 0001381197/Revenue tag/FY2022 | FY2022 | Revenue tag | instrument | | 1568 | 3067 | 1499 | | | | | millions | | | | | | Revenue tag, FY2022 (the two tags' figures differ, x0.49) |  |
 | 0001381197/Revenue tag/FY2026 | FY2026 | Revenue tag | instrument | | 6205 |  |  | | | | | millions | | | | | | Revenue tag, FY2026 |  |
-| 0001381197/Net margin/FY2014/2 | FY2014 | Net margin | observed | level and bend | 3.0 | 38.9 | 35.9 | 0.05 | 3.67 | 4.3 | 35.4 | percent of revenue | 27.6 | 12.7 | 2 | lone | 94 | Net income tag, FY2014 (the two tags' figures differ, x0.10) |  |
+| 0001381197/Net margin/FY2014/2 | FY2014 | Net margin | observed | level and bend | 3.0 | 38.9 | 35.9 | 0.05 | 3.67 | 4.3 | 35.4 | percent of revenue | 27.7 | 12.7 | 2 | lone | 94 | Net income tag, FY2014 (the two tags' figures differ, x0.10) |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

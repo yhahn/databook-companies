@@ -13,9 +13,9 @@
 
 MORGAN STANLEY, as it files with the SEC (CIK 0000895421): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MORGAN STANLEY, and how has it grown?** It sold $70.6 billion in FY2025, the 54th most of the 487 companies with a revenue for the year, and the 13th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 101% from FY2015 to FY2025, 7.2% a year.
+**How large is MORGAN STANLEY, and how has it grown?** It sold $70.6 billion in FY2025, the 54th most of the 486 companies with a revenue for the year, and the 13th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 101% from FY2015 to FY2025, 7.2% a year.
 
-**Does MORGAN STANLEY make money, and how much of what it sells does it keep?** It earned $16.9 billion in FY2025, 23.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does MORGAN STANLEY make money, and how much of what it sells does it keep?** It earned $16.9 billion in FY2025, 23.9% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does MORGAN STANLEY's cash go?** The book does not say: its filings give no value this needs.
 
@@ -354,4 +354,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: FY2008 ended 2008-11-30
 - Now: FY2009 ended 2009-12-31
 - Crosswalk: the transition period 2008-12-01 to 2008-12-31, filed apart (us-gaap:Revenues -937000000)
+- Source: SEC EDGAR companyfacts
+
+### Change: MORGAN STANLEY, Restatement, Operating cash flow, FY2011
+
+- CIK: 0000895421
+- What: Operating cash flow restatement
+- Boundary: FY2011
+- Was: Operating cash flow FY2010: 40614 (10-K filed 2013-02-26, itself restated)
+- Now: Operating cash flow FY2011 as last filed: FY2011 15892
+- Crosswalk: FY2011: 6684 first filed (10-K, 2012-02-27), 15892 last filed (10-K, 2013-02-26). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

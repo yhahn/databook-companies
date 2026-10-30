@@ -13,7 +13,7 @@
 
 VEEVA SYSTEMS INC, as it files with the SEC (CIK 0001393052): its fiscal years and quarters from its XBRL filings, FY2012 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VEEVA SYSTEMS INC, and how has it grown?** It sold $2.7 billion in FY2025, the 464th most of the 487 companies with a revenue for the year, and the 68th of 75 in [Services](../Services.md). Its sales rose 776.9% from FY2015 to FY2025, 24.2% a year.
+**How large is VEEVA SYSTEMS INC, and how has it grown?** It sold $2.7 billion in FY2025, the 465th most of the 486 companies with a revenue for the year, and the 68th of 75 in [Services](../Services.md). Its sales rose 776.9% from FY2015 to FY2025, 24.2% a year.
 
 **Does VEEVA SYSTEMS INC make money, and how much of what it sells does it keep?** It earned $714 million in FY2025, 26% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 15 years in the book.
 
@@ -170,7 +170,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001393052/Operating cash flow tag/FY2015 | FY2015 | Operating cash flow tag | instrument | | 41.8 | 67.6 | 25.8 | | | | | millions | | | | | | Operating cash flow tag, FY2015 |  |
 | 0001393052/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 144 | 233 | 89.4 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
 | 0001393052/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 551 | 691 | 140 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0001393052/Revenue growth/FY2017 | FY2017 | Revenue growth | observed | level and bend | 25.0 | 33.1 | 8.1 | -25.56 | -2.32 | 24.9 | 10.8 | percent a year | 18.6 | 17.6 | 1 | lone | 74 | Revenue tag, FY2018 |  |
+| 0001393052/Revenue growth/FY2017 | FY2017 | Revenue growth | observed | level and bend | 25.0 | 33.1 | 8.1 | -25.56 | -2.32 | 24.9 | 10.8 | percent a year | 18.7 | 17.6 | 1 | lone | 74 | Revenue tag, FY2018 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

@@ -13,7 +13,7 @@
 
 Viatris Inc, as it files with the SEC (CIK 0001792044): its fiscal years and quarters from its XBRL filings, FY2018 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Viatris Inc, and how has it grown?** It sold $14.3 billion in FY2025, the 250th most of the 487 companies with a revenue for the year, and the 101st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 26.5% from FY2018 to FY2025, 3.4% a year.
+**How large is Viatris Inc, and how has it grown?** It sold $14.3 billion in FY2025, the 250th most of the 486 companies with a revenue for the year, and the 101st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 26.5% from FY2018 to FY2025, 3.4% a year.
 
 **Does Viatris Inc make money, and how much of what it sells does it keep?** It earned −$3.5 billion in FY2025, −24.7% of what it sold; the median company of its sector kept 11.8%. It lost money in 4 of its 8 years in the book (FY2020, FY2021, FY2024, FY2025).
 
@@ -122,7 +122,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001792044/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | -7.9 | 13.6 | 21.5 | -3.66 | -11.71 | 2.5 | 9.1 | percent of revenue | 26.6 | 8.1 | 1 | shared | 201 |  |  |
+| 0001792044/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | -7.9 | 13.6 | 21.5 | -3.66 | -11.71 | 2.5 | 9.1 | percent of revenue | 26.8 | 8.1 | 1 | shared | 201 |  |  |
 | 0001792044/Operating margin/FY2022 | FY2022 | Operating margin | observed | level and bend | -1.8 | 12.7 | 14.5 | -3.28 | -9.08 | 5.5 | 10.5 | percent of revenue | 9.0 | 8.0 | 1 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

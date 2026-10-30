@@ -13,7 +13,7 @@
 
 F5, INC., as it files with the SEC (CIK 0001048695): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is F5, INC., and how has it grown?** It sold $3.1 billion in FY2025, the 454th most of the 487 companies with a revenue for the year, and the 192nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 60.9% from FY2015 to FY2025, 4.9% a year.
+**How large is F5, INC., and how has it grown?** It sold $3.1 billion in FY2025, the 455th most of the 486 companies with a revenue for the year, and the 192nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 60.9% from FY2015 to FY2025, 4.9% a year.
 
 **Does F5, INC. make money, and how much of what it sells does it keep?** It earned $692 million in FY2025, 22.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 
@@ -213,7 +213,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001048695/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 2090 | 2161 | 71.4 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0001048695/Net margin/FY2012/2 | FY2012 | Net margin | observed | bend | 20.6 | 19.0 | -1.6 | 3.17 | -0.20 | 0.9 | 6.7 | percent of revenue | 19.2 | 13.9 | 2 | lone | 201 |  |  |
+| 0001048695/Net margin/FY2012/2 | FY2012 | Net margin | observed | bend | 20.6 | 19.0 | -1.6 | 3.17 | -0.20 | 0.9 | 6.7 | percent of revenue | 19.2 | 13.8 | 2 | lone | 201 |  |  |
 | 0001048695/Operating margin/FY2020/2 | FY2020 | Operating margin | observed | level | 28.9 | 13.8 | -15.1 | 0.52 | 1.92 | 9.0 | 5.3 | percent of revenue | 19.5 | 15.2 | 2 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

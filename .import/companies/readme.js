@@ -75,7 +75,7 @@ function write({ counts: c, skipped, sectors, done, R, book, rel, rows }) {
   const where = (d) => link(d.path);
   const kinds = new Map();
   for (const d of done) {
-    for (const [k, label] of [['tagChanges', 'A line item filed under another tag'], ['yearChanges', 'A fiscal year that moved'], ['segmentChanges', 'Segment, product or geography members changed'], ['splits', 'Shares split (or joined)']]) {
+    for (const [k, label] of [['tagChanges', 'A line item filed under another tag'], ['yearChanges', 'A fiscal year that moved'], ['partChanges', 'A revenue that is a part (a tenth of net income or less)'], ['gapChanges', 'A line with no figure for years inside its run (a gap)'], ['restatementChanges', 'A later filing restates earlier years on another basis'], ['segmentChanges', 'Segment, product or geography members changed'], ['splits', 'Shares split (or joined)']]) {
       if (!d.counts[k]) continue;
       if (!kinds.has(label)) kinds.set(label, { n: 0, who: [] });
       kinds.get(label).n += d.counts[k];

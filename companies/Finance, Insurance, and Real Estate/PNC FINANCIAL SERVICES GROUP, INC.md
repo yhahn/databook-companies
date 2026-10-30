@@ -13,9 +13,9 @@
 
 PNC FINANCIAL SERVICES GROUP, INC., as it files with the SEC (CIK 0000713676): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PNC FINANCIAL SERVICES GROUP, INC., and how has it grown?** It sold $23.1 billion in FY2025, the 164th most of the 487 companies with a revenue for the year, and the 29th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 51.7% from FY2015 to FY2025, 4.3% a year.
+**How large is PNC FINANCIAL SERVICES GROUP, INC., and how has it grown?** It sold $23.1 billion in FY2025, the 164th most of the 486 companies with a revenue for the year, and the 29th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 51.7% from FY2015 to FY2025, 4.3% a year.
 
-**Does PNC FINANCIAL SERVICES GROUP, INC. make money, and how much of what it sells does it keep?** It earned $7.0 billion in FY2025, 30.3% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does PNC FINANCIAL SERVICES GROUP, INC. make money, and how much of what it sells does it keep?** It earned $7.0 billion in FY2025, 30.3% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does PNC FINANCIAL SERVICES GROUP, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $67.6 billion; it spent 0% of that on plant and equipment, and 29.7% on buying back its own shares.
 

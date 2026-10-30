@@ -13,7 +13,7 @@
 
 EXPAND ENERGY Corp, as it files with the SEC (CIK 0000895126): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is EXPAND ENERGY Corp, and how has it grown?** It sold $12.1 billion in FY2025, the 274th most of the 487 companies with a revenue for the year, and the 9th of 12 in [Mining](../Mining.md). Its sales fell 5% from FY2015 to FY2025, −0.5% a year.
+**How large is EXPAND ENERGY Corp, and how has it grown?** It sold $12.1 billion in FY2025, the 274th most of the 486 companies with a revenue for the year, and the 9th of 12 in [Mining](../Mining.md). Its sales fell 5% from FY2015 to FY2025, −0.5% a year.
 
 **Does EXPAND ENERGY Corp make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 15% of what it sold; the median company of its sector kept 15.4%. It lost money in 8 of its 19 years in the book (FY2009, FY2012, FY2015 and 5 more).
 
@@ -182,15 +182,15 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000895126/Capex gap/FY2017 | FY2017 | Capex gap | instrument | | -1446 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Capex gap/FY2017 | FY2017 | Capex gap | instrument | | -1446 |  |  | | | | | millions | | | | | | Capex gap, FY2017 |  |
 | 0000895126/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 10039 | 5189 | -4850 | | | | | millions | | | | | | Revenue tag, FY2018 (the two tags' figures differ, x1.93) |  |
 | 0000895126/Capex tag/FY2020 | FY2020 | Capex tag | instrument | | -1446 | -1142 | 304 | | | | | millions | | | | | | Capex tag, FY2020 |  |
-| 0000895126/Capex gap/FY2021 | FY2021 | Capex gap | instrument | | -1142 |  |  | | | | | millions | | | | | | none |  |
-| 0000895126/Operating cash flow gap/FY2021 | FY2021 | Operating cash flow gap | instrument | | 1164 |  |  | | | | | millions | | | | | | none |  |
-| 0000895126/Operating income gap/FY2021 | FY2021 | Operating income gap | instrument | | -8703 |  |  | | | | | millions | | | | | | none |  |
-| 0000895126/Revenue gap/FY2021 | FY2021 | Revenue gap | instrument | | 2745 |  |  | | | | | millions | | | | | | none |  |
+| 0000895126/Capex gap/FY2021 | FY2021 | Capex gap | instrument | | -1142 |  |  | | | | | millions | | | | | | Capex gap, FY2021 |  |
+| 0000895126/Operating cash flow gap/FY2021 | FY2021 | Operating cash flow gap | instrument | | 1164 |  |  | | | | | millions | | | | | | Operating cash flow gap, FY2021 |  |
+| 0000895126/Operating income gap/FY2021 | FY2021 | Operating income gap | instrument | | -8703 |  |  | | | | | millions | | | | | | Operating income gap, FY2021 |  |
+| 0000895126/Revenue gap/FY2021 | FY2021 | Revenue gap | instrument | | 2745 |  |  | | | | | millions | | | | | | Revenue gap, FY2021 |  |
 | 0000895126/Revenue tag/FY2022 | FY2022 | Revenue tag | instrument | | 2745 | 11743 | 8998 | | | | | millions | | | | | | Revenue tag, FY2022 |  |
-| 0000895126/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | bend | 12.7 | -6.7 | -19.4 | -6.51 | 13.85 | 16.6 | 16.8 | percent of revenue | 24.8 | 23.1 | 1 | lone | 11 |  |  |
+| 0000895126/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | bend | 12.7 | -6.7 | -19.4 | -6.51 | 13.85 | 16.6 | 16.8 | percent of revenue | 24.8 | 23.1 | 1 | lone | 11 | Operating cash flow restatement, FY2016 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -338,4 +338,84 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Gap, Revenue, FY2021
+
+- CIK: 0000895126
+- What: Revenue gap
+- Boundary: FY2021
+- Was: Revenue FY2020: 2745
+- Now: no figure for FY2021; FY2022: 11743
+- Crosswalk: FY2021: no annual figure under any tag read; periods of 1, 2, 3, 5, 8, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Gap, Operating income, FY2021
+
+- CIK: 0000895126
+- What: Operating income gap
+- Boundary: FY2021
+- Was: Operating income FY2020: -8703
+- Now: no figure for FY2021; FY2022: 3780
+- Crosswalk: FY2021: no annual figure under any tag read; periods of 1, 2, 3, 5, 8, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:OperatingIncomeLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Gap, Operating cash flow, FY2021
+
+- CIK: 0000895126
+- What: Operating cash flow gap
+- Boundary: FY2021
+- Was: Operating cash flow FY2020: 1164
+- Now: no figure for FY2021; FY2022: 4125
+- Crosswalk: FY2021: no annual figure under any tag read; periods of 1, 2, 5, 8, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetCashProvidedByUsedInOperatingActivities, us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Gap, Capex, FY2017 to FY2019
+
+- CIK: 0000895126
+- What: Capex gap
+- Boundary: FY2017
+- Was: Capex FY2016: -1446
+- Now: no figure for FY2017 to FY2019; FY2020: -1142
+- Crosswalk: FY2017 to FY2019: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Gap, Capex, FY2021
+
+- CIK: 0000895126
+- What: Capex gap
+- Boundary: FY2021
+- Was: Capex FY2020: -1142
+- Now: no figure for FY2021; FY2022: -1823
+- Crosswalk: FY2021: no annual figure under any tag read; periods of 1, 2, 5, 8, 11 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Restatement, Operating income, FY2017 to FY2018
+
+- CIK: 0000895126
+- What: Operating income restatement
+- Boundary: FY2017
+- Was: Operating income FY2016: -3256 (8-K filed 2019-05-09, itself restated)
+- Now: Operating income FY2017 to FY2018 as last filed: FY2017 -138, FY2018 382
+- Crosswalk: FY2017: 1139 first filed (10-K, 2018-02-22), -138 last filed (8-K, 2021-02-02); FY2018: 882 first filed (10-K, 2019-02-27), 382 last filed (10-K, 2021-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Restatement, Net income, FY2017 to FY2018
+
+- CIK: 0000895126
+- What: Net income restatement
+- Boundary: FY2017
+- Was: Net income FY2016: -3493 (8-K filed 2019-05-09, itself restated)
+- Now: Net income FY2017 to FY2018 as last filed: FY2017 -505, FY2018 226
+- Crosswalk: FY2017: 949 first filed (10-K, 2018-02-22), -505 last filed (8-K, 2021-02-02); FY2018: 873 first filed (10-K, 2019-02-27), 226 last filed (10-K, 2021-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: EXPAND ENERGY Corp, Restatement, Operating cash flow, FY2016
+
+- CIK: 0000895126
+- What: Operating cash flow restatement
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 1234 (10-K filed 2018-02-22, as first filed)
+- Now: Operating cash flow FY2016 as last filed: FY2016 -980
+- Crosswalk: FY2016: -204 first filed (10-K, 2017-03-03), -980 last filed (8-K, 2019-05-09). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

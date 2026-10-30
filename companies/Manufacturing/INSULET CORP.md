@@ -13,7 +13,7 @@
 
 INSULET CORP, as it files with the SEC (CIK 0001145197): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INSULET CORP, and how has it grown?** It sold $2.7 billion in FY2025, the 467th most of the 487 companies with a revenue for the year, and the 198th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 926.2% from FY2015 to FY2025, 26.2% a year.
+**How large is INSULET CORP, and how has it grown?** It sold $2.7 billion in FY2025, the 468th most of the 486 companies with a revenue for the year, and the 198th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 926.2% from FY2015 to FY2025, 26.2% a year.
 
 **Does INSULET CORP make money, and how much of what it sells does it keep?** It earned $247 million in FY2025, 9.1% of what it sold; the median company of its sector kept 11.8%. It lost money in 9 of its 17 years in the book (FY2009, FY2010, FY2011 and 6 more).
 
@@ -195,7 +195,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001145197/Revenue tag/FY2023 | FY2023 | Revenue tag | instrument | | 1055 | 1697 | 642 | | | | | millions | | | | | | Revenue tag, FY2023 |  |
 | 0001145197/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | -13.6 | -23.4 | -9.8 | 28.80 | 3.37 | 28.7 | 11.9 | percent of revenue | 28.8 | 17.3 | 1 | shared | 201 |  |  |
 | 0001145197/Operating margin/FY2013 | FY2013 | Operating margin | observed | bend | -9.1 | -12.3 | -3.2 | 23.06 | 2.52 | 29.5 | 9.7 | percent of revenue | 24.4 | 15.5 | 1 | shared | 201 |  |  |
-| 0001145197/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | bend | -5.0 | -0.6 | 4.5 | 20.29 | 1.35 | 24.2 | 13.0 | percent of revenue | 22.6 | 13.7 | 1 | lone | 201 |  |  |
+| 0001145197/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | bend | -5.0 | -0.6 | 4.5 | 20.29 | 1.35 | 24.2 | 13.0 | percent of revenue | 22.5 | 13.8 | 1 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

@@ -13,7 +13,7 @@
 
 Snap-on Inc, as it files with the SEC (CIK 0000091440): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Snap-on Inc, and how has it grown?** It sold $4.7 billion in FY2025, the 414th most of the 487 companies with a revenue for the year, and the 172nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 31.1% from FY2015 to FY2025, 2.7% a year.
+**How large is Snap-on Inc, and how has it grown?** It sold $4.7 billion in FY2025, the 415th most of the 486 companies with a revenue for the year, and the 172nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 31.1% from FY2015 to FY2025, 2.7% a year.
 
 **Does Snap-on Inc make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 21.6% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 
@@ -189,7 +189,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000091440/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 393 | 403 | 10.5 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0000091440/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 576 | 608 | 32.4 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0000091440/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 4000 | 3720 | -281 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0000091440/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 5.4 | 5.9 | 0.5 | 0.32 | -2.08 | 18.3 | 4.0 | percent a year | 9.4 | 6.8 | 2 | shared | 201 |  |  |
+| 0000091440/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 5.4 | 5.9 | 0.5 | 0.32 | -2.08 | 18.3 | 4.0 | percent a year | 9.1 | 6.8 | 2 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

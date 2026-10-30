@@ -13,7 +13,7 @@
 
 Duke Energy CORP, as it files with the SEC (CIK 0001326160): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-11-08, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Duke Energy CORP, and how has it grown?** It sold $31.7 billion in FY2025, the 121st most of the 487 companies with a revenue for the year, and the 11th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 41.9% from FY2015 to FY2025, 3.6% a year.
+**How large is Duke Energy CORP, and how has it grown?** It sold $31.7 billion in FY2025, the 121st most of the 486 companies with a revenue for the year, and the 11th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 41.9% from FY2015 to FY2025, 3.6% a year.
 
 **Does Duke Energy CORP make money, and how much of what it sells does it keep?** It earned $5.0 billion in FY2025, 15.7% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 
@@ -184,7 +184,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001326160/Revenue tag/FY2013 | FY2013 | Revenue tag | instrument | | 19624 | 22756 | 3132 | | | | | millions | | | | | | Revenue tag, FY2013 |  |
-| 0001326160/Revenue gap/FY2017 | FY2017 | Revenue gap | instrument | | 22743 |  |  | | | | | millions | | | | | | none |  |
+| 0001326160/Revenue gap/FY2017 | FY2017 | Revenue gap | instrument | | 22743 |  |  | | | | | millions | | | | | | Revenue gap, FY2017 |  |
 | 0001326160/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 22743 | 23757 | 1014 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001326160/Operating cash flow over revenue/FY2011 | FY2011 | Operating cash flow over revenue | observed | level and bend | 30.5 | 25.7 | -4.8 | 2.12 | 1.01 | 3.1 | 1.0 | percent of revenue | 11.4 | 8.0 | 1 | lone | 61 |  |  |
 
@@ -326,4 +326,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2012-11-08 on, a share after a 1 for 3 split
 - Crosswalk: 2011-07-01 to 2011-09-30: EPS 0.35 as first filed, 1.06 after; EPS adjusted divides what was filed before by 0.3333. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio 0.333, of 2012-07-02, filed 2013-03-01)
+- Source: SEC EDGAR companyfacts
+
+### Change: Duke Energy CORP, Gap, Revenue, FY2017
+
+- CIK: 0001326160
+- What: Revenue gap
+- Boundary: FY2017
+- Was: Revenue FY2016: 22743
+- Now: no figure for FY2017; FY2018: 23757
+- Crosswalk: FY2017: no annual figure under any tag read; periods of 3, 6 months are filed. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

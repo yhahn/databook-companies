@@ -13,7 +13,7 @@
 
 GENERAL ELECTRIC CO, as it files with the SEC (CIK 0000040545): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-10-26, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is GENERAL ELECTRIC CO, and how has it grown?** It sold $45.9 billion in FY2025, the 85th most of the 487 companies with a revenue for the year, and the 36th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 60.9% from FY2015 to FY2025, −9% a year.
+**How large is GENERAL ELECTRIC CO, and how has it grown?** It sold $45.9 billion in FY2025, the 85th most of the 486 companies with a revenue for the year, and the 36th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 60.9% from FY2015 to FY2025, −9% a year.
 
 **Does GENERAL ELECTRIC CO make money, and how much of what it sells does it keep?** It earned $8.7 billion in FY2025, 19% of what it sold; the median company of its sector kept 11.8%. It lost money in 5 of its 19 years in the book (FY2015, FY2017, FY2018 and 2 more).
 
@@ -337,4 +337,34 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2021-10-26 on, a share after a 1 for 8 split
 - Crosswalk: 2020-01-01 to 2020-09-30: EPS 0.3 as first filed, 2.41 after; EPS adjusted divides what was filed before by 0.125. Found in 9 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 0.125, of 2021-06-30, filed 2021-10-26)
+- Source: SEC EDGAR companyfacts
+
+### Change: GENERAL ELECTRIC CO, Restatement, Revenue, FY2022
+
+- CIK: 0000040545
+- What: Revenue restatement
+- Boundary: FY2022
+- Was: Revenue FY2021: 56469 (10-K filed 2024-02-02, itself restated)
+- Now: Revenue FY2022 as last filed: FY2022 29139
+- Crosswalk: FY2022: 76555 first filed (10-K, 2023-02-10), 29139 last filed (10-K, 2025-02-03). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2022. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: GENERAL ELECTRIC CO, Restatement, Operating cash flow, FY2016
+
+- CIK: 0000040545
+- What: Operating cash flow restatement
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 19891 (10-K filed 2018-02-23, as first filed)
+- Now: Operating cash flow FY2016 as last filed: FY2016 1160
+- Crosswalk: FY2016: -244 first filed (10-K, 2017-02-24), 1160 last filed (10-K, 2019-02-26). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: GENERAL ELECTRIC CO, Restatement, Capex, FY2019 to FY2020
+
+- CIK: 0000040545
+- What: Capex restatement
+- Boundary: FY2019
+- Was: Capex FY2018: -6627 (10-K filed 2021-02-12, itself restated)
+- Now: Capex FY2019 to FY2020 as last filed: FY2019 -2216, FY2020 -1323
+- Crosswalk: FY2019: -5813 first filed (10-K, 2020-02-24), -2216 last filed (10-K, 2022-02-11); FY2020: -3252 first filed (10-K, 2021-02-12), -1323 last filed (8-K, 2023-04-25). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2019. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

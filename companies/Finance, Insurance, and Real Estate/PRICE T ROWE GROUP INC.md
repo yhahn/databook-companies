@@ -13,9 +13,9 @@
 
 PRICE T ROWE GROUP INC, as it files with the SEC (CIK 0001113169): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PRICE T ROWE GROUP INC, and how has it grown?** It sold $7.3 billion in FY2025, the 347th most of the 487 companies with a revenue for the year, and the 56th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 74.1% from FY2015 to FY2025, 5.7% a year.
+**How large is PRICE T ROWE GROUP INC, and how has it grown?** It sold $7.3 billion in FY2025, the 348th most of the 486 companies with a revenue for the year, and the 56th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 74.1% from FY2015 to FY2025, 5.7% a year.
 
-**Does PRICE T ROWE GROUP INC make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 28.5% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does PRICE T ROWE GROUP INC make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 28.5% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does PRICE T ROWE GROUP INC's cash go?** From FY2016 to FY2025 its operations brought in $15.9 billion; it spent 15.1% of that on plant and equipment, and 46% on buying back its own shares.
 
@@ -210,7 +210,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001113169/Net income tag/FY2009 | FY2009 | Net income tag | instrument | | 491 | 434 | -57.2 | | | | | millions | | | | | | Net income tag, FY2009 |  |
 | 0001113169/Revenue tag/FY2011 | FY2011 | Revenue tag | instrument | | 2371 | 2747 | 376 | | | | | millions | | | | | | Revenue tag, FY2011 |  |
 | 0001113169/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 4201 | 4285 | 84.2 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
-| 0001113169/Net margin/FY2022 | FY2022 | Net margin | observed | level | 37.4 | 25.1 | -12.3 | 0.94 | 1.55 | 5.4 | 3.3 | percent of revenue | 24.3 | 16.4 | 1 | lone | 94 |  |  |
+| 0001113169/Net margin/FY2022 | FY2022 | Net margin | observed | level | 37.4 | 25.1 | -12.3 | 0.94 | 1.55 | 5.4 | 3.3 | percent of revenue | 24.2 | 16.4 | 1 | lone | 94 |  |  |
 | 0001113169/Operating margin/FY2022 | FY2022 | Operating margin | observed | level and bend | 45.5 | 35.2 | -10.2 | 0.22 | -1.78 | 5.5 | 4.5 | percent of revenue | 25.2 | 19.6 | 1 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

@@ -13,9 +13,9 @@
 
 WEYERHAEUSER CO, as it files with the SEC (CIK 0000106535): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WEYERHAEUSER CO, and how has it grown?** It sold $6.9 billion in FY2025, the 357th most of the 487 companies with a revenue for the year, and the 58th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 31.6% from FY2015 to FY2025, 2.8% a year.
+**How large is WEYERHAEUSER CO, and how has it grown?** It sold $6.9 billion in FY2025, the 358th most of the 486 companies with a revenue for the year, and the 58th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 31.6% from FY2015 to FY2025, 2.8% a year.
 
-**Does WEYERHAEUSER CO make money, and how much of what it sells does it keep?** It earned $324 million in FY2025, 4.7% of what it sold; the median company of its sector kept 19.2%. It lost money in 3 of its 19 years in the book (FY2008, FY2009, FY2019).
+**Does WEYERHAEUSER CO make money, and how much of what it sells does it keep?** It earned $324 million in FY2025, 4.7% of what it sold; the median company of its sector kept 18.9%. It lost money in 3 of its 19 years in the book (FY2008, FY2009, FY2019).
 
 **Where does WEYERHAEUSER CO's cash go?** From FY2016 to FY2025 its operations brought in $14.5 billion; it spent 8.1% of that on plant and equipment, and 24.2% on buying back its own shares.
 

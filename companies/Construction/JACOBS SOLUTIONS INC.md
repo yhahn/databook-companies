@@ -13,7 +13,7 @@
 
 JACOBS SOLUTIONS INC., as it files with the SEC (CIK 0000052988): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is JACOBS SOLUTIONS INC., and how has it grown?** It sold $12.0 billion in FY2025, the 281st most of the 487 companies with a revenue for the year, and the 6th of 8 in [Construction](../Construction.md). Its sales fell 0.7% from FY2015 to FY2025, −0.1% a year.
+**How large is JACOBS SOLUTIONS INC., and how has it grown?** It sold $12.0 billion in FY2025, the 281st most of the 486 companies with a revenue for the year, and the 6th of 8 in [Construction](../Construction.md). Its sales fell 0.7% from FY2015 to FY2025, −0.1% a year.
 
 **Does JACOBS SOLUTIONS INC. make money, and how much of what it sells does it keep?** It earned $289 million in FY2025, 2.4% of what it sold; the median company of its sector kept 9%. It lost money in none of its 19 years in the book.
 
@@ -204,7 +204,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000052988/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -49.1 |  |  | | | | | millions | | | | | | none |  |
+| 0000052988/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -49.1 |  |  | | | | | millions | | | | | | Capex gap, FY2011 |  |
 | 0000052988/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 10964 | 6330 | -4634 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x1.58) |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -404,4 +404,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax
 - Crosswalk: FY2017 under both: 10022788000 and 6330126000
+- Source: SEC EDGAR companyfacts
+
+### Change: JACOBS SOLUTIONS INC., Gap, Capex, FY2011 to FY2013
+
+- CIK: 0000052988
+- What: Capex gap
+- Boundary: FY2011
+- Was: Capex FY2010: -49.075
+- Now: no figure for FY2011 to FY2013; FY2014: -132.146
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 3, 6 months are filed; FY2012 to FY2013: no annual figure under any tag read; periods of 3, 6, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
 - Source: SEC EDGAR companyfacts

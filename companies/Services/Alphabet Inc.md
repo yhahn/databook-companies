@@ -13,7 +13,7 @@
 
 Alphabet Inc., as it files with the SEC (CIK 0001652044): its fiscal years and quarters from its XBRL filings, FY2013 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2022-07-27, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. Its shares in the S&P 500: GOOGL, GOOG.
 
-**How large is Alphabet Inc., and how has it grown?** It sold $402.8 billion in FY2025, the 5th most of the 487 companies with a revenue for the year, and the 1st of 75 in [Services](../Services.md). Its sales rose 437.2% from FY2015 to FY2025, 18.3% a year.
+**How large is Alphabet Inc., and how has it grown?** It sold $402.8 billion in FY2025, the 5th most of the 486 companies with a revenue for the year, and the 1st of 75 in [Services](../Services.md). Its sales rose 437.2% from FY2015 to FY2025, 18.3% a year.
 
 **Does Alphabet Inc. make money, and how much of what it sells does it keep?** It earned $132.2 billion in FY2025, 32.8% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 13 years in the book.
 
@@ -156,7 +156,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001652044/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 90272 | 110855 | 20583 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001652044/Revenue tag/FY2025 | FY2025 | Revenue tag | instrument | | 350018 | 402836 | 52818 | | | | | millions | | | | | | Revenue tag, FY2025 |  |
 | 0001652044/Operating cash flow over revenue/FY2017/2 | FY2017 | Operating cash flow over revenue | observed | level and bend | 38.7 | 33.2 | -5.5 | 1.69 | 0.46 | 3.1 | 4.6 | percent of revenue | 7.2 | 4.4 | 2 | lone | 74 | Revenue tag, FY2017 |  |
-| 0001652044/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level | 27.5 | 8.7 | -18.8 | 1.74 | 2.11 | 16.4 | 3.6 | percent a year | 14.5 | 7.5 | 1 | lone | 74 |  |  |
+| 0001652044/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level | 27.5 | 8.7 | -18.8 | 1.74 | 2.11 | 16.4 | 3.6 | percent a year | 14.8 | 7.5 | 1 | lone | 74 |  |  |
 | 0001652044/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 23.5 | 20.7 | -2.7 | 0.47 | 3.94 | 9.3 | 1.2 | percent of revenue | 5.3 | 4.3 | 2 | shared | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

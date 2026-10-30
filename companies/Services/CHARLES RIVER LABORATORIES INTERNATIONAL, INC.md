@@ -13,7 +13,7 @@
 
 CHARLES RIVER LABORATORIES INTERNATIONAL, INC., as it files with the SEC (CIK 0001100682): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CHARLES RIVER LABORATORIES INTERNATIONAL, INC., and how has it grown?** It sold $4.0 billion in FY2025, the 437th most of the 487 companies with a revenue for the year, and the 60th of 75 in [Services](../Services.md). Its sales rose 194.5% from FY2015 to FY2025, 11.4% a year.
+**How large is CHARLES RIVER LABORATORIES INTERNATIONAL, INC., and how has it grown?** It sold $4.0 billion in FY2025, the 438th most of the 486 companies with a revenue for the year, and the 60th of 75 in [Services](../Services.md). Its sales rose 194.5% from FY2015 to FY2025, 11.4% a year.
 
 **Does CHARLES RIVER LABORATORIES INTERNATIONAL, INC. make money, and how much of what it sells does it keep?** It earned −$144 million in FY2025, −3.6% of what it sold; the median company of its sector kept 15.8%. It lost money in 3 of its 18 years in the book (FY2008, FY2010, FY2025).
 
@@ -200,7 +200,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001100682/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 1681 | 1858 | 176 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001100682/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 318 | 441 | 123 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
 | 0001100682/Revenue growth/FY2016 | FY2016 | Revenue growth | observed | bend | 9.0 | 22.5 | 13.5 | 2.69 | -2.40 | 6.7 | 11.5 | percent a year | 23.8 | 21.7 | 1 | lone | 74 | Revenue tag, FY2017 |  |
-| 0001100682/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 18.3 | 13.9 | -4.4 | 2.30 | -5.84 | 27.2 | 5.8 | percent of revenue | 23.0 | 5.1 | 2 | shared | 74 |  |  |
+| 0001100682/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 18.3 | 13.9 | -4.4 | 2.30 | -5.84 | 27.2 | 5.8 | percent of revenue | 22.9 | 5.1 | 2 | shared | 74 |  |  |
 | 0001100682/Operating margin/FY2022/2 | FY2022 | Operating margin | observed | bend | 23.0 | 17.9 | -5.1 | 2.28 | -5.66 | 27.6 | 4.5 | percent of revenue | 51.0 | 6.2 | 2 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

@@ -13,7 +13,7 @@
 
 Leidos Holdings, Inc., as it files with the SEC (CIK 0001336920): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2013-12-10, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Leidos Holdings, Inc., and how has it grown?** It sold $17.1 billion in FY2025, the 213th most of the 487 companies with a revenue for the year, and the 25th of 75 in [Services](../Services.md). Its sales rose 237.9% from FY2015 to FY2025, 12.9% a year.
+**How large is Leidos Holdings, Inc., and how has it grown?** It sold $17.1 billion in FY2025, the 213th most of the 486 companies with a revenue for the year, and the 25th of 75 in [Services](../Services.md). Its sales rose 237.9% from FY2015 to FY2025, 12.9% a year.
 
 **Does Leidos Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $1.4 billion in FY2025, 8.5% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 17 years in the book (FY2015).
 
@@ -184,8 +184,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001336920/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 449 | 526 | 77.0 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0001336920/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 7043 | 10170 | 3127 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001336920/Capex tag/FY2019 | FY2019 | Capex tag | instrument | | -73.0 | -121 | -48.0 | | | | | millions | | | | | | Capex tag, FY2019 |  |
-| 0001336920/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | level and bend | 11.3 | 3.9 | -7.4 | 2.35 | 0.52 | 4.8 | 4.0 | percent of revenue | 9.2 | 6.7 | 1 | lone | 74 | Operating cash flow tag, FY2013 |  |
-| 0001336920/Operating cash flow growth/FY2014 | FY2014 | Operating cash flow growth | observed | level and bend | -63.1 | 527.9 | 591.0 | -31.01 | -213.00 | 88.4 | 428.5 | percent a year | 10.2 | 7.1 | 1 | lone | 74 | Operating cash flow tag, FY2013 |  |
+| 0001336920/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | level and bend | 11.3 | 3.9 | -7.4 | 2.35 | 0.52 | 4.8 | 4.0 | percent of revenue | 9.2 | 6.7 | 1 | lone | 74 | Operating cash flow tag, FY2013; Operating cash flow restatement, FY2013 |  |
+| 0001336920/Operating cash flow growth/FY2014 | FY2014 | Operating cash flow growth | observed | level and bend | -63.1 | 527.9 | 591.0 | -31.01 | -213.00 | 88.4 | 428.5 | percent a year | 10.2 | 7.1 | 1 | lone | 74 | Operating cash flow tag, FY2013; Operating cash flow restatement, FY2013 |  |
 | 0001336920/Operating cash flow growth/FY2018/2 | FY2018 | Operating cash flow growth | observed | bend | -111.1 | 28.0 | 139.1 | -213.00 | -2.81 | 428.5 | 43.9 | percent a year | 9.5 | 6.0 | 2 | lone | 74 | Operating cash flow tag, FY2017 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -397,4 +397,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2013-12-10 on, a share after a 1 for 4 split
 - Crosswalk: 2012-02-01 to 2012-10-31: EPS 1 as first filed, 4 after; EPS adjusted divides what was filed before by 0.25. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 0.25, of 2014-01-31, filed 2014-03-27)
+- Source: SEC EDGAR companyfacts
+
+### Change: Leidos Holdings, Inc., Restatement, Operating income, FY2012
+
+- CIK: 0001336920
+- What: Operating income restatement
+- Boundary: FY2012
+- Was: Operating income FY2011: 929 (10-K filed 2013-03-27, itself restated)
+- Now: Operating income FY2012 as last filed: FY2012 -58
+- Crosswalk: FY2012: 311 first filed (10-K, 2012-03-27), -58 last filed (10-K, 2014-03-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Leidos Holdings, Inc., Restatement, Operating cash flow, FY2013
+
+- CIK: 0001336920
+- What: Operating cash flow restatement
+- Boundary: FY2013
+- Was: Operating cash flow FY2012: 772 (10-K filed 2012-03-27, as first filed)
+- Now: Operating cash flow FY2013 as last filed: FY2013 24
+- Crosswalk: FY2013: 345 first filed (10-K, 2013-03-27), 24 last filed (10-K, 2015-03-25). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2013. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

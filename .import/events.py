@@ -47,11 +47,11 @@ SERIES = [  # name, short words, unit, numerator line, denominator line (None: g
 ]
 # which Change records make a series' instrument (E2)
 NEAR = {
-    'Revenue growth': ['Revenue tag'],
-    'Operating cash flow growth': ['Operating cash flow tag'],
-    'Net margin': ['Revenue tag', 'Net income tag'],
-    'Operating margin': ['Revenue tag'],
-    'Operating cash flow over revenue': ['Revenue tag', 'Operating cash flow tag'],
+    'Revenue growth': ['Revenue tag', 'Revenue part', 'Revenue restatement'],
+    'Operating cash flow growth': ['Operating cash flow tag', 'Operating cash flow restatement'],
+    'Net margin': ['Revenue tag', 'Net income tag', 'Revenue part', 'Revenue restatement', 'Net income restatement'],
+    'Operating margin': ['Revenue tag', 'Revenue part', 'Revenue restatement', 'Operating income restatement'],
+    'Operating cash flow over revenue': ['Revenue tag', 'Operating cash flow tag', 'Revenue part', 'Revenue restatement', 'Operating cash flow restatement'],
 }
 
 
@@ -447,7 +447,7 @@ An Event is **shared** when {SHARED_PEERS} or more other companies of its SIC di
 
 ## Read against the Changes (E8)
 
-{inst['total']:,} instrument Events (tags, year ends and gaps) were set against the Change records: every tag move and year end move has its Change record, and {r['change_without_event']} of {r['change_records']:,} tag and year-end Change records have no Event of the same line and year. {len(inst['unexplained'])} gaps have no Change record at all (a gap is the importer's silence, not a company's act). Of {len(first)} first-break observed Events, {near} lie within a year of a Change record of their series' own instrument (the table's column `Change record` says which); where a Change shows a revenue seam (the two tags' figures differ by more than a tenth) it says so.
+{inst['total']:,} instrument Events (tags, year ends and gaps) were set against the Change records: every tag move and year end move has its Change record, and {r['change_without_event']} of {r['change_records']:,} tag and year-end Change records have no Event of the same line and year. Each gap has a Change record of its own (`<line> gap`: what the filings give for the years, nothing filled across); {len(inst['unexplained'])} instrument Events have no Change record. Of {len(first)} first-break observed Events, {near} lie within a year of a Change record of their series' own instrument (the table's column `Change record` says which); where a Change shows a revenue seam (the two tags' figures differ by more than a tenth) it says so.
 
 ## What an Event is not
 

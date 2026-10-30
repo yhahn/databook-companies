@@ -13,7 +13,7 @@
 
 Fortive Corp, as it files with the SEC (CIK 0001659166): its fiscal years and quarters from its XBRL filings, FY2014 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Fortive Corp, and how has it grown?** It sold $4.2 billion in FY2025, the 430th most of the 487 companies with a revenue for the year, and the 180th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 32.7% from FY2015 to FY2025, −3.9% a year.
+**How large is Fortive Corp, and how has it grown?** It sold $4.2 billion in FY2025, the 431st most of the 486 companies with a revenue for the year, and the 180th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 32.7% from FY2015 to FY2025, −3.9% a year.
 
 **Does Fortive Corp make money, and how much of what it sells does it keep?** It earned $579 million in FY2025, 13.9% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 12 years in the book.
 
@@ -311,6 +311,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2023 under both: 865800000 and 865800000
+- Source: SEC EDGAR companyfacts
+
+### Change: Fortive Corp, Restatement, Operating income, FY2019
+
+- CIK: 0001659166
+- What: Operating income restatement
+- Boundary: FY2019
+- Was: Operating income FY2018: 645.3 (10-K filed 2021-02-26, itself restated)
+- Now: Operating income FY2019 as last filed: FY2019 443.9
+- Crosswalk: FY2019: 1004.1 first filed (10-K, 2020-02-27), 443.9 last filed (10-K, 2022-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2019. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: Fortive Corp, Segment members, 2025-10-29

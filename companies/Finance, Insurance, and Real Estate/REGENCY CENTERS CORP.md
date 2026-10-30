@@ -13,9 +13,9 @@
 
 REGENCY CENTERS CORP, as it files with the SEC (CIK 0000910606): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is REGENCY CENTERS CORP, and how has it grown?** It sold $1.6 billion in FY2025, the 483rd most of the 487 companies with a revenue for the year, and the 89th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 57.8% from FY2017 to FY2025, 5.9% a year.
+**How large is REGENCY CENTERS CORP, and how has it grown?** It sold $1.6 billion in FY2025, the 483rd most of the 486 companies with a revenue for the year, and the 89th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 57.8% from FY2017 to FY2025, 5.9% a year.
 
-**Does REGENCY CENTERS CORP make money, and how much of what it sells does it keep?** It earned $527 million in FY2025, 34% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 9 years in the book.
+**Does REGENCY CENTERS CORP make money, and how much of what it sells does it keep?** It earned $527 million in FY2025, 34% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 9 years in the book.
 
 **Where does REGENCY CENTERS CORP's cash go?** From FY2017 to FY2025 its operations brought in $5.9 billion; it spent 0% of that on plant and equipment, and 9.3% on buying back its own shares.
 

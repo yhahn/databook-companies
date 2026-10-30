@@ -13,7 +13,7 @@
 
 DEXCOM INC, as it files with the SEC (CIK 0001093557): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2022-07-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DEXCOM INC, and how has it grown?** It sold $4.7 billion in FY2025, the 417th most of the 487 companies with a revenue for the year, and the 174th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 1059.7% from FY2015 to FY2025, 27.8% a year.
+**How large is DEXCOM INC, and how has it grown?** It sold $4.7 billion in FY2025, the 418th most of the 486 companies with a revenue for the year, and the 174th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 1059.7% from FY2015 to FY2025, 27.8% a year.
 
 **Does DEXCOM INC make money, and how much of what it sells does it keep?** It earned $836 million in FY2025, 17.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 10 of its 17 years in the book (FY2009, FY2010, FY2011 and 7 more).
 
@@ -201,7 +201,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001093557/EPS diluted tag/FY2017 | FY2017 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2017 |  |
 | 0001093557/Net margin/FY2013 | FY2013 | Net margin | observed | bend | -36.9 | -17.2 | 19.7 | 43.21 | 3.26 | 45.1 | 16.5 | percent of revenue | 49.7 | 23.2 | 1 | lone | 201 | Revenue tag, FY2014 |  |
 | 0001093557/Operating margin/FY2013 | FY2013 | Operating margin | observed | bend | -41.0 | -13.3 | 27.6 | 33.03 | 0.29 | 40.3 | 11.0 | percent of revenue | 42.6 | 18.5 | 1 | lone | 201 | Revenue tag, FY2014 |  |
-| 0001093557/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | bend | -21.2 | 5.4 | 26.6 | 34.70 | 1.93 | 30.2 | 6.6 | percent of revenue | 127.4 | 24.2 | 1 | lone | 201 | Revenue tag, FY2014 |  |
+| 0001093557/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | bend | -21.2 | 5.4 | 26.6 | 34.70 | 1.93 | 30.2 | 6.6 | percent of revenue | 127.5 | 24.2 | 1 | lone | 201 | Revenue tag, FY2014 |  |
 | 0001093557/Operating margin/FY2019/2 | FY2019 | Operating margin | observed | level | -11.9 | 10.7 | 22.6 | 0.29 | 1.22 | 11.0 | 4.6 | percent of revenue | 11.1 | 11.0 | 2 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

@@ -13,7 +13,7 @@
 
 AMEREN CORP, as it files with the SEC (CIK 0001002910): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMEREN CORP, and how has it grown?** It sold $8.8 billion in FY2025, the 318th most of the 487 companies with a revenue for the year, and the 51st of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 44.3% from FY2015 to FY2025, 3.7% a year.
+**How large is AMEREN CORP, and how has it grown?** It sold $8.8 billion in FY2025, the 319th most of the 486 companies with a revenue for the year, and the 51st of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 44.3% from FY2015 to FY2025, 3.7% a year.
 
 **Does AMEREN CORP make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 16.6% of what it sold; the median company of its sector kept 12.9%. It lost money in 1 of its 19 years in the book (FY2012).
 
@@ -365,4 +365,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:EarningsPerShareBasicAndDiluted
 - Now: us-gaap:EarningsPerShareDiluted
 - Crosswalk: FY2012 under both: -4.01 and -4.01
+- Source: SEC EDGAR companyfacts
+
+### Change: AMEREN CORP, Restatement, Operating income, FY2012
+
+- CIK: 0001002910
+- What: Operating income restatement
+- Boundary: FY2012
+- Was: Operating income FY2011: 1033 (10-K filed 2014-03-03, itself restated)
+- Now: Operating income FY2012 as last filed: FY2012 1188
+- Crosswalk: FY2012: -1240 first filed (10-K, 2013-03-01), 1188 last filed (10-K, 2015-03-02). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

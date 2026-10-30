@@ -13,9 +13,9 @@
 
 Bank of New York Mellon Corp, as it files with the SEC (CIK 0001390777): its fiscal years and quarters from its XBRL filings, FY2008 to FY2025. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Bank of New York Mellon Corp, and how has it grown?** It sold $20.1 billion in FY2025, the 185th most of the 487 companies with a revenue for the year, and the 30th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 32.8% from FY2015 to FY2025, 2.9% a year.
+**How large is Bank of New York Mellon Corp, and how has it grown?** It sold $20.1 billion in FY2025, the 185th most of the 486 companies with a revenue for the year, and the 30th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 32.8% from FY2015 to FY2025, 2.9% a year.
 
-**Does Bank of New York Mellon Corp make money, and how much of what it sells does it keep?** It earned $5.5 billion in FY2025, 27.6% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 18 years in the book (FY2009).
+**Does Bank of New York Mellon Corp make money, and how much of what it sells does it keep?** It earned $5.5 billion in FY2025, 27.6% of what it sold; the median company of its sector kept 18.9%. It lost money in 1 of its 18 years in the book (FY2009).
 
 **Where does Bank of New York Mellon Corp's cash go?** From FY2016 to FY2025 its operations brought in $53.3 billion; it spent 23.2% of that on plant and equipment, and 49.8% on buying back its own shares.
 
@@ -175,8 +175,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001390777/Revenue gap/FY2016 | FY2016 | Revenue gap | instrument | | 15126 |  |  | | | | | millions | | | | | | none |  |
-| 0001390777/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | 23.4 | 15.2 | -8.2 | -0.86 | 4.22 | 2.7 | 1.5 | percent of revenue | 60.9 | 14.9 | 1 | lone | 94 |  |  |
+| 0001390777/Revenue gap/FY2016 | FY2016 | Revenue gap | instrument | | 15126 |  |  | | | | | millions | | | | | | Revenue gap, FY2016 |  |
+| 0001390777/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | 23.4 | 15.2 | -8.2 | -0.86 | 4.22 | 2.7 | 1.5 | percent of revenue | 61.1 | 14.9 | 1 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -279,3 +279,15 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
 | Capex | FY2007 | FY2026 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment |
 | Buybacks | FY2007 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
+
+## Changes
+
+### Change: Bank of New York Mellon Corp, Gap, Revenue, FY2016
+
+- CIK: 0001390777
+- What: Revenue gap
+- Boundary: FY2016
+- Was: Revenue FY2015: 15126
+- Now: no figure for FY2016; FY2017: 15543
+- Crosswalk: FY2016: no annual figure under any tag read; periods of 3, 6 months are filed. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts

@@ -13,9 +13,9 @@
 
 Cigna Group, as it files with the SEC (CIK 0001739940): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Cigna Group, and how has it grown?** It sold $274.9 billion in FY2025, the 12th most of the 487 companies with a revenue for the year, and the 2nd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 590% from FY2016 to FY2025, 23.9% a year.
+**How large is Cigna Group, and how has it grown?** It sold $274.9 billion in FY2025, the 12th most of the 486 companies with a revenue for the year, and the 2nd of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 590% from FY2016 to FY2025, 23.9% a year.
 
-**Does Cigna Group make money, and how much of what it sells does it keep?** It earned $6.0 billion in FY2025, 2.2% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 10 years in the book.
+**Does Cigna Group make money, and how much of what it sells does it keep?** It earned $6.0 billion in FY2025, 2.2% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 10 years in the book.
 
 **Where does Cigna Group's cash go?** From FY2016 to FY2025 its operations brought in $79.3 billion; it spent 3.2% of that on plant and equipment, and 47.3% on buying back its own shares.
 
@@ -125,7 +125,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001739940/Net income tag/FY2025 | FY2025 | Net income tag | instrument | | 3778 | 5957 | 2179 | | | | | millions | | | | | | Net income tag, FY2025 |  |
-| 0001739940/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level and bend | 4.4 | 5.5 | 1.1 | -1.18 | -0.58 | 1.3 | 1.9 | percent of revenue | 21.5 | 17.6 | 1 | shared | 94 |  |  |
+| 0001739940/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level and bend | 4.4 | 5.5 | 1.1 | -1.18 | -0.58 | 1.3 | 1.9 | percent of revenue | 22.0 | 17.6 | 1 | shared | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

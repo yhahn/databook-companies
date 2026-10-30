@@ -13,9 +13,9 @@
 
 REALTY INCOME CORP, as it files with the SEC (CIK 0000726728): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is REALTY INCOME CORP, and how has it grown?** It sold $5.7 billion in FY2025, the 385th most of the 487 companies with a revenue for the year, and the 69th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 421.2% from FY2016 to FY2025, 20.1% a year.
+**How large is REALTY INCOME CORP, and how has it grown?** It sold $5.7 billion in FY2025, the 386th most of the 486 companies with a revenue for the year, and the 69th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 421.2% from FY2016 to FY2025, 20.1% a year.
 
-**Does REALTY INCOME CORP make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 18.4% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 18 years in the book.
+**Does REALTY INCOME CORP make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 18.4% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 18 years in the book.
 
 **Where does REALTY INCOME CORP's cash go?** From FY2016 to FY2025 its operations brought in $19.2 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -134,14 +134,14 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000726728/Revenue gap/FY2012 | FY2012 | Revenue gap | instrument | | 417 |  |  | | | | | millions | | | | | | none |  |
+| 0000726728/Revenue gap/FY2012 | FY2012 | Revenue gap | instrument | | 417 |  |  | | | | | millions | | | | | | Revenue gap, FY2012 |  |
 | 0000726728/EPS diluted tag/FY2014 | FY2014 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2014 |  |
 | 0000726728/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | | 417 | 1103 | 686 | | | | | millions | | | | | | Revenue tag, FY2016 |  |
 | 0000726728/EPS diluted tag/FY2018 | FY2018 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2018 |  |
 | 0000726728/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 1328 | 1488 | 160 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
 | 0000726728/Net income tag/FY2026 | FY2026 | Net income tag | instrument | | 1059 |  |  | | | | | millions | | | | | | Net income tag, FY2026 |  |
 | 0000726728/Operating cash flow growth/FY2014/2 | FY2014 | Operating cash flow growth | observed | bend | 45.2 | 11.7 | -33.5 | 13.55 | 1.53 | 30.5 | 47.5 | percent a year | 8.7 | 5.6 | 2 | lone | 94 |  |  |
-| 0000726728/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | 20.4 | 52.4 | 32.0 | 3.37 | -14.77 | 10.7 | 26.1 | percent a year | 11.0 | 8.9 | 1 | lone | 94 |  |  |
+| 0000726728/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | 20.4 | 52.4 | 32.0 | 3.37 | -14.77 | 10.7 | 26.1 | percent a year | 10.9 | 8.9 | 1 | lone | 94 |  |  |
 | 0000726728/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level | 65.7 | 75.6 | 9.9 | -1.62 | -2.63 | 3.8 | 4.6 | percent of revenue | 12.0 | 7.0 | 1 | shared | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -343,4 +343,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:EarningsPerShareBasicAndDiluted
 - Now: us-gaap:EarningsPerShareDiluted
 - Crosswalk: FY2018 under both: 1.26 and 1.26
+- Source: SEC EDGAR companyfacts
+
+### Change: REALTY INCOME CORP, Gap, Revenue, FY2012 to FY2015
+
+- CIK: 0000726728
+- What: Revenue gap
+- Boundary: FY2012
+- Was: Revenue FY2011: 416.73
+- Now: no figure for FY2012 to FY2015; FY2016: 1103.172
+- Crosswalk: FY2012: no annual figure under any tag read; periods of 3 months are filed; FY2013 to FY2015: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

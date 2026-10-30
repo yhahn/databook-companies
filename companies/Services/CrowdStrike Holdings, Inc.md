@@ -13,7 +13,7 @@
 
 CrowdStrike Holdings, Inc., as it files with the SEC (CIK 0001535527): its fiscal years and quarters from its XBRL filings, FY2018 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2026-08-27, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CrowdStrike Holdings, Inc., and how has it grown?** It sold $4.0 billion in FY2025, the 440th most of the 487 companies with a revenue for the year, and the 61st of 75 in [Services](../Services.md). Its sales rose 3229.3% from FY2018 to FY2025, 65% a year.
+**How large is CrowdStrike Holdings, Inc., and how has it grown?** It sold $4.0 billion in FY2025, the 441st most of the 486 companies with a revenue for the year, and the 61st of 75 in [Services](../Services.md). Its sales rose 3229.3% from FY2018 to FY2025, 65% a year.
 
 **Does CrowdStrike Holdings, Inc. make money, and how much of what it sells does it keep?** It earned −$15 million in FY2025, −0.4% of what it sold; the median company of its sector kept 15.8%. It lost money in 8 of its 9 years in the book (FY2018, FY2019, FY2020 and 5 more).
 
@@ -128,7 +128,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001535527/EPS diluted tag/FY2021 | FY2021 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2021 |  |
 | 0001535527/Operating margin/FY2022 | FY2022 | Operating margin | observed | level and bend | -2.9 | -9.7 | -6.9 | 32.48 | 2.85 | 26.4 | 5.8 | percent of revenue | 12.5 | 11.6 | 1 | lone | 74 |  |  |
-| 0001535527/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level and bend | 45.8 | 41.3 | -4.5 | 30.07 | -1.78 | 14.1 | 4.4 | percent of revenue | 53.0 | 12.6 | 1 | lone | 74 |  |  |
+| 0001535527/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | level and bend | 45.8 | 41.3 | -4.5 | 30.07 | -1.78 | 14.1 | 4.4 | percent of revenue | 53.1 | 12.6 | 1 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -280,4 +280,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2026-08-27 on, a share after a 4 for 1 split
 - Crosswalk: 2025-02-01 to 2025-07-31: shares 249182000 as first filed, 996730000 after; EPS adjusted divides what was filed before by 4. Found in 2 periods restated; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 4, of 2026-06-03, filed 2026-08-27)
+- Source: SEC EDGAR companyfacts
+
+### Change: CrowdStrike Holdings, Inc., Restatement, Operating income, FY2024
+
+- CIK: 0001535527
+- What: Operating income restatement
+- Boundary: FY2024
+- Was: Operating income FY2023: -190.112 (10-K filed 2025-03-10, as first filed)
+- Now: Operating income FY2024 as last filed: FY2024 -19.141
+- Crosswalk: FY2024: -1.995 first filed (10-K, 2024-03-07), -19.141 last filed (10-K, 2026-03-05). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2024. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

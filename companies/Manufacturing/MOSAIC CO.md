@@ -13,7 +13,7 @@
 
 MOSAIC CO, as it files with the SEC (CIK 0001285785): its fiscal years and quarters from its XBRL filings, FY2018 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is MOSAIC CO, and how has it grown?** It sold $12.1 billion in FY2025, the 278th most of the 487 companies with a revenue for the year, and the 107th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 25.7% from FY2018 to FY2025, 3.3% a year.
+**How large is MOSAIC CO, and how has it grown?** It sold $12.1 billion in FY2025, the 278th most of the 486 companies with a revenue for the year, and the 107th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 25.7% from FY2018 to FY2025, 3.3% a year.
 
 **Does MOSAIC CO make money, and how much of what it sells does it keep?** It earned $541 million in FY2025, 4.5% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 8 years in the book (FY2019).
 
@@ -124,7 +124,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001285785/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | |  |  |  | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0001285785/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | |  |  |  | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
-| 0001285785/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | bend | 18.0 | 21.2 | 3.3 | 1.49 | -4.71 | 4.8 | 1.8 | percent of revenue | 23.4 | 11.1 | 1 | lone | 201 |  |  |
+| 0001285785/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | bend | 18.0 | 21.2 | 3.3 | 1.49 | -4.71 | 4.8 | 1.8 | percent of revenue | 23.5 | 11.1 | 1 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

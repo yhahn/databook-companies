@@ -13,7 +13,7 @@
 
 S&P Global Inc., as it files with the SEC (CIK 0000064040): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is S&P Global Inc., and how has it grown?** It sold $15.3 billion in FY2025, the 234th most of the 487 companies with a revenue for the year, and the 28th of 75 in [Services](../Services.md). Its sales rose 188.7% from FY2015 to FY2025, 11.2% a year.
+**How large is S&P Global Inc., and how has it grown?** It sold $15.3 billion in FY2025, the 234th most of the 486 companies with a revenue for the year, and the 28th of 75 in [Services](../Services.md). Its sales rose 188.7% from FY2015 to FY2025, 11.2% a year.
 
 **Does S&P Global Inc. make money, and how much of what it sells does it keep?** It earned $4.5 billion in FY2025, 29.2% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 19 years in the book (FY2014).
 
@@ -206,8 +206,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000064040/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 730 | 782 | 52.0 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
 | 0000064040/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 356 | 1560 | 1204 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000064040/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 5661 | 6063 | 402 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000064040/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 13.7 | 28.8 | 15.2 | 1.73 | -7.85 | 22.0 | 15.6 | percent a year | 6.6 | 6.2 | 2 | lone | 74 |  |  |
-| 0000064040/Operating cash flow over revenue/FY2022/2 | FY2022 | Operating cash flow over revenue | observed | bend | 39.0 | 24.8 | -14.2 | 1.76 | 5.11 | 16.5 | 8.6 | percent of revenue | 14.3 | 10.5 | 2 | shared | 74 |  |  |
+| 0000064040/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 13.7 | 28.8 | 15.2 | 1.73 | -7.85 | 22.0 | 15.6 | percent a year | 6.5 | 6.2 | 2 | lone | 74 |  |  |
+| 0000064040/Operating cash flow over revenue/FY2022/2 | FY2022 | Operating cash flow over revenue | observed | bend | 39.0 | 24.8 | -14.2 | 1.76 | 5.11 | 16.5 | 8.6 | percent of revenue | 14.2 | 10.5 | 2 | shared | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -490,4 +490,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: S&P Global Inc., Restatement, Operating cash flow, FY2010
+
+- CIK: 0000064040
+- What: Operating cash flow restatement
+- Boundary: FY2010
+- Was: Operating cash flow FY2009: 1330 (10-K filed 2012-02-07, itself restated)
+- Now: Operating cash flow FY2010 as last filed: FY2010 704
+- Crosswalk: FY2010: 1458.179 first filed (10-K, 2011-02-23), 704 last filed (10-K/A, 2013-03-20). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

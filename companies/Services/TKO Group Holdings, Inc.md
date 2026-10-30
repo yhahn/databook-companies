@@ -13,7 +13,7 @@
 
 TKO Group Holdings, Inc., as it files with the SEC (CIK 0001973266): its fiscal years and quarters from its XBRL filings, FY2021 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is TKO Group Holdings, Inc., and how has it grown?** It sold $4.7 billion in FY2025, the 412th most of the 487 companies with a revenue for the year, and the 55th of 75 in [Services](../Services.md). Its sales rose 358.9% from FY2021 to FY2025, 46.4% a year.
+**How large is TKO Group Holdings, Inc., and how has it grown?** It sold $4.7 billion in FY2025, the 413th most of the 486 companies with a revenue for the year, and the 55th of 75 in [Services](../Services.md). Its sales rose 358.9% from FY2021 to FY2025, 46.4% a year.
 
 **Does TKO Group Holdings, Inc. make money, and how much of what it sells does it keep?** It earned $195 million in FY2025, 4.1% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 5 years in the book (FY2023).
 
@@ -210,4 +210,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2023 under both: 142999000 and -35227000; the new tag's figure is under half or over twice the old, or of the other sign: ProfitLoss counts the income of others in subsidiaries and consolidated funds, NetIncomeLoss only the parent's, and the line is the parent's where it is filed
+- Source: SEC EDGAR companyfacts
+
+### Change: TKO Group Holdings, Inc., Restatement, Revenue, FY2022
+
+- CIK: 0001973266
+- What: Revenue restatement
+- Boundary: FY2022
+- Was: Revenue FY2021: 1031.944 (10-K filed 2024-02-27, as first filed)
+- Now: Revenue FY2022 as last filed: FY2022 2674.032
+- Crosswalk: FY2022: 1140.147 first filed (10-K, 2024-02-27), 2674.032 last filed (8-K, 2025-05-08). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2022. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: TKO Group Holdings, Inc., Restatement, Operating income, FY2024
+
+- CIK: 0001973266
+- What: Operating income restatement
+- Boundary: FY2024
+- Was: Operating income FY2023: 375.78 (10-K filed 2026-02-25, itself restated)
+- Now: Operating income FY2024 as last filed: FY2024 30.946
+- Crosswalk: FY2024: 282.902 first filed (10-K, 2025-02-26), 30.946 last filed (10-K, 2026-02-25). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2024. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

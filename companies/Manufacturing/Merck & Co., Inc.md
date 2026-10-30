@@ -13,7 +13,7 @@
 
 Merck & Co., Inc., as it files with the SEC (CIK 0000310158): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Merck & Co., Inc., and how has it grown?** It sold $65.0 billion in FY2025, the 61st most of the 487 companies with a revenue for the year, and the 23rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 63.3% from FY2016 to FY2025, 5.6% a year.
+**How large is Merck & Co., Inc., and how has it grown?** It sold $65.0 billion in FY2025, the 61st most of the 486 companies with a revenue for the year, and the 23rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 63.3% from FY2016 to FY2025, 5.6% a year.
 
 **Does Merck & Co., Inc. make money, and how much of what it sells does it keep?** It earned $18.3 billion in FY2025, 28.1% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -178,7 +178,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000310158/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 45987 |  |  | | | | | millions | | | | | | none |  |
+| 0000310158/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 45987 |  |  | | | | | millions | | | | | | Revenue gap, FY2011 |  |
 | 0000310158/Operating cash flow tag/FY2021 | FY2021 | Operating cash flow tag | instrument | | 10253 | 13122 | 2869 | | | | | millions | | | | | | Operating cash flow tag, FY2021 |  |
 | 0000310158/Capex tag/FY2022 | FY2022 | Capex tag | instrument | | -4448 | -4388 | 60.0 | | | | | millions | | | | | | Capex tag, FY2022 |  |
 | 0000310158/Operating cash flow tag/FY2022 | FY2022 | Operating cash flow tag | instrument | | 13122 | 19095 | 5973 | | | | | millions | | | | | | Operating cash flow tag, FY2022 |  |
@@ -386,4 +386,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: FY2022 under both: 4388000000 and 4388000000
+- Source: SEC EDGAR companyfacts
+
+### Change: Merck & Co., Inc., Gap, Revenue, FY2011 to FY2015
+
+- CIK: 0000310158
+- What: Revenue gap
+- Boundary: FY2011
+- Was: Revenue FY2010: 45987
+- Now: no figure for FY2011 to FY2015; FY2016: 39807
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 3 months are filed; FY2012 to FY2015: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

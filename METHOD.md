@@ -22,26 +22,26 @@ A candidate is an Event only if its gain is above the 95th percentile of the gai
 
 ## The false-break rate, for the whole book
 
-Each series is also tried on 100 fresh draws of the same noise, seeded apart, and those over its threshold are counted. Summed over a series' draws, the per-series 5% is the rate the rule keeps: about 1 series in 20 would show an Event where nothing moved. For 2,190 series:
+Each series is also tried on 100 fresh draws of the same noise, seeded apart, and those over its threshold are counted. Summed over a series' draws, the per-series 5% is the rate the rule keeps: about 1 series in 20 would show an Event where nothing moved. For 2,187 series:
 
 | Series | Series read | Events found, first break | Chance alone gives, first break | Events found, second break | Chance alone gives, second break |
 |---|---|---|---|---|---|
-| Revenue growth | 457 | 36 | 23.7 | 36 | 19.3 |
+| Revenue growth | 456 | 35 | 23.7 | 36 | 19.4 |
 | Operating cash flow growth | 425 | 12 | 22.0 | 30 | 17.5 |
-| Net margin | 465 | 71 | 24.4 | 39 | 18.9 |
-| Operating margin | 373 | 62 | 20.2 | 45 | 16.1 |
-| Operating cash flow over revenue | 470 | 68 | 25.2 | 42 | 19.5 |
-| All | 2190 | 249 | 115.5 | 192 | 91.4 |
+| Net margin | 464 | 69 | 24.3 | 40 | 19.0 |
+| Operating margin | 373 | 62 | 20.2 | 46 | 16.1 |
+| Operating cash flow over revenue | 469 | 67 | 25.1 | 42 | 19.5 |
+| All | 2187 | 245 | 115.3 | 194 | 91.4 |
 
-So of the 249 first-break Events about 116 are what chance makes, and of the 192 second-break Events about 91. The rule keeps a 5% bar for each series, as habitat's does; a book that wants fewer false Events sets `PCT` higher in `.import/events.py`. Operating cash flow growth finds 12 first breaks against 22.0 by chance: no more than noise.
+So of the 245 first-break Events about 115 are what chance makes, and of the 194 second-break Events about 91. The rule keeps a 5% bar for each series, as habitat's does; a book that wants fewer false Events sets `PCT` higher in `.import/events.py`. Operating cash flow growth finds 12 first breaks against 22.0 by chance: no more than noise.
 
 ## Shared or lone
 
-An Event is **shared** when 3 or more other companies of its SIC division (the peers; 8 divisions, the coarse grouping that beats chance here and the fine ones, three and four digits of the SIC code, do not) have a split of their own in the same series, the same fiscal year and the same direction, at 80% of their own threshold or more; otherwise it is **lone**. Of 249 first-break Events, 60 are shared. If every peer's split fell on a year at random, with the book's rate for that year and direction, about 44 would be. A division is wide (software sits in Services and in Manufacturing); read shared as the year's and lone as the company's only with that in view.
+An Event is **shared** when 3 or more other companies of its SIC division (the peers; 8 divisions, the coarse grouping that beats chance here and the fine ones, three and four digits of the SIC code, do not) have a split of their own in the same series, the same fiscal year and the same direction, at 80% of their own threshold or more; otherwise it is **lone**. Of 245 first-break Events, 60 are shared. If every peer's split fell on a year at random, with the book's rate for that year and direction, about 43 would be. A division is wide (software sits in Services and in Manufacturing); read shared as the year's and lone as the company's only with that in view.
 
 ## Read against the Changes (E8)
 
-1,210 instrument Events (tags, year ends and gaps) were set against the Change records: every tag move and year end move has its Change record, and 0 of 1,150 tag and year-end Change records have no Event of the same line and year. 60 gaps have no Change record at all (a gap is the importer's silence, not a company's act). Of 249 first-break observed Events, 68 lie within a year of a Change record of their series' own instrument (the table's column `Change record` says which); where a Change shows a revenue seam (the two tags' figures differ by more than a tenth) it says so.
+1,210 instrument Events (tags, year ends and gaps) were set against the Change records: every tag move and year end move has its Change record, and 0 of 1,150 tag and year-end Change records have no Event of the same line and year. Each gap has a Change record of its own (`<line> gap`: what the filings give for the years, nothing filled across); 0 instrument Events have no Change record. Of 245 first-break observed Events, 74 lie within a year of a Change record of their series' own instrument (the table's column `Change record` says which); where a Change shows a revenue seam (the two tags' figures differ by more than a tenth) it says so.
 
 ## What an Event is not
 

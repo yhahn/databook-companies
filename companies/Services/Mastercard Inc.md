@@ -13,7 +13,7 @@
 
 Mastercard Inc, as it files with the SEC (CIK 0001141391): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2014-02-14, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Mastercard Inc, and how has it grown?** It sold $32.8 billion in FY2025, the 118th most of the 487 companies with a revenue for the year, and the 13th of 75 in [Services](../Services.md). Its sales rose 239.2% from FY2015 to FY2025, 13% a year.
+**How large is Mastercard Inc, and how has it grown?** It sold $32.8 billion in FY2025, the 118th most of the 486 companies with a revenue for the year, and the 13th of 75 in [Services](../Services.md). Its sales rose 239.2% from FY2015 to FY2025, 13% a year.
 
 **Does Mastercard Inc make money, and how much of what it sells does it keep?** It earned $15.0 billion in FY2025, 45.6% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 19 years in the book (FY2008).
 
@@ -205,11 +205,11 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001141391/Revenue tag/FY2015 | FY2015 | Revenue tag | instrument | | 9473 | 9667 | 194 | | | | | millions | | | | | | Revenue tag, FY2015 |  |
 | 0001141391/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 10776 | 12497 | 1721 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001141391/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 12497 | 21831 | 9334 | | | | | millions | | | | | | Revenue tag, FY2018 (the two tags' figures differ, x0.68) |  |
-| 0001141391/Revenue gap/FY2022 | FY2022 | Revenue gap | instrument | | 29845 |  |  | | | | | millions | | | | | | none |  |
+| 0001141391/Revenue gap/FY2022 | FY2022 | Revenue gap | instrument | | 29845 |  |  | | | | | millions | | | | | | Revenue gap, FY2022 |  |
 | 0001141391/Revenue tag/FY2023 | FY2023 | Revenue tag | instrument | |  | 25098 |  | | | | | millions | | | | | | Revenue tag, FY2023 |  |
 | 0001141391/Operating cash flow over revenue/FY2014 | FY2014 | Operating cash flow over revenue | observed | level and bend | 48.6 | 37.4 | -11.2 | 6.00 | 2.87 | 11.5 | 3.7 | percent of revenue | 17.4 | 16.6 | 1 | lone | 74 | Revenue tag, FY2015 |  |
 | 0001141391/Operating margin/FY2018/2 | FY2018 | Operating margin | observed | level | 62.5 | 35.5 | -27.0 | 3.93 | -0.32 | 30.2 | 5.9 | percent of revenue | 19.4 | 6.9 | 2 | lone | 74 | Revenue tag, FY2017; Revenue tag, FY2018 (the two tags' figures differ, x0.68) |  |
-| 0001141391/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | level and bend | 46.0 | 29.8 | -16.2 | 2.87 | 0.74 | 3.7 | 3.7 | percent of revenue | 23.8 | 9.7 | 2 | lone | 74 | Revenue tag, FY2017; Revenue tag, FY2018 (the two tags' figures differ, x0.68) |  |
+| 0001141391/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | level and bend | 46.0 | 29.8 | -16.2 | 2.87 | 0.74 | 3.7 | 3.7 | percent of revenue | 23.6 | 9.7 | 2 | lone | 74 | Revenue tag, FY2017; Revenue tag, FY2018 (the two tags' figures differ, x0.68) |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -426,4 +426,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2014-02-14 on, a share after a 10 for 1 split
 - Crosswalk: 2011-01-01 to 2011-12-31: EPS 14.85 as first filed, 1.48 after; EPS adjusted divides what was filed before by 10. Found in 11 periods restated; a period's EPS and its shares; the company files no split fact of its own for it
+- Source: SEC EDGAR companyfacts
+
+### Change: Mastercard Inc, Gap, Revenue, FY2022
+
+- CIK: 0001141391
+- What: Revenue gap
+- Boundary: FY2022
+- Was: Revenue FY2021: 29845
+- Now: no figure for FY2022; FY2023: 25098
+- Crosswalk: FY2022: an annual figure is filed under us-gaap:Revenues (22237, 10-K filed 2025-02-12) and the cascade did not take it; periods of 3, 6, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 Philip Morris International Inc., as it files with the SEC (CIK 0001413329): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Philip Morris International Inc., and how has it grown?** It sold $40.6 billion in FY2025, the 95th most of the 487 companies with a revenue for the year, and the 42nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 45% from FY2015 to FY2025, −5.8% a year.
+**How large is Philip Morris International Inc., and how has it grown?** It sold $40.6 billion in FY2025, the 95th most of the 486 companies with a revenue for the year, and the 42nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 45% from FY2015 to FY2025, −5.8% a year.
 
 **Does Philip Morris International Inc. make money, and how much of what it sells does it keep?** It earned $11.3 billion in FY2025, 27.9% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -221,8 +221,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001413329/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 78098 | 79823 | 1725 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001413329/Revenue tag/FY2023 | FY2023 | Revenue tag | instrument | | 80669 | 35174 | -45495 | | | | | millions | | | | | | Revenue tag, FY2023 |  |
-| 0001413329/Revenue growth/FY2016/2 | FY2016 | Revenue growth | observed | bend | -3.4 | 2.3 | 5.7 | -2.10 | -1.23 | 12.5 | 39.0 | percent a year | 12.9 | 6.4 | 2 | lone | 201 | Revenue tag kept, FY2017 (the two tags' figures differ, x2.72) |  |
-| 0001413329/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | bend | 11.9 | 13.3 | 1.4 | -0.01 | 4.99 | 2.7 | 8.7 | percent of revenue | 40.2 | 27.9 | 1 | shared | 201 |  |  |
+| 0001413329/Revenue growth/FY2016/2 | FY2016 | Revenue growth | observed | bend | -3.4 | 2.3 | 5.7 | -2.10 | -1.23 | 12.5 | 39.0 | percent a year | 13.1 | 6.4 | 2 | lone | 201 | Revenue tag kept, FY2017 (the two tags' figures differ, x2.72) |  |
+| 0001413329/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | bend | 11.9 | 13.3 | 1.4 | -0.01 | 4.99 | 2.7 | 8.7 | percent of revenue | 40.1 | 27.9 | 1 | shared | 201 |  |  |
 | 0001413329/Net margin/FY2022 | FY2022 | Net margin | observed | bend | 9.5 | 13.0 | 3.5 | -0.09 | 4.65 | 1.9 | 8.6 | percent of revenue | 40.2 | 14.5 | 1 | shared | 201 | Revenue tag, FY2023 |  |
 | 0001413329/Operating margin/FY2022 | FY2022 | Operating margin | observed | bend | 14.5 | 20.0 | 5.5 | -0.17 | 6.69 | 2.1 | 12.2 | percent of revenue | 46.1 | 19.8 | 1 | shared | 201 | Revenue tag, FY2023 |  |
 

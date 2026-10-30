@@ -13,9 +13,9 @@
 
 Invitation Homes Inc., as it files with the SEC (CIK 0001687229): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Invitation Homes Inc., and how has it grown?** It sold $2.7 billion in FY2025, the 466th most of the 487 companies with a revenue for the year, and the 83rd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 4484.4% from FY2015 to FY2025, 46.6% a year.
+**How large is Invitation Homes Inc., and how has it grown?** It sold $2.7 billion in FY2025, the 467th most of the 486 companies with a revenue for the year, and the 83rd of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 4484.4% from FY2015 to FY2025, 46.6% a year.
 
-**Does Invitation Homes Inc. make money, and how much of what it sells does it keep?** It earned $588 million in FY2025, 21.5% of what it sold; the median company of its sector kept 19.2%. It lost money in 4 of its 11 years in the book (FY2015, FY2016, FY2017, FY2018).
+**Does Invitation Homes Inc. make money, and how much of what it sells does it keep?** It earned $588 million in FY2025, 21.5% of what it sold; the median company of its sector kept 18.9%. It lost money in 4 of its 11 years in the book (FY2015, FY2016, FY2017, FY2018).
 
 **Where does Invitation Homes Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $7.8 billion; it spent 0.2% of that on plant and equipment, and 0.7% on buying back its own shares.
 

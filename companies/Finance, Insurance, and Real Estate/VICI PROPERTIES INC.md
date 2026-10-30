@@ -13,9 +13,9 @@
 
 VICI PROPERTIES INC., as it files with the SEC (CIK 0001705696): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VICI PROPERTIES INC., and how has it grown?** It sold $4.0 billion in FY2025, the 438th most of the 487 companies with a revenue for the year, and the 77th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 2035.4% from FY2017 to FY2025, 46.6% a year.
+**How large is VICI PROPERTIES INC., and how has it grown?** It sold $4.0 billion in FY2025, the 439th most of the 486 companies with a revenue for the year, and the 77th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 2035.4% from FY2017 to FY2025, 46.6% a year.
 
-**Does VICI PROPERTIES INC. make money, and how much of what it sells does it keep?** It earned $2.8 billion in FY2025, 69.3% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 9 years in the book.
+**Does VICI PROPERTIES INC. make money, and how much of what it sells does it keep?** It earned $2.8 billion in FY2025, 69.3% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 9 years in the book.
 
 **Where does VICI PROPERTIES INC.'s cash go?** From FY2018 to FY2025 its operations brought in $12.0 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -171,4 +171,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:SalesRevenueNet
 - Now: us-gaap:Revenues
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: VICI PROPERTIES INC., Restatement, Operating income, FY2018 to FY2019
+
+- CIK: 0001705696
+- What: Operating income restatement
+- Boundary: FY2018
+- Was: Operating income FY2017: 144.196 (10-K filed 2018-03-28, as first filed)
+- Now: Operating income FY2018 to FY2019 as last filed: FY2018 140.023, FY2019 52.299
+- Crosswalk: FY2018: 757.954 first filed (10-K, 2019-02-14), 140.023 last filed (10-K, 2021-02-18); FY2019: 842.499 first filed (10-K, 2020-02-20), 52.299 last filed (10-K, 2021-02-18). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2018. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

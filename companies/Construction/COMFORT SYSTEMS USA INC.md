@@ -13,9 +13,9 @@
 
 COMFORT SYSTEMS USA INC, as it files with the SEC (CIK 0001035983): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is COMFORT SYSTEMS USA INC, and how has it grown?** It sold $1.8 billion in FY2025, the 478th most of the 487 companies with a revenue for the year, and the 8th of 8 in [Construction](../Construction.md). Its sales rose 15.9% from FY2015 to FY2025, 1.5% a year.
+**How large is COMFORT SYSTEMS USA INC, and how has it grown?** It sold $9.1 billion in FY2025, the 312th most of the 486 companies with a revenue for the year, and the 8th of 8 in [Construction](../Construction.md). Its sales rose 475.9% from FY2015 to FY2025, 19.1% a year.
 
-**Does COMFORT SYSTEMS USA INC make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 55.8% of what it sold; the median company of its sector kept 9%. It lost money in 1 of its 17 years in the book (FY2011).
+**Does COMFORT SYSTEMS USA INC make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 11.2% of what it sold; the median company of its sector kept 9%. It lost money in 1 of its 17 years in the book (FY2011).
 
 **Where does COMFORT SYSTEMS USA INC's cash go?** From FY2016 to FY2025 its operations brought in $3.9 billion; it spent 14.6% of that on plant and equipment, and 11.7% on buying back its own shares.
 
@@ -24,9 +24,9 @@ COMFORT SYSTEMS USA INC, as it files with the SEC (CIK 0001035983): its fiscal y
 > [!CARD:line] COMFORT SYSTEMS USA INC, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  | 1128.907 | 1063.52 | 1216.654 | 1331.185 | 1357.272 | 1410.795 | 1580.519 | 1634.34 | 1787.922 | 2182.879 | 2615.277 | 2856.659 | 3073.636 | 4140.364 | 5206.76 | 7027.476 | 1831.286 |  |
-> | Gross profit |  |  |  | 225.55 | 189.931 | 181.53 | 207.621 | 239.883 | 249.771 | 318.129 | 344.009 | 366.281 | 446.279 | 501.943 | 546.983 | 563.207 | 741.608 | 990.509 | 1476.411 | 403.416 |  |
-> | Operating income |  |  |  | 56.633 | 31.442 | -42.641 | 22.303 | 46.258 | 42.222 | 90.044 | 101.569 | 99.26 | 150.238 | 163.639 | 190.651 | 188.438 | 253.849 | 418.388 | 749.369 | 209.098 |  |
+> | Revenue |  |  |  | 1128.907 | 1063.52 | 1216.654 | 1331.185 | 1357.272 | 1410.795 | 1580.519 | 1634.34 | 1787.922 | 2182.879 | 2615.277 | 2856.659 | 3073.636 | 4140.364 | 5206.76 | 7027.476 | 9101.641 |  |
+> | Gross profit |  |  |  | 225.55 | 189.931 | 181.53 | 207.621 | 239.883 | 249.771 | 318.129 | 344.009 | 366.281 | 446.279 | 501.943 | 546.983 | 563.207 | 741.608 | 990.509 | 1476.411 | 2195.899 |  |
+> | Operating income |  |  |  | 56.633 | 31.442 | -42.641 | 22.303 | 46.258 | 42.222 | 90.044 | 101.569 | 99.26 | 150.238 | 163.639 | 190.651 | 188.438 | 253.849 | 418.388 | 749.369 | 1314.589 |  |
 > | Net income |  |  |  | 34.182 | 14.74 | -36.492 | 11.849 | 28.556 | 23.063 | 49.364 | 64.896 | 55.272 | 112.903 | 114.324 | 150.139 | 143.348 | 245.947 | 323.398 | 522.433 | 1022.558 |  |
 > | Operating cash flow |  |  |  | 54.251 | 32.149 | 29.68 | 30.51 | 38.423 | 42.552 | 97.867 | 91.188 | 114.09 | 147.19 | 142.028 | 286.51 | 180.151 | 301.531 | 639.568 | 849.057 | 1186.356 |  |
 > | Capex |  |  |  | -9.457 | -7.089 | -8.666 | -11.782 | -17.403 | -19.183 | -20.808 | -23.217 | -35.467 | -27.268 | -31.75 | -24.131 | -22.33 | -48.359 | -94.838 | -111.071 | -154.903 |  |
@@ -188,9 +188,9 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
 | Capex | FY2024 | us-gaap:PaymentsToAcquirePropertyPlantAndEquipment | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
 | Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
-| Revenue | FY2025 | us-gaap:Revenues | 10-Q | 2026-04-23 | 0001104659-26-047689 | yes | 9101.641 | 10-K | 2026-02-19 | 0001104659-26-017530 |
-| Gross profit | FY2025 | us-gaap:GrossProfit | 10-Q | 2026-04-23 | 0001104659-26-047689 | yes | 2195.899 | 10-K | 2026-02-19 | 0001104659-26-017530 |
-| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-Q | 2026-04-23 | 0001104659-26-047689 | yes | 1314.589 | 10-K | 2026-02-19 | 0001104659-26-017530 |
+| Revenue | FY2025 | us-gaap:Revenues | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
+| Gross profit | FY2025 | us-gaap:GrossProfit | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
+| Operating income | FY2025 | us-gaap:OperatingIncomeLoss | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
 | Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
 | EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-19 | 0001104659-26-017530 |  |  |  |  |  |
@@ -207,38 +207,28 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001035983/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 1634 | 1788 | 154 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001035983/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 1788 | 2183 | 395 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001035983/Revenue tag/FY2021 | FY2021 | Revenue tag | instrument | | 2857 | 3074 | 217 | | | | | millions | | | | | | Revenue tag, FY2021 |  |
-| 0001035983/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | bend | 14.4 | 52.9 | 38.5 | 0.99 | -31.67 | 14.1 | 81.1 | percent a year | 7.9 | 7.7 | 1 | lone | 7 | Revenue tag, FY2021 |  |
-| 0001035983/Net margin/FY2022 | FY2022 | Net margin | observed | bend | 5.2 | -3.8 | -9.0 | 0.42 | 15.09 | 3.2 | 36.3 | percent of revenue | 10.6 | 8.3 | 1 | lone | 7 | Revenue tag, FY2021 |  |
-| 0001035983/Operating cash flow over revenue/FY2022 | FY2022 | Operating cash flow over revenue | observed | bend | 7.5 | -1.7 | -9.2 | 0.42 | 17.23 | 3.1 | 37.6 | percent of revenue | 13.3 | 8.5 | 1 | lone | 7 | Revenue tag, FY2021 |  |
+| 0001035983/Net margin/FY2021/2 | FY2021 | Net margin | observed | bend | 5.0 | 4.2 | -0.9 | 0.44 | 1.46 | 3.3 | 2.2 | percent of revenue | 9.7 | 8.6 | 2 | lone | 7 | Revenue tag, FY2021 |  |
+| 0001035983/Operating margin/FY2021/2 | FY2021 | Operating margin | observed | bend | 7.1 | 4.8 | -2.2 | 0.53 | 2.12 | 4.6 | 2.5 | percent of revenue | 13.3 | 10.1 | 2 | lone | 7 | Revenue tag, FY2021 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
-
-### Revenue growth
-
-> [!CARD:line] Revenue growth, % (percent a year)
-> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue growth |  |  |  | -5.8 | 14.4 | 9.4 | 2.0 | 3.9 | 12.0 | 3.4 | 9.4 | 22.1 | 19.8 | 9.2 | 7.6 | 34.7 | 25.8 | 35.0 | -73.9 |
-> | Revenue growth, fitted by the rule |  |  |  | 3.5 | 4.5 | 5.5 | 6.5 | 7.5 | 8.5 | 9.4 | 10.4 | 11.4 | 12.4 | 13.4 | 14.4 | 52.9 | 21.2 | -10.5 | -42.1 |
-> - Mark: FY2022 Event: revenue growth bends, +1.0 to -31.7 points a year
 
 ### Net margin
 
 > [!CARD:line] Net margin, % (percent of revenue)
 > | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Net margin |  |  | 3.0 | 1.4 | -3.0 | 0.9 | 2.1 | 1.6 | 3.1 | 4.0 | 3.1 | 5.2 | 4.4 | 5.3 | 4.7 | 5.9 | 6.2 | 7.4 | 55.8 |
-> | Net margin, fitted by the rule |  |  | 0.2 | 0.7 | 1.1 | 1.5 | 1.9 | 2.3 | 2.7 | 3.2 | 3.6 | 4.0 | 4.4 | 4.8 | 5.2 | -3.8 | 11.3 | 26.4 | 41.5 |
-> - Mark: FY2022 Event: net margin bends, +0.4 to +15.1 points a year
+> | Net margin |  |  | 3.0 | 1.4 | -3.0 | 0.9 | 2.1 | 1.6 | 3.1 | 4.0 | 3.1 | 5.2 | 4.4 | 5.3 | 4.7 | 5.9 | 6.2 | 7.4 | 11.2 |
+> | Net margin, fitted by the rule |  |  | 0.1 | 0.6 | 1.0 | 1.5 | 1.9 | 2.4 | 2.8 | 3.3 | 3.7 | 4.1 | 4.6 | 5.0 | 4.2 | 5.6 | 7.1 | 8.6 | 10.0 |
+> - Mark: FY2021 Event: net margin bends, +0.4 to +1.5 points a year
 
-### Operating cash flow over revenue
+### Operating margin
 
-> [!CARD:line] Operating cash flow over revenue, % (percent of revenue)
+> [!CARD:line] Operating margin, % (percent of revenue)
 > | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Operating cash flow over revenue |  |  | 4.8 | 3.0 | 2.4 | 2.3 | 2.8 | 3.0 | 6.2 | 5.6 | 6.4 | 6.7 | 5.4 | 10.0 | 5.9 | 7.3 | 12.3 | 12.1 | 64.8 |
-> | Operating cash flow over revenue, fitted by the rule |  |  | 2.5 | 2.9 | 3.3 | 3.7 | 4.1 | 4.6 | 5.0 | 5.4 | 5.8 | 6.2 | 6.6 | 7.1 | 7.5 | -1.7 | 15.5 | 32.7 | 50.0 |
-> - Mark: FY2022 Event: cash over revenue bends, +0.4 to +17.2 points a year
+> | Operating margin |  |  | 5.0 | 3.0 | -3.5 | 1.7 | 3.4 | 3.0 | 5.7 | 6.2 | 5.6 | 6.9 | 6.3 | 6.7 | 6.1 | 6.1 | 8.0 | 10.7 | 14.4 |
+> | Operating margin, fitted by the rule |  |  | 1.2 | 1.8 | 2.3 | 2.8 | 3.4 | 3.9 | 4.4 | 4.9 | 5.5 | 6.0 | 6.5 | 7.1 | 4.8 | 7.0 | 9.1 | 11.2 | 13.3 |
+> - Mark: FY2021 Event: operating margin bends, +0.5 to +2.1 points a year
 
 ## Quarterly
 
@@ -306,7 +296,7 @@ These are changes in the data, found by a rule (METHOD.md). They are not explain
 | FY2025 Q1 | 2025 | 1 | 2025-03-31 | 1831.286 | 403.416 | 209.098 | 169.289 | 4.75 | -87.95 | -22.208 | -91.369 | 4.75 |
 | FY2025 Q2 | 2025 | 2 | 2025-06-30 | 2173.319 | 509.897 | 299.873 | 230.848 | 6.53 | 252.495 | -31.273 | -19.921 | 6.53 |
 | FY2025 Q3 | 2025 | 3 | 2025-09-30 | 2450.969 | 607.871 | 378.874 | 291.615 | 8.25 | 553.271 | -35.332 | -13.136 | 8.25 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | -4624.288 | -1117.768 | -678.747 | 330.806 | 9.36 | 468.54 | -66.09 | -91.573 | 9.36 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 2646.067 | 674.715 | 426.744 | 330.806 | 9.36 | 468.54 | -66.09 | -91.573 | 9.36 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 2865.332 | 754.412 | 485.718 | 370.378 | 10.51 | 388.828 | -147.473 | -2.548 | 10.51 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 3265.656 | 844.228 | 557.966 | 441.602 | 12.53 | 1139.426 | -141.364 | -5.684 | 12.53 |
 

@@ -13,7 +13,7 @@
 
 DEVON ENERGY CORP, as it files with the SEC (CIK 0001090012): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DEVON ENERGY CORP, and how has it grown?** It sold $16.8 billion in FY2025, the 217th most of the 487 companies with a revenue for the year, and the 7th of 12 in [Mining](../Mining.md). Its sales rose 27.7% from FY2015 to FY2025, 2.5% a year.
+**How large is DEVON ENERGY CORP, and how has it grown?** It sold $16.8 billion in FY2025, the 217th most of the 486 companies with a revenue for the year, and the 7th of 12 in [Mining](../Mining.md). Its sales rose 27.7% from FY2015 to FY2025, 2.5% a year.
 
 **Does DEVON ENERGY CORP make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 15.7% of what it sold; the median company of its sector kept 15.4%. It lost money in 8 of its 19 years in the book (FY2008, FY2009, FY2012 and 5 more).
 
@@ -189,7 +189,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001090012/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 6501 | 8439 | 1938 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001090012/Capex tag/FY2020 | FY2020 | Capex tag | instrument | | -31.0 | -1153 | -1122 | | | | | millions | | | | | | Capex tag, FY2020 |  |
 | 0001090012/Operating cash flow tag/FY2021 | FY2021 | Operating cash flow tag | instrument | | 1464 | 4899 | 3435 | | | | | millions | | | | | | Operating cash flow tag, FY2021 |  |
-| 0001090012/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | level and bend | 37.3 | 16.0 | -21.3 | -3.93 | 3.45 | 11.5 | 8.8 | percent of revenue | 48.6 | 29.0 | 1 | lone | 11 | Operating cash flow tag kept, FY2017 (the two tags' figures differ, x0.43) |  |
+| 0001090012/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | level and bend | 37.3 | 16.0 | -21.3 | -3.93 | 3.45 | 11.5 | 8.8 | percent of revenue | 48.6 | 29.0 | 1 | lone | 11 | Operating cash flow tag kept, FY2017 (the two tags' figures differ, x0.43); Revenue restatement, FY2017; Operating cash flow restatement, FY2016 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -394,4 +394,44 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 1243000000 and 2909000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: DEVON ENERGY CORP, Restatement, Revenue, FY2017
+
+- CIK: 0001090012
+- What: Revenue restatement
+- Boundary: FY2017
+- Was: Revenue FY2016: 6753 (10-K filed 2019-02-20, itself restated)
+- Now: Revenue FY2017 as last filed: FY2017 6501
+- Crosswalk: FY2017: 13949 first filed (10-K, 2018-02-21), 6501 last filed (10-K, 2020-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DEVON ENERGY CORP, Restatement, Revenue, FY2019
+
+- CIK: 0001090012
+- What: Revenue restatement
+- Boundary: FY2019
+- Was: Revenue FY2018: 8439 (10-K filed 2021-02-17, itself restated)
+- Now: Revenue FY2019 as last filed: FY2019 6674
+- Crosswalk: FY2019: 2865 first filed (10-K, 2020-02-19), 6674 last filed (10-K, 2022-02-16). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2019. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DEVON ENERGY CORP, Restatement, Net income, FY2016
+
+- CIK: 0001090012
+- What: Net income restatement
+- Boundary: FY2016
+- Was: Net income FY2015: -12896 (10-K filed 2018-02-21, itself restated)
+- Now: Net income FY2016 as last filed: FY2016 -1056
+- Crosswalk: FY2016: -3302 first filed (10-K, 2017-02-15), -1056 last filed (10-K, 2019-02-20). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DEVON ENERGY CORP, Restatement, Operating cash flow, FY2016
+
+- CIK: 0001090012
+- What: Operating cash flow restatement
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 5373 (10-K filed 2017-02-15, as first filed)
+- Now: Operating cash flow FY2016 as last filed: FY2016 834
+- Crosswalk: FY2016: 1746 first filed (10-K, 2017-02-15), 834 last filed (10-K, 2019-02-20). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

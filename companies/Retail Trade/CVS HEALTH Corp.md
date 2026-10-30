@@ -13,7 +13,7 @@
 
 CVS HEALTH Corp, as it files with the SEC (CIK 0000064803): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CVS HEALTH Corp, and how has it grown?** It sold $402.1 billion in FY2025, the 6th most of the 487 companies with a revenue for the year, and the 3rd of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 162.3% from FY2015 to FY2025, 10.1% a year.
+**How large is CVS HEALTH Corp, and how has it grown?** It sold $402.1 billion in FY2025, the 6th most of the 486 companies with a revenue for the year, and the 3rd of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 162.3% from FY2015 to FY2025, 10.1% a year.
 
 **Does CVS HEALTH Corp make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 0.4% of what it sold; the median company of its sector kept 8.6%. It lost money in 1 of its 19 years in the book (FY2018).
 

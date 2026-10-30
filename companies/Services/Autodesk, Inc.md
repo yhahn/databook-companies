@@ -13,7 +13,7 @@
 
 Autodesk, Inc., as it files with the SEC (CIK 0000769397): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Autodesk, Inc., and how has it grown?** It sold $6.1 billion in FY2025, the 372nd most of the 487 companies with a revenue for the year, and the 46th of 75 in [Services](../Services.md). Its sales rose 144% from FY2015 to FY2025, 9.3% a year.
+**How large is Autodesk, Inc., and how has it grown?** It sold $6.1 billion in FY2025, the 373rd most of the 486 companies with a revenue for the year, and the 46th of 75 in [Services](../Services.md). Its sales rose 144% from FY2015 to FY2025, 9.3% a year.
 
 **Does Autodesk, Inc. make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 18.1% of what it sold; the median company of its sector kept 15.8%. It lost money in 4 of its 19 years in the book (FY2016, FY2017, FY2018, FY2019).
 
@@ -214,7 +214,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000769397/Capex gap/FY2012 | FY2012 | Capex gap | instrument | | -28.3 |  |  | | | | | millions | | | | | | none |  |
+| 0000769397/Capex gap/FY2012 | FY2012 | Capex gap | instrument | | -28.3 |  |  | | | | | millions | | | | | | Capex gap, FY2012 |  |
 | 0000769397/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 2031 | 2057 | 25.6 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0000769397/Net margin/FY2014/2 | FY2014 | Net margin | observed | bend | 9.9 | -12.0 | -21.9 | -0.18 | 2.81 | 9.7 | 32.0 | percent of revenue | 13.5 | 12.2 | 2 | lone | 74 |  |  |
 | 0000769397/Operating cash flow growth/FY2015/2 | FY2015 | Operating cash flow growth | observed | bend | 18.1 | 5689.1 | 5671.0 | 3.99 | -375.46 | 128.7 | 25903.6 | percent a year | 6.5 | 5.9 | 2 | lone | 74 |  |  |
@@ -446,4 +446,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:SalesRevenueNet
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 2056600000 and 2056600000
+- Source: SEC EDGAR companyfacts
+
+### Change: Autodesk, Inc., Gap, Capex, FY2012 to FY2018
+
+- CIK: 0000769397
+- What: Capex gap
+- Boundary: FY2012
+- Was: Capex FY2011: -28.3
+- Now: no figure for FY2012 to FY2018; FY2019: -67
+- Crosswalk: FY2012 to FY2018: no annual figure under any tag read; periods of 3, 6, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
 - Source: SEC EDGAR companyfacts

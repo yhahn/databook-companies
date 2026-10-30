@@ -13,7 +13,7 @@
 
 Johnson Controls International plc, as it files with the SEC (CIK 0000833444): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Johnson Controls International plc, and how has it grown?** It sold $23.6 billion in FY2025, the 161st most of the 487 companies with a revenue for the year, and the 71st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.3% from FY2015 to FY2025, 9.1% a year.
+**How large is Johnson Controls International plc, and how has it grown?** It sold $23.6 billion in FY2025, the 161st most of the 486 companies with a revenue for the year, and the 71st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 138.3% from FY2015 to FY2025, 9.1% a year.
 
 **Does Johnson Controls International plc make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 13.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 19 years in the book (FY2007, FY2009, FY2016).
 
@@ -421,6 +421,46 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2014 under both: 829000000 and 2395000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: Johnson Controls International plc, Restatement, Operating income, FY2010 to FY2011
+
+- CIK: 0000833444
+- What: Operating income restatement
+- Boundary: FY2010
+- Was: Operating income FY2009: -1506 (10-K filed 2011-11-16, itself restated)
+- Now: Operating income FY2010 to FY2011 as last filed: FY2010 615, FY2011 887
+- Crosswalk: FY2010: 1598 first filed (10-K, 2010-11-12), 615 last filed (10-K, 2012-11-16); FY2011: 2119 first filed (10-K, 2011-11-16), 887 last filed (8-K, 2014-05-16). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Johnson Controls International plc, Restatement, Operating cash flow, FY2010 to FY2011
+
+- CIK: 0000833444
+- What: Operating cash flow restatement
+- Boundary: FY2010
+- Was: Operating cash flow FY2009: 2387 (10-K filed 2011-11-16, itself restated)
+- Now: Operating cash flow FY2010 to FY2011 as last filed: FY2010 871, FY2011 491
+- Crosswalk: FY2010: 2630 first filed (10-K, 2010-11-12), 871 last filed (10-K, 2012-11-16); FY2011: 2437 first filed (10-K, 2011-11-16), 491 last filed (8-K, 2014-05-16). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Johnson Controls International plc, Restatement, Operating cash flow, FY2017
+
+- CIK: 0000833444
+- What: Operating cash flow restatement
+- Boundary: FY2017
+- Was: Operating cash flow FY2016: 1908 (10-K filed 2018-11-20, itself restated)
+- Now: Operating cash flow FY2017 as last filed: FY2017 371
+- Crosswalk: FY2017: 12 first filed (10-K, 2017-11-21), 371 last filed (10-K, 2019-11-21). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Johnson Controls International plc, Restatement, Capex, FY2010 to FY2011
+
+- CIK: 0000833444
+- What: Capex restatement
+- Boundary: FY2010
+- Was: Capex FY2009: -702 (10-K filed 2011-11-16, itself restated)
+- Now: Capex FY2010 to FY2011 as last filed: FY2010 -351, FY2011 -273
+- Crosswalk: FY2010: -718 first filed (10-K, 2010-11-12), -351 last filed (10-K, 2012-11-16); FY2011: -788 first filed (10-K, 2011-11-16), -273 last filed (8-K, 2014-05-16). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: Johnson Controls International plc, Segment members, 2025-08-06

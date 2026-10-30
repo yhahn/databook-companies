@@ -13,7 +13,7 @@
 
 ILLUMINA, INC., as it files with the SEC (CIK 0001110803): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ILLUMINA, INC., and how has it grown?** It sold $4.3 billion in FY2025, the 424th most of the 487 companies with a revenue for the year, and the 176th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 95.6% from FY2015 to FY2025, 6.9% a year.
+**How large is ILLUMINA, INC., and how has it grown?** It sold $4.3 billion in FY2025, the 425th most of the 486 companies with a revenue for the year, and the 176th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 95.6% from FY2015 to FY2025, 6.9% a year.
 
 **Does ILLUMINA, INC. make money, and how much of what it sells does it keep?** It earned $850 million in FY2025, 19.6% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 18 years in the book (FY2022, FY2023, FY2024).
 
@@ -214,7 +214,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001110803/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 2398 | 2752 | 354 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001110803/Operating cash flow growth/FY2013/2 | FY2013 | Operating cash flow growth | observed | level and bend | -13.8 | 21.2 | 34.9 | -37.02 | -0.91 | 13.5 | 67.8 | percent a year | 10.9 | 8.6 | 2 | lone | 201 |  |  |
-| 0001110803/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | level and bend | 34.6 | 7.8 | -26.8 | 0.88 | 3.62 | 8.6 | 8.2 | percent of revenue | 23.7 | 22.8 | 1 | lone | 201 |  |  |
+| 0001110803/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | level and bend | 34.6 | 7.8 | -26.8 | 0.88 | 3.62 | 8.6 | 8.2 | percent of revenue | 23.7 | 22.9 | 1 | lone | 201 |  |  |
 | 0001110803/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | 25.2 | -84.3 | -109.5 | 1.27 | 34.47 | 9.0 | 41.0 | percent of revenue | 74.1 | 12.6 | 1 | lone | 201 |  |  |
 | 0001110803/Operating margin/FY2022 | FY2022 | Operating margin | observed | level and bend | 18.6 | -78.9 | -97.5 | -0.15 | 33.39 | 17.2 | 36.1 | percent of revenue | 42.0 | 16.3 | 1 | shared | 201 |  |  |
 

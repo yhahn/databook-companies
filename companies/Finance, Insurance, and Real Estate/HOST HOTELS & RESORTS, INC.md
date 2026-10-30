@@ -13,9 +13,9 @@
 
 HOST HOTELS & RESORTS, INC., as it files with the SEC (CIK 0001070750): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HOST HOTELS & RESORTS, INC., and how has it grown?** It sold $6.1 billion in FY2025, the 374th most of the 487 companies with a revenue for the year, and the 64th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 14.3% from FY2015 to FY2025, 1.3% a year.
+**How large is HOST HOTELS & RESORTS, INC., and how has it grown?** It sold $6.1 billion in FY2025, the 375th most of the 486 companies with a revenue for the year, and the 64th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 14.3% from FY2015 to FY2025, 1.3% a year.
 
-**Does HOST HOTELS & RESORTS, INC. make money, and how much of what it sells does it keep?** It earned $765 million in FY2025, 12.5% of what it sold; the median company of its sector kept 19.2%. It lost money in 4 of its 18 years in the book (FY2009, FY2011, FY2020, FY2021).
+**Does HOST HOTELS & RESORTS, INC. make money, and how much of what it sells does it keep?** It earned $765 million in FY2025, 12.5% of what it sold; the median company of its sector kept 18.9%. It lost money in 4 of its 18 years in the book (FY2009, FY2011, FY2020, FY2021).
 
 **Where does HOST HOTELS & RESORTS, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $10.9 billion; it spent 7.1% of that on plant and equipment, and 12.5% on buying back its own shares.
 
@@ -183,10 +183,10 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001070750/Capex gap/FY2010 | FY2010 | Capex gap | instrument | | -164 |  |  | | | | | millions | | | | | | none |  |
-| 0001070750/Net income gap/FY2010 | FY2010 | Net income gap | instrument | | -252 |  |  | | | | | millions | | | | | | none |  |
-| 0001070750/Operating cash flow gap/FY2010 | FY2010 | Operating cash flow gap | instrument | | 552 |  |  | | | | | millions | | | | | | none |  |
-| 0001070750/Operating income gap/FY2010 | FY2010 | Operating income gap | instrument | | 149 |  |  | | | | | millions | | | | | | none |  |
+| 0001070750/Capex gap/FY2010 | FY2010 | Capex gap | instrument | | -164 |  |  | | | | | millions | | | | | | Capex gap, FY2010 |  |
+| 0001070750/Net income gap/FY2010 | FY2010 | Net income gap | instrument | | -252 |  |  | | | | | millions | | | | | | Net income gap, FY2010 |  |
+| 0001070750/Operating cash flow gap/FY2010 | FY2010 | Operating cash flow gap | instrument | | 552 |  |  | | | | | millions | | | | | | Operating cash flow gap, FY2010 |  |
+| 0001070750/Operating income gap/FY2010 | FY2010 | Operating income gap | instrument | | 149 |  |  | | | | | millions | | | | | | Operating income gap, FY2010 |  |
 | 0001070750/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 5430 | 5387 | -43.0 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001070750/Operating cash flow over revenue/FY2015/2 | FY2015 | Operating cash flow over revenue | observed | bend | 21.6 | 17.8 | -3.9 | 2.64 | 0.32 | 1.7 | 28.0 | percent of revenue | 14.0 | 6.5 | 2 | lone | 94 |  |  |
 | 0001070750/Revenue growth/FY2017/2 | FY2017 | Revenue growth | observed | bend | 4.9 | -2.4 | -7.4 | 1.05 | 3.42 | 15.8 | 88.6 | percent a year | 6.5 | 5.1 | 2 | lone | 94 | Revenue tag, FY2017 |  |
@@ -538,4 +538,44 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: FY2007 under both: 267000000 and 15000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:PaymentsToAcquireProductiveAssets for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: HOST HOTELS & RESORTS, INC., Gap, Operating income, FY2010
+
+- CIK: 0001070750
+- What: Operating income gap
+- Boundary: FY2010
+- Was: Operating income FY2009: 149
+- Now: no figure for FY2010; FY2011: 309
+- Crosswalk: FY2010: no annual figure under any tag read; periods of 3, 6, 8 months are filed. Nothing is filled across the gap. Tags read: us-gaap:OperatingIncomeLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: HOST HOTELS & RESORTS, INC., Gap, Net income, FY2010
+
+- CIK: 0001070750
+- What: Net income gap
+- Boundary: FY2010
+- Was: Net income FY2009: -252
+- Now: no figure for FY2010; FY2011: -15
+- Crosswalk: FY2010: no annual figure under any tag read; periods of 3, 6, 8 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: HOST HOTELS & RESORTS, INC., Gap, Operating cash flow, FY2010
+
+- CIK: 0001070750
+- What: Operating cash flow gap
+- Boundary: FY2010
+- Was: Operating cash flow FY2009: 552
+- Now: no figure for FY2010; FY2011: 662
+- Crosswalk: FY2010: no annual figure under any tag read; periods of 3, 6, 8 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetCashProvidedByUsedInOperatingActivities, us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Source: SEC EDGAR companyfacts
+
+### Change: HOST HOTELS & RESORTS, INC., Gap, Capex, FY2010
+
+- CIK: 0001070750
+- What: Capex gap
+- Boundary: FY2010
+- Was: Capex FY2009: -164
+- Now: no figure for FY2010; FY2011: -327
+- Crosswalk: FY2010: no annual figure under any tag read; periods of 3, 6, 8 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
 - Source: SEC EDGAR companyfacts

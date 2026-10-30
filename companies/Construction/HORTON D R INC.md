@@ -13,7 +13,7 @@
 
 HORTON D R INC, as it files with the SEC (CIK 0000882184): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HORTON D R INC, and how has it grown?** It sold $34.3 billion in FY2025, the 111th most of the 487 companies with a revenue for the year, and the 1st of 8 in [Construction](../Construction.md). Its sales rose 216.4% from FY2015 to FY2025, 12.2% a year.
+**How large is HORTON D R INC, and how has it grown?** It sold $34.3 billion in FY2025, the 111th most of the 486 companies with a revenue for the year, and the 1st of 8 in [Construction](../Construction.md). Its sales rose 216.4% from FY2015 to FY2025, 12.2% a year.
 
 **Does HORTON D R INC make money, and how much of what it sells does it keep?** It earned $3.6 billion in FY2025, 10.5% of what it sold; the median company of its sector kept 9%. It lost money in 1 of its 17 years in the book (FY2009).
 
@@ -171,7 +171,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000882184/Net income tag/FY2017 | FY2017 | Net income tag | instrument | | 886 | 1038 | 152 | | | | | millions | | | | | | Net income tag, FY2017 |  |
 | 0000882184/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | 19.7 | 5.5 | -14.2 | 10.74 | 0.87 | 14.8 | 3.0 | percent of revenue | 18.0 | 7.8 | 1 | lone | 7 |  |  |
 | 0000882184/Operating cash flow over revenue/FY2014 | FY2014 | Operating cash flow over revenue | observed | level and bend | -20.6 | -0.1 | 20.6 | -12.45 | 0.82 | 5.3 | 8.4 | percent of revenue | 56.3 | 14.4 | 1 | lone | 7 |  |  |
-| 0000882184/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 17.6 | 32.8 | 15.2 | -0.05 | -10.41 | 32.3 | 9.1 | percent a year | 19.0 | 6.1 | 2 | lone | 7 |  |  |
+| 0000882184/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 17.6 | 32.8 | 15.2 | -0.05 | -10.41 | 32.3 | 9.1 | percent a year | 19.1 | 6.1 | 2 | lone | 7 |  |  |
 | 0000882184/Net margin/FY2022/2 | FY2022 | Net margin | observed | level and bend | 12.4 | 16.8 | 4.4 | 0.87 | -2.15 | 3.0 | 2.1 | percent of revenue | 11.9 | 5.9 | 2 | lone | 7 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

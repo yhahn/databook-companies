@@ -13,7 +13,7 @@
 
 ZEBRA TECHNOLOGIES CORP, as it files with the SEC (CIK 0000877212): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ZEBRA TECHNOLOGIES CORP, and how has it grown?** It sold $5.4 billion in FY2025, the 394th most of the 487 companies with a revenue for the year, and the 163rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 47.8% from FY2015 to FY2025, 4% a year.
+**How large is ZEBRA TECHNOLOGIES CORP, and how has it grown?** It sold $5.4 billion in FY2025, the 395th most of the 486 companies with a revenue for the year, and the 163rd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 47.8% from FY2015 to FY2025, 4% a year.
 
 **Does ZEBRA TECHNOLOGIES CORP make money, and how much of what it sells does it keep?** It earned $419 million in FY2025, 7.8% of what it sold; the median company of its sector kept 11.8%. It lost money in 3 of its 18 years in the book (FY2008, FY2015, FY2016).
 
@@ -214,7 +214,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000877212/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 195 | 248 | 53.2 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0000877212/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 372 | 478 | 106 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0000877212/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 3574 | 3722 | 148 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000877212/Operating cash flow over revenue/FY2015/2 | FY2015 | Operating cash flow over revenue | observed | bend | 16.3 | 10.9 | -5.5 | 0.48 | 0.49 | 7.4 | 14.4 | percent of revenue | 6.7 | 6.6 | 2 | lone | 201 | Operating cash flow tag, FY2014 |  |
+| 0000877212/Operating cash flow over revenue/FY2015/2 | FY2015 | Operating cash flow over revenue | observed | bend | 16.3 | 10.9 | -5.5 | 0.48 | 0.49 | 7.4 | 14.4 | percent of revenue | 6.7 | 6.5 | 2 | lone | 201 | Operating cash flow tag, FY2014 |  |
 | 0000877212/Revenue growth/FY2016 | FY2016 | Revenue growth | observed | level and bend | 81.2 | 5.4 | -75.8 | 17.94 | -0.17 | 59.7 | 25.0 | percent a year | 11.3 | 10.4 | 1 | lone | 201 | Revenue tag, FY2017 |  |
 | 0000877212/Net margin/FY2018/2 | FY2018 | Net margin | observed | bend | 0.8 | 12.0 | 11.2 | -0.95 | -0.53 | 15.8 | 5.1 | percent of revenue | 11.8 | 11.0 | 2 | shared | 201 | Revenue tag, FY2017 |  |
 

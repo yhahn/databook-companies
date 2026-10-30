@@ -13,9 +13,9 @@
 
 RAYMOND JAMES FINANCIAL INC, as it files with the SEC (CIK 0000720005): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-11-23, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is RAYMOND JAMES FINANCIAL INC, and how has it grown?** It sold $15.9 billion in FY2025, the 229th most of the 487 companies with a revenue for the year, and the 38th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 199.7% from FY2015 to FY2025, 11.6% a year.
+**How large is RAYMOND JAMES FINANCIAL INC, and how has it grown?** It sold $15.9 billion in FY2025, the 229th most of the 486 companies with a revenue for the year, and the 38th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 199.7% from FY2015 to FY2025, 11.6% a year.
 
-**Does RAYMOND JAMES FINANCIAL INC make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 13.4% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 18 years in the book.
+**Does RAYMOND JAMES FINANCIAL INC make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 13.4% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 18 years in the book.
 
 **Where does RAYMOND JAMES FINANCIAL INC's cash go?** From FY2016 to FY2025 its operations brought in $12.6 billion; it spent 11.4% of that on plant and equipment, and 11.4% on buying back its own shares.
 
@@ -498,6 +498,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2021-11-23 on, a share after a 3 for 2 split
 - Crosswalk: 2018-10-01 to 2019-09-30: EPS 7.17 as first filed, 4.78 after; EPS adjusted divides what was filed before by 1.5. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 1.5, of 2021-08-24, filed 2021-11-23)
+- Source: SEC EDGAR companyfacts
+
+### Change: RAYMOND JAMES FINANCIAL INC, Restatement, Operating cash flow, FY2017 to FY2018
+
+- CIK: 0000720005
+- What: Operating cash flow restatement
+- Boundary: FY2017
+- Was: Operating cash flow FY2016: -573.318 (10-K filed 2018-11-21, itself restated)
+- Now: Operating cash flow FY2017 to FY2018 as last filed: FY2017 -125, FY2018 884
+- Crosswalk: FY2017: 1305.936 first filed (10-K, 2017-11-22), -125 last filed (10-K, 2019-11-26); FY2018: 1903.327 first filed (10-K, 2018-11-21), 884 last filed (10-K, 2020-11-24). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: RAYMOND JAMES FINANCIAL INC, Segment members, 2026-02-06

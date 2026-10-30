@@ -13,9 +13,9 @@
 
 ASSURANT, INC., as it files with the SEC (CIK 0001267238): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ASSURANT, INC., and how has it grown?** It sold $12.8 billion in FY2025, the 263rd most of the 487 companies with a revenue for the year, and the 44th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 24.1% from FY2015 to FY2025, 2.2% a year.
+**How large is ASSURANT, INC., and how has it grown?** It sold $12.8 billion in FY2025, the 263rd most of the 486 companies with a revenue for the year, and the 44th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 24.1% from FY2015 to FY2025, 2.2% a year.
 
-**Does ASSURANT, INC. make money, and how much of what it sells does it keep?** It earned $873 million in FY2025, 6.8% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does ASSURANT, INC. make money, and how much of what it sells does it keep?** It earned $873 million in FY2025, 6.8% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does ASSURANT, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $9.7 billion; it spent 15.4% of that on plant and equipment, and 42.9% on buying back its own shares.
 
@@ -185,7 +185,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001267238/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 680 | 1028 | 348 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
 | 0001267238/Operating cash flow tag/FY2015 | FY2015 | Operating cash flow tag | instrument | | 394 | 230 | -164 | | | | | millions | | | | | | Operating cash flow tag, FY2015 (the two tags' figures differ, x1.11) |  |
-| 0001267238/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 5.5 | 2.8 | -2.6 | 0.51 | 2.10 | 26.3 | 7.3 | percent a year | 8.6 | 8.3 | 2 | shared | 94 |  |  |
+| 0001267238/Revenue growth/FY2022/2 | FY2022 | Revenue growth | observed | bend | 5.5 | 2.8 | -2.6 | 0.51 | 2.10 | 26.3 | 7.3 | percent a year | 8.5 | 8.3 | 2 | shared | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

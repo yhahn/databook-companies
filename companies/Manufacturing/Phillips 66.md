@@ -13,7 +13,7 @@
 
 Phillips 66, as it files with the SEC (CIK 0001534701): its fiscal years and quarters from its XBRL filings, FY2010 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Phillips 66, and how has it grown?** It sold $132.4 billion in FY2025, the 26th most of the 487 companies with a revenue for the year, and the 7th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 33.7% from FY2015 to FY2025, 3% a year.
+**How large is Phillips 66, and how has it grown?** It sold $132.4 billion in FY2025, the 26th most of the 486 companies with a revenue for the year, and the 7th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 33.7% from FY2015 to FY2025, 3% a year.
 
 **Does Phillips 66 make money, and how much of what it sells does it keep?** It earned $4.4 billion in FY2025, 3.3% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 16 years in the book (FY2020).
 
@@ -148,7 +148,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001534701/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 84279 | 102354 | 18075 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001534701/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 102354 | 111461 | 9107 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0001534701/Revenue growth/FY2017/2 | FY2017 | Revenue growth | observed | bend | -30.3 | 15.1 | 45.4 | -9.56 | -1.29 | 32.8 | 72.7 | percent a year | 5.8 | 4.9 | 2 | lone | 201 | Revenue tag, FY2017; Revenue tag, FY2018 |  |
+| 0001534701/Revenue growth/FY2017/2 | FY2017 | Revenue growth | observed | bend | -30.3 | 15.1 | 45.4 | -9.56 | -1.29 | 32.8 | 72.7 | percent a year | 5.7 | 4.9 | 2 | lone | 201 | Revenue tag, FY2017; Revenue tag, FY2018 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

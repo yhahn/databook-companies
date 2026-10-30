@@ -13,7 +13,7 @@
 
 DAVITA INC., as it files with the SEC (CIK 0000927066): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2013-11-06, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DAVITA INC., and how has it grown?** It sold $13.6 billion in FY2025, the 256th most of the 487 companies with a revenue for the year, and the 31st of 75 in [Services](../Services.md). Its sales rose 40.3% from FY2016 to FY2025, 3.8% a year.
+**How large is DAVITA INC., and how has it grown?** It sold $13.6 billion in FY2025, the 256th most of the 486 companies with a revenue for the year, and the 31st of 75 in [Services](../Services.md). Its sales rose 40.3% from FY2016 to FY2025, 3.8% a year.
 
 **Does DAVITA INC. make money, and how much of what it sells does it keep?** It earned $747 million in FY2025, 5.5% of what it sold; the median company of its sector kept 15.8%. It lost money in none of its 10 years in the book.
 
@@ -133,7 +133,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000927066/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | |  | 1963 |  | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000927066/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 1963 | 1913 | -50.3 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0000927066/Revenue tag/FY2020 | FY2020 | Revenue tag | instrument | | 10918 | 11551 | 632 | | | | | millions | | | | | | Revenue tag, FY2020 |  |
-| 0000927066/Revenue growth/FY2021 | FY2021 | Revenue growth | observed | level and bend | 4.7 | -0.1 | -4.7 | 0.19 | 1.74 | 4.6 | 2.6 | percent a year | 12.2 | 7.6 | 1 | lone | 74 | Revenue tag, FY2020 |  |
+| 0000927066/Revenue growth/FY2021 | FY2021 | Revenue growth | observed | level and bend | 4.7 | -0.1 | -4.7 | 0.19 | 1.74 | 4.6 | 2.6 | percent a year | 12.4 | 7.6 | 1 | lone | 74 | Revenue tag, FY2020 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

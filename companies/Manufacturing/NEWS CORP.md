@@ -13,7 +13,7 @@
 
 NEWS CORP, as it files with the SEC (CIK 0001564708): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three. Its shares in the S&P 500: NWSA, NWS.
 
-**How large is NEWS CORP, and how has it grown?** It sold $8.5 billion in FY2025, the 324th most of the 487 companies with a revenue for the year, and the 132nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 0.8% from FY2015 to FY2025, −0.1% a year.
+**How large is NEWS CORP, and how has it grown?** It sold $8.5 billion in FY2025, the 325th most of the 486 companies with a revenue for the year, and the 132nd of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 0.8% from FY2015 to FY2025, −0.1% a year.
 
 **Does NEWS CORP make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 14% of what it sold; the median company of its sector kept 11.8%. It lost money in 5 of its 15 years in the book (FY2012, FY2015, FY2017 and 2 more).
 

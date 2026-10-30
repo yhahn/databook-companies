@@ -13,7 +13,7 @@
 
 APPLIED MATERIALS INC, as it files with the SEC (CIK 0000006951): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is APPLIED MATERIALS INC, and how has it grown?** It sold $28.4 billion in FY2025, the 132nd most of the 487 companies with a revenue for the year, and the 62nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 193.7% from FY2015 to FY2025, 11.4% a year.
+**How large is APPLIED MATERIALS INC, and how has it grown?** It sold $28.4 billion in FY2025, the 132nd most of the 486 companies with a revenue for the year, and the 62nd of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 193.7% from FY2015 to FY2025, 11.4% a year.
 
 **Does APPLIED MATERIALS INC make money, and how much of what it sells does it keep?** It earned $7.0 billion in FY2025, 24.7% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2009).
 
@@ -224,7 +224,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000006951/Capex tag/FY2013 | FY2013 | Capex tag | instrument | | -162 | -197 | -35.0 | | | | | millions | | | | | | Capex tag, FY2013 |  |
 | 0000006951/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 10825 | 14698 | 3873 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0000006951/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 16705 | 14608 | -2097 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
-| 0000006951/Revenue growth/FY2018/2 | FY2018 | Revenue growth | observed | bend | 21.0 | 11.7 | -9.3 | 2.66 | -0.68 | 72.7 | 28.6 | percent a year | 5.3 | 5.2 | 2 | lone | 201 | Revenue tag, FY2017; Revenue tag, FY2019 |  |
+| 0000006951/Revenue growth/FY2018/2 | FY2018 | Revenue growth | observed | bend | 21.0 | 11.7 | -9.3 | 2.66 | -0.68 | 72.7 | 28.6 | percent a year | 5.4 | 5.2 | 2 | lone | 201 | Revenue tag, FY2017; Revenue tag, FY2019 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

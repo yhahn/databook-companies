@@ -13,9 +13,9 @@
 
 CAMDEN PROPERTY TRUST, as it files with the SEC (CIK 0000906345): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CAMDEN PROPERTY TRUST, and how has it grown?** It sold $13 million in FY2025, the 487th most of the 487 companies with a revenue for the year, and the 92nd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 98.5% from FY2016 to FY2025, −37.4% a year.
+**How large is CAMDEN PROPERTY TRUST, and how has it grown?** The book holds no revenue of its for FY2025, the year the front page compares; its last is FY2018's, $955 million.
 
-**Does CAMDEN PROPERTY TRUST make money, and how much of what it sells does it keep?** It earned $384 million in FY2025, 2964.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 10 years in the book.
+**Does CAMDEN PROPERTY TRUST make money, and how much of what it sells does it keep?** The book does not hold both a revenue and a net income of its for FY2025; it lost money in none of its 10 years in the book.
 
 **Where does CAMDEN PROPERTY TRUST's cash go?** From FY2016 to FY2025 its operations brought in $6.2 billion; it spent 0% of that on plant and equipment, and 5.2% on buying back its own shares.
 
@@ -24,7 +24,7 @@ CAMDEN PROPERTY TRUST, as it files with the SEC (CIK 0000906345): its fiscal yea
 > [!CARD:line] CAMDEN PROPERTY TRUST, by fiscal year, $ millions
 > | Line item | FY2006 | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Revenue |  |  |  |  |  |  |  |  |  |  | 876.447 | 8.176 | 7.231 | 8.696 | 10.8 | 10.532 | 5.188 | 3.451 | 7.137 | 12.967 |  |
+> | Revenue |  |  |  |  |  |  |  |  |  |  | 876.447 | 900.896 | 954.505 |  |  |  |  |  |  |  |  |
 > | Gross profit |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Operating income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 > | Net income |  |  |  |  |  |  |  |  |  |  | 819.823 | 196.422 | 156.128 | 219.623 | 123.911 | 303.907 | 653.613 | 403.309 | 163.293 | 384.462 |  |
@@ -57,42 +57,35 @@ Each annual figure above and in the EPS table, from the filing that gave it: the
 | Net income | FY2016 | us-gaap:NetIncomeLoss | 10-K | 2019-02-15 | 0000906345-19-000006 |  |  |  |  |  |
 | EPS diluted | FY2016 | us-gaap:EarningsPerShareDiluted | 10-K | 2019-02-15 | 0000906345-19-000006 |  |  |  |  |  |
 | Operating cash flow | FY2016 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2019-02-15 | 0000906345-19-000006 |  |  |  |  |  |
-| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2020-02-20 | 0000906345-20-000008 | yes | 900.896 | 10-K | 2019-02-15 | 0000906345-19-000006 |
+| Revenue | FY2017 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-15 | 0000906345-19-000006 |  |  |  |  |  |
 | Net income | FY2017 | us-gaap:NetIncomeLoss | 10-K | 2020-02-20 | 0000906345-20-000008 |  |  |  |  |  |
 | EPS diluted | FY2017 | us-gaap:EarningsPerShareDiluted | 10-K | 2020-02-20 | 0000906345-20-000008 |  |  |  |  |  |
 | Operating cash flow | FY2017 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2020-02-20 | 0000906345-20-000008 |  |  |  |  |  |
-| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2021-02-18 | 0000906345-21-000010 | yes | 954.505 | 10-K | 2019-02-15 | 0000906345-19-000006 |
+| Revenue | FY2018 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2019-02-15 | 0000906345-19-000006 |  |  |  |  |  |
 | Net income | FY2018 | us-gaap:NetIncomeLoss | 10-K | 2021-02-18 | 0000906345-21-000010 |  |  |  |  |  |
 | EPS diluted | FY2018 | us-gaap:EarningsPerShareDiluted | 10-K | 2021-02-18 | 0000906345-21-000010 |  |  |  |  |  |
 | Operating cash flow | FY2018 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2021-02-18 | 0000906345-21-000010 |  |  |  |  |  |
-| Revenue | FY2019 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2022-02-17 | 0000906345-22-000009 |  |  |  |  |  |
 | Net income | FY2019 | us-gaap:NetIncomeLoss | 10-K | 2022-02-17 | 0000906345-22-000009 |  |  |  |  |  |
 | EPS diluted | FY2019 | us-gaap:EarningsPerShareDiluted | 10-K | 2022-02-17 | 0000906345-22-000009 |  |  |  |  |  |
 | Operating cash flow | FY2019 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2022-02-17 | 0000906345-22-000009 |  |  |  |  |  |
-| Revenue | FY2020 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2023-02-23 | 0000906345-23-000008 |  |  |  |  |  |
 | Net income | FY2020 | us-gaap:NetIncomeLoss | 10-K | 2023-02-23 | 0000906345-23-000008 |  |  |  |  |  |
 | EPS diluted | FY2020 | us-gaap:EarningsPerShareDiluted | 10-K | 2023-02-23 | 0000906345-23-000008 |  |  |  |  |  |
 | Operating cash flow | FY2020 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2023-02-23 | 0000906345-23-000008 |  |  |  |  |  |
-| Revenue | FY2021 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2024-02-22 | 0000906345-24-000007 |  |  |  |  |  |
 | Net income | FY2021 | us-gaap:NetIncomeLoss | 10-K | 2024-02-22 | 0000906345-24-000007 |  |  |  |  |  |
 | EPS diluted | FY2021 | us-gaap:EarningsPerShareDiluted | 10-K | 2024-02-22 | 0000906345-24-000007 |  |  |  |  |  |
 | Operating cash flow | FY2021 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2024-02-22 | 0000906345-24-000007 |  |  |  |  |  |
-| Revenue | FY2022 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2025-02-20 | 0000906345-25-000008 |  |  |  |  |  |
 | Net income | FY2022 | us-gaap:NetIncomeLoss | 10-K | 2025-02-20 | 0000906345-25-000008 |  |  |  |  |  |
 | EPS diluted | FY2022 | us-gaap:EarningsPerShareDiluted | 10-K | 2025-02-20 | 0000906345-25-000008 |  |  |  |  |  |
 | Operating cash flow | FY2022 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2025-02-20 | 0000906345-25-000008 |  |  |  |  |  |
 | Buybacks | FY2022 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2025-02-20 | 0000906345-25-000008 |  |  |  |  |  |
-| Revenue | FY2023 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Net income | FY2023 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | EPS diluted | FY2023 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Operating cash flow | FY2023 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Buybacks | FY2023 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
-| Revenue | FY2024 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Net income | FY2024 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | EPS diluted | FY2024 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Operating cash flow | FY2024 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Buybacks | FY2024 | us-gaap:PaymentsForRepurchaseOfCommonStock | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
-| Revenue | FY2025 | us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Net income | FY2025 | us-gaap:NetIncomeLoss | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | EPS diluted | FY2025 | us-gaap:EarningsPerShareDiluted | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
 | Operating cash flow | FY2025 | us-gaap:NetCashProvidedByUsedInOperatingActivities | 10-K | 2026-02-12 | 0001628280-26-007697 |  |  |  |  |  |
@@ -105,18 +98,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000906345/Net income tag/FY2010 | FY2010 | Net income tag | instrument | |  |  |  | | | | | millions | | | | | | Net income tag, FY2010 (the two tags' figures differ, x1.34) |  |
-| 0000906345/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | 2623.3 | 13129.5 | 10506.2 | 301.75 | -3829.96 | 1938.5 | 5857.0 | percent of revenue | 15.8 | 15.3 | 1 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
-
-### Net margin
-
-> [!CARD:line] Net margin, % (percent of revenue)
-> | Series | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Net margin |  |  |  |  |  |  |  |  |  | 93.5 | 2402.4 | 2159.1 | 2525.6 | 1147.3 | 2885.6 | 12598.6 | 11686.7 | 2288.0 | 2964.9 |
-> | Net margin, fitted by the rule |  |  |  |  |  |  |  |  |  | 1114.6 | 1416.3 | 1718.1 | 2019.8 | 2321.5 | 2623.3 | 13129.5 | 9299.5 | 5469.6 | 1639.6 |
-> - Mark: FY2022 Event: net margin fitted 2623.3% to 13129.5% (up)
 
 ## Quarterly
 
@@ -126,38 +109,38 @@ These are changes in the data, found by a rule (METHOD.md). They are not explain
 | FY2017 Q2 | 2017 | 2 | 2017-06-30 | 223.37 |  |  | 39.188 | 0.43 | 130.462 |  |  | 0.43 |
 | FY2017 Q3 | 2017 | 3 | 2017-09-30 | 228.178 |  |  | 34.384 | 0.38 | 130.424 |  |  | 0.38 |
 | FY2017 Q4 | 2017 | 4 | 2017-12-31 | 229.827 |  |  | 87.989 | 0.91 | 100.785 |  |  | 0.91 |
-| FY2018 Q1 | 2018 | 1 | 2018-03-31 | 230.683 |  |  | 39.395 | 0.41 | 87.154 |  |  | 0.41 |
-| FY2018 Q2 | 2018 | 2 | 2018-06-30 | 1.826 |  |  | 38.671 | 0.4 | 144.129 |  |  | 0.4 |
-| FY2018 Q3 | 2018 | 3 | 2018-09-30 | 1.827 |  |  | 38.866 | 0.4 | 144.667 |  |  | 0.4 |
-| FY2018 Q4 | 2018 | 4 | 2018-12-31 | 244.919 |  |  | 39.196 | 0.41 | 127.797 |  |  | 0.41 |
-| FY2019 Q1 | 2019 | 1 | 2019-03-31 | 1.843 |  |  | 38.613 | 0.4 | 92.651 |  |  | 0.4 |
-| FY2019 Q2 | 2019 | 2 | 2019-06-30 | 1.867 |  |  | 42.399 | 0.43 | 126.02 |  |  | 0.43 |
-| FY2019 Q3 | 2019 | 3 | 2019-09-30 | 2.139 |  |  | 43.597 | 0.44 | 189.764 |  |  | 0.44 |
-| FY2019 Q4 | 2019 | 4 | 2019-12-31 | 2.847 |  |  | 95.014 | 0.95 | 147.162 |  |  | 0.95 |
-| FY2020 Q1 | 2020 | 1 | 2020-03-31 | 2.527 |  |  | 43.284 | 0.43 | 110.584 |  |  | 0.43 |
-| FY2020 Q2 | 2020 | 2 | 2020-06-30 | 2.38 |  |  | 16.477 | 0.17 | 139.59 |  |  | 0.17 |
-| FY2020 Q3 | 2020 | 3 | 2020-09-30 | 2.542 |  |  | 34.957 | 0.35 | 163.11 |  |  | 0.35 |
-| FY2020 Q4 | 2020 | 4 | 2020-12-31 | 3.351 |  |  | 29.193 | 0.29 | 106.035 |  |  | 0.29 |
-| FY2021 Q1 | 2021 | 1 | 2021-03-31 | 2.206 |  |  | 31.347 | 0.31 | 88.456 |  |  | 0.31 |
-| FY2021 Q2 | 2021 | 2 | 2021-06-30 | 2.263 |  |  | 30.179 | 0.3 | 155.213 |  |  | 0.3 |
-| FY2021 Q3 | 2021 | 3 | 2021-09-30 | 3.248 |  |  | 29.483 | 0.29 | 192.353 |  |  | 0.29 |
-| FY2021 Q4 | 2021 | 4 | 2021-12-31 | 2.815 |  |  | 212.898 | 2.06 | 141.445 |  |  | 2.06 |
-| FY2022 Q1 | 2022 | 1 | 2022-03-31 | 2.45 |  |  | 80.745 | 0.76 | 122.287 |  |  | 0.76 |
-| FY2022 Q2 | 2022 | 2 | 2022-06-30 | 1.19 |  |  | 497.315 | 4.54 | 208.347 |  |  | 4.54 |
-| FY2022 Q3 | 2022 | 3 | 2022-09-30 | 0.617 |  |  | 29.844 | 0.27 | 245.896 |  |  | 0.27 |
-| FY2022 Q4 | 2022 | 4 | 2022-12-31 | 0.931 |  |  | 45.709 | 0.42 | 168.182 |  |  | 0.42 |
-| FY2023 Q1 | 2023 | 1 | 2023-03-31 | 0.578 |  |  | 41.917 | 0.39 | 139.711 |  | 0 | 0.39 |
-| FY2023 Q2 | 2023 | 2 | 2023-06-30 | 0.718 |  |  | 91.099 | 0.84 | 226.931 |  | 0 | 0.84 |
-| FY2023 Q3 | 2023 | 3 | 2023-09-30 | 1.077 |  |  | 47.963 | 0.44 | 236.328 |  | 0 | 0.44 |
-| FY2023 Q4 | 2023 | 4 | 2023-12-31 | 1.078 |  |  | 222.33 | 2.04 | 191.98 |  | 0 | 2.04 |
-| FY2024 Q1 | 2024 | 1 | 2024-03-31 | 1.284 |  |  | 83.889 | 0.77 | 135.89 |  | -45.682 | 0.77 |
-| FY2024 Q2 | 2024 | 2 | 2024-06-30 | 2.606 |  |  | 42.917 | 0.4 | 225.069 |  | -4.315 | 0.4 |
-| FY2024 Q3 | 2024 | 3 | 2024-09-30 | 1.707 |  |  | -4.204 | -0.04 | 261.56 |  | 0 | -0.04 |
-| FY2024 Q4 | 2024 | 4 | 2024-12-31 | 1.54 |  |  | 40.691 | 0.37 | 152.358 |  | 0 | 0.37 |
-| FY2025 Q1 | 2025 | 1 | 2025-03-31 | 2.487 |  |  | 38.822 | 0.36 | 148.216 |  | 0 | 0.36 |
-| FY2025 Q2 | 2025 | 2 | 2025-06-30 | 2.633 |  |  | 80.67 | 0.74 | 230.663 |  | 0 | 0.74 |
-| FY2025 Q3 | 2025 | 3 | 2025-09-30 | 2.565 |  |  | 108.934 | 1 | 250.927 |  | -49.999 | 1 |
-| FY2025 Q4 | 2025 | 4 | 2025-12-31 | 5.282 |  |  | 156.036 | 1.44 | 196.815 |  | -220.655 | 1.44 |
+| FY2018 Q1 | 2018 | 1 | 2018-03-31 |  |  |  | 39.395 | 0.41 | 87.154 |  |  | 0.41 |
+| FY2018 Q2 | 2018 | 2 | 2018-06-30 |  |  |  | 38.671 | 0.4 | 144.129 |  |  | 0.4 |
+| FY2018 Q3 | 2018 | 3 | 2018-09-30 |  |  |  | 38.866 | 0.4 | 144.667 |  |  | 0.4 |
+| FY2018 Q4 | 2018 | 4 | 2018-12-31 |  |  |  | 39.196 | 0.41 | 127.797 |  |  | 0.41 |
+| FY2019 Q1 | 2019 | 1 | 2019-03-31 |  |  |  | 38.613 | 0.4 | 92.651 |  |  | 0.4 |
+| FY2019 Q2 | 2019 | 2 | 2019-06-30 |  |  |  | 42.399 | 0.43 | 126.02 |  |  | 0.43 |
+| FY2019 Q3 | 2019 | 3 | 2019-09-30 |  |  |  | 43.597 | 0.44 | 189.764 |  |  | 0.44 |
+| FY2019 Q4 | 2019 | 4 | 2019-12-31 |  |  |  | 95.014 | 0.95 | 147.162 |  |  | 0.95 |
+| FY2020 Q1 | 2020 | 1 | 2020-03-31 |  |  |  | 43.284 | 0.43 | 110.584 |  |  | 0.43 |
+| FY2020 Q2 | 2020 | 2 | 2020-06-30 |  |  |  | 16.477 | 0.17 | 139.59 |  |  | 0.17 |
+| FY2020 Q3 | 2020 | 3 | 2020-09-30 |  |  |  | 34.957 | 0.35 | 163.11 |  |  | 0.35 |
+| FY2020 Q4 | 2020 | 4 | 2020-12-31 |  |  |  | 29.193 | 0.29 | 106.035 |  |  | 0.29 |
+| FY2021 Q1 | 2021 | 1 | 2021-03-31 |  |  |  | 31.347 | 0.31 | 88.456 |  |  | 0.31 |
+| FY2021 Q2 | 2021 | 2 | 2021-06-30 |  |  |  | 30.179 | 0.3 | 155.213 |  |  | 0.3 |
+| FY2021 Q3 | 2021 | 3 | 2021-09-30 |  |  |  | 29.483 | 0.29 | 192.353 |  |  | 0.29 |
+| FY2021 Q4 | 2021 | 4 | 2021-12-31 |  |  |  | 212.898 | 2.06 | 141.445 |  |  | 2.06 |
+| FY2022 Q1 | 2022 | 1 | 2022-03-31 |  |  |  | 80.745 | 0.76 | 122.287 |  |  | 0.76 |
+| FY2022 Q2 | 2022 | 2 | 2022-06-30 |  |  |  | 497.315 | 4.54 | 208.347 |  |  | 4.54 |
+| FY2022 Q3 | 2022 | 3 | 2022-09-30 |  |  |  | 29.844 | 0.27 | 245.896 |  |  | 0.27 |
+| FY2022 Q4 | 2022 | 4 | 2022-12-31 |  |  |  | 45.709 | 0.42 | 168.182 |  |  | 0.42 |
+| FY2023 Q1 | 2023 | 1 | 2023-03-31 |  |  |  | 41.917 | 0.39 | 139.711 |  | 0 | 0.39 |
+| FY2023 Q2 | 2023 | 2 | 2023-06-30 |  |  |  | 91.099 | 0.84 | 226.931 |  | 0 | 0.84 |
+| FY2023 Q3 | 2023 | 3 | 2023-09-30 |  |  |  | 47.963 | 0.44 | 236.328 |  | 0 | 0.44 |
+| FY2023 Q4 | 2023 | 4 | 2023-12-31 |  |  |  | 222.33 | 2.04 | 191.98 |  | 0 | 2.04 |
+| FY2024 Q1 | 2024 | 1 | 2024-03-31 |  |  |  | 83.889 | 0.77 | 135.89 |  | -45.682 | 0.77 |
+| FY2024 Q2 | 2024 | 2 | 2024-06-30 |  |  |  | 42.917 | 0.4 | 225.069 |  | -4.315 | 0.4 |
+| FY2024 Q3 | 2024 | 3 | 2024-09-30 |  |  |  | -4.204 | -0.04 | 261.56 |  | 0 | -0.04 |
+| FY2024 Q4 | 2024 | 4 | 2024-12-31 |  |  |  | 40.691 | 0.37 | 152.358 |  | 0 | 0.37 |
+| FY2025 Q1 | 2025 | 1 | 2025-03-31 |  |  |  | 38.822 | 0.36 | 148.216 |  | 0 | 0.36 |
+| FY2025 Q2 | 2025 | 2 | 2025-06-30 |  |  |  | 80.67 | 0.74 | 230.663 |  | 0 | 0.74 |
+| FY2025 Q3 | 2025 | 3 | 2025-09-30 |  |  |  | 108.934 | 1 | 250.927 |  | -49.999 | 1 |
+| FY2025 Q4 | 2025 | 4 | 2025-12-31 |  |  |  | 156.036 | 1.44 | 196.815 |  | -220.655 | 1.44 |
 | FY2026 Q1 | 2026 | 1 | 2026-03-31 | 2.143 |  |  | 42.449 | 0.4 | 148.105 |  | -262.829 | 0.4 |
 | FY2026 Q2 | 2026 | 2 | 2026-06-30 | 3.131 |  |  | 18.79 | 0.18 | 211.597 |  | -170.219 | 0.18 |
 
@@ -189,4 +172,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2010 under both: 31142000 and 23216000
+- Source: SEC EDGAR companyfacts
+
+### Change: CAMDEN PROPERTY TRUST, Revenue part, FY2017 to FY2018
+
+- CIK: 0000906345
+- What: Revenue part
+- Boundary: FY2017 to FY2018
+- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax as first filed, the whole year: FY2017 900.896 (10-K filed 2019-02-15), FY2018 954.505 (10-K filed 2019-02-15)
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax as last filed: FY2017 8.176 (10-K filed 2020-02-20), FY2018 7.231 (10-K filed 2021-02-18)
+- Crosswalk: FY2017 8.176 against net income 196.422; FY2018 7.231 against net income 156.128. A revenue under a tenth of the year's net income is a part of the revenue (the later filings of the tag give far less than the earlier), not the revenue. The line takes the figure first filed, the whole year as the earlier 10-K gave it; the quarters of FY2018, which do not sum to it, are blank
+- Source: SEC EDGAR companyfacts
+
+### Change: CAMDEN PROPERTY TRUST, Revenue part, FY2019 to FY2025
+
+- CIK: 0000906345
+- What: Revenue part
+- Boundary: FY2019 to FY2025
+- Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, a part of the revenue
+- Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax as last filed: FY2019 8.696 (10-K filed 2022-02-17), FY2020 10.8 (10-K filed 2023-02-23), FY2021 10.532 (10-K filed 2024-02-22), FY2022 5.188 (10-K filed 2025-02-20), FY2023 3.451 (10-K filed 2026-02-12), FY2024 7.137 (10-K filed 2026-02-12), FY2025 12.967 (10-K filed 2026-02-12)
+- Crosswalk: FY2019 8.696 against net income 219.623; FY2020 10.8 against net income 123.911; FY2021 10.532 against net income 303.907; FY2022 5.188 against net income 653.613; FY2023 3.451 against net income 403.309; FY2024 7.137 against net income 163.293; FY2025 12.967 against net income 384.462. A revenue under a tenth of the year's net income is a part of the revenue (the later filings of the tag give far less than the earlier), not the revenue. No whole year is filed under any tag read, so these years are blank
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 Hilton Worldwide Holdings Inc., as it files with the SEC (CIK 0001585689): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2017-02-15, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Hilton Worldwide Holdings Inc., and how has it grown?** It sold $12.0 billion in FY2025, the 279th most of the 487 companies with a revenue for the year, and the 35th of 75 in [Services](../Services.md). Its sales rose 68.8% from FY2015 to FY2025, 5.4% a year.
+**How large is Hilton Worldwide Holdings Inc., and how has it grown?** It sold $12.0 billion in FY2025, the 279th most of the 486 companies with a revenue for the year, and the 35th of 75 in [Services](../Services.md). Its sales rose 68.8% from FY2015 to FY2025, 5.4% a year.
 
 **Does Hilton Worldwide Holdings Inc. make money, and how much of what it sells does it keep?** It earned $1.5 billion in FY2025, 12.1% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 14 years in the book (FY2020).
 
@@ -336,6 +336,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2017-02-15 on, a share after a 1 for 3 split
 - Crosswalk: 2014-01-01 to 2014-12-31: EPS 0.68 as first filed, 2.05 after; EPS adjusted divides what was filed before by 0.3333. Found in 8 periods restated; a period's EPS and its shares; the company files no split fact of its own for it
+- Source: SEC EDGAR companyfacts
+
+### Change: Hilton Worldwide Holdings Inc., Restatement, Operating income, FY2014 to FY2016
+
+- CIK: 0001585689
+- What: Operating income restatement
+- Boundary: FY2014
+- Was: Operating income FY2013: 1102 (10-K filed 2016-02-26, as first filed)
+- Now: Operating income FY2014 to FY2016 as last filed: FY2014 703, FY2015 900, FY2016 868
+- Crosswalk: FY2014: 1673 first filed (10-K, 2015-02-18), 703 last filed (8-K, 2017-07-26); FY2015: 2071 first filed (10-K, 2016-02-26), 900 last filed (10-K, 2018-02-14); FY2016: 1861 first filed (10-K, 2017-02-15), 868 last filed (10-K, 2019-02-13). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2014. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: Hilton Worldwide Holdings Inc., Product members, 2025-07-23

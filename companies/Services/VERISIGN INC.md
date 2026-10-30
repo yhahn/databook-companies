@@ -13,7 +13,7 @@
 
 VERISIGN INC, as it files with the SEC (CIK 0001014473): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VERISIGN INC, and how has it grown?** It sold $1.7 billion in FY2025, the 480th most of the 487 companies with a revenue for the year, and the 75th of 75 in [Services](../Services.md). Its sales rose 56.4% from FY2015 to FY2025, 4.6% a year.
+**How large is VERISIGN INC, and how has it grown?** It sold $1.7 billion in FY2025, the 480th most of the 486 companies with a revenue for the year, and the 75th of 75 in [Services](../Services.md). Its sales rose 56.4% from FY2015 to FY2025, 4.6% a year.
 
 **Does VERISIGN INC make money, and how much of what it sells does it keep?** It earned $826 million in FY2025, 49.8% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 19 years in the book (FY2007, FY2008).
 
@@ -363,4 +363,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: FY2012 under both: 320032000 and 320032000
+- Source: SEC EDGAR companyfacts
+
+### Change: VERISIGN INC, Restatement, Operating income, FY2008
+
+- CIK: 0001014473
+- What: Operating income restatement
+- Boundary: FY2008
+- Was: Operating income FY2007: -231.518 (10-K filed 2010-02-26, as first filed)
+- Now: Operating income FY2008 as last filed: FY2008 -26.012
+- Crosswalk: FY2008: 63.598 first filed (10-K, 2010-02-26), -26.012 last filed (10-K, 2011-02-24). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 Arista Networks, Inc., as it files with the SEC (CIK 0001596532): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2022-02-15 and 2025-02-19, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Arista Networks, Inc., and how has it grown?** It sold $9.0 billion in FY2025, the 314th most of the 487 companies with a revenue for the year, and the 127th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 975.2% from FY2015 to FY2025, 26.8% a year.
+**How large is Arista Networks, Inc., and how has it grown?** It sold $9.0 billion in FY2025, the 315th most of the 486 companies with a revenue for the year, and the 127th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 975.2% from FY2015 to FY2025, 26.8% a year.
 
 **Does Arista Networks, Inc. make money, and how much of what it sells does it keep?** It earned $3.5 billion in FY2025, 39% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 14 years in the book.
 

@@ -13,7 +13,7 @@
 
 HORMEL FOODS CORP, as it files with the SEC (CIK 0000048465): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-09-09 and 2016-03-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HORMEL FOODS CORP, and how has it grown?** It sold $12.1 billion in FY2025, the 276th most of the 487 companies with a revenue for the year, and the 106th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 30.7% from FY2015 to FY2025, 2.7% a year.
+**How large is HORMEL FOODS CORP, and how has it grown?** It sold $12.1 billion in FY2025, the 276th most of the 486 companies with a revenue for the year, and the 106th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 30.7% from FY2015 to FY2025, 2.7% a year.
 
 **Does HORMEL FOODS CORP make money, and how much of what it sells does it keep?** It earned $478 million in FY2025, 4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 
@@ -212,7 +212,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000048465/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 992 | 1040 | 48.0 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000048465/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 9523 | 9168 | -356 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0000048465/Operating margin/FY2016 | FY2016 | Operating margin | observed | level and bend | 11.1 | 14.4 | 3.3 | 0.69 | -0.80 | 1.3 | 1.5 | percent of revenue | 32.7 | 20.1 | 1 | lone | 201 | Revenue tag, FY2017 |  |
-| 0000048465/Operating cash flow over revenue/FY2019 | FY2019 | Operating cash flow over revenue | observed | bend | 12.1 | 10.5 | -1.5 | 0.72 | -0.38 | 2.7 | 2.8 | percent of revenue | 11.9 | 10.3 | 1 | lone | 201 |  |  |
+| 0000048465/Operating cash flow over revenue/FY2019 | FY2019 | Operating cash flow over revenue | observed | bend | 12.1 | 10.5 | -1.5 | 0.72 | -0.38 | 2.7 | 2.8 | percent of revenue | 11.8 | 10.3 | 1 | lone | 201 |  |  |
 | 0000048465/Net margin/FY2021 | FY2021 | Net margin | observed | level and bend | 10.5 | 8.5 | -2.0 | 0.52 | -0.93 | 1.4 | 1.7 | percent of revenue | 29.2 | 19.2 | 1 | lone | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

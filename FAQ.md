@@ -352,13 +352,13 @@ SEC Financial Statement Data Sets 2025q1, Apple's 10-Q 0000320193-25-000008: Rev
 - Tolerance: 0
 - Look in: [README](./README.md)
 
-495 companies; FY2025, the latest year in which at least 95 of every 100 with a revenue the year before have one (486 with a revenue for it). Revenue, the first of the revenue tags filed for the year and in its 10-Qs; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.
+495 companies; FY2025, the latest year in which at least 95 of every 100 with a revenue the year before have one (485 with a revenue for it). Revenue, the first of the revenue tags filed for the year and in its 10-Qs; net income, us-gaap:NetIncomeLoss (or ProfitLoss); each as its 10-K files the year, latest filed.
 
 ### Question: co-reading-2
 
 - Tier: Analysis
 - Ask: Taking the S&P 500's companies with a revenue and a net income in every one of the ten years to the latest fiscal year nearly all have closed (as co-reading-1), by what percent did their revenue summed, and their net income summed, rise over the ten years, and in which year did their summed net income fall the most from the year before?
-- Answer: 372 companies: revenue up 81.3%, net income up 155.1% from FY2015 to FY2025; their net income fell most in FY2020
+- Answer: 372 companies: revenue up 81.4%, net income up 155.1% from FY2015 to FY2025; their net income fell most in FY2020
 - Type: list
 - Tolerance: 1
 - Look in: [README](./README.md)
@@ -369,12 +369,12 @@ The companies with a revenue and a net income for every fiscal year FY2015 to FY
 
 - Tier: Across
 - Ask: Of the S&P 500's companies whose SEC industry code falls in division H of the Standard Industrial Classification (Finance, Insurance, and Real Estate, major groups 60 to 67), how many had both a revenue and a net income for the latest fiscal year nearly all have closed (as co-reading-1), what were those summed, in millions of dollars, and which company had the greatest revenue and which the greatest net income?
-- Answer: 92 companies, revenue 3329235.9, net income 448525.6 ($ millions); the most revenue UNH, the most net income BRK-B
+- Answer: 91 companies, revenue 3329223, net income 448141.1 ($ millions); the most revenue UNH, the most net income BRK-B
 - Type: list
 - Tolerance: 1
 - Look in: [companies/Finance, Insurance, and Real Estate](./companies/Finance,%20Insurance,%20and%20Real%20Estate.md)
 
-The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major groups 60 to 67: 95; with both a revenue and a net income for FY2025: 92.
+The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major groups 60 to 67: 95; with both a revenue and a net income for FY2025: 91.
 
 ### Question: co-reading-4
 
@@ -385,4 +385,4 @@ The members whose SIC code (FSDS sub.txt, the latest 10-K or 10-Q) is in major g
 - Tolerance: 0.1
 - Look in: [companies/Manufacturing/Apple Inc](./companies/Manufacturing/Apple%20Inc.md)
 
-companyfacts CIK0000320193: revenue (the first revenue tag filed for the year and in its 10-Qs), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the 486 members with a revenue for FY2025.
+companyfacts CIK0000320193: revenue (the first revenue tag filed for the year and in its 10-Qs), us-gaap:NetIncomeLoss, NetCashProvidedByUsedInOperatingActivities and PaymentsForRepurchaseOfCommonStock, each year as Apple's 10-Ks file it, latest filed; its rank among the 485 members with a revenue for FY2025.

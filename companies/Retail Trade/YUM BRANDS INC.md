@@ -13,7 +13,7 @@
 
 YUM BRANDS INC, as it files with the SEC (CIK 0001041061): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is YUM BRANDS INC, and how has it grown?** It sold $8.2 billion in FY2025, the 334th most of the 487 companies with a revenue for the year, and the 26th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 28% from FY2015 to FY2025, 2.5% a year.
+**How large is YUM BRANDS INC, and how has it grown?** It sold $8.2 billion in FY2025, the 335th most of the 486 companies with a revenue for the year, and the 26th of 29 in [Retail Trade](../Retail%20Trade.md). Its sales rose 28% from FY2015 to FY2025, 2.5% a year.
 
 **Does YUM BRANDS INC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 19% of what it sold; the median company of its sector kept 8.6%. It lost money in none of its 19 years in the book.
 
@@ -199,8 +199,8 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001041061/Capex gap/FY2016 | FY2016 | Capex gap | instrument | | -973 |  |  | | | | | millions | | | | | | none |  |
-| 0001041061/Operating cash flow gap/FY2016 | FY2016 | Operating cash flow gap | instrument | | 2139 |  |  | | | | | millions | | | | | | none |  |
+| 0001041061/Capex gap/FY2016 | FY2016 | Capex gap | instrument | | -973 |  |  | | | | | millions | | | | | | Capex gap, FY2016 |  |
+| 0001041061/Operating cash flow gap/FY2016 | FY2016 | Operating cash flow gap | instrument | | 2139 |  |  | | | | | millions | | | | | | Operating cash flow gap, FY2016 |  |
 | 0001041061/Operating margin/FY2021/2 | FY2021 | Operating margin | observed | bend | 35.5 | 32.6 | -2.9 | 2.05 | -0.24 | 15.1 | 0.9 | percent of revenue | 237.0 | 14.8 | 2 | lone | 28 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -398,6 +398,26 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Buybacks | FY2017 | FY2026 | us-gaap:PaymentsForRepurchaseOfCommonStock |
 
 ## Changes
+
+### Change: YUM BRANDS INC, Gap, Operating cash flow, FY2016
+
+- CIK: 0001041061
+- What: Operating cash flow gap
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 2139
+- Now: no figure for FY2016; FY2017: 1030
+- Crosswalk: FY2016: no annual figure under any tag read; periods of 3, 5, 8 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetCashProvidedByUsedInOperatingActivities, us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Source: SEC EDGAR companyfacts
+
+### Change: YUM BRANDS INC, Gap, Capex, FY2016
+
+- CIK: 0001041061
+- What: Capex gap
+- Boundary: FY2016
+- Was: Capex FY2015: -973
+- Now: no figure for FY2016; FY2017: -318
+- Crosswalk: FY2016: no annual figure under any tag read; periods of 3, 5, 6, 8, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
 
 ### Change: YUM BRANDS INC, Segment members, 2025-08-07
 

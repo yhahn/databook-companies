@@ -13,7 +13,7 @@
 
 NUCOR CORP, as it files with the SEC (CIK 0000073309): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NUCOR CORP, and how has it grown?** It sold $32.5 billion in FY2025, the 119th most of the 487 companies with a revenue for the year, and the 56th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 97.7% from FY2015 to FY2025, 7.1% a year.
+**How large is NUCOR CORP, and how has it grown?** It sold $32.5 billion in FY2025, the 119th most of the 486 companies with a revenue for the year, and the 56th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 97.7% from FY2015 to FY2025, 7.1% a year.
 
 **Does NUCOR CORP make money, and how much of what it sells does it keep?** It earned $1.7 billion in FY2025, 5.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2009).
 
@@ -432,6 +432,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 1051263000 and 1055338000
+- Source: SEC EDGAR companyfacts
+
+### Change: NUCOR CORP, Restatement, Net income, FY2015
+
+- CIK: 0000073309
+- What: Net income restatement
+- Boundary: FY2015
+- Was: Net income FY2014: 679.337 (10-K filed 2017-02-28, itself restated)
+- Now: Net income FY2015 as last filed: FY2015 80.724
+- Crosswalk: FY2015: 357.659 first filed (10-K, 2016-02-26), 80.724 last filed (10-K, 2018-02-28). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2015. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: NUCOR CORP, Product members, 2025-11-12

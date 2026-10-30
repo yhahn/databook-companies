@@ -13,7 +13,7 @@
 
 ADVANCED MICRO DEVICES INC, as it files with the SEC (CIK 0000002488): its fiscal years and quarters from its XBRL filings, FY2010 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ADVANCED MICRO DEVICES INC, and how has it grown?** It sold $34.6 billion in FY2025, the 109th most of the 487 companies with a revenue for the year, and the 51st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 767.9% from FY2015 to FY2025, 24.1% a year.
+**How large is ADVANCED MICRO DEVICES INC, and how has it grown?** It sold $34.6 billion in FY2025, the 109th most of the 486 companies with a revenue for the year, and the 51st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 767.9% from FY2015 to FY2025, 24.1% a year.
 
 **Does ADVANCED MICRO DEVICES INC make money, and how much of what it sells does it keep?** It earned $4.3 billion in FY2025, 12.5% of what it sold; the median company of its sector kept 11.8%. It lost money in 6 of its 16 years in the book (FY2012, FY2013, FY2014 and 3 more).
 
@@ -329,4 +329,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2011 under both: 491000000 and 491000000
+- Source: SEC EDGAR companyfacts
+
+### Change: ADVANCED MICRO DEVICES INC, Restatement, Net income, FY2017
+
+- CIK: 0000002488
+- What: Net income restatement
+- Boundary: FY2017
+- Was: Net income FY2016: -498 (10-K filed 2019-02-08, as first filed)
+- Now: Net income FY2017 as last filed: FY2017 -33
+- Crosswalk: FY2017: 43 first filed (10-K, 2018-02-27), -33 last filed (10-K, 2020-02-04). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: ADVANCED MICRO DEVICES INC, Restatement, Operating cash flow, FY2017
+
+- CIK: 0000002488
+- What: Operating cash flow restatement
+- Boundary: FY2017
+- Was: Operating cash flow FY2016: 81 (10-K filed 2019-02-08, itself restated)
+- Now: Operating cash flow FY2017 as last filed: FY2017 12
+- Crosswalk: FY2017: 68 first filed (10-K, 2018-02-27), 12 last filed (10-K, 2020-02-04). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

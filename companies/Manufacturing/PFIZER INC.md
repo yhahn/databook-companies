@@ -13,7 +13,7 @@
 
 PFIZER INC, as it files with the SEC (CIK 0000078003): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PFIZER INC, and how has it grown?** It sold $62.6 billion in FY2025, the 64th most of the 487 companies with a revenue for the year, and the 25th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 18.5% from FY2016 to FY2025, 1.9% a year.
+**How large is PFIZER INC, and how has it grown?** It sold $62.6 billion in FY2025, the 64th most of the 486 companies with a revenue for the year, and the 25th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 18.5% from FY2016 to FY2025, 1.9% a year.
 
 **Does PFIZER INC make money, and how much of what it sells does it keep?** It earned $7.8 billion in FY2025, 12.4% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -180,7 +180,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000078003/Revenue gap/FY2014 | FY2014 | Revenue gap | instrument | | 51584 |  |  | | | | | millions | | | | | | none |  |
+| 0000078003/Revenue gap/FY2014 | FY2014 | Revenue gap | instrument | | 51584 |  |  | | | | | millions | | | | | | Revenue gap, FY2014 |  |
 | 0000078003/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | |  | 52824 |  | | | | | millions | | | | | | Revenue tag, FY2016 |  |
 | 0000078003/Revenue tag/FY2023 | FY2023 | Revenue tag | instrument | | 91793 | 59553 | -32240 | | | | | millions | | | | | | Revenue tag, FY2023 (the two tags' figures differ, x0.85) |  |
 
@@ -363,6 +363,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Now: us-gaap:Revenues
 - Crosswalk: FY2023 under both: 50914000000 and 59553000000
+- Source: SEC EDGAR companyfacts
+
+### Change: PFIZER INC, Gap, Revenue, FY2014 to FY2015
+
+- CIK: 0000078003
+- What: Revenue gap
+- Boundary: FY2014
+- Was: Revenue FY2013: 51584
+- Now: no figure for FY2014 to FY2015; FY2016: 52824
+- Crosswalk: FY2014: no annual figure under any tag read; periods of 3, 6 months are filed; FY2015: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts
 
 ### Change: PFIZER INC, Product members, 2025-05-05

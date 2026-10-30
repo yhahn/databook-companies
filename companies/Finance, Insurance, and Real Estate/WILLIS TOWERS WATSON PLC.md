@@ -13,9 +13,9 @@
 
 WILLIS TOWERS WATSON PLC, as it files with the SEC (CIK 0001140536): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WILLIS TOWERS WATSON PLC, and how has it grown?** It sold $9.5 billion in FY2025, the 306th most of the 487 companies with a revenue for the year, and the 48th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 148.5% from FY2015 to FY2025, 9.5% a year.
+**How large is WILLIS TOWERS WATSON PLC, and how has it grown?** It sold $9.5 billion in FY2025, the 306th most of the 486 companies with a revenue for the year, and the 48th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 148.5% from FY2015 to FY2025, 9.5% a year.
 
-**Does WILLIS TOWERS WATSON PLC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 16.9% of what it sold; the median company of its sector kept 19.2%. It lost money in 2 of its 18 years in the book (FY2012, FY2024).
+**Does WILLIS TOWERS WATSON PLC make money, and how much of what it sells does it keep?** It earned $1.6 billion in FY2025, 16.9% of what it sold; the median company of its sector kept 18.9%. It lost money in 2 of its 18 years in the book (FY2012, FY2024).
 
 **Where does WILLIS TOWERS WATSON PLC's cash go?** From FY2016 to FY2025 its operations brought in $13.4 billion; it spent 11.2% of that on plant and equipment, and 77.3% on buying back its own shares.
 
@@ -190,7 +190,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001140536/Capex tag/FY2016 | FY2016 | Capex tag | instrument | | -146 | -218 | -72.0 | | | | | millions | | | | | | Capex tag, FY2016 |  |
 | 0001140536/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 8202 | 8413 | 211 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0001140536/Capex gap/FY2019 | FY2019 | Capex gap | instrument | | -268 |  |  | | | | | millions | | | | | | none |  |
+| 0001140536/Capex gap/FY2019 | FY2019 | Capex gap | instrument | | -268 |  |  | | | | | millions | | | | | | Capex gap, FY2019 |  |
 | 0001140536/Net margin/FY2013/2 | FY2013 | Net margin | observed | bend | -4.7 | 9.1 | 13.8 | -5.46 | 0.54 | 15.7 | 23.1 | percent of revenue | 7.1 | 5.7 | 2 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -379,4 +379,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: WILLIS TOWERS WATSON PLC, Gap, Capex, FY2019 to FY2022
+
+- CIK: 0001140536
+- What: Capex gap
+- Boundary: FY2019
+- Was: Capex FY2018: -268
+- Now: no figure for FY2019 to FY2022; FY2023: -242
+- Crosswalk: FY2019: no annual figure under any tag read; periods of 3, 6 months are filed; FY2020 to FY2022: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
 - Source: SEC EDGAR companyfacts

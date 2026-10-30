@@ -13,9 +13,9 @@
 
 GOLDMAN SACHS GROUP INC, as it files with the SEC (CIK 0000886982): its fiscal years and quarters from its XBRL filings, FY2011 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is GOLDMAN SACHS GROUP INC, and how has it grown?** It sold $58.3 billion in FY2025, the 70th most of the 487 companies with a revenue for the year, and the 17th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 72.3% from FY2015 to FY2025, 5.6% a year.
+**How large is GOLDMAN SACHS GROUP INC, and how has it grown?** It sold $58.3 billion in FY2025, the 70th most of the 486 companies with a revenue for the year, and the 17th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 72.3% from FY2015 to FY2025, 5.6% a year.
 
-**Does GOLDMAN SACHS GROUP INC make money, and how much of what it sells does it keep?** It earned $17.2 billion in FY2025, 29.5% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 15 years in the book.
+**Does GOLDMAN SACHS GROUP INC make money, and how much of what it sells does it keep?** It earned $17.2 billion in FY2025, 29.5% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 15 years in the book.
 
 **Where does GOLDMAN SACHS GROUP INC's cash go?** The book does not say: its filings give no value this needs.
 
@@ -311,4 +311,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: -17742000000 and -20489000000
+- Source: SEC EDGAR companyfacts
+
+### Change: GOLDMAN SACHS GROUP INC, Restatement, Operating cash flow, FY2021
+
+- CIK: 0000886982
+- What: Operating cash flow restatement
+- Boundary: FY2021
+- Was: Operating cash flow FY2020: -18535 (10-K filed 2023-02-24, itself restated)
+- Now: Operating cash flow FY2021 as last filed: FY2021 6298
+- Crosswalk: FY2021: 921 first filed (10-K, 2022-02-25), 6298 last filed (10-K, 2024-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2021. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

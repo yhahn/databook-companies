@@ -13,9 +13,9 @@
 
 US BANCORP DE, as it files with the SEC (CIK 0000036104): its fiscal years and quarters from its XBRL filings, FY2012 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is US BANCORP DE, and how has it grown?** It sold $28.7 billion in FY2025, the 129th most of the 487 companies with a revenue for the year, and the 23rd of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 41.1% from FY2015 to FY2025, 3.5% a year.
+**How large is US BANCORP DE, and how has it grown?** It sold $28.7 billion in FY2025, the 129th most of the 486 companies with a revenue for the year, and the 23rd of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 41.1% from FY2015 to FY2025, 3.5% a year.
 
-**Does US BANCORP DE make money, and how much of what it sells does it keep?** It earned $7.6 billion in FY2025, 26.4% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 14 years in the book.
+**Does US BANCORP DE make money, and how much of what it sells does it keep?** It earned $7.6 billion in FY2025, 26.4% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 14 years in the book.
 
 **Where does US BANCORP DE's cash go?** From FY2016 to FY2025 its operations brought in $89.7 billion; it spent 0% of that on plant and equipment, and 18.5% on buying back its own shares.
 
@@ -133,7 +133,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000036104/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 7958 | 11446 | 3488 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
 | 0000036104/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 5336 | 6472 | 1136 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
-| 0000036104/Revenue gap/FY2019 | FY2019 | Revenue gap | instrument | | 22637 |  |  | | | | | millions | | | | | | none |  |
+| 0000036104/Revenue gap/FY2019 | FY2019 | Revenue gap | instrument | | 22637 |  |  | | | | | millions | | | | | | Revenue gap, FY2019 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -240,4 +240,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 6472000000 and 6472000000
+- Source: SEC EDGAR companyfacts
+
+### Change: US BANCORP DE, Gap, Revenue, FY2019 to FY2021
+
+- CIK: 0000036104
+- What: Revenue gap
+- Boundary: FY2019
+- Was: Revenue FY2018: 22637
+- Now: no figure for FY2019 to FY2021; FY2022: 24302
+- Crosswalk: FY2019: no annual figure under any tag read; periods of 3, 6, 9 months are filed; FY2020 to FY2021: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

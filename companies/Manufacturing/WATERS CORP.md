@@ -13,7 +13,7 @@
 
 WATERS CORP, as it files with the SEC (CIK 0001000697): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WATERS CORP, and how has it grown?** It sold $3.2 billion in FY2025, the 452nd most of the 487 companies with a revenue for the year, and the 191st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 55% from FY2015 to FY2025, 4.5% a year.
+**How large is WATERS CORP, and how has it grown?** It sold $3.2 billion in FY2025, the 453rd most of the 486 companies with a revenue for the year, and the 191st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 55% from FY2015 to FY2025, 4.5% a year.
 
 **Does WATERS CORP make money, and how much of what it sells does it keep?** It earned $643 million in FY2025, 20.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 13 years in the book.
 
@@ -186,7 +186,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001000697/Net income gap/FY2010 | FY2010 | Net income gap | instrument | | 323 |  |  | | | | | millions | | | | | | none |  |
+| 0001000697/Net income gap/FY2010 | FY2010 | Net income gap | instrument | | 323 |  |  | | | | | millions | | | | | | Net income gap, FY2010 |  |
 | 0001000697/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 485 | 512 | 26.8 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0001000697/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 643 | 698 | 54.7 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
 | 0001000697/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 2167 | 2309 | 142 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
@@ -420,4 +420,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 697640000 and 697640000
+- Source: SEC EDGAR companyfacts
+
+### Change: WATERS CORP, Gap, Net income, FY2010 to FY2015
+
+- CIK: 0001000697
+- What: Net income gap
+- Boundary: FY2010
+- Was: Net income FY2009: 323.313
+- Now: no figure for FY2010 to FY2015; FY2016: 521.503
+- Crosswalk: FY2010: no annual figure under any tag read; periods of 3 months are filed; FY2011 to FY2015: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
 - Source: SEC EDGAR companyfacts

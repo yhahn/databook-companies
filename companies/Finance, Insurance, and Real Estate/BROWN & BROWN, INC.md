@@ -13,9 +13,9 @@
 
 BROWN & BROWN, INC., as it files with the SEC (CIK 0000079282): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2018-05-10, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BROWN & BROWN, INC., and how has it grown?** It sold $5.9 billion in FY2025, the 380th most of the 487 companies with a revenue for the year, and the 67th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 255.4% from FY2015 to FY2025, 13.5% a year.
+**How large is BROWN & BROWN, INC., and how has it grown?** It sold $5.9 billion in FY2025, the 381st most of the 486 companies with a revenue for the year, and the 67th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 255.4% from FY2015 to FY2025, 13.5% a year.
 
-**Does BROWN & BROWN, INC. make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 17.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 18 years in the book.
+**Does BROWN & BROWN, INC. make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 17.9% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 18 years in the book.
 
 **Where does BROWN & BROWN, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $8.1 billion; it spent 6.7% of that on plant and equipment, and 7.5% on buying back its own shares.
 
@@ -173,7 +173,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000079282/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 389 | 385 | -4.4 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0000079282/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 442 | 568 | 126 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
-| 0000079282/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | bend | 21.9 | 28.4 | 6.5 | -0.75 | -0.68 | 8.6 | 1.6 | percent of revenue | 11.8 | 5.9 | 2 | lone | 94 | Operating cash flow tag, FY2018 |  |
+| 0000079282/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | bend | 21.9 | 28.4 | 6.5 | -0.75 | -0.68 | 8.6 | 1.6 | percent of revenue | 11.9 | 5.9 | 2 | lone | 94 | Operating cash flow tag, FY2018 |  |
 | 0000079282/Operating cash flow growth/FY2020/2 | FY2020 | Operating cash flow growth | observed | bend | 23.0 | 6.1 | -16.9 | 2.61 | 3.03 | 59.0 | 6.1 | percent a year | 13.0 | 6.0 | 2 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

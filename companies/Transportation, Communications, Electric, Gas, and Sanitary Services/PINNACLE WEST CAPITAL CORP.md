@@ -13,7 +13,7 @@
 
 PINNACLE WEST CAPITAL CORP, as it files with the SEC (CIK 0000764622): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PINNACLE WEST CAPITAL CORP, and how has it grown?** It sold $5.3 billion in FY2025, the 396th most of the 487 companies with a revenue for the year, and the 56th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 52.8% from FY2015 to FY2025, 4.3% a year.
+**How large is PINNACLE WEST CAPITAL CORP, and how has it grown?** It sold $5.3 billion in FY2025, the 397th most of the 486 companies with a revenue for the year, and the 56th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 52.8% from FY2015 to FY2025, 4.3% a year.
 
 **Does PINNACLE WEST CAPITAL CORP make money, and how much of what it sells does it keep?** It earned $632 million in FY2025, 11.8% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 18 years in the book.
 

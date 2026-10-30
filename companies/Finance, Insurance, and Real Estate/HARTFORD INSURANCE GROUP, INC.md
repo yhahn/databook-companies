@@ -13,9 +13,9 @@
 
 HARTFORD INSURANCE GROUP, INC., as it files with the SEC (CIK 0000874766): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is HARTFORD INSURANCE GROUP, INC., and how has it grown?** It sold $28.4 billion in FY2025, the 133rd most of the 487 companies with a revenue for the year, and the 24th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 77.3% from FY2015 to FY2025, 5.9% a year.
+**How large is HARTFORD INSURANCE GROUP, INC., and how has it grown?** It sold $28.4 billion in FY2025, the 133rd most of the 486 companies with a revenue for the year, and the 24th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 77.3% from FY2015 to FY2025, 5.9% a year.
 
-**Does HARTFORD INSURANCE GROUP, INC. make money, and how much of what it sells does it keep?** It earned $3.8 billion in FY2025, 13.5% of what it sold; the median company of its sector kept 19.2%. It lost money in 4 of its 19 years in the book (FY2008, FY2009, FY2012, FY2017).
+**Does HARTFORD INSURANCE GROUP, INC. make money, and how much of what it sells does it keep?** It earned $3.8 billion in FY2025, 13.5% of what it sold; the median company of its sector kept 18.9%. It lost money in 4 of its 19 years in the book (FY2008, FY2009, FY2012, FY2017).
 
 **Where does HARTFORD INSURANCE GROUP, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $38.6 billion; it spent 4.3% of that on plant and equipment, and 27.2% on buying back its own shares.
 
@@ -178,7 +178,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000874766/Revenue tag/FY2026 | FY2026 | Revenue tag | instrument | | 28368 |  |  | | | | | millions | | | | | | Revenue tag, FY2026 |  |
-| 0000874766/Revenue growth/FY2016/2 | FY2016 | Revenue growth | observed | bend | -13.5 | 4.8 | 18.3 | -6.04 | 0.26 | 138.3 | 8.8 | percent a year | 7.8 | 6.3 | 2 | lone | 94 |  |  |
+| 0000874766/Revenue growth/FY2016/2 | FY2016 | Revenue growth | observed | bend | -13.5 | 4.8 | 18.3 | -6.04 | 0.26 | 138.3 | 8.8 | percent a year | 7.7 | 6.3 | 2 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

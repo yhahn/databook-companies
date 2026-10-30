@@ -13,9 +13,9 @@
 
 ERIE INDEMNITY CO, as it files with the SEC (CIK 0000922621): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ERIE INDEMNITY CO, and how has it grown?** It sold $4.1 billion in FY2025, the 434th most of the 487 companies with a revenue for the year, and the 76th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 170.2% from FY2015 to FY2025, 10.4% a year.
+**How large is ERIE INDEMNITY CO, and how has it grown?** It sold $4.1 billion in FY2025, the 435th most of the 486 companies with a revenue for the year, and the 76th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 170.2% from FY2015 to FY2025, 10.4% a year.
 
-**Does ERIE INDEMNITY CO make money, and how much of what it sells does it keep?** It earned $559 million in FY2025, 13.8% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 18 years in the book.
+**Does ERIE INDEMNITY CO make money, and how much of what it sells does it keep?** It earned $559 million in FY2025, 13.8% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 18 years in the book.
 
 **Where does ERIE INDEMNITY CO's cash go?** From FY2016 to FY2025 its operations brought in $3.9 billion; it spent 21.1% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -157,9 +157,9 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000922621/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 721 | 360 | -361 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
 | 0000922621/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 217 | 254 | 37.0 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000922621/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 1597 | 1692 | 95.1 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000922621/Operating cash flow over revenue/FY2012 | FY2012 | Operating cash flow over revenue | observed | level and bend | 7.8 | 13.1 | 5.3 | -6.52 | 0.13 | 0.8 | 4.3 | percent of revenue | 30.2 | 13.5 | 1 | lone | 94 | Operating cash flow tag, FY2011 |  |
-| 0000922621/Net margin/FY2013 | FY2013 | Net margin | observed | level | 3.3 | 11.6 | 8.4 | 0.16 | 0.14 | 0.8 | 2.6 | percent of revenue | 25.7 | 21.9 | 1 | lone | 94 |  |  |
-| 0000922621/Revenue growth/FY2014 | FY2014 | Revenue growth | observed | level and bend | -52.5 | 9.9 | 62.4 | -27.46 | 0.10 | 55.1 | 21.4 | percent a year | 14.1 | 6.8 | 1 | lone | 94 |  |  |
+| 0000922621/Operating cash flow over revenue/FY2012 | FY2012 | Operating cash flow over revenue | observed | level and bend | 7.8 | 13.1 | 5.3 | -6.52 | 0.13 | 0.8 | 4.3 | percent of revenue | 30.2 | 13.5 | 1 | lone | 94 | Operating cash flow tag, FY2011; Revenue restatement, FY2013; Operating cash flow restatement, FY2013 |  |
+| 0000922621/Net margin/FY2013 | FY2013 | Net margin | observed | level | 3.3 | 11.6 | 8.4 | 0.16 | 0.14 | 0.8 | 2.6 | percent of revenue | 25.8 | 22.0 | 1 | lone | 94 | Revenue restatement, FY2013 |  |
+| 0000922621/Revenue growth/FY2014 | FY2014 | Revenue growth | observed | level and bend | -52.5 | 9.9 | 62.4 | -27.46 | 0.10 | 55.1 | 21.4 | percent a year | 14.1 | 6.8 | 1 | lone | 94 | Revenue restatement, FY2013 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -349,4 +349,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2016 under both: 254336000 and 254336000
+- Source: SEC EDGAR companyfacts
+
+### Change: ERIE INDEMNITY CO, Restatement, Revenue, FY2013 to FY2014
+
+- CIK: 0000922621
+- What: Revenue restatement
+- Boundary: FY2013
+- Was: Revenue FY2012: 5512 (10-K filed 2015-02-26, as first filed)
+- Now: Revenue FY2013 to FY2014 as last filed: FY2013 1297.331, FY2014 1407.119
+- Crosswalk: FY2013: 6271 first filed (10-K, 2014-02-27), 1297.331 last filed (10-K, 2016-02-25); FY2014: 6124 first filed (10-K, 2015-02-26), 1407.119 last filed (10-K, 2017-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2013. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: ERIE INDEMNITY CO, Restatement, Operating cash flow, FY2013 to FY2014
+
+- CIK: 0000922621
+- What: Operating cash flow restatement
+- Boundary: FY2013
+- Was: Operating cash flow FY2012: 577 (10-K filed 2015-02-26, as first filed)
+- Now: Operating cash flow FY2013 to FY2014 as last filed: FY2013 218.008, FY2014 186.013
+- Crosswalk: FY2013: 903 first filed (10-K, 2014-02-27), 218.008 last filed (10-K, 2016-02-25); FY2014: 779 first filed (10-K, 2015-02-26), 186.013 last filed (10-K, 2017-02-23). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2013. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

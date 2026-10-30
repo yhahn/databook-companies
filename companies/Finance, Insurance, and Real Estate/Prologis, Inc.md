@@ -13,9 +13,9 @@
 
 Prologis, Inc., as it files with the SEC (CIK 0001045609): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Prologis, Inc., and how has it grown?** It sold $8.8 billion in FY2025, the 319th most of the 487 companies with a revenue for the year, and the 50th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 247% from FY2016 to FY2025, 14.8% a year.
+**How large is Prologis, Inc., and how has it grown?** It sold $8.8 billion in FY2025, the 320th most of the 486 companies with a revenue for the year, and the 50th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 247% from FY2016 to FY2025, 14.8% a year.
 
-**Does Prologis, Inc. make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 37.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 10 years in the book.
+**Does Prologis, Inc. make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 37.9% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 10 years in the book.
 
 **Where does Prologis, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $32.5 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -214,4 +214,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2017 under both: 1687246000 and 1687246000
+- Source: SEC EDGAR companyfacts
+
+### Change: Prologis, Inc., Restatement, Operating income, FY2017
+
+- CIK: 0001045609
+- What: Operating income restatement
+- Boundary: FY2017
+- Was: Operating income FY2016: 668.378 (10-K filed 2019-02-13, as first filed)
+- Now: Operating income FY2017 as last filed: FY2017 1954.031
+- Crosswalk: FY2017: 771.066 first filed (10-K, 2018-02-15), 1954.031 last filed (10-K, 2020-02-11). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 ESTEE LAUDER COMPANIES INC, as it files with the SEC (CIK 0001001250): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-02-06, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ESTEE LAUDER COMPANIES INC, and how has it grown?** It sold $14.3 billion in FY2025, the 249th most of the 487 companies with a revenue for the year, and the 100th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 32.9% from FY2015 to FY2025, 2.9% a year.
+**How large is ESTEE LAUDER COMPANIES INC, and how has it grown?** It sold $14.3 billion in FY2025, the 249th most of the 486 companies with a revenue for the year, and the 100th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 32.9% from FY2015 to FY2025, 2.9% a year.
 
 **Does ESTEE LAUDER COMPANIES INC make money, and how much of what it sells does it keep?** It earned −$1.1 billion in FY2025, −7.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 18 years in the book (FY2025).
 
@@ -217,7 +217,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001001250/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 11824 | 13683 | 1859 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001001250/Net income tag/FY2021 | FY2021 | Net income tag | instrument | | 684 | 2875 | 2191 | | | | | millions | | | | | | Net income tag, FY2021 |  |
 | 0001001250/Net margin/FY2021 | FY2021 | Net margin | observed | level and bend | 10.1 | 18.9 | 8.8 | 0.28 | -6.22 | 5.1 | 3.8 | percent of revenue | 35.9 | 11.4 | 1 | shared | 201 | Net income tag, FY2021 |  |
-| 0001001250/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | bend | 18.1 | 20.7 | 2.6 | 0.68 | -2.90 | 3.2 | 6.1 | percent of revenue | 13.3 | 11.1 | 1 | shared | 201 |  |  |
+| 0001001250/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | bend | 18.1 | 20.7 | 2.6 | 0.68 | -2.90 | 3.2 | 6.1 | percent of revenue | 13.2 | 11.1 | 1 | shared | 201 |  |  |
 | 0001001250/Operating margin/FY2022 | FY2022 | Operating margin | observed | bend | 14.5 | 18.0 | 3.6 | 0.26 | -7.33 | 7.7 | 4.8 | percent of revenue | 15.3 | 11.9 | 1 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

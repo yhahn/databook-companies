@@ -13,9 +13,9 @@
 
 UDR, Inc., as it files with the SEC (CIK 0000074208): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is UDR, Inc., and how has it grown?** It sold $1.7 billion in FY2025, the 479th most of the 487 companies with a revenue for the year, and the 87th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 96.4% from FY2015 to FY2025, 7% a year.
+**How large is UDR, Inc., and how has it grown?** It sold $1.7 billion in FY2025, the 479th most of the 486 companies with a revenue for the year, and the 87th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 96.4% from FY2015 to FY2025, 7% a year.
 
-**Does UDR, Inc. make money, and how much of what it sells does it keep?** It earned $378 million in FY2025, 22.1% of what it sold; the median company of its sector kept 19.2%. It lost money in 2 of its 18 years in the book (FY2009, FY2010).
+**Does UDR, Inc. make money, and how much of what it sells does it keep?** It earned $378 million in FY2025, 22.1% of what it sold; the median company of its sector kept 18.9%. It lost money in 2 of its 18 years in the book (FY2009, FY2010).
 
 **Where does UDR, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $6.9 billion; it spent 0.2% of that on plant and equipment, and 3.3% on buying back its own shares.
 
@@ -329,4 +329,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 1046859000 and 11754000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: UDR, Inc., Restatement, Operating income, FY2011 to FY2012
+
+- CIK: 0000074208
+- What: Operating income restatement
+- Boundary: FY2011
+- Was: Operating income FY2010: -116.259 (10-K filed 2013-02-27, itself restated)
+- Now: Operating income FY2011 to FY2012 as last filed: FY2011 22.448, FY2012 67.26
+- Crosswalk: FY2011: -110.931 first filed (10-K, 2012-02-27), 22.448 last filed (10-K, 2014-02-25); FY2012: -64.739 first filed (10-K, 2013-02-27), 67.26 last filed (10-K, 2015-02-24). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: UDR, Inc., Restatement, Operating income, FY2016
+
+- CIK: 0000074208
+- What: Operating income restatement
+- Boundary: FY2016
+- Was: Operating income FY2015: 159.591 (10-K filed 2018-02-20, as first filed)
+- Now: Operating income FY2016 as last filed: FY2016 400.821
+- Crosswalk: FY2016: 174.622 first filed (10-K, 2017-02-21), 400.821 last filed (10-K, 2019-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

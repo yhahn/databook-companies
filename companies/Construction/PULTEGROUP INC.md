@@ -13,7 +13,7 @@
 
 PULTEGROUP INC, as it files with the SEC (CIK 0000822416): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is PULTEGROUP INC, and how has it grown?** It sold $17.3 billion in FY2025, the 208th most of the 487 companies with a revenue for the year, and the 4th of 8 in [Construction](../Construction.md). Its sales rose 189.4% from FY2015 to FY2025, 11.2% a year.
+**How large is PULTEGROUP INC, and how has it grown?** It sold $17.3 billion in FY2025, the 208th most of the 486 companies with a revenue for the year, and the 4th of 8 in [Construction](../Construction.md). Its sales rose 189.4% from FY2015 to FY2025, 11.2% a year.
 
 **Does PULTEGROUP INC make money, and how much of what it sells does it keep?** It earned $2.2 billion in FY2025, 12.8% of what it sold; the median company of its sector kept 9%. It lost money in 4 of its 18 years in the book (FY2008, FY2009, FY2010, FY2011).
 

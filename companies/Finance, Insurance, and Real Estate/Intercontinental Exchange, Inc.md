@@ -13,9 +13,9 @@
 
 Intercontinental Exchange, Inc., as it files with the SEC (CIK 0001571949): its fiscal years and quarters from its XBRL filings, FY2011 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2017-02-07, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Intercontinental Exchange, Inc., and how has it grown?** It sold $12.6 billion in FY2025, the 264th most of the 487 companies with a revenue for the year, and the 45th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 170% from FY2015 to FY2025, 10.4% a year.
+**How large is Intercontinental Exchange, Inc., and how has it grown?** It sold $12.6 billion in FY2025, the 264th most of the 486 companies with a revenue for the year, and the 45th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 170% from FY2015 to FY2025, 10.4% a year.
 
-**Does Intercontinental Exchange, Inc. make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 26.2% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 15 years in the book.
+**Does Intercontinental Exchange, Inc. make money, and how much of what it sells does it keep?** It earned $3.3 billion in FY2025, 26.2% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 15 years in the book.
 
 **Where does Intercontinental Exchange, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $31.8 billion; it spent 7.3% of that on plant and equipment, and 22.3% on buying back its own shares.
 
@@ -172,7 +172,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001571949/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 5971 | 5843 | -128 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0001571949/Operating margin/FY2015 | FY2015 | Operating margin | observed | level and bend | 35.7 | 38.8 | 3.2 | -9.45 | -0.10 | 10.9 | 3.6 | percent of revenue | 27.0 | 21.3 | 1 | lone | 94 |  |  |
-| 0001571949/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | level and bend | 27.8 | 37.1 | 9.4 | -7.16 | -0.02 | 6.2 | 4.7 | percent of revenue | 28.9 | 19.0 | 1 | lone | 94 | Revenue tag, FY2017 |  |
+| 0001571949/Operating cash flow over revenue/FY2016 | FY2016 | Operating cash flow over revenue | observed | level and bend | 27.8 | 37.1 | 9.4 | -7.16 | -0.02 | 6.2 | 4.7 | percent of revenue | 28.8 | 19.0 | 1 | lone | 94 | Revenue tag, FY2017 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

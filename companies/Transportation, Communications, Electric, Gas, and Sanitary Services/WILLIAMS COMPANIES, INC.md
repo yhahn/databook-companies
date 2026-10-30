@@ -13,7 +13,7 @@
 
 WILLIAMS COMPANIES, INC., as it files with the SEC (CIK 0000107263): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WILLIAMS COMPANIES, INC., and how has it grown?** It sold $14.9 billion in FY2025, the 242nd most of the 487 companies with a revenue for the year, and the 36th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 102.4% from FY2015 to FY2025, 7.3% a year.
+**How large is WILLIAMS COMPANIES, INC., and how has it grown?** It sold $14.9 billion in FY2025, the 242nd most of the 486 companies with a revenue for the year, and the 36th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 102.4% from FY2015 to FY2025, 7.3% a year.
 
 **Does WILLIAMS COMPANIES, INC. make money, and how much of what it sells does it keep?** It earned $2.6 billion in FY2025, 17.6% of what it sold; the median company of its sector kept 12.9%. It lost money in 4 of its 19 years in the book (FY2010, FY2015, FY2016, FY2018).
 
@@ -388,6 +388,36 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: FY2012 under both: 6018000000 and 2529000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:PaymentsToAcquireProductiveAssets for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: WILLIAMS COMPANIES, INC., Restatement, Operating income, FY2010
+
+- CIK: 0000107263
+- What: Operating income restatement
+- Boundary: FY2010
+- Was: Operating income FY2009: 1106 (10-K/A filed 2012-05-01, itself restated)
+- Now: Operating income FY2010 as last filed: FY2010 1407
+- Crosswalk: FY2010: 44 first filed (10-K, 2011-02-25), 1407 last filed (10-K, 2013-02-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: WILLIAMS COMPANIES, INC., Restatement, Capex, FY2008 to FY2009
+
+- CIK: 0000107263
+- What: Capex restatement
+- Boundary: FY2008
+- Was: Capex FY2007: 2868 (8-K filed 2010-05-26, as first filed)
+- Now: Capex FY2008 to FY2009 as last filed: FY2008 -3394, FY2009 -2387
+- Crosswalk: FY2008: 3394 first filed (10-K, 2010-02-26), -3394 last filed (8-K, 2011-06-01); FY2009: 2387 first filed (10-K, 2010-02-26), -2387 last filed (10-K/A, 2012-05-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: WILLIAMS COMPANIES, INC., Restatement, Capex, FY2012
+
+- CIK: 0000107263
+- What: Capex restatement
+- Boundary: FY2012
+- Was: Capex FY2011: -2796 (10-K filed 2013-02-27, as first filed)
+- Now: Capex FY2012 as last filed: FY2012 -6018
+- Crosswalk: FY2012: -2529 first filed (10-K, 2013-02-27), -6018 last filed (8-K, 2015-05-07). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: WILLIAMS COMPANIES, INC., Segment members, 2025-11-03

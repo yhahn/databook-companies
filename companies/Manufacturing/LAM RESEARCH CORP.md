@@ -13,7 +13,7 @@
 
 LAM RESEARCH CORP, as it files with the SEC (CIK 0000707549): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2024-10-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is LAM RESEARCH CORP, and how has it grown?** It sold $18.4 billion in FY2025, the 197th most of the 487 companies with a revenue for the year, and the 84th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 250.5% from FY2015 to FY2025, 13.4% a year.
+**How large is LAM RESEARCH CORP, and how has it grown?** It sold $18.4 billion in FY2025, the 197th most of the 486 companies with a revenue for the year, and the 84th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 250.5% from FY2015 to FY2025, 13.4% a year.
 
 **Does LAM RESEARCH CORP make money, and how much of what it sells does it keep?** It earned $5.4 billion in FY2025, 29.1% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 18 years in the book (FY2009).
 
@@ -216,7 +216,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000707549/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 720 | 717 | -2.9 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0000707549/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 2029 | 2656 | 626 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
 | 0000707549/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 8014 | 11077 | 3063 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0000707549/Net margin/FY2018/2 | FY2018 | Net margin | observed | bend | 21.2 | 21.8 | 0.6 | 2.98 | 0.93 | 26.4 | 2.7 | percent of revenue | 9.7 | 7.6 | 2 | shared | 201 | Revenue tag, FY2018 |  |
+| 0000707549/Net margin/FY2018/2 | FY2018 | Net margin | observed | bend | 21.2 | 21.8 | 0.6 | 2.98 | 0.93 | 26.4 | 2.7 | percent of revenue | 9.6 | 7.6 | 2 | shared | 201 | Revenue tag, FY2018 |  |
 | 0000707549/Operating margin/FY2019/2 | FY2019 | Operating margin | observed | bend | 27.2 | 26.8 | -0.4 | 3.10 | 0.80 | 25.7 | 3.6 | percent of revenue | 17.8 | 8.8 | 2 | lone | 201 | Revenue tag, FY2018 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

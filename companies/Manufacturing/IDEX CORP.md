@@ -13,7 +13,7 @@
 
 IDEX CORP, as it files with the SEC (CIK 0000832101): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is IDEX CORP, and how has it grown?** It sold $3.5 billion in FY2025, the 446th most of the 487 companies with a revenue for the year, and the 188th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 71.1% from FY2015 to FY2025, 5.5% a year.
+**How large is IDEX CORP, and how has it grown?** It sold $3.5 billion in FY2025, the 447th most of the 486 companies with a revenue for the year, and the 188th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 71.1% from FY2015 to FY2025, 5.5% a year.
 
 **Does IDEX CORP make money, and how much of what it sells does it keep?** It earned $483 million in FY2025, 14% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 
@@ -212,7 +212,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000832101/Revenue tag/FY2015 | FY2015 | Revenue tag | instrument | | 2148 | 2021 | -127 | | | | | millions | | | | | | Revenue tag, FY2015 |  |
 | 0000832101/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 2287 | 2484 | 196 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0000832101/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 17.4 | 18.9 | 1.6 | 0.77 | -1.62 | 5.3 | 1.5 | percent of revenue | 10.3 | 9.3 | 2 | shared | 201 |  |  |
+| 0000832101/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 17.4 | 18.9 | 1.6 | 0.77 | -1.62 | 5.3 | 1.5 | percent of revenue | 10.2 | 9.3 | 2 | shared | 201 |  |  |
 | 0000832101/Operating margin/FY2022/2 | FY2022 | Operating margin | observed | bend | 24.3 | 23.5 | -0.8 | 0.87 | -1.18 | 6.3 | 0.7 | percent of revenue | 12.5 | 10.6 | 2 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

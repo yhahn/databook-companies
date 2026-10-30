@@ -13,7 +13,7 @@
 
 RTX Corp, as it files with the SEC (CIK 0000101829): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is RTX Corp, and how has it grown?** It sold $88.6 billion in FY2025, the 41st most of the 487 companies with a revenue for the year, and the 15th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 57.9% from FY2015 to FY2025, 4.7% a year.
+**How large is RTX Corp, and how has it grown?** It sold $88.6 billion in FY2025, the 41st most of the 486 companies with a revenue for the year, and the 15th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 57.9% from FY2015 to FY2025, 4.7% a year.
 
 **Does RTX Corp make money, and how much of what it sells does it keep?** It earned $6.7 billion in FY2025, 7.6% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2020).
 
@@ -471,4 +471,34 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: RTX Corp, Restatement, Revenue, FY2017
+
+- CIK: 0000101829
+- What: Revenue restatement
+- Boundary: FY2017
+- Was: Revenue FY2016: 57244 (10-K filed 2018-02-09, as first filed)
+- Now: Revenue FY2017 as last filed: FY2017 29713
+- Crosswalk: FY2017: 59837 first filed (10-K, 2019-02-07), 29713 last filed (8-K, 2020-10-27). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: RTX Corp, Restatement, Operating income, FY2017 to FY2018
+
+- CIK: 0000101829
+- What: Operating income restatement
+- Boundary: FY2017
+- Was: Operating income FY2016: 8221 (10-K filed 2019-02-07, itself restated)
+- Now: Operating income FY2017 to FY2018 as last filed: FY2017 2989, FY2018 2877
+- Crosswalk: FY2017: 8672 first filed (10-K, 2018-02-09), 2989 last filed (8-K, 2020-10-27); FY2018: 8553 first filed (10-K, 2019-02-07), 2877 last filed (10-K, 2021-02-08). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: RTX Corp, Restatement, Operating cash flow, FY2017 to FY2018
+
+- CIK: 0000101829
+- What: Operating cash flow restatement
+- Boundary: FY2017
+- Was: Operating cash flow FY2016: 6412 (10-K filed 2019-02-07, as first filed)
+- Now: Operating cash flow FY2017 to FY2018 as last filed: FY2017 2282, FY2018 2670
+- Crosswalk: FY2017: 5631 first filed (10-K, 2018-02-09), 2282 last filed (8-K, 2020-10-27); FY2018: 6322 first filed (10-K, 2019-02-07), 2670 last filed (10-K, 2021-02-08). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

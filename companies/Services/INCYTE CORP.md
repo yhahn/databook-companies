@@ -13,7 +13,7 @@
 
 INCYTE CORP, as it files with the SEC (CIK 0000879169): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is INCYTE CORP, and how has it grown?** It sold $5.1 billion in FY2025, the 402nd most of the 487 companies with a revenue for the year, and the 52nd of 75 in [Services](../Services.md). Its sales rose 582.1% from FY2015 to FY2025, 21.2% a year.
+**How large is INCYTE CORP, and how has it grown?** It sold $5.1 billion in FY2025, the 403rd most of the 486 companies with a revenue for the year, and the 52nd of 75 in [Services](../Services.md). Its sales rose 582.1% from FY2015 to FY2025, 21.2% a year.
 
 **Does INCYTE CORP make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 25% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 10 years in the book (FY2017, FY2020).
 
@@ -167,7 +167,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000879169/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 86.5 | 305 | 218 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000879169/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 1106 | 1536 | 430 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0000879169/Operating margin/FY2013 | FY2013 | Operating margin | observed | bend | 242.2 | -3.0 | -245.2 | 436.70 | 1.77 | 1128.8 | 22.8 | percent of revenue | 10.3 | 7.3 | 1 | lone | 74 |  |  |
-| 0000879169/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | -205.7 | 10.2 | 215.9 | -80.44 | 1.96 | 906.8 | 7.6 | percent a year | 6.6 | 6.3 | 2 | lone | 74 |  |  |
+| 0000879169/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | -205.7 | 10.2 | 215.9 | -80.44 | 1.96 | 906.8 | 7.6 | percent a year | 6.7 | 6.3 | 2 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

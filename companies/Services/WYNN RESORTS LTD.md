@@ -13,7 +13,7 @@
 
 WYNN RESORTS LTD, as it files with the SEC (CIK 0001174922): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is WYNN RESORTS LTD, and how has it grown?** It sold $7.1 billion in FY2025, the 350th most of the 487 companies with a revenue for the year, and the 42nd of 75 in [Services](../Services.md). Its sales rose 75.1% from FY2015 to FY2025, 5.8% a year.
+**How large is WYNN RESORTS LTD, and how has it grown?** It sold $7.1 billion in FY2025, the 351st most of the 486 companies with a revenue for the year, and the 42nd of 75 in [Services](../Services.md). Its sales rose 75.1% from FY2015 to FY2025, 5.8% a year.
 
 **Does WYNN RESORTS LTD make money, and how much of what it sells does it keep?** It earned $327 million in FY2025, 4.6% of what it sold; the median company of its sector kept 15.8%. It lost money in 3 of its 18 years in the book (FY2020, FY2021, FY2022).
 
@@ -199,7 +199,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001174922/Revenue growth/FY2017/2 | FY2017 | Revenue growth | observed | bend | -8.5 | 12.1 | 20.7 | -4.24 | 0.94 | 33.7 | 93.4 | percent a year | 8.3 | 4.8 | 2 | lone | 74 | Revenue tag, FY2017; Revenue tag, FY2018 |  |
 | 0001174922/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 8.2 | -62.1 | -70.4 | 0.10 | 17.71 | 9.0 | 54.1 | percent of revenue | 16.7 | 10.7 | 1 | lone | 74 |  |  |
 | 0001174922/Operating margin/FY2020 | FY2020 | Operating margin | observed | level and bend | 12.6 | -37.9 | -50.5 | -0.68 | 13.34 | 5.7 | 30.9 | percent of revenue | 24.7 | 13.7 | 1 | shared | 74 |  |  |
-| 0001174922/Operating cash flow over revenue/FY2020 | FY2020 | Operating cash flow over revenue | observed | level and bend | 19.3 | -32.3 | -51.6 | -0.41 | 12.84 | 12.3 | 29.3 | percent of revenue | 21.6 | 14.2 | 1 | lone | 74 |  |  |
+| 0001174922/Operating cash flow over revenue/FY2020 | FY2020 | Operating cash flow over revenue | observed | level and bend | 19.3 | -32.3 | -51.6 | -0.41 | 12.84 | 12.3 | 29.3 | percent of revenue | 21.6 | 14.1 | 1 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

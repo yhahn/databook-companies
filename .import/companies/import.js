@@ -153,7 +153,7 @@ function company({ facts, fsdsRows, exchange, ticker, tickers, span, name, befor
   return {
     pages: out, cik: l.cik, name: l.name, page, exchange, ticker, before, sector, sic: code, industry, path: `${dir}/${page}.md`,
     first: l.first, lastQ: lastQ ? `FY${lastQ.year} Q${lastQ.q}` : '',
-    counts: { annual: l.annual.length, quarters: l.quarters.length, segments: seg.rows.length, changes: changes.length, tagChanges: l.changes.filter((c) => c.what.endsWith('tag')).length, yearChanges: l.changes.filter((c) => c.what === 'Fiscal year end').length, splits: l.splits.length, unreconciled, segmentChanges: seg.changes.length },
+    counts: { annual: l.annual.length, quarters: l.quarters.length, segments: seg.rows.length, changes: changes.length, tagChanges: l.changes.filter((c) => c.what.endsWith('tag')).length, yearChanges: l.changes.filter((c) => c.what === 'Fiscal year end').length, partChanges: l.changes.filter((c) => c.what === 'Revenue part').length, gapChanges: l.changes.filter((c) => / gap$/.test(c.what)).length, restatementChanges: l.changes.filter((c) => / restatement$/.test(c.what)).length, splits: l.splits.length, unreconciled, segmentChanges: seg.changes.length },
   };
 }
 
@@ -429,7 +429,7 @@ function main() {
     companies: done.length, skipped: skipped.length,
     sectors: sectors.length, year: R.Y,
     annual: sum('annual'), quarters: sum('quarters'), segments: sum('segments'), changes: sum('changes'),
-    tag_changes: sum('tagChanges'), splits: sum('splits'), unreconciled: sum('unreconciled'), year_changes: sum('yearChanges'), segment_changes: sum('segmentChanges'),
+    tag_changes: sum('tagChanges'), splits: sum('splits'), unreconciled: sum('unreconciled'), year_changes: sum('yearChanges'), part_changes: sum('partChanges'), gap_changes: sum('gapChanges'), restatement_changes: sum('restatementChanges'), segment_changes: sum('segmentChanges'),
     successors: done.filter((c) => c.before).length,
     span: `FY${span[0]} to FY${span[span.length - 1]}`, pages: Object.keys(pages).length,
     fsds_quarters: fsds.cachedQuarters(fsdsDir).join(', '),

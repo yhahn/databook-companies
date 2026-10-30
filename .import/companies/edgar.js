@@ -69,6 +69,31 @@ function slips(rows) {
   return bad;
 }
 
+// A quarter filed as a year (DECISIONS 46): a 10-Q's row of about a year
+// whose value is the value of a shorter period of the same filing from
+// the same first day is that period's, filed under a context that spans
+// the year. Comfort Systems' 10-Q of 2026-04-23 files FY2025's first
+// quarter, 1,831.3, for 2025-01-01 to 2025-12-31; its 10-K files the
+// year, 9,101.6. A 10-Q's recast of a year before (Ecolab's 2019, 12,562
+// in its 10-Qs of 2020) differs from every period beside it, and is read.
+function contextSlips(rows) {
+  const bad = new Set(), by = new Map();
+  for (const r of rows) {
+    if (!r.start || !r.end || !r.val || !/^10-Q/.test(r.form || '')) continue;
+    const k = `${r.accn}|${r.start}`;
+    if (!by.has(k)) by.set(k, []);
+    by.get(k).push(r);
+  }
+  for (const rs of by.values()) {
+    for (const r of rs) {
+      const d = days(r.end) - days(r.start);
+      if (d < 350 || d > 380) continue;
+      if (rs.some((o) => o !== r && o.val === r.val && days(o.end) - days(o.start) < 300)) bad.add(r);
+    }
+  }
+  return bad;
+}
+
 // A tag's rows, the latest filed for each (start, end); or the first.
 function periods(facts, tag, first = false, proxy = false) {
   const node = (facts.facts['us-gaap'] || {})[tag];
@@ -76,9 +101,10 @@ function periods(facts, tag, first = false, proxy = false) {
   const unit = node.units.USD || node.units['USD/shares'] || Object.values(node.units)[0] || [];
   const by = new Map();
   const slipped = slips(unit);
+  const quartered = contextSlips(unit);
   for (const r of unit) {
     if (!r.start || !r.end) continue;
-    if (slipped.has(r) || (!proxy && PROXY.test(r.form || ''))) continue;
+    if (slipped.has(r) || quartered.has(r) || (!proxy && PROXY.test(r.form || ''))) continue;
     const k = `${r.start}|${r.end}`;
     const prev = by.get(k);
     if (!prev || (first ? r.filed < prev.filed : r.filed > prev.filed)) by.set(k, r);
@@ -326,6 +352,7 @@ function oneBasis(merged, byTag, tags, name) {
 function ledger(facts) {
   const label = fiscalLabels(facts);
   const cols = COLUMNS.map(([name, tags, sign]) => ({ name, sign, ...cascadeYears(facts, tags, label, name) }));
+  const parts = revenueParts(cols);
   const anchor = cols[0].merged;
   if (anchor.size === 0) return { skip: 'no us-gaap revenue (a foreign filer files IFRS, or a tag the cascade lacks)' };
   if (![...anchor.values()].some((e) => e.y.quarters.some((v) => v !== null))) {
@@ -333,7 +360,7 @@ function ledger(facts) {
   }
   const labels = [...anchor.keys()].sort((a, b) => a - b);
   const first = labels[0], last = labels[labels.length - 1];
-  const blank = (c, year) => c.kept.some((k) => k.blank.includes(year));
+  const blank = (c, year) => c.kept.some((k) => k.blank.includes(year)) || Boolean(c.partBlank && c.partBlank.has(year));
   const value = (c, year, q) => {
     const e = c.merged.get(year);
     if (!e || blank(c, year)) return null;
@@ -398,8 +425,183 @@ function ledger(facts) {
       was: 'EPS filed before it, a share as it was', now: `EPS filed from ${s.filed} on, a share after a ${ratio(s.factor)} split`,
       boundary: `filings from ${s.filed}`,
       crosswalk: `${s.example}; EPS adjusted divides what was filed before by ${round(s.factor)}. Found in ${s.rests}${s.sec ? '' : '; the company files no split fact of its own for it'}`,
-    }))],
+    })), ...partChanges(parts), ...gapChanges(facts, cols, annual), ...restatementChanges(cols, annual)],
   };
+}
+
+// DECISIONS 47: a revenue under a tenth of the same year's net income (net
+// income above nothing) is a part of the revenue, not the revenue: a
+// company cannot sell a tenth of what it keeps. It is read only for the
+// ASC 606 tag, the one that carries a part (DECISIONS 34). Camden
+// Property Trust's FY2017 revenue is 8.2 in the 10-K of 2020 (the tag now
+// files only what the lease standard leaves out: fees) and 900.9 in the
+// 10-K of 2019, which files FY2016 as 876.4 on the same tag: the year
+// stays on the figure first filed where that is not itself a part, and
+// is blank where it is, or none was filed. The quarters stay where they
+// sum to the year, and are blank where they do not. Returns what it did.
+function revenueParts(cols) {
+  const rev = cols[0], ni = cols.find((c) => c.name === 'Net income');
+  const out = [];
+  rev.partBlank = new Set();
+  for (const year of [...rev.merged.keys()].sort((a, b) => a - b)) {
+    const e = rev.merged.get(year);
+    if (!/^RevenueFromContract/.test(e.tag) || !(e.y.fy > 0) || rev.kept.some((k) => k.blank.includes(year))) continue;
+    const n = ni.merged.get(year) ? ni.merged.get(year).y.fy : null;
+    if (!(n > 0) || e.y.fy * 10 >= n) continue;
+    const f = e.y.first;
+    const rec = { year, tag: e.tag, now: e.y.fy, nowFiled: e.y.fyFiled, nowForm: e.y.fyForm, ni: n };
+    if (f && f.val > e.y.fy && f.val * 10 >= n) {
+      const qs = e.y.quarters;
+      const fits = qs.every((v) => v !== null) && Math.abs(qs.reduce((a, b) => a + b, 0) - f.val) <= Math.max(3e6, Math.abs(f.val) * 0.0005);
+      rev.merged.set(year, { tag: e.tag, y: { ...e.y, fy: f.val, fyFiled: f.filed, fyForm: f.form, fyAccn: f.accn, quarters: fits ? qs : [null, null, null, null] } });
+      out.push({ ...rec, took: 'first', was: f.val, wasFiled: f.filed, wasForm: f.form, quarters: fits });
+    } else {
+      rev.partBlank.add(year);
+      out.push({ ...rec, took: 'blank' });
+    }
+  }
+  return out;
+}
+
+// runs of years the same was done to, a Change a run
+function runs(items, same) {
+  const out = [];
+  for (const it of items) {
+    const last = out[out.length - 1];
+    if (last && same(last[last.length - 1], it) && it.year === last[last.length - 1].year + 1) last.push(it);
+    else out.push([it]);
+  }
+  return out;
+}
+
+const mil = (v) => String(round(v / 1e6));
+function partChanges(parts) {
+  return runs(parts, (a, b) => a.took === b.took).map((run) => {
+    const a = run[0], z = run[run.length - 1];
+    const span = z.year > a.year ? `FY${a.year} to FY${z.year}` : `FY${a.year}`;
+    const each = run.map((p) => `FY${p.year} ${mil(p.now)} against net income ${mil(p.ni)}`).join('; ');
+    return {
+      what: 'Revenue part', year: a.year, title: `Revenue part, ${span}`, boundary: span,
+      was: a.took === 'first' ? `us-gaap:${a.tag} as first filed, the whole year: ${run.map((p) => `FY${p.year} ${mil(p.was)} (${p.wasForm} filed ${p.wasFiled})`).join(', ')}` : `us-gaap:${a.tag}, a part of the revenue`,
+      now: `us-gaap:${a.tag} as last filed: ${run.map((p) => `FY${p.year} ${mil(p.now)} (${p.nowForm} filed ${p.nowFiled})`).join(', ')}`,
+      crosswalk: `${each}. A revenue under a tenth of the year's net income is a part of the revenue (the later filings of the tag give far less than the earlier), not the revenue. ${a.took === 'first' ? `The line takes the figure first filed, the whole year as the earlier 10-K gave it${run.some((p) => !p.quarters) ? `; the quarters of ${run.filter((p) => !p.quarters).map((p) => 'FY' + p.year).join(', ')}, which do not sum to it, are blank` : ''}` : 'No whole year is filed under any tag read, so these years are blank'}`,
+    };
+  });
+}
+
+// DECISIONS 48: a line with no figure for a year inside its run (not
+// Buybacks, where none is none; not EPS) has no figure in the filings
+// read. A Change says so for each run of years, naming what the filings
+// do give for them: an annual figure the cascade did not take, or the
+// periods of a year only in part (quarters, six or nine months), or
+// nothing. Nothing is filled across.
+const GAP_LINES = ['Revenue', 'Gross profit', 'Operating income', 'Net income', 'Operating cash flow', 'Capex'];
+function gapChanges(facts, cols, annual) {
+  const out = [];
+  const known = annual.filter((a) => a.start && a.end);
+  const shift = (d, n) => iso(days(d) + Math.round(n * 365.25));
+  const bounds = (y) => {
+    const near = known.reduce((b, a) => (b === null || Math.abs(a.year - y) < Math.abs(b.year - y) ? a : b), null);
+    return near ? [shift(near.start, y - near.year), shift(near.end, y - near.year)] : null;
+  };
+  GAP_LINES.forEach((name) => {
+    const i = cols.findIndex((c) => c.name === name);
+    const c = cols[i];
+    const ys = annual.map((a, j) => (a.values[i] === null ? j : null)).filter((j) => j !== null);
+    const filled = annual.map((a) => a.values[i] !== null);
+    if (!filled.some(Boolean)) return;
+    const first = filled.indexOf(true), last = filled.lastIndexOf(true);
+    const missing = ys.filter((j) => j > first && j < last);
+    const groups = [];
+    for (const j of missing) {
+      const g = groups[groups.length - 1];
+      if (g && g[g.length - 1] === j - 1) g.push(j); else groups.push([j]);
+    }
+    for (const g of groups) {
+      const a = annual[g[0]], z = annual[g[g.length - 1]], before = annual[g[0] - 1], after = annual[g[g.length - 1] + 1];
+      const said = g.map((j) => ({ year: annual[j].year, what: gapFacts(facts, c, bounds(annual[j].year)) }));
+      // years the filings give alike are one clause
+      const clauses = [];
+      for (const s of said) {
+        const l = clauses[clauses.length - 1];
+        if (l && l.what === s.what) l.years.push(s.year); else clauses.push({ years: [s.year], what: s.what });
+      }
+      const span = z.year > a.year ? `FY${a.year} to FY${z.year}` : `FY${a.year}`;
+      out.push({
+        what: `${name} gap`, year: a.year, title: `Gap, ${name}, ${span}`, boundary: `FY${a.year}`,
+        was: `${name} FY${before.year}: ${mil(before.values[i])}`,
+        now: `no figure for ${span}; FY${after.year}: ${mil(after.values[i])}`,
+        crosswalk: `${clauses.map((l) => `${l.years.length > 1 ? `FY${l.years[0]} to FY${l.years[l.years.length - 1]}` : `FY${l.years[0]}`}: ${l.what}`).join('; ')}. Nothing is filled across the gap. Tags read: ${COLUMNS.find((x) => x[0] === name)[1].map((t) => 'us-gaap:' + t).join(', ')}`,
+      });
+    }
+  });
+  return out;
+}
+
+// what the filings give for a year the line has no figure for
+function gapFacts(facts, col, b) {
+  const tags = COLUMNS.find((x) => x[0] === col.name)[1];
+  if (!b) return 'no span for the year to look in';
+  const annualRows = [], sub = new Set();
+  for (const tag of tags) {
+    const node = (facts.facts['us-gaap'] || {})[tag];
+    if (!node) continue;
+    for (const rows of Object.values(node.units)) {
+      for (const r of rows) {
+        if (!r.start || !r.end) continue;
+        const d = days(r.end) - days(r.start);
+        if (d >= 350 && d <= 380 && Math.abs(days(r.start) - days(b[0])) <= 10 && Math.abs(days(r.end) - days(b[1])) <= 10) annualRows.push({ tag, ...r });
+        else if (d < 340 && days(r.start) >= days(b[0]) - 5 && days(r.end) <= days(b[1]) + 5) sub.add(Math.round(d / 30.4));
+      }
+    }
+  }
+  const parts = [];
+  if (annualRows.length) {
+    const r = annualRows.sort((x, y) => (x.filed < y.filed ? 1 : -1))[0];
+    parts.push(`an annual figure is filed under us-gaap:${r.tag} (${mil(r.val)}, ${r.form} filed ${r.filed}) and the cascade did not take it`);
+  } else {
+    parts.push('no annual figure under any tag read');
+  }
+  if (sub.size) parts.push(`periods of ${[...sub].sort((x, y) => x - y).join(', ')} months are filed`);
+  return parts.join('; ');
+}
+
+// DECISIONS 49: a later filing restates earlier years on another basis.
+// The figure a card takes is the latest filed; where the first filing of
+// the same period gave a figure under half or over twice it (or of the
+// other sign), the line stands on two bases: the years the later filing
+// restates (a discontinued operation, a spin-off, a new definition) and
+// those it does not, which stay as first filed. A Change says it for
+// each run of restated years, with both figures and both filings of each.
+// The same period filed again within half to double is the Restated flag
+// of each page's annual figures (DECISIONS 36) and no more.
+function restatementChanges(cols, annual) {
+  const out = [];
+  GAP_LINES.forEach((name) => {
+    const i = cols.findIndex((c) => c.name === name);
+    const sign = cols[i].sign;
+    const flagged = annual.map((a) => {
+      const s = a.sources[i], v = a.values[i];
+      if (!s || !s.restated || v === null || !s.firstVal) return null;
+      const r = (v * sign) / s.firstVal;
+      return r >= 0.5 && r <= 2 ? null : { year: a.year, v, s };
+    });
+    const items = flagged.filter(Boolean);
+    for (const run of runs(items, () => true)) {
+      const a = run[0], z = run[run.length - 1];
+      const j = annual.findIndex((x) => x.year === a.year);
+      const before = j > 0 ? annual[j - 1] : null;
+      const span = z.year > a.year ? `FY${a.year} to FY${z.year}` : `FY${a.year}`;
+      const bs = before && before.sources[i] ? before.sources[i] : null;
+      out.push({
+        what: `${name} restatement`, year: a.year, title: `Restatement, ${name}, ${span}`, boundary: `FY${a.year}`,
+        was: before && before.values[i] !== null ? `${name} FY${before.year}: ${mil(before.values[i])}${bs ? ` (${bs.form} filed ${bs.filed}${bs.restated ? ', itself restated' : ', as first filed'})` : ''}` : `none: ${name} has no figure before FY${a.year}`,
+        now: `${name} ${span} as last filed: ${run.map((p) => `FY${p.year} ${mil(p.v)}`).join(', ')}`,
+        crosswalk: `${run.map((p) => `FY${p.year}: ${mil(p.s.firstVal * sign)} first filed (${p.s.firstForm}, ${p.s.firstFiled}), ${mil(p.v)} last filed (${p.s.form}, ${p.s.filed})`).join('; ')}. A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY${a.year}. The card takes the last filed. Whether the basis is the better is not decided here`,
+      });
+    }
+  });
+  return out;
 }
 
 // Where each annual figure came from: the filing that gave it (the latest

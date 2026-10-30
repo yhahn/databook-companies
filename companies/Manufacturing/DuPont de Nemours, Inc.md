@@ -13,7 +13,7 @@
 
 DuPont de Nemours, Inc., as it files with the SEC (CIK 0001666700): its fiscal years and quarters from its XBRL filings, FY2015 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2019-08-06 and 2026-08-04, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is DuPont de Nemours, Inc., and how has it grown?** It sold $6.8 billion in FY2025, the 360th most of the 487 companies with a revenue for the year, and the 150th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 86% from FY2015 to FY2025, −17.8% a year.
+**How large is DuPont de Nemours, Inc., and how has it grown?** It sold $6.8 billion in FY2025, the 361st most of the 486 companies with a revenue for the year, and the 150th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 86% from FY2015 to FY2025, −17.8% a year.
 
 **Does DuPont de Nemours, Inc. make money, and how much of what it sells does it keep?** It earned −$779 million in FY2025, −11.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 11 years in the book (FY2020, FY2025).
 
@@ -313,4 +313,54 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2026-08-04 on, a share after a 1 for 3 split
 - Crosswalk: 2025-01-01 to 2025-06-30: EPS -1.27 as first filed, -3.79 after; EPS adjusted divides what was filed before by 0.3333. Found in 2 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 0.333, of 2026-06-30, filed 2026-08-04)
+- Source: SEC EDGAR companyfacts
+
+### Change: DuPont de Nemours, Inc., Restatement, Revenue, FY2017 to FY2018
+
+- CIK: 0001666700
+- What: Revenue restatement
+- Boundary: FY2017
+- Was: Revenue FY2016: 48158 (10-K filed 2018-02-15, as first filed)
+- Now: Revenue FY2017 to FY2018 as last filed: FY2017 11672, FY2018 16378
+- Crosswalk: FY2017: 62484 first filed (10-K, 2019-02-11), 11672 last filed (10-K, 2020-02-14); FY2018: 85977 first filed (10-K, 2019-02-11), 16378 last filed (8-K, 2021-06-03). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DuPont de Nemours, Inc., Restatement, Operating cash flow, FY2016 to FY2017
+
+- CIK: 0001666700
+- What: Operating cash flow restatement
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 7607 (10-K filed 2018-02-15, as first filed)
+- Now: Operating cash flow FY2016 to FY2017 as last filed: FY2016 -2957, FY2017 -765
+- Crosswalk: FY2016: 5600 first filed (10-K, 2018-02-15), -2957 last filed (10-K, 2019-02-11); FY2017: 8695 first filed (10-K, 2018-02-15), -765 last filed (10-K, 2019-02-11). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DuPont de Nemours, Inc., Restatement, Operating cash flow, FY2023 to FY2024
+
+- CIK: 0001666700
+- What: Operating cash flow restatement
+- Boundary: FY2023
+- Was: Operating cash flow FY2022: 588 (10-K filed 2023-02-15, as first filed)
+- Now: Operating cash flow FY2023 to FY2024 as last filed: FY2023 845, FY2024 765
+- Crosswalk: FY2023: 2191 first filed (10-K, 2024-02-15), 845 last filed (10-K, 2026-02-17); FY2024: 2321 first filed (10-K, 2025-02-14), 765 last filed (10-K, 2026-02-17). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2023. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DuPont de Nemours, Inc., Restatement, Capex, FY2017 to FY2018
+
+- CIK: 0001666700
+- What: Capex restatement
+- Boundary: FY2017
+- Was: Capex FY2016: -3804 (10-K filed 2019-02-11, as first filed)
+- Now: Capex FY2017 to FY2018 as last filed: FY2017 -551, FY2018 -1244
+- Crosswalk: FY2017: -3570 first filed (10-K, 2018-02-15), -551 last filed (10-K, 2020-02-14); FY2018: -3837 first filed (10-K, 2019-02-11), -1244 last filed (10-K, 2020-02-14). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: DuPont de Nemours, Inc., Restatement, Capex, FY2023 to FY2024
+
+- CIK: 0001666700
+- What: Capex restatement
+- Boundary: FY2023
+- Was: Capex FY2022: -662 (8-K filed 2025-05-02, itself restated)
+- Now: Capex FY2023 to FY2024 as last filed: FY2023 -302, FY2024 -285
+- Crosswalk: FY2023: -619 first filed (10-K, 2024-02-15), -302 last filed (10-K, 2026-02-17); FY2024: -579 first filed (10-K, 2025-02-14), -285 last filed (10-K, 2026-02-17). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2023. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

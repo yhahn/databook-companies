@@ -12,7 +12,7 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Growth
 
-**How has Retail Trade grown?** Its 23 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 120.6% more in FY2025 than in FY2015, 8.2% a year, and their net income went from $53.0 billion to $165.1 billion; all the 500's such companies sold 81.8% more, and earned 154.2% more.
+**How has Retail Trade grown?** Its 23 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 120.6% more in FY2025 than in FY2015, 8.2% a year, and their net income went from $53.0 billion to $165.1 billion; all the 500's such companies sold 81.9% more, and earned 154.2% more.
 
 The rise in revenue since FY2015, each year, in percent: the sector's 23 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
@@ -20,7 +20,7 @@ The rise in revenue since FY2015, each year, in percent: the sector's 23 compani
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Retail Trade | 0 | 5.9 | 12.7 | 22.1 | 34.7 | 48.5 | 69.3 | 81.9 | 93.7 | 105.1 | 120.6 |
-> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.8 |
+> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.9 |
 > - Unit: percent
 
 ## Compared

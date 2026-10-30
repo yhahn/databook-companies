@@ -13,7 +13,7 @@
 
 CATERPILLAR INC, as it files with the SEC (CIK 0000018230): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CATERPILLAR INC, and how has it grown?** It sold $67.6 billion in FY2025, the 58th most of the 487 companies with a revenue for the year, and the 20th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 43.8% from FY2015 to FY2025, 3.7% a year.
+**How large is CATERPILLAR INC, and how has it grown?** It sold $67.6 billion in FY2025, the 58th most of the 486 companies with a revenue for the year, and the 20th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 43.8% from FY2015 to FY2025, 3.7% a year.
 
 **Does CATERPILLAR INC make money, and how much of what it sells does it keep?** It earned $8.9 billion in FY2025, 13.1% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2016).
 
@@ -205,7 +205,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000018230/Operating cash flow tag/FY2011 | FY2011 | Operating cash flow tag | instrument | | 5009 | 6957 | 1948 | | | | | millions | | | | | | Operating cash flow tag, FY2011 |  |
 | 0000018230/Operating cash flow tag/FY2018 | FY2018 | Operating cash flow tag | instrument | | 5706 | 6558 | 852 | | | | | millions | | | | | | Operating cash flow tag, FY2018 |  |
 | 0000018230/Capex tag/FY2019 | FY2019 | Capex tag | instrument | | -1276 | -1056 | 220 | | | | | millions | | | | | | Capex tag, FY2019 |  |
-| 0000018230/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | bend | 13.5 | 12.1 | -1.4 | -0.07 | 0.92 | 7.7 | 3.4 | percent of revenue | 13.6 | 6.5 | 2 | lone | 201 | Operating cash flow tag, FY2018 |  |
+| 0000018230/Operating cash flow over revenue/FY2018/2 | FY2018 | Operating cash flow over revenue | observed | bend | 13.5 | 12.1 | -1.4 | -0.07 | 0.92 | 7.7 | 3.4 | percent of revenue | 13.5 | 6.5 | 2 | lone | 201 | Operating cash flow tag, FY2018 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -448,4 +448,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquireProductiveAssets
 - Now: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Crosswalk: FY2019 under both: 1056000000 and 1056000000
+- Source: SEC EDGAR companyfacts
+
+### Change: CATERPILLAR INC, Restatement, Operating income, FY2016
+
+- CIK: 0000018230
+- What: Operating income restatement
+- Boundary: FY2016
+- Was: Operating income FY2015: 3785 (10-K filed 2018-02-15, itself restated)
+- Now: Operating income FY2016 as last filed: FY2016 1162
+- Crosswalk: FY2016: 498 first filed (10-K, 2017-02-15), 1162 last filed (10-K, 2019-02-14). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

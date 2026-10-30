@@ -13,7 +13,7 @@
 
 Walt Disney Co, as it files with the SEC (CIK 0001744489): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Walt Disney Co, and how has it grown?** It sold $94.4 billion in FY2025, the 36th most of the 487 companies with a revenue for the year, and the 4th of 75 in [Services](../Services.md). Its sales rose 69.7% from FY2016 to FY2025, 6.1% a year.
+**How large is Walt Disney Co, and how has it grown?** It sold $94.4 billion in FY2025, the 36th most of the 486 companies with a revenue for the year, and the 4th of 75 in [Services](../Services.md). Its sales rose 69.7% from FY2016 to FY2025, 6.1% a year.
 
 **Does Walt Disney Co make money, and how much of what it sells does it keep?** It earned $12.4 billion in FY2025, 13.1% of what it sold; the median company of its sector kept 15.8%. It lost money in 1 of its 10 years in the book (FY2020).
 
@@ -131,7 +131,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001744489/Operating cash flow tag/FY2019 | FY2019 | Operating cash flow tag | instrument | | 14295 | 5984 | -8311 | | | | | millions | | | | | | Operating cash flow tag, FY2019 |  |
 | 0001744489/Operating cash flow tag/FY2023 | FY2023 | Operating cash flow tag | instrument | | 6002 | 9866 | 3864 | | | | | millions | | | | | | Operating cash flow tag, FY2023 |  |
-| 0001744489/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 17.8 | -2.8 | -20.6 | 0.19 | 2.68 | 5.9 | 5.6 | percent of revenue | 28.7 | 18.3 | 1 | lone | 74 |  |  |
+| 0001744489/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 17.8 | -2.8 | -20.6 | 0.19 | 2.68 | 5.9 | 5.6 | percent of revenue | 28.6 | 18.3 | 1 | lone | 74 |  |  |
 | 0001744489/Operating margin/FY2020 | FY2020 | Operating margin | observed | level and bend | 22.5 | 11.4 | -11.1 | -2.12 | 1.35 | 3.1 | 2.0 | percent of revenue | 40.9 | 20.0 | 1 | shared | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

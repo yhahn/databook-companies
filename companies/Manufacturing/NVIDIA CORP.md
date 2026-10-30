@@ -13,7 +13,7 @@
 
 NVIDIA CORP, as it files with the SEC (CIK 0001045810): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2021-08-20 and 2024-08-28, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is NVIDIA CORP, and how has it grown?** It sold $130.5 billion in FY2025, the 27th most of the 487 companies with a revenue for the year, and the 8th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 2687.2% from FY2015 to FY2025, 39.5% a year.
+**How large is NVIDIA CORP, and how has it grown?** It sold $130.5 billion in FY2025, the 27th most of the 486 companies with a revenue for the year, and the 8th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 2687.2% from FY2015 to FY2025, 39.5% a year.
 
 **Does NVIDIA CORP make money, and how much of what it sells does it keep?** It earned $72.9 billion in FY2025, 55.8% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 19 years in the book (FY2009, FY2010).
 
@@ -210,7 +210,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001045810/Capex gap/FY2013 | FY2013 | Capex gap | instrument | | -139 |  |  | | | | | millions | | | | | | none |  |
+| 0001045810/Capex gap/FY2013 | FY2013 | Capex gap | instrument | | -139 |  |  | | | | | millions | | | | | | Capex gap, FY2013 |  |
 | 0001045810/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 6910 | 9714 | 2804 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0001045810/Revenue tag/FY2021 | FY2021 | Revenue tag | instrument | | 10918 | 16675 | 5757 | | | | | millions | | | | | | Revenue tag, FY2021 |  |
 | 0001045810/Capex tag/FY2022 | FY2022 | Capex tag | instrument | |  | -976 |  | | | | | millions | | | | | | Capex tag, FY2022 |  |
@@ -468,6 +468,16 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2024-08-28 on, a share after a 10 for 1 split
 - Crosswalk: 2023-01-30 to 2023-07-30: EPS 3.3 as first filed, 0.33 after; EPS adjusted divides what was filed before by 10. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 10, of 2024-05-31, filed 2024-08-28)
+- Source: SEC EDGAR companyfacts
+
+### Change: NVIDIA CORP, Gap, Capex, FY2013 to FY2021
+
+- CIK: 0001045810
+- What: Capex gap
+- Boundary: FY2013
+- Was: Capex FY2012: -138.735
+- Now: no figure for FY2013 to FY2021; FY2022: -976
+- Crosswalk: FY2013 to FY2021: no annual figure under any tag read; periods of 3, 6, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
 - Source: SEC EDGAR companyfacts
 
 ### Change: NVIDIA CORP, Geography members, 2025-11-19

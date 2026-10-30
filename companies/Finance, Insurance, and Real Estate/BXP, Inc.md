@@ -13,9 +13,9 @@
 
 BXP, Inc., as it files with the SEC (CIK 0001037540): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is BXP, Inc., and how has it grown?** It sold $3.5 billion in FY2025, the 445th most of the 487 companies with a revenue for the year, and the 78th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 39.8% from FY2015 to FY2025, 3.4% a year.
+**How large is BXP, Inc., and how has it grown?** It sold $3.5 billion in FY2025, the 446th most of the 486 companies with a revenue for the year, and the 78th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 39.8% from FY2015 to FY2025, 3.4% a year.
 
-**Does BXP, Inc. make money, and how much of what it sells does it keep?** It earned $277 million in FY2025, 7.9% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does BXP, Inc. make money, and how much of what it sells does it keep?** It earned $277 million in FY2025, 7.9% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does BXP, Inc.'s cash go?** From FY2016 to FY2025 its operations brought in $11.6 billion; it spent 0% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -297,3 +297,15 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 | Net income | FY2007 | FY2026 | us-gaap:NetIncomeLoss |
 | EPS diluted | FY2007 | FY2026 | us-gaap:EarningsPerShareDiluted |
 | Operating cash flow | FY2007 | FY2026 | us-gaap:NetCashProvidedByUsedInOperatingActivities |
+
+## Changes
+
+### Change: BXP, Inc., Restatement, Operating income, FY2008 to FY2009
+
+- CIK: 0001037540
+- What: Operating income restatement
+- Boundary: FY2008
+- Was: Operating income FY2007: 336.375 (10-K filed 2010-02-25, as first filed)
+- Now: Operating income FY2008 to FY2009 as last filed: FY2008 577.39, FY2009 567.531
+- Crosswalk: FY2008: 279.401 first filed (10-K, 2010-02-25), 577.39 last filed (10-K, 2011-02-25); FY2009: 250.681 first filed (10-K, 2010-02-25), 567.531 last filed (10-K, 2012-02-28). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts

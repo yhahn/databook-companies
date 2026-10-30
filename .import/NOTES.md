@@ -740,3 +740,63 @@ Where it matters: Events at a seam (15 observed Events in 12 companies carry "th
 ## Pages to open
 
 A clean Event: `companies/Manufacturing/ILLUMINA, INC.md` (net margin FY2022, lone, no Change near; no why). A seam: `companies/Manufacturing/Philip Morris International Inc.md` (Revenue tag FY2023 80,669 to 35,174 as an instrument row; the margins' Events beside it name that Change).
+
+# Notes: the third mend, branch `fix` (deputy, 10-30)
+
+## Asked
+
+Four importer faults the Events found (60 silent gaps; Camden FY2017 revenue 8.2; Comfort Systems FY2025 revenue 1,831.3; restatement seams), each with a vector and a Change record or a stop, never a silent fix. Not the revenue basis. No push, no merge.
+
+## Made
+
+Branch `fix` off `events` (a9ff5e2); worktree `.claude/worktrees/fix`. Changed: edgar.js (`contextSlips`, `revenueParts`, `gapChanges`, `restatementChanges`), import.js and readme.js (counts and three README rows), faq.js (the two row rules written again, R2), events.py (`NEAR` names, one sentence), four new vectors (comfort, camden, pfizer gap, motorola) and Erie's re-cut, four tests, DECISIONS 46 to 49, and all pages the rebuild writes.
+
+| | Counted |
+|---|---|
+| Gap Changes | 60 = events.py's 60 (19 revenue, 15 capex, 13 net income, 6 operating cash flow, 5 operating income, 2 gross profit), in 38 companies; the Events' "no Change record" count is 0 (was 60) |
+| Revenue part Changes | 2, Camden alone |
+| Restatement Changes | 152 in 91 companies (19 revenue in 18 companies, 50 operating income, 35 operating cash flow, 32 capex, 15 net income, 1 gross profit) |
+| Changes in all | 1,460 + 214 = 1,674; gathered 1,674 |
+| Tests | import 51 (47 + 4), faq 12, events 4: pass. Target: 37 checks and 8 README queries held (the brief said 44; I count 45 held lines); `proper check` clean (Change 1,674, Company 493) |
+| Runs | build.sh whole under 4G: 2 m 43 s of run (the queue held it for 20 minutes the first time); events.py 2G; two runs of events.py give the same hash of every page |
+
+## Faults, one by one
+
+1. **60 gaps.** Cause: nothing wrote a record where a line has no figure. Every gap year is "no annual figure under any tag read" except Equinix's capex FY2011 (28.066 filed under `PaymentsToAcquireProductiveAssets`, which the cascade rightly did not take, DECISIONS 31); 44 of the 54 gap-years of revenue have a revenue-like annual under a tag outside the cascade (see learnings). Mended by saying, per run: `<Line> gap`, what the filings give, nothing filled.
+2. **Camden.** Cause: its only revenue tag is ASC 606's; the 10-K of 2019 files the whole (FY2017 900.896), the 10-Ks of 2020 on file the same periods as a part (8.176). `oneBasis` needs another tag or an earlier year of the same run, and had neither. Rule: a revenue under a tenth of positive net income is a part. FY2017 900.9 and FY2018 954.5 (first filed), FY2019 to FY2025 blank; 2 `Revenue part` Changes. Fires for Camden only.
+3. **Comfort Systems.** Cause differs from the brief: the 10-K of 2026-02-19 is read right. The 10-Q of 2026-04-23 files Q1 (revenue 1,831.286, gross profit, operating income) a second time with the span of the whole year; latest filed won, and it also sat in the Q4 slot. Not a fiscal label fault. Rule: a 10-Q's year-long row equal to a shorter period of the same filing from the same first day is not read. Found in 28 year-long rows of the cascade tags: 11 in 10-Qs of 6 companies (Comfort 3, PPG 4, Axon, Teledyne, Willis Towers Watson, Ares), 17 in 10-Ks and 8-Ks (not touched; a buyback of 200 in Q1 and the year may be true). Only Comfort's changed a card (revenue, gross profit, operating income FY2025, and Q4).
+4. **Restatements.** Rule in DECISIONS 49: last filed under half or over twice the first filed for the period; a run is a Change, Boundary the seam. Motorola FY2008 to FY2010, Erie FY2013 to FY2014 caught. Western Digital: the brief's seam is a near miss: FY2023 6,255 against 12,318 first filed is 0.51; FY2024 (0.49) is caught and its Change names FY2023.
+
+## Pages that changed, against `events` (diff -r, 501 pages): 495 differ, 6 do not
+
+Why, by kind (a script split every changed line by its section):
+- **Comfort and Camden** (own data): annual card, quarterly table, annual figures filed, Events (Comfort: the FY2022 break was the fault; Camden: all its Events gone with the series).
+- **New Change records, no other change**: 124 pages (Gap 38 companies, Restatement 91, Revenue part 1; 6 in two kinds). 214 records; no existing record changed or went (0 removed).
+- **Events rows that follow**: 38 gap rows' `Change record` column `none` to the gap record; 10 observed rows name a restatement; Comfort and Camden's rows. No Event appears or goes in any other company; no Shape, From, To, Slope or Band of any other page changes.
+- **Gain and Threshold of 101 cells in about 85 pages** move by at most 0.6 and 0.2: the rule takes each year's median effect over the whole book (E3a), and Camden's and Comfort's series moved.
+- **Rank and margin sentences** (the first paragraph, "the Nth most of the 486 companies", "the median company of its sector kept"): 489 pages' rank line, 93 pages' margin line (Finance and Construction medians). Comfort now sells $9.1 billion, 312th, and Camden has no FY2025 revenue (487 companies with a revenue became 486). Numbers and ordinals only, but for Camden's and Comfort's own sentences (checked by masking digits and ordinals).
+- **Sector pages**: Growth card on 8, Compared on 2 (Construction, Finance).
+- **Root**: README (front-page: revenue rise 81.8% to 81.9%; FY2025 companies 487 to 486, sold $17.51 to $17.52 trillion; Construction revenue 155.4 to 162.7, Finance companies 92 to 91, net income 448.5 to 448.1; Changes 1,460 to 1,674; three rows in the Changes table), METHOD.md (counts and the sentence on gaps), Instrument.md, FAQ.md (485 companies with a revenue for FY2025; co-reading-2 revenue up 81.4%; co-reading-3 91 companies, revenue 3,329,223, net income 448,141.1), `reading.json`, `events.json`.
+Byte for byte as `events`: the 6 pages that did not change are the companies with no FY2025 revenue, so no rank line (Fifth Third, M&T, Vivmark, DTE, Skydance, Xcel); every other page carries a knock-on of the kinds above.
+
+## Learnings
+
+- **Importer (ours):** the cascade lacks tags whole revenues sit under: of 54 gap-years of revenue, 44 have a revenue-like annual under another tag; `SalesRevenueGoodsNet` (Kraft Heinz, Merck, Pfizer, Zimmer, Sysco), `RegulatedAndUnregulatedOperatingRevenue` (American Water, NextEra, Duke). Not mended: a cascade extension is a basis choice.
+- **Importer:** the revenue-part test is narrow (a tenth). The book has more parts: Fifth Third (558 against net income 1,547, eight years), Huntington, CME FY2017: banks whose ASC 606 tag is a part and no total is filed; 72 company-years file net income larger in size than revenue. Not touched.
+- **Method:** the Events' year effect (median over the book) makes any one company's repair move every Gain. A hundred cells by 0.6 at most: said, not a fault.
+- **A later filing's year-long row in a 10-Q** is mostly a real recast (1,043 rows): a rule that dropped them all would have changed pages wrongly.
+- **For proper and cards.md:** none new.
+
+## Unsure
+
+- The tenth, and half and double, are mine; the ratios run continuously through half (33 restated revenue years in 0.5 to 0.6).
+- Restatement on all six lines gives 152 records; capex and cash flow may be reclassifications, not bases. Cut to the revenue lines is `GAP_LINES` split in `restatementChanges`.
+- I used `<Line> gap` and `<Line> restatement` for `What`, with the brief's names as titles, so events.py needed no matching change.
+
+## Against the brief
+
+Faults in the brief: Comfort is not a label fault (a 10-Q's mis-contexted row); WD's seam is FY2022 to FY2023 and just misses; "44 target checks" is 37 checks and 8 README queries by my count; "only the faulty company-years, the new Change records and the Events rows" leaves out the rank sentences, the Gain column and the root pages, which follow from them and are listed above. It lacked: whether the restatement rule covers all lines.
+
+Open page: `companies/Finance, Insurance, and Real Estate/CAMDEN PROPERTY TRUST.md` (two Revenue part Changes); `companies/Manufacturing/Motorola Solutions, Inc.md` (Restatement seam); `companies/Construction/COMFORT SYSTEMS USA INC.md`.
+
+One line: the three faults are mended by stated rules and 214 Change records say gaps, parts and restatements, the revenue basis untouched, all checks held, and 495 pages move only by those records and their knock-on numbers.

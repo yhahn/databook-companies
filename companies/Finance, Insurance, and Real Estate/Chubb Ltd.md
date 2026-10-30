@@ -13,9 +13,9 @@
 
 Chubb Ltd, as it files with the SEC (CIK 0000896159): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Chubb Ltd, and how has it grown?** It sold $59.4 billion in FY2025, the 68th most of the 487 companies with a revenue for the year, and the 16th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 212.9% from FY2015 to FY2025, 12.1% a year.
+**How large is Chubb Ltd, and how has it grown?** It sold $59.4 billion in FY2025, the 68th most of the 486 companies with a revenue for the year, and the 16th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 212.9% from FY2015 to FY2025, 12.1% a year.
 
-**Does Chubb Ltd make money, and how much of what it sells does it keep?** It earned $10.3 billion in FY2025, 17.4% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does Chubb Ltd make money, and how much of what it sells does it keep?** It earned $10.3 billion in FY2025, 17.4% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does Chubb Ltd's cash go?** From FY2016 to FY2025 its operations brought in $95.4 billion; it spent 0% of that on plant and equipment, and 20.5% on buying back its own shares.
 

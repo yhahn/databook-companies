@@ -127,3 +127,36 @@ test('D5: net income moving between tags, the two far apart, is said in its Chan
   const out = Object.values(JSON.parse(fs.readFileSync(path.join(dir, 'ares-net-income-tags.json'), 'utf8')).output)[0];
   assert.match(out, /- What: Net income tag\n[^]*- Crosswalk: FY2014 under both: 545662000 and 34988000; the new tag's figure is under half/);
 });
+
+// DECISIONS 46-49 (the third mend): a quarter is no year; a part is no revenue; a gap and a restatement are said
+const pageOf = (f) => Object.values(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')).output)[0];
+test('V2: a 10-Q row of a year equal to its own quarter is not read, a 10-Q recast of a year is (Comfort Systems, Ecolab)', () => {
+  const row = (start, end, val, form, accn, filed) => ({ start, end, val, form, accn, filed, fy: 2025, fp: 'FY' });
+  const rows = [
+    row('2025-01-01', '2025-12-31', 9000e6, '10-K', 'k-1', '2026-02-19'),
+    row('2025-01-01', '2025-03-31', 1800e6, '10-Q', 'q-1', '2026-04-23'),
+    row('2025-01-01', '2025-12-31', 1800e6, '10-Q', 'q-1', '2026-04-23'),
+  ];
+  const f = { cik: 1, entityName: 'X', facts: { 'us-gaap': { Revenues: { units: { USD: rows } } } } };
+  const year = (fs_) => periodValues(fs_, 'Revenues', fiscalLabels(fs_)).get(2025);
+  assert.strictEqual(year(f).fy, 9000e6);
+  // the same year recast in a later 10-Q, a value of its own: read
+  rows.push(row('2025-01-01', '2025-12-31', 8000e6, '10-Q', 'q-2', '2026-07-23'));
+  assert.strictEqual(year(f).fy, 8000e6);
+});
+test('D5: a revenue under a tenth of the year\'s net income is a part: the first filed whole year, or blank (Camden)', () => {
+  const out = pageOf('camden-fy2017-revenue-part.json');
+  assert.strictEqual((out.match(/- What: Revenue part/g) || []).length, 2);
+  assert.match(out, /\| Revenue \| 876\.447 \| 900\.896 \| 954\.505 \|  \|  \|  \|/);
+});
+test('D6: a gap is a Change that fills nothing: the cells stay empty, the filings\' words beside them (Pfizer)', () => {
+  const out = pageOf('pfizer-fy2014-revenue-gap.json');
+  assert.match(out, /- What: Revenue gap\n- Boundary: FY2014\n[^]*- Now: no figure for FY2014 to FY2015; FY2016: 52824/);
+  assert.match(out, /\| Revenue \|[^\n]* 51584 \|  \|  \| 52824 \|/);
+});
+test('B10: years a later filing states under half or over twice what the first gave are a Restatement, a run a record (Motorola, Erie)', () => {
+  const m = pageOf('motorola-fy2008-restated.json');
+  assert.match(m, /- What: Revenue restatement\n- Boundary: FY2008\n[^]*FY2008: 30146 first filed \(10-K, 2010-02-16\), 8140 last filed \(8-K, 2011-05-12\)/);
+  assert.strictEqual((m.match(/- What: Revenue restatement/g) || []).length, 1);
+  assert.match(pageOf('erie-fy2013-restated.json'), /- What: Revenue restatement\n- Boundary: FY2013/);
+});

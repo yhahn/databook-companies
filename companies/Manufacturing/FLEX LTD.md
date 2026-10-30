@@ -13,7 +13,7 @@
 
 FLEX LTD., as it files with the SEC (CIK 0000866374): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FLEX LTD., and how has it grown?** It sold $25.8 billion in FY2025, the 143rd most of the 487 companies with a revenue for the year, and the 65th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 1.3% from FY2015 to FY2025, −0.1% a year.
+**How large is FLEX LTD., and how has it grown?** It sold $25.8 billion in FY2025, the 143rd most of the 486 companies with a revenue for the year, and the 65th of 202 in [Manufacturing](../Manufacturing.md). Its sales fell 1.3% from FY2015 to FY2025, −0.1% a year.
 
 **Does FLEX LTD. make money, and how much of what it sells does it keep?** It earned $838 million in FY2025, 3.2% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 19 years in the book (FY2008, FY2009).
 
@@ -213,7 +213,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000866374/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 23863 | 25441 | 1578 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0000866374/Net income tag/FY2021 | FY2021 | Net income tag | instrument | | 88.0 | 613 | 525 | | | | | millions | | | | | | Net income tag, FY2021 |  |
 | 0000866374/Net income tag/FY2027 | FY2027 | Net income tag | instrument | | 880 |  |  | | | | | millions | | | | | | Net income tag, FY2027 |  |
-| 0000866374/Operating cash flow over revenue/FY2017 | FY2017 | Operating cash flow over revenue | observed | level and bend | 4.1 | -15.9 | -19.9 | 0.07 | 3.13 | 1.6 | 5.6 | percent of revenue | 83.3 | 24.3 | 1 | shared | 201 | Revenue tag, FY2018 |  |
+| 0000866374/Operating cash flow over revenue/FY2017 | FY2017 | Operating cash flow over revenue | observed | level and bend | 4.1 | -15.9 | -19.9 | 0.07 | 3.13 | 1.6 | 5.6 | percent of revenue | 83.4 | 24.3 | 1 | shared | 201 | Revenue tag, FY2018; Operating cash flow restatement, FY2017 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -408,4 +408,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: FLEX LTD., Restatement, Operating cash flow, FY2017 to FY2018
+
+- CIK: 0000866374
+- What: Operating cash flow restatement
+- Boundary: FY2017
+- Was: Operating cash flow FY2016: 1136.445 (10-K filed 2018-06-14, as first filed)
+- Now: Operating cash flow FY2017 to FY2018 as last filed: FY2017 -3822.108, FY2018 -3866.335
+- Crosswalk: FY2017: 1149.909 first filed (10-K, 2017-05-16), -3822.108 last filed (10-K, 2019-05-21); FY2018: 753.598 first filed (10-K, 2018-06-14), -3866.335 last filed (10-K, 2020-05-28). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

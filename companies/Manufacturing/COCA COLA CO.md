@@ -13,7 +13,7 @@
 
 COCA COLA CO, as it files with the SEC (CIK 0000021344): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2012-10-25, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is COCA COLA CO, and how has it grown?** It sold $47.9 billion in FY2025, the 83rd most of the 487 companies with a revenue for the year, and the 34th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 14.5% from FY2016 to FY2025, 1.5% a year.
+**How large is COCA COLA CO, and how has it grown?** It sold $47.9 billion in FY2025, the 83rd most of the 486 companies with a revenue for the year, and the 34th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 14.5% from FY2016 to FY2025, 1.5% a year.
 
 **Does COCA COLA CO make money, and how much of what it sells does it keep?** It earned $13.1 billion in FY2025, 27.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 10 years in the book.
 
@@ -140,7 +140,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000021344/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | bend | 29.4 | 31.8 | 2.4 | 2.63 | -4.56 | 4.3 | 5.9 | percent of revenue | 22.2 | 17.6 | 1 | shared | 201 |  |  |
+| 0000021344/Operating cash flow over revenue/FY2021 | FY2021 | Operating cash flow over revenue | observed | bend | 29.4 | 31.8 | 2.4 | 2.63 | -4.56 | 4.3 | 5.9 | percent of revenue | 22.3 | 17.6 | 1 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

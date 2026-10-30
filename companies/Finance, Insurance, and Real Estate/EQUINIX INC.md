@@ -13,9 +13,9 @@
 
 EQUINIX INC, as it files with the SEC (CIK 0001101239): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is EQUINIX INC, and how has it grown?** It sold $9.2 billion in FY2025, the 310th most of the 487 companies with a revenue for the year, and the 49th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 238.1% from FY2015 to FY2025, 13% a year.
+**How large is EQUINIX INC, and how has it grown?** It sold $9.2 billion in FY2025, the 310th most of the 486 companies with a revenue for the year, and the 49th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 238.1% from FY2015 to FY2025, 13% a year.
 
-**Does EQUINIX INC make money, and how much of what it sells does it keep?** It earned $1.4 billion in FY2025, 14.6% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 18 years in the book (FY2014).
+**Does EQUINIX INC make money, and how much of what it sells does it keep?** It earned $1.4 billion in FY2025, 14.6% of what it sold; the median company of its sector kept 18.9%. It lost money in 1 of its 18 years in the book (FY2014).
 
 **Where does EQUINIX INC's cash go?** From FY2016 to FY2025 its operations brought in $24.5 billion; it spent 98.7% of that on plant and equipment, and 0% on buying back its own shares.
 
@@ -179,10 +179,10 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001101239/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -14.9 |  |  | | | | | millions | | | | | | none |  |
+| 0001101239/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -14.9 |  |  | | | | | millions | | | | | | Capex gap, FY2011 |  |
 | 0001101239/Capex tag/FY2012 | FY2012 | Capex tag | instrument | |  | -1099 |  | | | | | millions | | | | | | Capex tag, FY2012 |  |
 | 0001101239/Revenue tag/FY2019 | FY2019 | Revenue tag | instrument | | 5072 | 5562 | 490 | | | | | millions | | | | | | Revenue tag, FY2019 |  |
-| 0001101239/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | bend | 34.1 | 28.6 | -5.5 | -1.17 | 1.12 | 5.8 | 4.0 | percent of revenue | 20.5 | 17.0 | 1 | lone | 94 |  |  |
+| 0001101239/Operating cash flow over revenue/FY2013 | FY2013 | Operating cash flow over revenue | observed | bend | 34.1 | 28.6 | -5.5 | -1.17 | 1.12 | 5.8 | 4.0 | percent of revenue | 20.6 | 17.0 | 1 | lone | 94 |  |  |
 | 0001101239/Net margin/FY2015 | FY2015 | Net margin | observed | level and bend | -3.8 | 4.4 | 8.3 | -2.87 | 0.77 | 10.3 | 3.6 | percent of revenue | 14.1 | 9.6 | 1 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
@@ -387,6 +387,26 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: EQUINIX INC, Gap, Capex, FY2011
+
+- CIK: 0001101239
+- What: Capex gap
+- Boundary: FY2011
+- Was: Capex FY2010: -14.861
+- Now: no figure for FY2011; FY2012: -1098.648
+- Crosswalk: FY2011: an annual figure is filed under us-gaap:PaymentsToAcquireProductiveAssets (28.066, 10-K filed 2014-02-28) and the cascade did not take it; periods of 3, 6, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: EQUINIX INC, Restatement, Capex, FY2012 to FY2013
+
+- CIK: 0001101239
+- What: Capex restatement
+- Boundary: FY2012
+- Was: none: Capex has no figure before FY2012
+- Now: Capex FY2012 to FY2013 as last filed: FY2012 -1098.648, FY2013 -572.406
+- Crosswalk: FY2012: -24.656 first filed (10-K, 2013-02-26), -1098.648 last filed (10-K, 2015-03-02); FY2013: -74.332 first filed (10-K, 2014-02-28), -572.406 last filed (10-K, 2016-02-26). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: EQUINIX INC, Geography members, 2025-07-30

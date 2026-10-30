@@ -44,7 +44,7 @@ function splitVector(file, rule, about, facts) {
 
 // each vector's company's SIC code, as the FSDS cached give it (sic.js), its
 // title and its sector (SIC division); the foreign filer, none
-const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911', GOOGL: '7370', F: '3711', EQIX: '6798', MET: '6311', ED: '4931', ERIE: '6411', ARES: '6282', CCI: '6798', BKNG: '4700', MTB: '6021', TECH: '2836' };
+const SIC = { AAPL: '3571', MS: '6211', AMZN: '5961', FF: '', AMD: '3674', BAC: '6021', XOM: '2911', GOOGL: '7370', F: '3711', EQIX: '6798', MET: '6311', ED: '4931', ERIE: '6411', ARES: '6282', CCI: '6798', BKNG: '4700', MTB: '6021', TECH: '2836', CPT: '6798', FIX: '1700', PFE: '2834', MSI: '3663' };
 const titles = sic.titles();
 function vector(file, rule, about, input) {
   const code = SIC[input.ticker];
@@ -155,6 +155,28 @@ vector('bio-techne-fy2013-unit-slip.json', 'D8',
   "Bio-Techne's operating income for the year ended 2013-06-30: 158,469,000 in its 10-Ks of 2013 and 2014; 158,469 in that of 2015-08-31, a thousandth (the 10-K gives its figures in thousands there, and the facts carry the scale lost). A row a thousandth or a millionth of another row's for the same period is a unit slip and is not read: FY2013 is 158.469, not 0.158469.",
   { facts: trim(facts('0000842023'), ['Revenues', 'SalesRevenueNet', 'OperatingIncomeLoss'], '2012-07-01', '2013-06-30'),
     fsdsRows: [], exchange: 'Nasdaq', ticker: 'TECH', name: 'BIO-TECHNE Corp', span: [2013] });
+
+// The third mend (DECISIONS 46-49, 10-30): a quarter filed as a year, a
+// revenue that is a part under one tag, a gap said, a restatement said.
+vector('comfort-fy2025-quarter-as-year.json', 'V2',
+  "Comfort Systems' FY2025: its 10-K of 2026-02-19 files revenue 9,101.641 for 2025-01-01 to 2025-12-31 (gross profit, operating income likewise); its 10-Q of 2026-04-23 files the first quarter, 1,831.286, once for 2025-01-01 to 2025-03-31 and once for 2025-01-01 to 2025-12-31 (a context spanning the year: gross profit 403.416 and operating income 209.098 likewise). A 10-Q's row of a year whose value is a shorter period's of the same filing from the same first day is that period's, and is not read: the year stays the 10-K's 9,101.6 (it was 1,831.3, its Q4 -4,624). Checked against Comfort Systems' 10-K for 2025.",
+  { facts: trim(facts('0001035983'), ['Revenues', 'GrossProfit', 'OperatingIncomeLoss', 'NetIncomeLoss'], '2024-01-01', '2026-06-30'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'FIX', name: 'COMFORT SYSTEMS USA INC', span: [2024, 2025] });
+
+vector('camden-fy2017-revenue-part.json', 'D5',
+  "Camden Property Trust's revenue: `RevenueFromContractWithCustomerExcludingAssessedTax` is its only revenue tag. Its 10-K of 2019-02-15 files FY2016 876.447, FY2017 900.896, FY2018 954.505; its 10-Ks of 2020 and 2021 file the same periods again as 8.176 and 7.231, and later years 8.7, 10.8, 10.5 (a part: net income is 196 to 654). No other tag, no earlier filing, so the cascade's sliver rule saw none (net margin 2,623% to 13,129%). A revenue under a tenth of the year's net income is a part: FY2017 and FY2018 take the figure first filed (the quarters of FY2018 do not sum to it: blank), FY2019 on are blank, and two Changes, `Revenue part`, say so. Checked against Camden's 10-K for 2018 (total revenues 900.9).",
+  { facts: trim(facts('0000906345'), ['RevenueFromContractWithCustomerExcludingAssessedTax', 'NetIncomeLoss'], '2016-01-01', '2021-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'CPT', name: 'CAMDEN PROPERTY TRUST', span: [2016, 2017, 2018, 2019, 2020, 2021] });
+
+vector('pfizer-fy2014-revenue-gap.json', 'D6',
+  "Pfizer's revenue: 51,584 for FY2013 and 52,824 for FY2016 in the facts, and none for FY2014 and FY2015 under any tag the book reads (FY2014: only quarters of 3 and 6 months). A line with no figure for years inside its run is a Change, `Revenue gap`, saying what the filings give; nothing is filled across. The 10-Ks of 2015 and 2016 file the years as 49,605 and 48,851 under `SalesRevenueGoodsNet`, a tag outside the cascade: not read, said in the Change's words as what the filings do not give under the tags read.",
+  { facts: trim(facts('0000078003'), ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax', 'SalesRevenueNet', 'NetIncomeLoss'], '2012-01-01', '2017-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'PFE', name: 'PFIZER INC', span: [2012, 2013, 2014, 2015, 2016, 2017] });
+
+vector('motorola-fy2008-restated.json', 'B10',
+  "Motorola Solutions' revenue: FY2007 36,622 (8-K of 2010-05-05) beside FY2008 8,140 (8-K of 2011-05-12), FY2009 6,947 and FY2010 7,617: the 10-Ks of 2010 filed FY2008 as 30,146 and FY2009 as 22,044, and a later 8-K and the 10-Ks of 2012 and 2013 restate them (the cause is not in the data). Each year restated to under half of its first filing is a flag; a run of them is a Change, `Revenue restatement`, with both figures and both filings of each year, and the seam at FY2008. The card takes the last filed. Which basis is the revenue is not decided.",
+  { facts: trim(facts('0000068505'), ['Revenues', 'NetIncomeLoss'], '2006-12-31', '2011-12-31'),
+    fsdsRows: [], exchange: 'NYSE', ticker: 'MSI', name: 'Motorola Solutions, Inc.', span: [2007, 2008, 2009, 2010, 2011] });
 
 // The splits, after the FAQ (10-15): one period restated is no split; a
 // split the EPS of one period and its shares agree on is one.

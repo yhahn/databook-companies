@@ -13,7 +13,7 @@
 
 ZIMMER BIOMET HOLDINGS, INC., as it files with the SEC (CIK 0001136869): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ZIMMER BIOMET HOLDINGS, INC., and how has it grown?** It sold $8.2 billion in FY2025, the 333rd most of the 487 companies with a revenue for the year, and the 137th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 7.3% from FY2016 to FY2025, 0.8% a year.
+**How large is ZIMMER BIOMET HOLDINGS, INC., and how has it grown?** It sold $8.2 billion in FY2025, the 334th most of the 486 companies with a revenue for the year, and the 137th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 7.3% from FY2016 to FY2025, 0.8% a year.
 
 **Does ZIMMER BIOMET HOLDINGS, INC. make money, and how much of what it sells does it keep?** It earned $705 million in FY2025, 8.6% of what it sold; the median company of its sector kept 11.8%. It lost money in 2 of its 19 years in the book (FY2018, FY2020).
 
@@ -200,7 +200,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001136869/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 4220 |  |  | | | | | millions | | | | | | none |  |
+| 0001136869/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 4220 |  |  | | | | | millions | | | | | | Revenue gap, FY2011 |  |
 | 0001136869/Operating cash flow tag/FY2014 | FY2014 | Operating cash flow tag | instrument | | 963 | 1060 | 97.4 | | | | | millions | | | | | | Operating cash flow tag, FY2014 |  |
 | 0001136869/Revenue tag/FY2016 | FY2016 | Revenue tag | instrument | |  | 7668 |  | | | | | millions | | | | | | Revenue tag, FY2016 |  |
 | 0001136869/Operating cash flow tag/FY2017 | FY2017 | Operating cash flow tag | instrument | | 1632 | 1582 | -49.9 | | | | | millions | | | | | | Operating cash flow tag, FY2017 |  |
@@ -422,4 +422,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2023 under both: 1581600000 and 1581600000
+- Source: SEC EDGAR companyfacts
+
+### Change: ZIMMER BIOMET HOLDINGS, INC., Gap, Revenue, FY2011 to FY2015
+
+- CIK: 0001136869
+- What: Revenue gap
+- Boundary: FY2011
+- Was: Revenue FY2010: 4220.2
+- Now: no figure for FY2011 to FY2015; FY2016: 7668.4
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 3 months are filed; FY2012 to FY2015: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts
+
+### Change: ZIMMER BIOMET HOLDINGS, INC., Restatement, Operating income, FY2020
+
+- CIK: 0001136869
+- What: Operating income restatement
+- Boundary: FY2020
+- Was: Operating income FY2019: 1112 (8-K filed 2022-06-22, itself restated)
+- Now: Operating income FY2020 as last filed: FY2020 83.1
+- Crosswalk: FY2020: -87.8 first filed (10-K, 2021-02-22), 83.1 last filed (10-K, 2023-02-24). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2020. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

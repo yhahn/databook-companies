@@ -13,9 +13,9 @@
 
 CITIGROUP INC, as it files with the SEC (CIK 0000831001): its fiscal years and quarters from its XBRL filings, FY2007 to FY2025. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-08-05, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CITIGROUP INC, and how has it grown?** It sold $85.2 billion in FY2025, the 46th most of the 487 companies with a revenue for the year, and the 10th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 11.6% from FY2015 to FY2025, 1.1% a year.
+**How large is CITIGROUP INC, and how has it grown?** It sold $85.2 billion in FY2025, the 46th most of the 486 companies with a revenue for the year, and the 10th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 11.6% from FY2015 to FY2025, 1.1% a year.
 
-**Does CITIGROUP INC make money, and how much of what it sells does it keep?** It earned $14.3 billion in FY2025, 16.8% of what it sold; the median company of its sector kept 19.2%. It lost money in 3 of its 19 years in the book (FY2008, FY2009, FY2017).
+**Does CITIGROUP INC make money, and how much of what it sells does it keep?** It earned $14.3 billion in FY2025, 16.8% of what it sold; the median company of its sector kept 18.9%. It lost money in 3 of its 19 years in the book (FY2008, FY2009, FY2017).
 
 **Where does CITIGROUP INC's cash go?** The book does not say: its filings give no value this needs.
 
@@ -343,4 +343,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2011-08-05 on, a share after a 1 for 10 split
 - Crosswalk: 2010-01-01 to 2010-06-30: EPS 0.24 as first filed, 2.39 after; EPS adjusted divides what was filed before by 0.1. Found in 8 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio 0.1, of 2011-05-06, filed 2012-11-06)
+- Source: SEC EDGAR companyfacts
+
+### Change: CITIGROUP INC, Restatement, Operating cash flow, FY2012
+
+- CIK: 0000831001
+- What: Operating cash flow restatement
+- Boundary: FY2012
+- Was: Operating cash flow FY2011: 64795 (10-K filed 2014-03-03, itself restated)
+- Now: Operating cash flow FY2012 as last filed: FY2012 -10362
+- Crosswalk: FY2012: 14271 first filed (10-K, 2013-03-01), -10362 last filed (8-K, 2015-05-28). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

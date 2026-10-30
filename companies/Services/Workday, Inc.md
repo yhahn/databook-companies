@@ -13,7 +13,7 @@
 
 Workday, Inc., as it files with the SEC (CIK 0001327811): its fiscal years and quarters from its XBRL filings, FY2010 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Workday, Inc., and how has it grown?** It sold $8.4 billion in FY2025, the 325th most of the 487 companies with a revenue for the year, and the 39th of 75 in [Services](../Services.md). Its sales rose 972% from FY2015 to FY2025, 26.8% a year.
+**How large is Workday, Inc., and how has it grown?** It sold $8.4 billion in FY2025, the 326th most of the 486 companies with a revenue for the year, and the 39th of 75 in [Services](../Services.md). Its sales rose 972% from FY2015 to FY2025, 26.8% a year.
 
 **Does Workday, Inc. make money, and how much of what it sells does it keep?** It earned $526 million in FY2025, 6.2% of what it sold; the median company of its sector kept 15.8%. It lost money in 12 of its 16 years in the book (FY2010, FY2012, FY2013 and 9 more).
 
@@ -166,20 +166,20 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0001327811/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -3.7 |  |  | | | | | millions | | | | | | none |  |
-| 0001327811/Net income gap/FY2011 | FY2011 | Net income gap | instrument | | -56.2 |  |  | | | | | millions | | | | | | none |  |
-| 0001327811/Operating cash flow gap/FY2011 | FY2011 | Operating cash flow gap | instrument | | -15.3 |  |  | | | | | millions | | | | | | none |  |
-| 0001327811/Operating income gap/FY2011 | FY2011 | Operating income gap | instrument | | -56.1 |  |  | | | | | millions | | | | | | none |  |
-| 0001327811/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 68.1 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -3.7 |  |  | | | | | millions | | | | | | Capex gap, FY2011 |  |
+| 0001327811/Net income gap/FY2011 | FY2011 | Net income gap | instrument | | -56.2 |  |  | | | | | millions | | | | | | Net income gap, FY2011 |  |
+| 0001327811/Operating cash flow gap/FY2011 | FY2011 | Operating cash flow gap | instrument | | -15.3 |  |  | | | | | millions | | | | | | Operating cash flow gap, FY2011 |  |
+| 0001327811/Operating income gap/FY2011 | FY2011 | Operating income gap | instrument | | -56.1 |  |  | | | | | millions | | | | | | Operating income gap, FY2011 |  |
+| 0001327811/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 68.1 |  |  | | | | | millions | | | | | | Revenue gap, FY2011 |  |
 | 0001327811/Fiscal year end/FY2012 | FY2012 | Fiscal year end | instrument | | 365 | 31.0 | -334 | | | | | day of year | | | | | | Fiscal year end, FY2010 to FY2012 |  |
 | 0001327811/Net income tag/FY2015 | FY2015 | Net income tag | instrument | | -173 | -248 | -75.5 | | | | | millions | | | | | | Net income tag, FY2015 |  |
 | 0001327811/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 1574 | 2143 | 569 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
-| 0001327811/Capex gap/FY2020 | FY2020 | Capex gap | instrument | | -203 |  |  | | | | | millions | | | | | | none |  |
+| 0001327811/Capex gap/FY2020 | FY2020 | Capex gap | instrument | | -203 |  |  | | | | | millions | | | | | | Capex gap, FY2020 |  |
 | 0001327811/Net income tag/FY2020 | FY2020 | Net income tag | instrument | | -418 | -481 | -62.4 | | | | | millions | | | | | | Net income tag, FY2020 |  |
 | 0001327811/EPS diluted tag/FY2021 | FY2021 | EPS diluted tag | instrument | |  |  |  | | | | | millions | | | | | | EPS diluted tag, FY2021 |  |
 | 0001327811/Capex tag/FY2023 | FY2023 | Capex tag | instrument | |  | -364 |  | | | | | millions | | | | | | Capex tag, FY2023 |  |
 | 0001327811/Operating margin/FY2016 | FY2016 | Operating margin | observed | level and bend | -24.9 | -23.3 | 1.5 | 10.33 | 3.13 | 6.9 | 4.7 | percent of revenue | 23.0 | 21.6 | 1 | lone | 74 |  |  |
-| 0001327811/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 18.2 | 20.0 | 1.8 | -9.88 | -0.76 | 20.9 | 3.3 | percent a year | 14.6 | 7.4 | 2 | lone | 74 |  |  |
+| 0001327811/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | 18.2 | 20.0 | 1.8 | -9.88 | -0.76 | 20.9 | 3.3 | percent a year | 14.7 | 7.4 | 2 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -392,4 +392,64 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: FY2010 ended 2010-12-31
 - Now: FY2012 ended 2012-01-31
 - Crosswalk: the transition period 2011-01-01 to 2011-01-31, filed apart (us-gaap:Revenues 7282000)
+- Source: SEC EDGAR companyfacts
+
+### Change: Workday, Inc., Gap, Revenue, FY2011
+
+- CIK: 0001327811
+- What: Revenue gap
+- Boundary: FY2011
+- Was: Revenue FY2010: 68.055
+- Now: no figure for FY2011; FY2012: 134.427
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 1, 3, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts
+
+### Change: Workday, Inc., Gap, Operating income, FY2011
+
+- CIK: 0001327811
+- What: Operating income gap
+- Boundary: FY2011
+- Was: Operating income FY2010: -56.061
+- Now: no figure for FY2011; FY2012: -78.444
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 1, 3, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:OperatingIncomeLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: Workday, Inc., Gap, Net income, FY2011
+
+- CIK: 0001327811
+- What: Net income gap
+- Boundary: FY2011
+- Was: Net income FY2010: -56.215
+- Now: no figure for FY2011; FY2012: -79.971
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 1, 3, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
+- Source: SEC EDGAR companyfacts
+
+### Change: Workday, Inc., Gap, Operating cash flow, FY2011
+
+- CIK: 0001327811
+- What: Operating cash flow gap
+- Boundary: FY2011
+- Was: Operating cash flow FY2010: -15.335
+- Now: no figure for FY2011; FY2012: -13.774
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 1, 3, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:NetCashProvidedByUsedInOperatingActivities, us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+- Source: SEC EDGAR companyfacts
+
+### Change: Workday, Inc., Gap, Capex, FY2011
+
+- CIK: 0001327811
+- What: Capex gap
+- Boundary: FY2011
+- Was: Capex FY2010: -3.662
+- Now: no figure for FY2011; FY2012: -4.999
+- Crosswalk: FY2011: no annual figure under any tag read; periods of 1, 3, 9 months are filed. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: Workday, Inc., Gap, Capex, FY2020 to FY2022
+
+- CIK: 0001327811
+- What: Capex gap
+- Boundary: FY2020
+- Was: Capex FY2019: -202.507
+- Now: no figure for FY2020 to FY2022; FY2023: -364
+- Crosswalk: FY2020: no annual figure under any tag read; periods of 3, 6, 9 months are filed; FY2021 to FY2022: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
 - Source: SEC EDGAR companyfacts

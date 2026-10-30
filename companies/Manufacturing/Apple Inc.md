@@ -13,7 +13,7 @@
 
 Apple Inc., as it files with the SEC (CIK 0000320193): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2014-07-23 and 2020-10-30, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Apple Inc., and how has it grown?** It sold $416.2 billion in FY2025, the 4th most of the 487 companies with a revenue for the year, and the 1st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 78.1% from FY2015 to FY2025, 5.9% a year.
+**How large is Apple Inc., and how has it grown?** It sold $416.2 billion in FY2025, the 4th most of the 486 companies with a revenue for the year, and the 1st of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 78.1% from FY2015 to FY2025, 5.9% a year.
 
 **Does Apple Inc. make money, and how much of what it sells does it keep?** It earned $112.0 billion in FY2025, 26.9% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 19 years in the book.
 
@@ -223,7 +223,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000320193/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 215639 | 229234 | 13595 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0000320193/Revenue tag/FY2018 | FY2018 | Revenue tag | instrument | | 229234 | 265595 | 36361 | | | | | millions | | | | | | Revenue tag, FY2018 |  |
 | 0000320193/Operating cash flow over revenue/FY2011 | FY2011 | Operating cash flow over revenue | observed | level and bend | 27.5 | 33.1 | 5.6 | 1.68 | -0.40 | 3.9 | 3.7 | percent of revenue | 16.1 | 15.5 | 1 | lone | 201 |  |  |
-| 0000320193/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | 26.5 | 20.7 | -5.9 | 2.50 | 0.40 | 0.4 | 2.9 | percent of revenue | 31.3 | 13.8 | 1 | shared | 201 |  |  |
+| 0000320193/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | 26.5 | 20.7 | -5.9 | 2.50 | 0.40 | 0.4 | 2.9 | percent of revenue | 31.2 | 13.8 | 1 | shared | 201 |  |  |
 | 0000320193/Operating margin/FY2013 | FY2013 | Operating margin | observed | level and bend | 35.2 | 29.9 | -5.3 | 3.28 | -0.77 | 2.3 | 2.2 | percent of revenue | 16.0 | 15.2 | 1 | shared | 201 |  |  |
 | 0000320193/Operating margin/FY2021/2 | FY2021 | Operating margin | observed | level and bend | 24.5 | 29.6 | 5.0 | -0.77 | 0.56 | 2.2 | 1.1 | percent of revenue | 26.4 | 10.2 | 2 | lone | 201 |  |  |
 

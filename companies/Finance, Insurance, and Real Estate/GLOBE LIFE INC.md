@@ -13,9 +13,9 @@
 
 GLOBE LIFE INC., as it files with the SEC (CIK 0000320335): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2011-08-08 and 2014-08-08, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is GLOBE LIFE INC., and how has it grown?** It sold $6.0 billion in FY2025, the 379th most of the 487 companies with a revenue for the year, and the 66th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 59.2% from FY2015 to FY2025, 4.8% a year.
+**How large is GLOBE LIFE INC., and how has it grown?** It sold $6.0 billion in FY2025, the 380th most of the 486 companies with a revenue for the year, and the 66th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 59.2% from FY2015 to FY2025, 4.8% a year.
 
-**Does GLOBE LIFE INC. make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 19.4% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does GLOBE LIFE INC. make money, and how much of what it sells does it keep?** It earned $1.2 billion in FY2025, 19.4% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does GLOBE LIFE INC.'s cash go?** From FY2016 to FY2025 its operations brought in $14.1 billion; it spent 3.6% of that on plant and equipment, and 39.3% on buying back its own shares.
 

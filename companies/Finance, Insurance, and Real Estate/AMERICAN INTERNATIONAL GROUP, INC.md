@@ -13,9 +13,9 @@
 
 AMERICAN INTERNATIONAL GROUP, INC., as it files with the SEC (CIK 0000005272): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMERICAN INTERNATIONAL GROUP, INC., and how has it grown?** It sold $26.8 billion in FY2025, the 140th most of the 487 companies with a revenue for the year, and the 26th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 54.1% from FY2015 to FY2025, −7.5% a year.
+**How large is AMERICAN INTERNATIONAL GROUP, INC., and how has it grown?** It sold $26.8 billion in FY2025, the 140th most of the 486 companies with a revenue for the year, and the 26th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales fell 54.1% from FY2015 to FY2025, −7.5% a year.
 
-**Does AMERICAN INTERNATIONAL GROUP, INC. make money, and how much of what it sells does it keep?** It earned $3.1 billion in FY2025, 11.6% of what it sold; the median company of its sector kept 19.2%. It lost money in 7 of its 19 years in the book (FY2008, FY2009, FY2016 and 4 more).
+**Does AMERICAN INTERNATIONAL GROUP, INC. make money, and how much of what it sells does it keep?** It earned $3.1 billion in FY2025, 11.6% of what it sold; the median company of its sector kept 18.9%. It lost money in 7 of its 19 years in the book (FY2008, FY2009, FY2016 and 4 more).
 
 **Where does AMERICAN INTERNATIONAL GROUP, INC.'s cash go?** From FY2016 to FY2025 its operations brought in $17.7 billion; it spent 19.3% of that on plant and equipment, and 244% on buying back its own shares.
 
@@ -172,7 +172,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000005272/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -267 |  |  | | | | | millions | | | | | | none |  |
+| 0000005272/Capex gap/FY2011 | FY2011 | Capex gap | instrument | | -267 |  |  | | | | | millions | | | | | | Capex gap, FY2011 |  |
 | 0000005272/Net income tag/FY2026 | FY2026 | Net income tag | instrument | | 3096 |  |  | | | | | millions | | | | | | Net income tag, FY2026 |  |
 | 0000005272/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | 1.3 | -32.4 | -33.6 | 0.71 | 12.66 | 18.5 | 25.7 | percent a year | 9.3 | 6.9 | 1 | lone | 94 |  |  |
 
@@ -294,4 +294,44 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN INTERNATIONAL GROUP, INC., Gap, Capex, FY2011
+
+- CIK: 0000005272
+- What: Capex gap
+- Boundary: FY2011
+- Was: Capex FY2010: -267
+- Now: no figure for FY2011; FY2012: -2851
+- Crosswalk: FY2011: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN INTERNATIONAL GROUP, INC., Restatement, Revenue, FY2008
+
+- CIK: 0000005272
+- What: Revenue restatement
+- Boundary: FY2008
+- Was: Revenue FY2007: 81807 (8-K filed 2010-11-05, itself restated)
+- Now: Revenue FY2008 as last filed: FY2008 -6840
+- Crosswalk: FY2008: 6896 first filed (10-K, 2010-02-26), -6840 last filed (10-K, 2011-02-24). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2008. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN INTERNATIONAL GROUP, INC., Restatement, Operating cash flow, FY2011
+
+- CIK: 0000005272
+- What: Operating cash flow restatement
+- Boundary: FY2011
+- Was: Operating cash flow FY2010: 16597 (10-K filed 2013-02-21, itself restated)
+- Now: Operating cash flow FY2011 as last filed: FY2011 -81
+- Crosswalk: FY2011: 35 first filed (10-K, 2012-02-23), -81 last filed (10-K, 2014-02-20). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN INTERNATIONAL GROUP, INC., Restatement, Operating cash flow, FY2018
+
+- CIK: 0000005272
+- What: Operating cash flow restatement
+- Boundary: FY2018
+- Was: Operating cash flow FY2017: -7818 (10-K filed 2020-02-21, itself restated)
+- Now: Operating cash flow FY2018 as last filed: FY2018 -394
+- Crosswalk: FY2018: 61 first filed (10-K, 2019-02-15), -394 last filed (10-K, 2021-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2018. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

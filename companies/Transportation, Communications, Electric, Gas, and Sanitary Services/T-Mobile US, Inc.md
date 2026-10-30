@@ -13,7 +13,7 @@
 
 T-Mobile US, Inc., as it files with the SEC (CIK 0001283699): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is T-Mobile US, Inc., and how has it grown?** It sold $88.3 billion in FY2025, the 42nd most of the 487 companies with a revenue for the year, and the 5th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 172% from FY2015 to FY2025, 10.5% a year.
+**How large is T-Mobile US, Inc., and how has it grown?** It sold $88.3 billion in FY2025, the 42nd most of the 486 companies with a revenue for the year, and the 5th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 172% from FY2015 to FY2025, 10.5% a year.
 
 **Does T-Mobile US, Inc. make money, and how much of what it sells does it keep?** It earned $11.0 billion in FY2025, 12.4% of what it sold; the median company of its sector kept 12.9%. It lost money in 2 of its 18 years in the book (FY2011, FY2012).
 
@@ -193,9 +193,9 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001283699/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 37490 | 40604 | 3114 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0001283699/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | -31.6 | 1.2 | 32.8 | -11.32 | 0.84 | 19.7 | 6.5 | percent of revenue | 27.2 | 17.4 | 1 | lone | 61 |  |  |
+| 0001283699/Net margin/FY2013 | FY2013 | Net margin | observed | level and bend | -31.6 | 1.2 | 32.8 | -11.32 | 0.84 | 19.7 | 6.5 | percent of revenue | 27.3 | 17.4 | 1 | lone | 61 |  |  |
 | 0001283699/Operating margin/FY2013 | FY2013 | Operating margin | observed | level and bend | -27.6 | 5.0 | 32.6 | -13.50 | 1.13 | 25.2 | 6.9 | percent of revenue | 24.8 | 15.3 | 1 | lone | 61 |  |  |
-| 0001283699/Operating cash flow over revenue/FY2015 | FY2015 | Operating cash flow over revenue | observed | level and bend | 16.1 | 3.8 | -12.3 | -1.24 | 2.53 | 9.2 | 4.0 | percent of revenue | 38.6 | 29.5 | 1 | lone | 61 |  |  |
+| 0001283699/Operating cash flow over revenue/FY2015 | FY2015 | Operating cash flow over revenue | observed | level and bend | 16.1 | 3.8 | -12.3 | -1.24 | 2.53 | 9.2 | 4.0 | percent of revenue | 38.5 | 29.5 | 1 | lone | 61 | Operating cash flow restatement, FY2015 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -381,4 +381,54 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2017 under both: 40604000000 and 40604000000
+- Source: SEC EDGAR companyfacts
+
+### Change: T-Mobile US, Inc., Restatement, Operating income, FY2011 to FY2012
+
+- CIK: 0001283699
+- What: Operating income restatement
+- Boundary: FY2011
+- Was: Operating income FY2010: 718.898 (10-K filed 2013-03-01, as first filed)
+- Now: Operating income FY2011 to FY2012 as last filed: FY2011 -4279, FY2012 -6397
+- Crosswalk: FY2011: 747.538 first filed (10-K, 2012-02-29), -4279 last filed (10-K, 2014-02-25); FY2012: 823.969 first filed (10-K, 2013-03-01), -6397 last filed (10-K, 2015-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: T-Mobile US, Inc., Restatement, Net income, FY2011 to FY2012
+
+- CIK: 0001283699
+- What: Net income restatement
+- Boundary: FY2011
+- Was: Net income FY2010: 193.415 (10-K filed 2013-03-01, as first filed)
+- Now: Net income FY2011 to FY2012 as last filed: FY2011 -4718, FY2012 -7336
+- Crosswalk: FY2011: 301.31 first filed (10-K, 2012-02-29), -4718 last filed (10-K, 2014-02-25); FY2012: 394.172 first filed (10-K, 2013-03-01), -7336 last filed (10-K, 2015-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: T-Mobile US, Inc., Restatement, Operating cash flow, FY2011 to FY2012
+
+- CIK: 0001283699
+- What: Operating cash flow restatement
+- Boundary: FY2011
+- Was: Operating cash flow FY2010: 994.5 (10-K filed 2013-03-01, as first filed)
+- Now: Operating cash flow FY2011 to FY2012 as last filed: FY2011 4980, FY2012 3862
+- Crosswalk: FY2011: 1061.808 first filed (10-K, 2012-02-29), 4980 last filed (10-K, 2014-02-25); FY2012: 1181.451 first filed (10-K, 2013-03-01), 3862 last filed (10-K, 2015-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: T-Mobile US, Inc., Restatement, Operating cash flow, FY2015 to FY2017
+
+- CIK: 0001283699
+- What: Operating cash flow restatement
+- Boundary: FY2015
+- Was: Operating cash flow FY2014: 4146 (8-K filed 2018-01-22, as first filed)
+- Now: Operating cash flow FY2015 to FY2017 as last filed: FY2015 1877, FY2016 2779, FY2017 3831
+- Crosswalk: FY2015: 5414 first filed (10-K, 2016-02-17), 1877 last filed (8-K, 2018-06-18); FY2016: 6135 first filed (10-K, 2017-02-14), 2779 last filed (10-K, 2019-02-07); FY2017: 7962 first filed (10-K, 2018-02-08), 3831 last filed (10-K, 2020-02-06). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2015. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: T-Mobile US, Inc., Restatement, Capex, FY2011 to FY2012
+
+- CIK: 0001283699
+- What: Capex restatement
+- Boundary: FY2011
+- Was: Capex FY2010: -790.385 (10-K filed 2013-03-01, as first filed)
+- Now: Capex FY2011 to FY2012 as last filed: FY2011 -2729, FY2012 -2901
+- Crosswalk: FY2011: -889.769 first filed (10-K, 2012-02-29), -2729 last filed (10-K, 2014-02-25); FY2012: -845.85 first filed (10-K, 2013-03-01), -2901 last filed (10-K, 2015-02-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2011. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

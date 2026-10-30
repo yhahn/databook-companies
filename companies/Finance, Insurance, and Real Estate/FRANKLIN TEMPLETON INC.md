@@ -13,9 +13,9 @@
 
 FRANKLIN TEMPLETON INC, as it files with the SEC (CIK 0000038777): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2013-07-29, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FRANKLIN TEMPLETON INC, and how has it grown?** It sold $8.8 billion in FY2025, the 320th most of the 487 companies with a revenue for the year, and the 51st of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 10.3% from FY2015 to FY2025, 1% a year.
+**How large is FRANKLIN TEMPLETON INC, and how has it grown?** It sold $8.8 billion in FY2025, the 321st most of the 486 companies with a revenue for the year, and the 51st of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 10.3% from FY2015 to FY2025, 1% a year.
 
-**Does FRANKLIN TEMPLETON INC make money, and how much of what it sells does it keep?** It earned $525 million in FY2025, 6% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 19 years in the book.
+**Does FRANKLIN TEMPLETON INC make money, and how much of what it sells does it keep?** It earned $525 million in FY2025, 6% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 19 years in the book.
 
 **Where does FRANKLIN TEMPLETON INC's cash go?** From FY2016 to FY2025 its operations brought in $12.8 billion; it spent 9.9% of that on plant and equipment, and 44.1% on buying back its own shares.
 
@@ -417,4 +417,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2013-07-29 on, a share after a 3 for 1 split
 - Crosswalk: 2011-10-01 to 2012-06-30: EPS 6.65 as first filed, 2.22 after; EPS adjusted divides what was filed before by 3. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio 3, of 2013-06-30, filed 2013-07-29)
+- Source: SEC EDGAR companyfacts
+
+### Change: FRANKLIN TEMPLETON INC, Restatement, Capex, FY2010
+
+- CIK: 0000038777
+- What: Capex restatement
+- Boundary: FY2010
+- Was: Capex FY2009: -45.183 (10-K filed 2011-11-15, as first filed)
+- Now: Capex FY2010 as last filed: FY2010 57.4
+- Crosswalk: FY2010: -57.403 first filed (10-K, 2010-11-16), 57.4 last filed (10-K, 2012-11-15). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2010. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: FRANKLIN TEMPLETON INC, Restatement, Capex, FY2012
+
+- CIK: 0000038777
+- What: Capex restatement
+- Boundary: FY2012
+- Was: Capex FY2011: -131.7 (10-K filed 2013-11-12, as first filed)
+- Now: Capex FY2012 as last filed: FY2012 -78.4
+- Crosswalk: FY2012: 78.4 first filed (10-K, 2012-11-15), -78.4 last filed (10-K, 2014-11-12). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2012. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

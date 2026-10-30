@@ -13,7 +13,7 @@
 
 AMERICAN ELECTRIC POWER CO INC, as it files with the SEC (CIK 0000004904): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMERICAN ELECTRIC POWER CO INC, and how has it grown?** It sold $21.7 billion in FY2025, the 175th most of the 487 companies with a revenue for the year, and the 23rd of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 31.9% from FY2015 to FY2025, 2.8% a year.
+**How large is AMERICAN ELECTRIC POWER CO INC, and how has it grown?** It sold $21.7 billion in FY2025, the 175th most of the 486 companies with a revenue for the year, and the 23rd of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 31.9% from FY2015 to FY2025, 2.8% a year.
 
 **Does AMERICAN ELECTRIC POWER CO INC make money, and how much of what it sells does it keep?** It earned $3.7 billion in FY2025, 17% of what it sold; the median company of its sector kept 12.9%. It lost money in none of its 19 years in the book.
 
@@ -183,7 +183,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000004904/Net income tag/FY2013 | FY2013 | Net income tag | instrument | | 1259 | 1484 | 225 | | | | | millions | | | | | | Net income tag, FY2013 |  |
 | 0000004904/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 16380 | 15425 | -955 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000004904/Capex gap/FY2021 | FY2021 | Capex gap | instrument | | 0.0 |  |  | | | | | millions | | | | | | none |  |
+| 0000004904/Capex gap/FY2021 | FY2021 | Capex gap | instrument | | 0.0 |  |  | | | | | millions | | | | | | Capex gap, FY2021 |  |
 | 0000004904/Capex tag/FY2023 | FY2023 | Capex tag | instrument | |  | -155 |  | | | | | millions | | | | | | Capex tag, FY2023 |  |
 | 0000004904/Revenue tag/FY2024 | FY2024 | Revenue tag | instrument | | 18982 | 19970 | 988 | | | | | millions | | | | | | Revenue tag, FY2024 |  |
 
@@ -402,4 +402,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment
 - Now: us-gaap:PaymentsToAcquireProductiveAssets
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN ELECTRIC POWER CO INC, Gap, Capex, FY2021 to FY2022
+
+- CIK: 0000004904
+- What: Capex gap
+- Boundary: FY2021
+- Was: Capex FY2020: 0
+- Now: no figure for FY2021 to FY2022; FY2023: -155
+- Crosswalk: FY2021: no annual figure under any tag read; periods of 3 months are filed; FY2022: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, us-gaap:PaymentsToAcquireProductiveAssets
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN ELECTRIC POWER CO INC, Restatement, Capex, FY2017 to FY2018
+
+- CIK: 0000004904
+- What: Capex restatement
+- Boundary: FY2017
+- Was: Capex FY2016: -107.9 (10-K filed 2019-02-21, as first filed)
+- Now: Capex FY2017 to FY2018 as last filed: FY2017 0, FY2018 0
+- Crosswalk: FY2017: -6.8 first filed (10-K, 2018-02-23), 0 last filed (10-K, 2020-02-20); FY2018: -14.6 first filed (10-K, 2019-02-21), 0 last filed (10-K, 2021-02-25). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

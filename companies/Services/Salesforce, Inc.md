@@ -13,7 +13,7 @@
 
 Salesforce, Inc., as it files with the SEC (CIK 0001108524): its fiscal years and quarters from its XBRL filings, FY2008 to FY2027 (FY2027 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed (before 2013-05-24, a share before a split: see the changes); EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Salesforce, Inc., and how has it grown?** It sold $37.9 billion in FY2025, the 102nd most of the 487 companies with a revenue for the year, and the 11th of 75 in [Services](../Services.md). Its sales rose 605.2% from FY2015 to FY2025, 21.6% a year.
+**How large is Salesforce, Inc., and how has it grown?** It sold $37.9 billion in FY2025, the 102nd most of the 486 companies with a revenue for the year, and the 11th of 75 in [Services](../Services.md). Its sales rose 605.2% from FY2015 to FY2025, 21.6% a year.
 
 **Does Salesforce, Inc. make money, and how much of what it sells does it keep?** It earned $6.2 billion in FY2025, 16.4% of what it sold; the median company of its sector kept 15.8%. It lost money in 5 of its 19 years in the book (FY2012, FY2013, FY2014 and 2 more).
 
@@ -395,6 +395,26 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: EPS filed before it, a share as it was
 - Now: EPS filed from 2013-05-24 on, a share after a 4 for 1 split
 - Crosswalk: 2012-02-01 to 2012-10-31: EPS -1.78 as first filed, -0.45 after; EPS adjusted divides what was filed before by 4. Found in 7 periods restated; a period's EPS and its shares; the SEC's split fact (us-gaap:StockholdersEquityNoteStockSplitConversionRatio1 4, of 2013-04-30, filed 2014-03-05)
+- Source: SEC EDGAR companyfacts
+
+### Change: Salesforce, Inc., Restatement, Operating income, FY2017
+
+- CIK: 0001108524
+- What: Operating income restatement
+- Boundary: FY2017
+- Was: Operating income FY2016: 114.923 (10-K filed 2018-03-09, as first filed)
+- Now: Operating income FY2017 as last filed: FY2017 218
+- Crosswalk: FY2017: 64.228 first filed (10-K, 2017-03-06), 218 last filed (10-K, 2019-03-08). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Salesforce, Inc., Restatement, Net income, FY2018
+
+- CIK: 0001108524
+- What: Net income restatement
+- Boundary: FY2018
+- Was: Net income FY2017: 323 (10-K filed 2019-03-08, itself restated)
+- Now: Net income FY2018 as last filed: FY2018 360
+- Crosswalk: FY2018: 127.478 first filed (10-K, 2018-03-09), 360 last filed (10-K, 2020-03-05). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2018. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts
 
 ### Change: Salesforce, Inc., Product members, 2025-12-04

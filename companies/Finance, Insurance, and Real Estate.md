@@ -8,11 +8,11 @@ The S&P 500's companies whose industry, as the SEC classes it, falls in division
 
 ## Size
 
-**How large is Finance, Insurance, and Real Estate among the S&P 500?** Its 92 companies with a revenue and a net income for FY2025 sold $3.33 trillion, 19% of the sales of all the 500's, and kept $448.5 billion as net income, 21.6% of theirs. It kept 13.5% of what it sold; all the companies together, 11.8%.
+**How large is Finance, Insurance, and Real Estate among the S&P 500?** Its 91 companies with a revenue and a net income for FY2025 sold $3.33 trillion, 19% of the sales of all the 500's, and kept $448.1 billion as net income, 21.6% of theirs. It kept 13.5% of what it sold; all the companies together, 11.8%.
 
 ## Growth
 
-**How has Finance, Insurance, and Real Estate grown?** Its 71 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 89.7% more in FY2025 than in FY2015, 6.6% a year, and their net income went from $178.9 billion to $378.5 billion; all the 500's such companies sold 81.8% more, and earned 154.2% more.
+**How has Finance, Insurance, and Real Estate grown?** Its 71 companies with a revenue and a net income in every year from FY2015 to FY2025 sold 89.7% more in FY2025 than in FY2015, 6.6% a year, and their net income went from $178.9 billion to $378.5 billion; all the 500's such companies sold 81.9% more, and earned 154.2% more.
 
 The rise in revenue since FY2015, each year, in percent: the sector's 71 companies with a revenue and a net income in every year, and all the S&P 500's such companies.
 
@@ -20,7 +20,7 @@ The rise in revenue since FY2015, each year, in percent: the sector's 71 compani
 > |  | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Finance, Insurance, and Real Estate | 0 | 6.1 | 11.8 | 14.1 | 21.1 | 25.7 | 41.9 | 47.6 | 62.1 | 74.9 | 89.7 |
-> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.8 |
+> | All companies | 0 | 2.1 | 8.4 | 17 | 21.4 | 19.8 | 40.9 | 56.4 | 61 | 69.8 | 81.9 |
 > - Unit: percent
 
 ## Compared
@@ -123,7 +123,7 @@ Each company by its ticker, the largest by its revenue in FY2025 first: its net 
 > | REG |  |  | 18.2 | 22.2 | 21.1 | 4.4 | 31 | 39.4 | 27.6 | 27.5 | 34 | 1.6 |  |
 > | FRT | 28.3 | 31.2 | 33.8 | 26.4 | 37.8 | 15.8 | 27.5 | 35.9 | 20.9 | 24.6 | 32.1 | 1.3 | 71.9 |
 > | TPL |  |  |  | 69.9 | 65 | 58.2 | 59.9 | 66.9 | 64.2 | 64.3 | 60.3 | 0.8 |  |
-> | CPT |  | 93.5 | 2402.4 | 2159.1 | 2525.6 | 1147.3 | 2885.6 | 12598.6 | 11686.7 | 2288 | 2964.9 | 0 |  |
+> | CPT |  | 93.5 | 21.8 | 16.4 |  |  |  |  |  |  |  |  |  |
 > | FITB |  | 277.2 | 393.5 | 399.5 | 444.6 | 255.3 | 461.7 | 415.3 | 407.1 |  |  |  |  |
 > | MTB | 23.1 | 24.8 | 25 | 32.4 | 31.2 | 22.7 | 31 | 24.4 | 28.4 |  |  |  |  |
 > | VMRK | 31.7 | 176.9 | 24.4 | 25.5 | 35.9 |  |  |  |  |  |  |  |  |

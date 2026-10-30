@@ -13,9 +13,9 @@
 
 METLIFE INC, as it files with the SEC (CIK 0001099219): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is METLIFE INC, and how has it grown?** It sold $77.1 billion in FY2025, the 51st most of the 487 companies with a revenue for the year, and the 12th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 25.7% from FY2015 to FY2025, 2.3% a year.
+**How large is METLIFE INC, and how has it grown?** It sold $77.1 billion in FY2025, the 51st most of the 486 companies with a revenue for the year, and the 12th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 25.7% from FY2015 to FY2025, 2.3% a year.
 
-**Does METLIFE INC make money, and how much of what it sells does it keep?** It earned $3.4 billion in FY2025, 4.4% of what it sold; the median company of its sector kept 19.2%. It lost money in 1 of its 19 years in the book (FY2009).
+**Does METLIFE INC make money, and how much of what it sells does it keep?** It earned $3.4 billion in FY2025, 4.4% of what it sold; the median company of its sector kept 18.9%. It lost money in 1 of its 19 years in the book (FY2009).
 
 **Where does METLIFE INC's cash go?** From FY2016 to FY2025 its operations brought in $135.0 billion; it spent 0% of that on plant and equipment, and 20.4% on buying back its own shares.
 
@@ -169,7 +169,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001099219/Revenue tag/FY2026 | FY2026 | Revenue tag | instrument | | 77084 |  |  | | | | | millions | | | | | | Revenue tag, FY2026 |  |
 | 0001099219/Operating cash flow over revenue/FY2020/2 | FY2020 | Operating cash flow over revenue | observed | bend | 21.9 | 17.1 | -4.8 | 0.33 | 0.98 | 9.4 | 0.7 | percent of revenue | 15.1 | 9.3 | 2 | lone | 94 |  |  |
-| 0001099219/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | -0.4 | -1.5 | -1.1 | -0.68 | 2.07 | 28.8 | 7.3 | percent a year | 11.4 | 6.3 | 2 | lone | 94 |  |  |
+| 0001099219/Revenue growth/FY2021/2 | FY2021 | Revenue growth | observed | bend | -0.4 | -1.5 | -1.1 | -0.68 | 2.07 | 28.8 | 7.3 | percent a year | 11.5 | 6.3 | 2 | lone | 94 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -358,4 +358,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:Revenues
 - Now: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax
 - Crosswalk: FY2018 under both: 67941000000 and 1256000000; the new tag's figure is under half or over twice the old, so it is not the same line renamed: the line stays on us-gaap:Revenues for every year it is filed, and the new tag is here at the boundary only
+- Source: SEC EDGAR companyfacts
+
+### Change: METLIFE INC, Restatement, Net income, FY2022
+
+- CIK: 0001099219
+- What: Net income restatement
+- Boundary: FY2022
+- Was: Net income FY2021: 6855 (10-K filed 2024-02-16, itself restated)
+- Now: Net income FY2022 as last filed: FY2022 5284
+- Crosswalk: FY2022: 2539 first filed (10-K, 2023-02-23), 5284 last filed (10-K, 2025-02-21). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2022. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

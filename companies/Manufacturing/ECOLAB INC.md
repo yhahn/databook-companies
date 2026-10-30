@@ -13,7 +13,7 @@
 
 ECOLAB INC., as it files with the SEC (CIK 0000031462): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is ECOLAB INC., and how has it grown?** It sold $16.1 billion in FY2025, the 226th most of the 487 companies with a revenue for the year, and the 90th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 18.7% from FY2015 to FY2025, 1.7% a year.
+**How large is ECOLAB INC., and how has it grown?** It sold $16.1 billion in FY2025, the 226th most of the 486 companies with a revenue for the year, and the 90th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 18.7% from FY2015 to FY2025, 1.7% a year.
 
 **Does ECOLAB INC. make money, and how much of what it sells does it keep?** It earned $2.1 billion in FY2025, 12.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 19 years in the book (FY2020).
 
@@ -208,7 +208,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000031462/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 13153 | 11531 | -1622 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x1.20) |  |
 | 0000031462/Net income tag/FY2021 | FY2021 | Net income tag | instrument | | -1186 | 1130 | 2315 | | | | | millions | | | | | | Net income tag, FY2021 |  |
 | 0000031462/Net margin/FY2011/2 | FY2011 | Net margin | observed | level and bend | 8.1 | 5.7 | -2.4 | 0.25 | 0.88 | 1.6 | 2.3 | percent of revenue | 8.6 | 6.3 | 2 | lone | 201 | Net income tag, FY2011 |  |
-| 0000031462/Revenue growth/FY2018/2 | FY2018 | Revenue growth | observed | bend | 0.7 | 3.6 | 2.9 | -2.00 | 0.22 | 48.7 | 11.2 | percent a year | 18.3 | 8.4 | 2 | lone | 201 | Revenue tag, FY2017 (the two tags' figures differ, x1.20) |  |
+| 0000031462/Revenue growth/FY2018/2 | FY2018 | Revenue growth | observed | bend | 0.7 | 3.6 | 2.9 | -2.00 | 0.22 | 48.7 | 11.2 | percent a year | 18.4 | 8.4 | 2 | lone | 201 | Revenue tag, FY2017 (the two tags' figures differ, x1.20) |  |
 | 0000031462/Net margin/FY2020 | FY2020 | Net margin | observed | level and bend | 12.8 | -2.3 | -15.1 | 0.88 | 3.71 | 2.3 | 11.4 | percent of revenue | 16.4 | 7.2 | 1 | lone | 201 | Net income tag, FY2021 |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.

@@ -13,7 +13,7 @@
 
 CIENA CORP, as it files with the SEC (CIK 0000936395): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q3). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is CIENA CORP, and how has it grown?** It sold $4.8 billion in FY2025, the 410th most of the 487 companies with a revenue for the year, and the 170th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 95% from FY2015 to FY2025, 6.9% a year.
+**How large is CIENA CORP, and how has it grown?** It sold $4.8 billion in FY2025, the 411th most of the 486 companies with a revenue for the year, and the 170th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 95% from FY2015 to FY2025, 6.9% a year.
 
 **Does CIENA CORP make money, and how much of what it sells does it keep?** It earned $123 million in FY2025, 2.6% of what it sold; the median company of its sector kept 11.8%. It lost money in 7 of its 18 years in the book (FY2009, FY2010, FY2011 and 4 more).
 
@@ -207,7 +207,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0000936395/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 2601 | 2802 | 201 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
 | 0000936395/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 21.0 | 5.0 | -16.0 | 3.98 | -0.86 | 48.9 | 3.1 | percent of revenue | 6.8 | 6.1 | 2 | lone | 201 |  |  |
 | 0000936395/Operating margin/FY2022/2 | FY2022 | Operating margin | observed | bend | 21.2 | 7.1 | -14.1 | 3.94 | -1.00 | 42.0 | 3.4 | percent of revenue | 52.3 | 8.7 | 2 | shared | 201 |  |  |
-| 0000936395/Operating cash flow over revenue/FY2022/2 | FY2022 | Operating cash flow over revenue | observed | level and bend | 13.9 | -3.8 | -17.7 | 1.26 | 7.35 | 14.9 | 3.5 | percent of revenue | 29.6 | 7.9 | 2 | shared | 201 |  |  |
+| 0000936395/Operating cash flow over revenue/FY2022/2 | FY2022 | Operating cash flow over revenue | observed | level and bend | 13.9 | -3.8 | -17.7 | 1.26 | 7.35 | 14.9 | 3.5 | percent of revenue | 29.5 | 7.9 | 2 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

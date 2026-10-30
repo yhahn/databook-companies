@@ -13,7 +13,7 @@
 
 SYSCO CORP, as it files with the SEC (CIK 0000096021): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026. Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is SYSCO CORP, and how has it grown?** It sold $81.4 billion in FY2025, the 49th most of the 487 companies with a revenue for the year, and the 4th of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 47% from FY2017 to FY2025, 4.9% a year.
+**How large is SYSCO CORP, and how has it grown?** It sold $81.4 billion in FY2025, the 49th most of the 486 companies with a revenue for the year, and the 4th of 10 in [Wholesale Trade](../Wholesale%20Trade.md). Its sales rose 47% from FY2017 to FY2025, 4.9% a year.
 
 **Does SYSCO CORP make money, and how much of what it sells does it keep?** It earned $1.8 billion in FY2025, 2.2% of what it sold; the median company of its sector kept 2.6%. It lost money in none of its 11 years in the book.
 
@@ -208,12 +208,12 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000096021/Net income gap/FY2012 | FY2012 | Net income gap | instrument | | 1152 |  |  | | | | | millions | | | | | | none |  |
-| 0000096021/Revenue gap/FY2012 | FY2012 | Revenue gap | instrument | | 39323 |  |  | | | | | millions | | | | | | none |  |
+| 0000096021/Net income gap/FY2012 | FY2012 | Net income gap | instrument | | 1152 |  |  | | | | | millions | | | | | | Net income gap, FY2012 |  |
+| 0000096021/Revenue gap/FY2012 | FY2012 | Revenue gap | instrument | | 39323 |  |  | | | | | millions | | | | | | Revenue gap, FY2012 |  |
 | 0000096021/Operating cash flow tag/FY2013 | FY2013 | Operating cash flow tag | instrument | | 1404 | 1512 | 107 | | | | | millions | | | | | | Operating cash flow tag, FY2013 |  |
 | 0000096021/Operating cash flow tag/FY2016 | FY2016 | Operating cash flow tag | instrument | | 1555 | 1988 | 433 | | | | | millions | | | | | | Operating cash flow tag, FY2016 |  |
 | 0000096021/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 39323 | 55371 | 16048 | | | | | millions | | | | | | Revenue tag, FY2017 |  |
-| 0000096021/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | -7.9 | 27.8 | 35.7 | -4.16 | -9.97 | 13.7 | 15.7 | percent a year | 23.1 | 7.8 | 1 | lone | 9 |  |  |
+| 0000096021/Revenue growth/FY2022 | FY2022 | Revenue growth | observed | level and bend | -7.9 | 27.8 | 35.7 | -4.16 | -9.97 | 13.7 | 15.7 | percent a year | 23.0 | 7.7 | 1 | lone | 9 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -479,4 +479,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2016 under both: 1933142000 and 1988347000
+- Source: SEC EDGAR companyfacts
+
+### Change: SYSCO CORP, Gap, Revenue, FY2012 to FY2016
+
+- CIK: 0000096021
+- What: Revenue gap
+- Boundary: FY2012
+- Was: Revenue FY2011: 39323.489
+- Now: no figure for FY2012 to FY2016; FY2017: 55371.139
+- Crosswalk: FY2012 to FY2016: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
+- Source: SEC EDGAR companyfacts
+
+### Change: SYSCO CORP, Gap, Net income, FY2012 to FY2019
+
+- CIK: 0000096021
+- What: Net income gap
+- Boundary: FY2012
+- Was: Net income FY2011: 1152.03
+- Now: no figure for FY2012 to FY2019; FY2020: 215.475
+- Crosswalk: FY2012: no annual figure under any tag read; periods of 3 months are filed; FY2013 to FY2019: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:NetIncomeLoss, us-gaap:ProfitLoss
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 Archer-Daniels-Midland Co, as it files with the SEC (CIK 0000007084): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Archer-Daniels-Midland Co, and how has it grown?** It sold $80.3 billion in FY2025, the 50th most of the 487 companies with a revenue for the year, and the 17th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 18.6% from FY2015 to FY2025, 1.7% a year.
+**How large is Archer-Daniels-Midland Co, and how has it grown?** It sold $80.3 billion in FY2025, the 50th most of the 486 companies with a revenue for the year, and the 17th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 18.6% from FY2015 to FY2025, 1.7% a year.
 
 **Does Archer-Daniels-Midland Co make money, and how much of what it sells does it keep?** It earned $1.1 billion in FY2025, 1.3% of what it sold; the median company of its sector kept 11.8%. It lost money in none of its 18 years in the book.
 
@@ -196,7 +196,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0000007084/Fiscal year end/FY2012 | FY2012 | Fiscal year end | instrument | | 181 | 366 | 185 | | | | | day of year | | | | | | Fiscal year end, FY2011 to FY2012 |  |
 | 0000007084/Revenue tag/FY2026 | FY2026 | Revenue tag | instrument | | 80269 |  |  | | | | | millions | | | | | | Revenue tag, FY2026 |  |
-| 0000007084/Operating cash flow over revenue/FY2021/2 | FY2021 | Operating cash flow over revenue | observed | level | -7.1 | 5.6 | 12.7 | -0.95 | -0.21 | 11.0 | 4.5 | percent of revenue | 17.5 | 11.1 | 2 | shared | 201 | Revenue tag kept, FY2022 (the two tags' figures differ, x3.68) |  |
+| 0000007084/Operating cash flow over revenue/FY2021/2 | FY2021 | Operating cash flow over revenue | observed | level | -7.1 | 5.6 | 12.7 | -0.95 | -0.21 | 11.0 | 4.5 | percent of revenue | 17.7 | 11.1 | 2 | shared | 201 | Revenue tag kept, FY2022 (the two tags' figures differ, x3.68) |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 
@@ -360,4 +360,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: FY2011 ended 2011-06-30
 - Now: FY2012 ended 2012-12-31
 - Crosswalk: the transition period 2011-07-01 to 2011-12-31, filed apart (us-gaap:Revenues 45208000000)
+- Source: SEC EDGAR companyfacts
+
+### Change: Archer-Daniels-Midland Co, Restatement, Operating cash flow, FY2016 to FY2017
+
+- CIK: 0000007084
+- What: Operating cash flow restatement
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 1705 (10-K filed 2018-02-16, itself restated)
+- Now: Operating cash flow FY2016 to FY2017 as last filed: FY2016 -6508, FY2017 -5966
+- Crosswalk: FY2016: 1475 first filed (10-K, 2017-02-17), -6508 last filed (10-K, 2019-02-19); FY2017: 2211 first filed (10-K, 2018-02-16), -5966 last filed (10-K, 2020-02-18). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

@@ -13,7 +13,7 @@
 
 FIRSTENERGY CORP, as it files with the SEC (CIK 0001031296): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is FIRSTENERGY CORP, and how has it grown?** It sold $15.1 billion in FY2025, the 238th most of the 487 companies with a revenue for the year, and the 34th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 0.4% from FY2015 to FY2025, 0% a year.
+**How large is FIRSTENERGY CORP, and how has it grown?** It sold $15.1 billion in FY2025, the 238th most of the 486 companies with a revenue for the year, and the 34th of 59 in [Transportation, Communications, Electric, Gas, and Sanitary Services](../Transportation,%20Communications,%20Electric,%20Gas,%20and%20Sanitary%20Services.md). Its sales rose 0.4% from FY2015 to FY2025, 0% a year.
 
 **Does FIRSTENERGY CORP make money, and how much of what it sells does it keep?** It earned $1.0 billion in FY2025, 6.8% of what it sold; the median company of its sector kept 12.9%. It lost money in 2 of its 19 years in the book (FY2016, FY2017).
 
@@ -444,4 +444,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2015 under both: 3447000000 and 3460000000
+- Source: SEC EDGAR companyfacts
+
+### Change: FIRSTENERGY CORP, Restatement, Operating income, FY2016 to FY2017
+
+- CIK: 0001031296
+- What: Operating income restatement
+- Boundary: FY2016
+- Was: Operating income FY2015: 2292 (10-K filed 2018-02-20, as first filed)
+- Now: Operating income FY2016 to FY2017 as last filed: FY2016 2054, FY2017 2428
+- Crosswalk: FY2016: -8262 first filed (10-K, 2017-02-21), 2054 last filed (10-K, 2019-02-19); FY2017: 172 first filed (10-K, 2018-02-20), 2428 last filed (10-K/A, 2020-11-19). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

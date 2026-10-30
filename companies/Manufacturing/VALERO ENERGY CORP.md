@@ -13,7 +13,7 @@
 
 VALERO ENERGY CORP, as it files with the SEC (CIK 0001035002): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is VALERO ENERGY CORP, and how has it grown?** It sold $122.7 billion in FY2025, the 31st most of the 487 companies with a revenue for the year, and the 9th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 62.2% from FY2016 to FY2025, 5.5% a year.
+**How large is VALERO ENERGY CORP, and how has it grown?** It sold $122.7 billion in FY2025, the 31st most of the 486 companies with a revenue for the year, and the 9th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 62.2% from FY2016 to FY2025, 5.5% a year.
 
 **Does VALERO ENERGY CORP make money, and how much of what it sells does it keep?** It earned $2.3 billion in FY2025, 1.9% of what it sold; the median company of its sector kept 11.8%. It lost money in 1 of its 10 years in the book (FY2020).
 
@@ -131,7 +131,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 0001035002/Capex tag/FY2013 | FY2013 | Capex tag | instrument | |  |  |  | | | | | millions | | | | | | Capex tag, FY2013 (the two tags' figures differ, x1.30) |  |
 | 0001035002/Capex tag/FY2018 | FY2018 | Capex tag | instrument | | -1353 | -3376 | -2023 | | | | | millions | | | | | | Capex tag, FY2018 |  |
-| 0001035002/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | -0.4 | 6.8 | 7.2 | -0.89 | -1.78 | 3.4 | 2.3 | percent of revenue | 17.6 | 12.5 | 1 | shared | 201 |  |  |
+| 0001035002/Net margin/FY2022 | FY2022 | Net margin | observed | level and bend | -0.4 | 6.8 | 7.2 | -0.89 | -1.78 | 3.4 | 2.3 | percent of revenue | 17.5 | 12.5 | 1 | shared | 201 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
 

@@ -13,7 +13,7 @@
 
 Vertiv Holdings Co, as it files with the SEC (CIK 0001674101): its fiscal years and quarters from its XBRL filings, FY2017 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Vertiv Holdings Co, and how has it grown?** It sold $10.2 billion in FY2025, the 299th most of the 487 companies with a revenue for the year, and the 118th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 130.9% from FY2019 to FY2025, 15% a year.
+**How large is Vertiv Holdings Co, and how has it grown?** It sold $10.2 billion in FY2025, the 299th most of the 486 companies with a revenue for the year, and the 118th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 130.9% from FY2019 to FY2025, 15% a year.
 
 **Does Vertiv Holdings Co make money, and how much of what it sells does it keep?** It earned $1.3 billion in FY2025, 13% of what it sold; the median company of its sector kept 11.8%. It lost money in 4 of its 9 years in the book (FY2017, FY2018, FY2019, FY2020).
 
@@ -259,4 +259,24 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:ProfitLoss
 - Now: us-gaap:NetIncomeLoss
 - Crosswalk: FY2017 under both: -1276 and -1276
+- Source: SEC EDGAR companyfacts
+
+### Change: Vertiv Holdings Co, Restatement, Net income, FY2018 to FY2019
+
+- CIK: 0001674101
+- What: Net income restatement
+- Boundary: FY2018
+- Was: Net income FY2017: -0.0013 (10-K filed 2020-03-12, as first filed)
+- Now: Net income FY2018 to FY2019 as last filed: FY2018 -314, FY2019 -140.8
+- Crosswalk: FY2018: 5.0307 first filed (10-K, 2019-03-13), -314 last filed (10-K/A, 2021-04-30); FY2019: 4.3898 first filed (10-K, 2020-03-12), -140.8 last filed (10-K, 2022-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2018. The card takes the last filed. Whether the basis is the better is not decided here
+- Source: SEC EDGAR companyfacts
+
+### Change: Vertiv Holdings Co, Restatement, Operating cash flow, FY2018 to FY2019
+
+- CIK: 0001674101
+- What: Operating cash flow restatement
+- Boundary: FY2018
+- Was: none: Operating cash flow has no figure before FY2018
+- Now: Operating cash flow FY2018 to FY2019 as last filed: FY2018 -221.9, FY2019 57.5
+- Crosswalk: FY2018: -0.7104 first filed (10-K, 2019-03-13), -221.9 last filed (10-K/A, 2021-04-30); FY2019: 9.7233 first filed (10-K, 2020-03-12), 57.5 last filed (10-K, 2022-03-01). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2018. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

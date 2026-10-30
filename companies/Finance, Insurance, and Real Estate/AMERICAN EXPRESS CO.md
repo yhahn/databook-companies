@@ -13,9 +13,9 @@
 
 AMERICAN EXPRESS CO, as it files with the SEC (CIK 0000004962): its fiscal years and quarters from its XBRL filings, FY2008 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is AMERICAN EXPRESS CO, and how has it grown?** It sold $41.3 billion in FY2025, the 94th most of the 487 companies with a revenue for the year, and the 20th of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 25.9% from FY2015 to FY2025, 2.3% a year.
+**How large is AMERICAN EXPRESS CO, and how has it grown?** It sold $41.3 billion in FY2025, the 94th most of the 486 companies with a revenue for the year, and the 20th of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 25.9% from FY2015 to FY2025, 2.3% a year.
 
-**Does AMERICAN EXPRESS CO make money, and how much of what it sells does it keep?** It earned $10.8 billion in FY2025, 26.2% of what it sold; the median company of its sector kept 19.2%. It lost money in none of its 18 years in the book.
+**Does AMERICAN EXPRESS CO make money, and how much of what it sells does it keep?** It earned $10.8 billion in FY2025, 26.2% of what it sold; the median company of its sector kept 18.9%. It lost money in none of its 18 years in the book.
 
 **Where does AMERICAN EXPRESS CO's cash go?** From FY2016 to FY2025 its operations brought in $136.7 billion; it spent 11.8% of that on plant and equipment, and 27.8% on buying back its own shares.
 
@@ -168,7 +168,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 
 | Key | Period | Series | Kind | Shape | From | To | Change | Slope before | Slope after | Band before | Band after | Unit | Gain | Threshold | Break | Shared | Peers | Change record | Annotation |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0000004962/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 27819 |  |  | | | | | millions | | | | | | none |  |
+| 0000004962/Revenue gap/FY2011 | FY2011 | Revenue gap | instrument | | 27819 |  |  | | | | | millions | | | | | | Revenue gap, FY2011 |  |
 | 0000004962/Operating cash flow tag/FY2012 | FY2012 | Operating cash flow tag | instrument | | 10475 | 7082 | -3393 | | | | | millions | | | | | | Operating cash flow tag, FY2012 |  |
 | 0000004962/Revenue tag/FY2015 | FY2015 | Revenue tag | instrument | | 27819 | 32818 | 4999 | | | | | millions | | | | | | Revenue tag, FY2015 |  |
 | 0000004962/Revenue tag/FY2017 | FY2017 | Revenue tag | instrument | | 35438 | 24780 | -10658 | | | | | millions | | | | | | Revenue tag, FY2017 (the two tags' figures differ, x1.49) |  |
@@ -306,4 +306,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
 - Now: us-gaap:NetCashProvidedByUsedInOperatingActivities
 - Crosswalk: FY2018 under both: 8930000000 and 8930000000
+- Source: SEC EDGAR companyfacts
+
+### Change: AMERICAN EXPRESS CO, Gap, Revenue, FY2011 to FY2014
+
+- CIK: 0000004962
+- What: Revenue gap
+- Boundary: FY2011
+- Was: Revenue FY2010: 27819
+- Now: no figure for FY2011 to FY2014; FY2015: 32818
+- Crosswalk: FY2011 to FY2014: no annual figure under any tag read. Nothing is filled across the gap. Tags read: us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax, us-gaap:Revenues, us-gaap:RevenuesNetOfInterestExpense, us-gaap:SalesRevenueNet
 - Source: SEC EDGAR companyfacts

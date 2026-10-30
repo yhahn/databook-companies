@@ -13,7 +13,7 @@
 
 Bloom Energy Corp, as it files with the SEC (CIK 0001664703): its fiscal years and quarters from its XBRL filings, FY2016 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Bloom Energy Corp, and how has it grown?** It sold $2.0 billion in FY2025, the 474th most of the 487 companies with a revenue for the year, and the 199th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 859.8% from FY2016 to FY2025, 28.6% a year.
+**How large is Bloom Energy Corp, and how has it grown?** It sold $2.0 billion in FY2025, the 475th most of the 486 companies with a revenue for the year, and the 199th of 202 in [Manufacturing](../Manufacturing.md). Its sales rose 859.8% from FY2016 to FY2025, 28.6% a year.
 
 **Does Bloom Energy Corp make money, and how much of what it sells does it keep?** It earned −$87 million in FY2025, −4.4% of what it sold; the median company of its sector kept 11.8%. It lost money in 10 of its 10 years in the book (FY2016, FY2017, FY2018 and 7 more).
 
@@ -274,4 +274,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:EarningsPerShareBasicAndDiluted
 - Now: us-gaap:EarningsPerShareDiluted
 - Crosswalk: FY2020 under both: -1.14 and -1.14
+- Source: SEC EDGAR companyfacts
+
+### Change: Bloom Energy Corp, Restatement, Capex, FY2017 to FY2018
+
+- CIK: 0001664703
+- What: Capex restatement
+- Boundary: FY2017
+- Was: Capex FY2016: -8.979 (10-K filed 2019-03-22, as first filed)
+- Now: Capex FY2017 to FY2018 as last filed: FY2017 -61.454, FY2018 -45.205
+- Crosswalk: FY2017: -5.14 first filed (10-K, 2019-03-22), -61.454 last filed (10-K, 2020-03-31); FY2018: -14.659 first filed (10-K, 2019-03-22), -45.205 last filed (10-K, 2021-02-26). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2017. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

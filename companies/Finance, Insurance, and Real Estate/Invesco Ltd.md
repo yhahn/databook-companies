@@ -13,9 +13,9 @@
 
 Invesco Ltd., as it files with the SEC (CIK 0000914208): its fiscal years and quarters from its XBRL filings, FY2007 to FY2026 (FY2026 through Q2). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is Invesco Ltd., and how has it grown?** It sold $6.4 billion in FY2025, the 367th most of the 487 companies with a revenue for the year, and the 61st of 92 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 24.5% from FY2015 to FY2025, 2.2% a year.
+**How large is Invesco Ltd., and how has it grown?** It sold $6.4 billion in FY2025, the 368th most of the 486 companies with a revenue for the year, and the 61st of 91 in [Finance, Insurance, and Real Estate](../Finance,%20Insurance,%20and%20Real%20Estate.md). Its sales rose 24.5% from FY2015 to FY2025, 2.2% a year.
 
-**Does Invesco Ltd. make money, and how much of what it sells does it keep?** It earned −$175 million in FY2025, −2.7% of what it sold; the median company of its sector kept 19.2%. It lost money in 2 of its 19 years in the book (FY2023, FY2025).
+**Does Invesco Ltd. make money, and how much of what it sells does it keep?** It earned −$175 million in FY2025, −2.7% of what it sold; the median company of its sector kept 18.9%. It lost money in 2 of its 19 years in the book (FY2023, FY2025).
 
 **Where does Invesco Ltd.'s cash go?** From FY2016 to FY2025 its operations brought in $10.8 billion; it spent 11.3% of that on plant and equipment, and 13% on buying back its own shares.
 
@@ -390,4 +390,14 @@ The us-gaap tag each line item was taken from, its years in runs: a line item mo
 - Was: us-gaap:NetIncomeLoss
 - Now: us-gaap:ProfitLoss
 - Crosswalk: none
+- Source: SEC EDGAR companyfacts
+
+### Change: Invesco Ltd., Restatement, Operating cash flow, FY2016
+
+- CIK: 0000914208
+- What: Operating cash flow restatement
+- Boundary: FY2016
+- Was: Operating cash flow FY2015: 1128.4 (10-K filed 2018-02-23, itself restated)
+- Now: Operating cash flow FY2016 as last filed: FY2016 654
+- Crosswalk: FY2016: 129.3 first filed (10-K, 2017-02-23), 654 last filed (10-K, 2019-02-22). A later filing states these years on another basis (under half or over twice, or of the other sign, what the first filing gave); the years before are as first filed, so the line has a seam at FY2016. The card takes the last filed. Whether the basis is the better is not decided here
 - Source: SEC EDGAR companyfacts

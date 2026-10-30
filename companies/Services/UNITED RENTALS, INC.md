@@ -13,7 +13,7 @@
 
 UNITED RENTALS, INC., as it files with the SEC (CIK 0001067701): its fiscal years and quarters from its XBRL filings, FY2009 to FY2026 (FY2026 through Q1). Dollars are in millions; EPS in dollars a share. Capex and buybacks are cash paid out, so negative. EPS diluted is as filed, a share as it was when filed; EPS adjusted is a share as it is now, each split since divided out. A quarter the filings give only as a running total is the total less the quarters before it; Q4 is the year less the first three.
 
-**How large is UNITED RENTALS, INC., and how has it grown?** It sold $16.1 billion in FY2025, the 225th most of the 487 companies with a revenue for the year, and the 27th of 75 in [Services](../Services.md). Its sales rose 176.8% from FY2015 to FY2025, 10.7% a year.
+**How large is UNITED RENTALS, INC., and how has it grown?** It sold $16.1 billion in FY2025, the 225th most of the 486 companies with a revenue for the year, and the 27th of 75 in [Services](../Services.md). Its sales rose 176.8% from FY2015 to FY2025, 10.7% a year.
 
 **Does UNITED RENTALS, INC. make money, and how much of what it sells does it keep?** It earned $2.5 billion in FY2025, 15.5% of what it sold; the median company of its sector kept 15.8%. It lost money in 2 of its 17 years in the book (FY2009, FY2010).
 
@@ -207,7 +207,7 @@ The changes the rule found in this company's series: a row an Event, its Annotat
 | 0001067701/Capex tag/FY2021 | FY2021 | Capex tag | instrument | | -197 | -3198 | -3001 | | | | | millions | | | | | | Capex tag, FY2021 |  |
 | 0001067701/Revenue tag/FY2026 | FY2026 | Revenue tag | instrument | | 16099 |  |  | | | | | millions | | | | | | Revenue tag, FY2026 |  |
 | 0001067701/Operating margin/FY2016 | FY2016 | Operating margin | observed | level and bend | 27.4 | 24.0 | -3.4 | 3.63 | -0.33 | 3.4 | 2.4 | percent of revenue | 34.5 | 22.7 | 1 | lone | 74 | Revenue tag, FY2015; Revenue tag, FY2016 |  |
-| 0001067701/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 16.9 | 18.0 | 1.1 | 1.40 | -0.79 | 7.3 | 0.7 | percent of revenue | 14.0 | 13.2 | 2 | lone | 74 |  |  |
+| 0001067701/Net margin/FY2022/2 | FY2022 | Net margin | observed | bend | 16.9 | 18.0 | 1.1 | 1.40 | -0.79 | 7.3 | 0.7 | percent of revenue | 14.1 | 13.2 | 2 | lone | 74 |  |  |
 | 0001067701/Operating margin/FY2022/2 | FY2022 | Operating margin | observed | level and bend | 22.3 | 27.8 | 5.5 | -0.33 | -0.95 | 2.4 | 0.9 | percent of revenue | 17.9 | 14.0 | 2 | lone | 74 |  |  |
 
 These are changes in the data, found by a rule (METHOD.md). They are not explained here.
